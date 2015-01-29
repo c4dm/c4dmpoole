@@ -202,7 +202,7 @@ active: false
 
 
 
-  <h1>{{ hx(page["title"]) }}</h1>
+  <h1>{{ ['<img src="images/penlogo.png" alt="Centre for Digital Music" class="c4dmbiglogo" />', hx(page["title"])][page["title"]!='home'] }}</h1>
 
 
 
