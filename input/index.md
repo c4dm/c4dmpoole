@@ -10,18 +10,26 @@ menu-position: 0
 
 The Centre for Digital Music is a world-leading multidisciplinary research group in the field of Music & Audio Technology. Since its founding members joined Queen Mary in 2001, the Centre has grown to become arguably the UK’s leading Digital Music research group.
 
+<a class="twitter-timeline" href="https://twitter.com/c4dm" data-widget-id="561100972731015168">Tweets by @c4dm</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 <img src="images/preamps_IMG_3949_0227.jpg" style="width: 30%; float: right; clear: both;" />
+
+
+
+
+
 
 Research themes:
 
-* Audio Engineering
-* Interactional Sound & Music
-* Machine Listening
-* Music Informatics
-* Music Cognition 
-* Music Performance & Expression
+* [Audio Engineering](#)
+* [Interactional Sound & Music](#)
+* [Machine Listening](#)
+* [Music Informatics](#)
+* [Music Cognition](#)
+* [Music Performance & Expression](#)
 
-<img src="images/c4dm_grp_201112_thumb.jpg" style="width:80%; float: none; display: block;" />
+<img src="images/c4dm_grp_201112_thumb.jpg" style="width:60%; float: none; display: block; margin: 0px; padding: 0px; clear: none;" />
+
 
 
 The C4DM is a research group of the QMUL [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/).
