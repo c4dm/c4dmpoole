@@ -22,6 +22,7 @@ The Centre for Digital Music is a world-leading multidisciplinary research group
 Research themes:
 
 * [Audio Engineering](#)
+* [Augmented Instruments](#)
 * [Interactional Sound & Music](#)
 * [Machine Listening](#)
 * [Music Informatics](#)
