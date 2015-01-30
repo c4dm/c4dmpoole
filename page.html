@@ -131,39 +131,15 @@ active: false
 
 
 	<ul>
-		<li><a href="http://www.eecs.qmul.ac.uk/research">All Research Groups</a></li>
-					<li><a href="http://www.eecs.qmul.ac.uk/research/c4dm" class="active">About</a></li>
-		
-		
-
-		<li><a href="http://www.eecs.qmul.ac.uk/research/projects/c4dm">Projects</a></li>
-
-
-		 
-	  		
-							<li><a href="http://www.eecs.qmul.ac.uk/research/news/c4dm">News</a></li>
-						
-		 
-		 
-		 
-	  		
-							<li><a href="http://www.eecs.qmul.ac.uk/research/events/c4dm">Events</a></li>
-					 
-		 
-		 
-	         
-			 
-									<li><a href="http://www.eecs.qmul.ac.uk/research/people/c4dm">People</a></li>
-								
-			 
-			 
-		 		
-		<li><a href="http://www.eecs.qmul.ac.uk/facilities">Facilities</a></li>
-		
-		
-
+		<li><a href="/index.html">C4DM home</a></li>
+		<li><a href="/index.html">People</a></li>
+		<li><a href="/index.html">Publications</a></li>
+		<li><a href="/index.html">Study with us</a></li>
+		<li><a href="/index.html">Software &amp; data</a></li>
+		<li><a href="/index.html">Patents</a></li>
 	</ul>
 
+<img src="images/ae_samer_musiclab.jpg" width="100%" style="margin: 0px; float: none;" />
 
 </nav>
 
@@ -181,7 +157,7 @@ active: false
 
 
 
-  <h1>{{ ['<img src="images/penlogo.png" alt="Centre for Digital Music" class="c4dmbiglogo" />', hx(page["title"])][page["title"]!='home'] }}</h1>
+{{ ['<h1>' + hx(page["title"]) + '</h1>', ''][page["title"]=='home'] }}
 
 
 
@@ -246,6 +222,7 @@ active: false
 
 			<div id="footerLinks">
 				<p>
+				Centre for Digital Music,<br/>
 				School of Electronic Engineering and Computer Science,<br/>
 				Queen Mary University of London<br />
 				Mile End Road<br />
