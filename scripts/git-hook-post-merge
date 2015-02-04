@@ -1,0 +1,14 @@
+#!/bin/sh
+
+SCRIPT=$(readlink -f "$0")
+SCRIPTPATH=$(dirname "$SCRIPT")
+POOLE=${SCRIPTPATH}/../lib/poole/poole.py
+
+if $POOLE --build --dry-run
+then
+	$POOLE --build
+	echo "git-hook-post-merge completed."
+else
+	echo "git-hook-post-merge failed."
+fi
+
