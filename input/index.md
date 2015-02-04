@@ -10,7 +10,7 @@ menu-position: 0
 
 The Centre for Digital Music is a world-leading multidisciplinary research group in the field of Music & Audio Technology. Since its founding members joined Queen Mary in 2001, the Centre has grown to become arguably the UK’s leading Digital Music research group.
 
-<a class="twitter-timeline" href="https://twitter.com/c4dm" data-widget-id="561187870955040769" data-chrome="nofooter" width="300" height="900">Tweets by @c4dm</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+{{ twitter() }}
 
 <!-- <img src="images/preamps_IMG_3949_0227.jpg" style="width: 30%; max-width:250px; float: right; clear: both;" alt="Photo of research equipment" /> -->
 
