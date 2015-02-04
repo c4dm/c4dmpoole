@@ -1,6 +1,4 @@
-
-title: home
-menu-position: 0
+title: Home
 ---
 
 <div><img src="images/wide_IMG_3972_0250.jpg" style="width: 40%; max-width:250px; float: right; margin: 0px; padding: 0px; margin-left: 10px;" alt="Photo of researchers" /></div>
