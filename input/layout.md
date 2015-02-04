@@ -1,5 +1,4 @@
 
-
 menu-position: 3
 ---
 Every page of a poole site is based on *one global template file*, `page.html`.
