@@ -10,13 +10,6 @@ The Centre for Digital Music is a world-leading multidisciplinary research group
 
 {{ twitter() }}
 
-<!-- <img src="images/preamps_IMG_3949_0227.jpg" style="width: 30%; max-width:250px; float: right; clear: both;" alt="Photo of research equipment" /> -->
-
-
-
-
-
-
 Research themes:
 
 * [Audio Engineering](#)
