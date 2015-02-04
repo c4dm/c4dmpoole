@@ -3,11 +3,7 @@
 ---
 ## {{ page["post"] }}
 
-*Posted at
-<!--%
-from datetime import datetime
-print datetime.strptime(page["date"], "%Y-%m-%d").strftime("%B %d, %Y")
-%-->*
+*Posted at <!--{ page["date"] }-->.*
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed pretium arcu.
 Nullam eu leo ut justo egestas condimentum sed id dolor. In suscipit est eu
@@ -24,5 +20,5 @@ urna. Cras sit amet sodales orci. In at lacus dui. Duis mi neque, posuere ut
 congue non, ornare a magna. Fusce massa ligula, vestibulum sed vulputate quis,
 sodales at massa.
 
-No-ASCII characters like `öäüß` are no problems as long as input files are
+Non-ASCII characters like `öäüß` are no problems as long as input files are
 encoded in UTF8.
