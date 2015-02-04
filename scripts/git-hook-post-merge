@@ -7,8 +7,12 @@ POOLE=${SCRIPTPATH}/../lib/poole/poole.py
 if $POOLE --build --dry-run
 then
 	$POOLE --build
+	RETVAL=$?
 	echo "git-hook-post-merge completed."
 else
+	RETVAL=$?
 	echo "git-hook-post-merge failed."
 fi
+
+return $RETVAL
 
