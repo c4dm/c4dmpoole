@@ -1,3 +1,5 @@
+{{ twitter() }}
+
 Poole has basic blog support. If an input page's file name has a structure like
 `page-title.YYYY-MM-DD.post-title.md`, e.g. `news.2010-02-27.read_this.md`,
 Poole recognizes the date and post title and sets them as attributes of the
