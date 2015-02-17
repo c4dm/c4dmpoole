@@ -1,5 +1,5 @@
 Here's how I render the site:
 
-	poole.py --build --base-url /sketch/
+	./lib/poole/poole.py --build --base-url /sketch/
 
 
