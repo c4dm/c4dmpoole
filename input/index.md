@@ -12,13 +12,13 @@ The Centre for Digital Music is a world-leading multidisciplinary research group
 
 Research themes:
 
-* [Audio Engineering](#)
-* [Augmented Instruments](#)
-* [Interactional Sound & Music](#)
-* [Machine Listening](#)
-* [Music Informatics](#)
-* [Music Cognition](#)
-* [Music Performance & Expression](#)
+* [Audio Engineering](audioengineering.html)
+* [Augmented Instruments](http://www.eecs.qmul.ac.uk/~andrewm/)
+* [Interactional Sound & Music](interactional.html)
+* [Machine Listening](machinelistening.html)
+* [Music Informatics](musicinformatics.html)
+* [Music Cognition](musiccognition.html)
+* [Music Performance & Expression](http://mupae.blogspot.co.uk/)
 
 <img src="images/c4dm_grp_201112_thumb.jpg" style="width:60%; max-width:600px; float: none; display: block; margin: 0px; padding: 0px; clear: none;" alt="Thumbnail of C4DM group photo" />
 
