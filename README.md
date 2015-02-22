@@ -7,3 +7,5 @@ or
 	./lib/poole/poole.py --build
 
 
+For install info see [INSTALL.md](INSTALL.md).
+
