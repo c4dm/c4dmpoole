@@ -17,16 +17,10 @@ Empirical Aesthetics of Music: Music exists in all cultures and, in Western cult
 Psychophysics: Here, we are interested in low-level perceptual processing of acoustic features of music such as pitch, timbre, dynamics and loudness.
 
 Members
--------
-
+--------------------------
 The Music Cognition group currently includes the following members:
 
-* [Marcus Pearce](http://webprojects.eecs.qmul.ac.uk/marcusp): Group leader.
-* [Niels Chr. Hansen](http://www.eecs.qmul.ac.uk/people/view/21027): Musical expertise, uncertainty and statistical learning.
-* [Andrew Simpson](http://www.eecs.qmul.ac.uk/people/view/16854): loudness perception.
-* [Michael Terrell](http://www.eecs.qmul.ac.uk/people/view/4662): loudness perception.
-* [Sonia Wilkie](http://www.eecs.qmul.ac.uk/people/view/16489): Auditory-visual looming.
-* [Asterios Zacharakis](http://www.eecs.qmul.ac.uk/people/view/3960): timbre perception.
+{{ peoplelist({'theme_mcog':'1'}) }}
 
 [PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications. 
 

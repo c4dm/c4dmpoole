@@ -19,5 +19,9 @@ Projects in this area include:
 * Musical Audio Stream Separation
 * Sparse Object-Based Coding of Music
 
+Members
+--------------------------
+{{ peoplelist({'theme_mlist':'1'}) }}
+
 [PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications. 
 

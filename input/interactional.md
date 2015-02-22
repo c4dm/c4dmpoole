@@ -9,5 +9,10 @@ We ask questions such as: How do we design and create engaging interactive sound
 
 [For more information, please visit the ISAM group webpage](http://isam.eecs.qmul.ac.uk/)
 
+Members
+--------------------------
+{{ peoplelist({'theme_isam':'1'}) }}
+
+
 [PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications. 
 

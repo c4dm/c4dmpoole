@@ -19,3 +19,7 @@ This area is led by [Dr Simon Dixon](http://www.eecs.qmul.ac.uk/~simond/). Proje
 
 [PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications. 
 
+Members
+--------------------------
+{{ peoplelist({'theme_mir':'1'}) }}
+

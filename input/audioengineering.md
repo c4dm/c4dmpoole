@@ -36,17 +36,10 @@ We investigate methodologies of audio editing used by professional sound enginee
 The benefits of these techniques are demonstrated by developing, evaluating and deploying prototype systems for intelligent recording and sound reproduction.
 Personnel
 
-Current and recent members of the research team include the following personnel;
+Members
+--------------------------
+{{ peoplelist({'theme_audioeng':'1'}) }}
 
-* Dr. Josh Reiss - head of Audio Engineering within the Centre for Digital Music
-* David Ronan - automatic grouping of multitrack audio
-* Brecht De Man - knowledge-engineered autonomous mixing
-* Dr. Enrique Perez Gonzalez - automatic mixing
-* Dr. Martin Morrell - spatial audio tools
-* Daniele Barchiesi - targeted mixing and re-mastering
-* Dr. Alice Clifford - Reducing Artifacts Between Source and Microphone in Live Sound
-* Yonghao Wang - intelligent audio consoles
-* Dr. Asterios Zacharakis - new interfaces for timbre modification
-* Simon Hendry - Physical modeling and synthesis of sound effects libraries
-* Dr. Pedro Pestana (collaborator) - artistic and scientific basis for audio production techniques
+
+* [Dr. Pedro Pestana](http://www.stereosonic.org/phd/) (collaborator) - artistic and scientific basis for audio production techniques
 
