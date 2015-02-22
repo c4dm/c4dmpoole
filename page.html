@@ -33,12 +33,24 @@
 	height: 700px !important;
 	max-width: 75% !important;
 }
+
+table.peoplelist, table.peoplelist tr, table.peoplelist tr td {
+	border: 0px;
+	line-height: 100%;
+}
+table.peoplelist tr td:first-child {
+	width: 200px;
+}
+.pagesourcelink {
+	float: right;
+	font-size: small;
+}
 </style>
 
 <link rel="stylesheet" href="http://www.qmul.ac.uk/assets2013/css/flexslider-min.css" type="text/css">
 <script src="http://www.qmul.ac.uk/assets2013/js/flexslider-min.js"></script>
 <script type="text/javascript">
-/* DAN TMP DEAC     $(window).load(function() {$('.flexslider').flexslider();});   */
+     $(window).load(function() {$('.flexslider').flexslider();});
 </script>
 
 
@@ -175,7 +187,7 @@ active: false
 {{ __content__ }}
 
 
-
+<div class="pagesourcelink"><a href="{{ pagesourceurl() }}">pagesource</a></div>
 
 </section>
 

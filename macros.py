@@ -33,3 +33,7 @@ def publicationslist(year):
 	ret += data
 	return ret
 
+def pagesourceurl():
+	return "https://github.com/danstowell/c4dmpoole/tree/master/%s" % (str(page))
+
+
