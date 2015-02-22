@@ -24,5 +24,5 @@ Poole recognizes the date and post title and sets them as attributes of the
 page. These attributes can then be used to generate a list of posts.) -->
 
 
-C4DM MEMBERS: here's [how to contribute](news/howto.html) a news item:
+C4DM MEMBERS: here's [how to contribute](news/howto.html) a news item.
 
