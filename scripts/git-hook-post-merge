@@ -2,10 +2,11 @@
 
 SCRIPT=$(readlink -f "$0")
 SCRIPTPATH=$(dirname "$SCRIPT")
-PYTHONPATH=${SCRIPTPATH}/../lib/markdown:$PYTHONPATH
+PYTHON=/import/linux/python27/bin/python    # this config is c4dm-specific, to ensure python version 2.7
+export PYTHONPATH=${SCRIPTPATH}/../lib:$PYTHONPATH
 POOLE=${SCRIPTPATH}/../lib/poole/poole.py
 
-if $POOLE --build
+if $PYTHON $POOLE --build --base-url="http://c4dm.eecs.qmul.ac.uk/sketch/"   # TODO TODO this base-url is temporary during development
 then
 	cp -a output/* ..
 	RETVAL=$?
@@ -15,5 +16,5 @@ else
 	echo "git-hook-post-merge failed."
 fi
 
-return $RETVAL
+#return $RETVAL
 
