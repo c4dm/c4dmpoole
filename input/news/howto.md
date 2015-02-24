@@ -11,5 +11,5 @@ C4DM MEMBERS: here's how to contribute a [news](news/) item:
        `news.YYYY-MM-DD.Great_Thing_Happens.md`
        
    (with the desired date, and the desired headline such as "Great Thing Happens" in this example)
-5. This will create a "Pull Request" which one of the C4DM site maintainers will check and merge in.
+5. If you have permission you can directly save it. If not, github will create a "Pull Request" which one of the C4DM site maintainers will check and merge in.
 
