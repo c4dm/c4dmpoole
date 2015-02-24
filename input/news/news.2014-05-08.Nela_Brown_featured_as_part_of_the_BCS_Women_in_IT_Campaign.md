@@ -23,6 +23,8 @@ Nela founded G.Hack, an art and technology lab for female researchers at EECS in
 
 In June, as part of Sonar 2014 (Barcelona’s 21st International Festival of Advanced Music and New Media), G.Hack will be running a technology workshop teaching female participants from all over the world about the culture of software and hardware hacking and building cool hacks using Web Audio APIs. Nela will also be chairing a panel with inspirational women founders, leaders, researchers and advocates of cyberfeminism, hacktivism, open culture and free tech education. More about G.Hack activities can be found at: http://ghack.eecs.qmul.ac.uk.
 
+<img src="http://www.eecs.qmul.ac.uk/assets/img/uploads/news-image/Nela_Brown_WISE2013_Awards_crop.jpg" style="float:right;" />
+
 Wise Awards 2013 - Nela Brown In recognition of her work with G.Hack, WISE@QMUL and Flossie, inspiring girls and young women to enter the field of computer science, in November 2013, Nela was presented with a prestigious Highly Commended WISE Leader AWARD by the patron of WISE, HRH The Princes Royal.
 
 Nela’s blog post can be found at: www.bcs.org/itwomen interviews and blogs from the women involved in the campaign will feature daily on the site throughout May.
