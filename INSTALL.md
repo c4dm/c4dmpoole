@@ -14,7 +14,7 @@ Here's how that works:
 
            */5     *       *       *       *       cd /import/elecpublicdept/legacysites/digitalmusic/sketch/sitecontent && git pull > ~/poole-gitpull.log 2>&1
            
-* We install a *git hook* to invoke `/path/to/www/sitecontent/scripts/git-hook-post-merge so that whenever there's new content, it will render the site and copy new things into the PARENT folder. This process might seem a bit confusing but here's what happens: Poole takes the content in the `input` subfolder and processes it into `output`. Then we copy everything from `output` into the "main" site folder. This means that we can automatically overwrite refreshed files, and also it means that in case of error the site doesn't disappear, and also it means that we can maintain some big media files etc outside of Poole. We create a softlink inside the local git repository, from `.git/hooks/post-merge` to `scripts/git-hook-post-merge`.
+* We install a *git hook* to invoke `/path/to/www/sitecontent/scripts/git-hook-post-merge` so that whenever there's new content, it will render the site and copy new things into the PARENT folder. This process might seem a bit confusing but here's what happens: Poole takes the content in the `input` subfolder and processes it into `output`. Then we copy everything from `output` into the "main" site folder. This means that we can automatically overwrite refreshed files, and also it means that in case of error the site doesn't disappear, and also it means that we can maintain some big media files etc outside of Poole. We create a softlink inside the local git repository, from `.git/hooks/post-merge` to `scripts/git-hook-post-merge`.
 
 
 
