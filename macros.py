@@ -34,7 +34,7 @@ def publicationslist(year):
 	return ret
 
 def pagesourceurl():
-	#return "https://github.com/danstowell/c4dmpoole/tree/master/%s" % (str(page))
-        return "https://github.com/danstowell/c4dmpoole/edit/master/%s" % (str(page))
+	#return "https://github.com/c4dm/c4dmpoole/tree/master/%s" % (str(page))
+        return "https://github.com/c4dm/c4dmpoole/edit/master/%s" % (str(page))
 
 
