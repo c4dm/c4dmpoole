@@ -3,10 +3,9 @@ title: News How-To
 
 C4DM MEMBERS: here's how to contribute a [news](news/) item:
 
-1. Visit [https://github.com/c4dm/c4dmpoole/tree/master/input/news](https://github.com/c4dm/c4dmpoole/tree/master/input/news)
-2. Make sure you're logged in to Github
-3. Create a new file, by clicking the "+" sign next to where it says "input / news" near the top of the page
-4. Create your new file using a filename like this:
+1. Make sure you're logged in to Github
+2. Visit [https://github.com/c4dm/c4dmpoole/new/master/input/news](https://github.com/c4dm/c4dmpoole/new/master/input/news)
+3. Where it says "Name your file" use a filename like this:
 
        `news.YYYY-MM-DD.Great_Thing_Happens.md`
        
