@@ -17,8 +17,22 @@ Here's how that works:
 
 Publications
 ============
-
 The publications are stored as raw data in the "publications_bibtex" folder. We then manually update these and then we have to refresh the formatted output manually (because the c4dm server doesn't have the `bibtex2html` command installed), by running this and committing the result:
 
 TEXMFOUTPUT=/tmp cd input && for year in 2008 2009 2010 2011 2012 2013 2014; do bibtex2html -nodoc -dl -a -noabstract -nokeywords -o pubs${year}_raw publications_bibtex/pubs${year}.bib; done && cd ..
+
+
+
+Automatically updating
+======================
+The web content is stored in a remote git repository. In order to watch for updates to that repository and automatically refresh the website from them, you need to do two pieces of standard unixy configuration:
+
+First install a cron job to regularly execute a `git pull`. For example:
+
+           */5     *       *       *       *       cd /import/elecpublicdept/legacysites/digitalmusic/sketch/sitecontent && git pull > ~/poole-gitpull.log 2>&1
+
+(If you're not sure how to do this search the web for crontab tutorials.)
+
+Second, create a softlink inside the local git repository, from `.git/hooks/post-merge` to `scripts/git-hook-post-merge`.
+
 
