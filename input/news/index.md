@@ -17,12 +17,7 @@ for p in posts:
 %-->
 
 
-
-<!-- (Poole has basic blog support. If an input page's file name has a structure like
-`page-title.YYYY-MM-DD.post-title.md`, e.g. `blog.2010-02-27.read_this.md`,
-Poole recognizes the date and post title and sets them as attributes of the
-page. These attributes can then be used to generate a list of posts.) -->
-
+See also our [events listings](http://www.eecs.qmul.ac.uk/news-and-events/events/category/c4dm) for news of public seminars and other events.
 
 C4DM MEMBERS: here's [how to contribute](news/howto.html) a news item.
 
