@@ -8,6 +8,7 @@ def peoplelist(criteria=None):
 	if criteria==None:
 		criteria = {}
 	ret = "<table width='100%' class='peoplelist'>"
+	ret += "\n  <tr><th>Name</th><th>Project/interests/keywords</th></tr>"
 	with open("input/people.tsv", "r") as fp:
 		rdr = csv.DictReader(fp, delimiter='\t')
 		for x in rdr:
@@ -17,6 +18,8 @@ def peoplelist(criteria=None):
 				htmlname = "<a href='%s'>%s</a>" % (x['url'], x.get('name'))
 			else:
 				htmlname = x.get('name')
+			if x.get('acadposition', '') != '':
+				htmlname += "<br />%s" % (x.get('acadposition'))
 			ret += "\n   <tr><td>%s</td><td>%s</td></tr>" % (htmlname, x.get('blurb'))
 	ret += "</table>"
 	return ret
