@@ -34,9 +34,20 @@
 	max-width: 75% !important;
 }
 
-table.peoplelist, table.peoplelist tr, table.peoplelist tr td {
-	border: 0px;
+table.peoplelist, table.peoplelist tr, table.peoplelist tr td, table.peoplelist tr th {
+	border-collapse: collapse;
 	line-height: 100%;
+	text-align: left;
+}
+table.peoplelist, table.peoplelist tr {
+	border: none;
+}
+table.peoplelist tr td {
+	border: 1px solid rgb(230, 230, 230);
+}
+table.peoplelist tr th {
+	background-color: rgb(230, 230, 230);
+	border: 1px solid rgb(230, 230, 230);
 }
 table.peoplelist tr td:first-child {
 	width: 200px;
