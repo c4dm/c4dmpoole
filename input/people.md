@@ -19,8 +19,10 @@ Research students
 --------------------------
 {{ peoplelist({'role':'phd'}) }}
 
+
 Visiting researchers
 --------------------------
+{{ peoplelist({'role':'visitingacad'}) }}
 {{ peoplelist({'role':'visitor'}) }}
 
 
