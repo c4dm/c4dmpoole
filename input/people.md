@@ -1,6 +1,8 @@
 title: People
 -------------
 
+<!-- TO EDIT THE ACTUAL DATA PLEASE GO TO https://github.com/c4dm/c4dmpoole/blob/master/input/people.tsv -->
+
 Academic staff and fellows
 --------------------------
 {{ peoplelist({'role':'acad'}) }}
