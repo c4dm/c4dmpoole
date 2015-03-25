@@ -20,7 +20,10 @@ def peoplelist(criteria=None):
 				htmlname = x.get('name')
 			if x.get('acadposition', '') != '':
 				htmlname += "<br />%s" % (x.get('acadposition'))
-			ret += "\n   <tr><td>%s</td><td>%s</td></tr>" % (htmlname, x.get('blurb', ''))
+			blurb = x.get('blurb', '')
+			if blurb in [None, 'None', '*']:
+				blurb = ''
+			ret += "\n   <tr><td>%s</td><td>%s</td></tr>" % (htmlname, blurb)
 	ret += "</table>"
 	return ret
 
