@@ -16,7 +16,6 @@ def peoplelist(criteria=None):
 		with open(fpath, 'rb') as jsonfp:
 			aperson = json.load(jsonfp)
 			aperson['sortkey'] = aperson['name'].strip().split(' ')[-1]
-			print aperson
 			peopledata[aperson['name']] = aperson
 
 	for x in sorted(peopledata.values(), key=itemgetter('sortkey')):
