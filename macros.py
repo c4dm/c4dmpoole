@@ -14,11 +14,15 @@ def peoplelist(criteria=None):
 	peopledata = {}
 	for fpath in glob.glob("input/people_data/*.json"):
 		with open(fpath, 'rb') as jsonfp:
-			aperson = json.load(jsonfp)
-			aperson['sortkey'] = aperson['name'].strip().split(' ')[-1]
-			for atheme in aperson['themes']:
-				aperson['theme_%s' % atheme] = '1'
-			peopledata[aperson['name']] = aperson
+			try:
+				aperson = json.load(jsonfp)
+				aperson['sortkey'] = aperson['name'].strip().split(' ')[-1]
+				for atheme in aperson['themes']:
+					aperson['theme_%s' % atheme] = '1'
+				peopledata[aperson['name']] = aperson
+			except:
+				print("WARNING: error parsing file %s" % fpath)
+				pass
 
 	for x in sorted(peopledata.values(), key=itemgetter('sortkey')):
 		if any([x.get(key, '') != val for key, val in criteria.items()]):
