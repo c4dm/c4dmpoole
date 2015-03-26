@@ -1,7 +1,7 @@
 title: People
 -------------
 
-<!-- TO EDIT THE ACTUAL DATA PLEASE GO TO https://github.com/c4dm/c4dmpoole/blob/master/input/people.tsv -->
+<!-- TO EDIT THE ACTUAL DATA PLEASE GO TO https://github.com/c4dm/c4dmpoole/blob/master/input/people_data -->
 
 Academic staff and fellows
 --------------------------
