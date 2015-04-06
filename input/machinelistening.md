@@ -3,7 +3,7 @@ title: Machine Listening
 
 In the Machine Listening area we concentrate on the automatic analysis and understanding of musical and and other sounds from the world around us.
 
-We use a wide variety of techniques to analyse sounds, including: short-time Fourier transforms (STFTs), wavelets, cosine packets, Mel-frequency cepstral coefficients (MFCCs), hidden Markov models, Bayesian models, sinusoidal analysis, independent component analysis, dynamic Bayesian networks, and sparse representations.
+We use a wide variety of techniques to analyse sounds, including: short-time Fourier transforms (STFTs), wavelets, cosine packets, Mel-frequency cepstral coefficients (MFCCs), hidden Markov models, Bayesian models, spectrogram/matrix factorization methods, sinusoidal analysis, independent component analysis, dynamic Bayesian networks, and sparse representations.
 
 Projects in this area include:
 
@@ -18,6 +18,9 @@ Projects in this area include:
 * Real-Time Analysis of Voice for Musical Applications
 * Musical Audio Stream Separation
 * Sparse Object-Based Coding of Music
+* Multi-pitch detection and instrument identification
+* Acoustic scene analysis: event detection and scene classification
+
 
 Members
 --------------------------
