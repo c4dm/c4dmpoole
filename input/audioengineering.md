@@ -8,6 +8,7 @@ title: Audio Engineering Research in the Centre for Digital Music
 Some of our current and recent research projects include;
 
 * [Automatic mixing](http://c4dm.eecs.qmul.ac.uk/audioengineering/automaticmixing/index.html) - Methods for automatic multichannel audio production in real-time
+* Sound synthesis
 * [Spatial audio production and reproduction](http://c4dm.eecs.qmul.ac.uk/audioengineering/spatialaudio/index.html)
 * [Reverse engineering the mix - a targeted mixing and mastering tool](http://c4dm.eecs.qmul.ac.uk/audioengineering/reverseengineering/index.html)
 * [Reducing Artifacts Between Source and Microphone in Live Sound](http://c4dm.eecs.qmul.ac.uk/audioengineering/microphoneartifacts/index.html)
