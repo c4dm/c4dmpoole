@@ -4,7 +4,8 @@
 "acadposition": "Senior Lecturer", 
 "blurb": "new interfaces for musical expression, augmented instruments, performance study, human-computer interaction, embedded hardware", 
 "themes": [
-"augmi"
+"augmi",
+"soundsynthesis"
 ], 
 "role": "acad"
 }
