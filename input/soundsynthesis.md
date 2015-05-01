@@ -25,5 +25,7 @@ Some relevant, recent publications describing our work include;
 [PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications.
 
 Members
+-------------
+{{ peoplelist({'theme_soundsynthesis':'1'}) }}
 
 * [Dr. Andy Farnell](http:// obiwannabe.co.uk/) (collaborator) – guidance on physically inspired procedural audio approaches and research directions
