@@ -11,7 +11,7 @@ Queen Mary University of London, and more specifically the [Centre for Digital M
 He succeeds [Brecht De Man](http://brechtdeman.com/), also PhD student, who was elected for the same position at the [136th Convention](http://www.aes.org/events/136/) in Berlin one year earlier, and who will now become Chair. 
 The Student Delegate Assembly representatives are a team of four students (two for North and Latin America, and two for European and International Regions - now half QM!) who answer student queries, support independent student events, represent the student members in the AES and its Education Committee and - perhaps most importantly - organise many events at the biannual Conventions. Among them are the [Student Recording Competition](http://www.aes.org/students/awards/), [Student Design Competition](http://www.aes.org/students/awards/), Student Party (at a local club or recording studio), an opening and closing student meeting, and an Education and Career Fair where institutions and companies can exhibit, promote and recruit to students for free. For the first time in many editions, if not ever, Queen Mary was represented (by Dave Moffat) with a focus on its new Sound and Music Computing MSc. 
 
-<img src="/news/images/aes138stand.jpeg" width="30%" />
+<p><img src="/news/images/aes138stand.jpeg" width="50%" /></p>
 
 Queen Mary and its Centre for Digital Music at the Education and Career Fair, showcasing undergraduate and postgraduate courses, and [Matthias Mauch](http://matthiasmauch.net/). 
 
@@ -32,7 +32,7 @@ Brecht De Man, Matthew Boerum, Brett Leonard, Richard King, George Massenburg an
 
 The latter received significant attention in the tutorial [Listening tests - Understanding the basic concepts](http://www.aes.org/events/138/tutorials/?ID=4408) the very next day, illustrating the bias stemming from familiarity with audio content in listening tests that was demonstrated in this paper: 
 
-<img src="/news/images/aes138boxplot.png" width="30%" />
+<p><img src="/news/images/aes138boxplot.png" width="50%" /></p>
 
 Preference rating of one's own mix (the red 'X') is rather consistently high compared to others' ratings of the same mix. A-H and Q-X each represent 8 different mixes of the same song; preference ratings are collected through a multi-stimulus perceptual evaluation interface. (Paper attached for your reference)
 
