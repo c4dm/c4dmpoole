@@ -5,11 +5,11 @@ title: C4DM at the 138th Convention of the AES
 
 Last week saw the [138th Convention of the Audio Engineering Society](http://www.aes.org/events/138/), for the first time held in Warsaw, Poland. It's the annual European gathering of audio engineering researchers, as well as professionals, students, and companies, alternating with its odd-numbered American editions which take place in Autumn. 
 
-Queen Mary University of London, and more specifically the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), had a strong presence at the Convention - if not in numbers, then certainly in impact. Liam B. Donovan, György Fazekas, Andrew McPherson, Joshua D. Reiss, Bob Sturm, David Moffat and Brecht De Man all attended. 
+Queen Mary University of London, and more specifically the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/)(C4DM), had a strong presence at the Convention - if not in numbers, then certainly in impact. Liam B. Donovan, György Fazekas, Andrew McPherson, Joshua D. Reiss, Bob Sturm, David Moffat and Brecht De Man all attended. 
 
 [Dave Moffat](http://davemoffat.com/), PhD student, successfully ran against two other candidates for the role of Vice Chair of the [Student Delegate Assembly](http://www.aes.org/students/sda/) for European and International Regions, and will as such be representing an estimated 4000 student members worldwide. 
-He succeeds [Brecht De Man](http://brechtdeman.com/), also PhD student, who was elected for the same position at the [136th Convention](http://www.aes.org/events/136/) in Berlin one year earlier, and who will now become Chair. 
-The Student Delegate Assembly representatives are a team of four students (two for North and Latin America, and two for European and International Regions - now half QM!) who answer student queries, support independent student events, represent the student members in the AES and its Education Committee and - perhaps most importantly - organise many events at the biannual Conventions. Among them are the [Student Recording Competition](http://www.aes.org/students/awards/), [Student Design Competition](http://www.aes.org/students/awards/), Student Party (at a local club or recording studio), an opening and closing student meeting, and an Education and Career Fair where institutions and companies can exhibit, promote and recruit to students for free. For the first time in many editions, if not ever, Queen Mary was represented (by Dave Moffat) with a focus on its new Sound and Music Computing MSc. 
+He succeeds [Brecht De Man](http://brechtdeman.com/), also PhD student, who was elected for the same position at the [136th Convention](http://www.aes.org/events/136/) in Berlin last year, and who will now become Chair. 
+The Student Delegate Assembly representatives are a team of four students (two for North and Latin America, and two for European and International Regions - now all represented by QMUL students!) who answer student queries, support independent student events, represent the student members in the AES and its Education Committee and - perhaps most importantly - organise many events at the biannual Conventions. Among them are the [Student Recording Competition](http://www.aes.org/students/awards/), [Student Design Competition](http://www.aes.org/students/awards/), Student Party (at a local club or recording studio), an opening and closing student meeting, and an Education and Career Fair where institutions and companies can exhibit, promote and recruit to students for free. For the first time in many editions, if not ever, Queen Mary was represented (by Dave Moffat) with a focus on its new Sound and Music Computing MSc. 
 
 <p><img src="/news/images/aes138stand.jpeg" width="50%" /></p>
 
@@ -40,3 +40,4 @@ Furthermore, ex-C4DM PhD student Chris Baume presented
 Chris Baume, Mark Plumbley and Janko Calic, "Use of audio editors in radio production". 
 
 
+Author: Brecht De Man
