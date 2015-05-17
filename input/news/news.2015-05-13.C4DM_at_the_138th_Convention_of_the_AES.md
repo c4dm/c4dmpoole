@@ -2,6 +2,7 @@ title: C4DM at the 138th Convention of the AES
 
 -------------------
 
+Author: Brecht De Man
 
 Last week saw the [138th Convention of the Audio Engineering Society](http://www.aes.org/events/138/), for the first time held in Warsaw, Poland. It's the annual European gathering of audio engineering researchers, as well as professionals, students, and companies, alternating with its odd-numbered American editions which take place in Autumn. 
 
@@ -25,9 +26,13 @@ Gyorgy Fazekas co-chaired the workshop ["Objective Evaluation in Semantic Audio 
 The following papers were presented at the convention and can soon be found in the AES E-Library*: 
 
 Liam B. Donovan and Andrew McPherson, "Active control of a string instrument bridge using the Posicast technique"
+
 Victor Zappi and Andrew McPherson, "An environment for sub-millisecond-latency audio and sensor processing on BeagleBone Black"
+
 Massimiliano Zanoni, Francesco Setragno, Fabio Antonacci, Augusto Sarti, Gyorgy Fazekas and Mark B. Sandler, "Training-based semantic descriptors modeling for violin quality sound characterization"
+
 Pedro Duarte Pestana, Joshua D. Reiss and Alvaro Barbosa, "Cross-adaptive polarity switching strategies for optimization of audio mixes"
+
 Brecht De Man, Matthew Boerum, Brett Leonard, Richard King, George Massenburg and Joshua D. Reiss, "Perceptual evaluation of music mixing practices"
 
 The latter received significant attention in the tutorial [Listening tests - Understanding the basic concepts](http://www.aes.org/events/138/tutorials/?ID=4408) the very next day, illustrating the bias stemming from familiarity with audio content in listening tests that was demonstrated in this paper: 
@@ -39,5 +44,4 @@ Preference rating of one's own mix (the red 'X') is rather consistently high com
 Furthermore, ex-C4DM PhD student Chris Baume presented 
 Chris Baume, Mark Plumbley and Janko Calic, "Use of audio editors in radio production". 
 
-
-Author: Brecht De Man
+Josh Reiss, Reader in Audio Engineering, was Papers Cochair of this convention, and is a member of the Board of Governors and various committees. 
