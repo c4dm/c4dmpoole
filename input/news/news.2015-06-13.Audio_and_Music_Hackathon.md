@@ -1,3 +1,7 @@
+title: C4DM at the 138th Convention of the AES
+
+-------------------
+
 <p><img src="https://cdn.evbuc.com/eventlogos/105997949/harman.png" width="33%" align="left"/></p>
 
 C4DM is organising a hackathon! 
