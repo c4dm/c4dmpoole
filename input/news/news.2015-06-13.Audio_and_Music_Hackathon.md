@@ -1,4 +1,4 @@
-title: C4DM at the 138th Convention of the AES
+title: C4DM organises Audio and Music Hackathon
 
 -------------------
 
