@@ -7,7 +7,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2015
 * Sonia WILKIE, "[The effect of audio cues and sound source stimuli on looming perception](/papers/2015/Wilkie-2015-thesis.pdf)" (Supervisor: Tony Stockman)
-* Dave MECKIN (Supervisor: Nick Bryan-Kinns)
+* David MECKIN, "Context and Constraint: Designing Novel Technologies for Group Music Making by Young People Who Have Complex Needs" (Supervisor: Nick Bryan-Kinns)
 * Ben BENGLER, "Let’s walk up and play! Design and evaluation of collaborative interactive musical experiences for public settings" (Supervisor: Nick Bryan-Kinns)
 * Peter FOSTER, "[Information-Theoretic Measures of Predictability for Music Content Analysis](http://www.eecs.qmul.ac.uk/~simond/phd/PeterFoster-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Anssi Klapuri)
 
@@ -31,6 +31,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2012
 * György FAZEKAS (Supervisor: Mark Sandler)
+* Robin FENCOTT, "Multi-person musicking" (Supervisor: Nick Bryan-Kinns)
 * Robert MACRAE, "[Linking Music Metadata](http://www.eecs.qmul.ac.uk/~simond/phd/RobertMacrae-PhD-Thesis.pdf)"
 * Emmanouil BENETOS, "[Automatic transcription of polyphonic music exploiting temporal evolution](https://qmro.qmul.ac.uk/jspui/handle/123456789/3368)" (Supervisor: Simon Dixon)
 * Tim MURRAY-BROWNE, "[Interactive music: Balancing creative freedom with musical development](http://timmb.com/pdf/murray-browne_phd_2012.pdf)" (Supervisors: Mark Plumbley and Nick Bryan-Kinns)
@@ -38,7 +39,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2011
 * Kurt JACOBSON, "[Connections in Music](https://qmro.qmul.ac.uk/jspui/handle/123456789/6020)"  (Supervisor: Mark Sandler)
-* Oussama METATLA (Supervisor: Nick Bryan-Kinns)
+* Oussama METATLA, "Interactive sonification of diagrams" (Supervisor: Nick Bryan-Kinns)
 * Adam STARK
 * Stephen WELBURN, "[Object coding of music using expressive MIDI](https://qmro.qmul.ac.uk/jspui/handle/123456789/656)"  (Supervisor: Mark Plumbley)
 
@@ -46,7 +47,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2010
 * Christopher HARTE, "[Towards automatic extraction of harmony information from music signals](https://qmro.qmul.ac.uk/jspui/handle/123456789/534)"
 * Matthias MAUCH, "[Automatic Chord Transcription from Audio Using Computational Models of Musical Context](https://qmro.qmul.ac.uk/jspui/handle/123456789/5379)"  (Supervisor: Simon Dixon)
-* NABAVIAN
+* Shahin NABAVIAN, "The nature of collaborative composition" (Supervisor: Nick Bryan-Kinns)
 * Enrique PEREZ-GONZALEZ, "[Advanced automatic mixing tools for music](https://qmro.qmul.ac.uk/jspui/handle/123456789/614)"  (Supervisor: Josh Reiss)
 * Rebecca STEWART, "[Spatial auditory display for acoustics and music collections](https://qmro.qmul.ac.uk/jspui/handle/123456789/413)"  (Supervisor: Mark Sandler)
 * Dan STOWELL, "[Making music through real-time voice timbre analysis: machine learning and timbral control](https://qmro.qmul.ac.uk/jspui/handle/123456789/412)" (Supervisor: Mark Plumbley)
