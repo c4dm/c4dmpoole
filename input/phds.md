@@ -6,7 +6,7 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2015
-* Sonia WILKIE, "The effect of audio cues and sound source stimuli on looming perception" (Supervisor: Tony Stockman)
+* Sonia WILKIE, "[The effect of audio cues and sound source stimuli on looming perception](/papers/2015/Wilkie-2015-thesis.pdf)" (Supervisor: Tony Stockman)
 * Dave MECKIN (Supervisor: Nick Bryan-Kinns)
 * Ben BENGLER, "Let’s walk up and play! Design and evaluation of collaborative interactive musical experiences for public settings" (Supervisor: Nick Bryan-Kinns)
 * Peter FOSTER, "[Information-Theoretic Measures of Predictability for Music Content Analysis](http://www.eecs.qmul.ac.uk/~simond/phd/PeterFoster-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Anssi Klapuri)
@@ -26,7 +26,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Lesley MEARNS, "[The Computational Analysis of Harmony in Western Art Music](http://www.eecs.qmul.ac.uk/~simond/phd/LesleyMearns-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Mark LEVY
 * Ken O'HANLON, "Automatic music transcription using sparse representations" (Supervisor: Mark Plumbley)
-* Louise VALGERÐUR NICKERSON, "Overviews and their effect on interaction in the auditory interface" (Supervisor: Tony Stockman)
+* Louise VALGERÐUR NICKERSON, "[Overviews and their effect on interaction in the auditory interface](/papers/2013/ValgerdurNickerson-2013-thesis.pdf)" (Supervisor: Tony Stockman)
 * Asteris ZACHARAKIS (Supervisor: Josh Reiss)
 
 ##2012
@@ -55,7 +55,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2009
 * Arash ESHGI
-* Chris FRAUENBERGER, "Auditory Display Design: An Investigation of a Design Pattern Approach" (Supervisor: Tony Stockman)
+* Chris FRAUENBERGER, "[Auditory Display Design: An Investigation of a Design Pattern Approach](/papers/2009/Frauenberger-2009-thesis.pdf)" (Supervisor: Tony Stockman)
 * Yves RAIMOND
 * Katy NOLAND
 * Andrew ROBERTSON (Supervisor: Mark Plumbley)
