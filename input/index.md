@@ -17,7 +17,7 @@ Research themes:
 * [Interactional Sound & Music](interactional.html)
 * [Machine Listening](machinelistening.html)
 * [Music Informatics](musicinformatics.html)
-* [Music Cognition](musiccognition.html)
+* [Music Cognition](http://music-cognition.eecs.qmul.ac.uk/)
 * [Music Performance & Expression](http://mupae.blogspot.co.uk/)
 
 <img src="images/c4dm_grp_201112_thumb.jpg" style="width:60%; max-width:600px; float: none; display: block; margin: 0px; padding: 0px; clear: none;" alt="Thumbnail of C4DM group photo" />
