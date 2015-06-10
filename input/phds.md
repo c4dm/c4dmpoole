@@ -1,4 +1,4 @@
-title: PhD Graduates
+title: PhD Graduates & Theses
 --------------------
 
 This is a list of past PhDs successfully completed in the Centre for Digital Music.
