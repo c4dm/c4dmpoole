@@ -14,13 +14,13 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Thomas WILMERING
 * Holger KIRCHOFF,  "A User-Assisted Approach to Multiple Instrument Music Transcription" (Supervisor: Simon Dixon)
 * Steve HARGREAVES (Supervisor: Mark Sandler)
-* Jordan Smith  (Supervisor: Elaine Chew)
+* Jordan SMITH (Supervisor: Elaine Chew)
 
 ##2013
-* George FAZEKAS (Supervisor: Mark Sandler)
 * Mark LEVY
 
 ##2012
+* György FAZEKAS (Supervisor: Mark Sandler)
 * Robert MACRAE
 * Emmanouil BENETOS, "[Automatic transcription of polyphonic music exploiting temporal evolution](https://qmro.qmul.ac.uk/jspui/handle/123456789/3368)" (Supervisor: Simon Dixon)
 
@@ -53,9 +53,9 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Andrew NESBIT
 
 ##2007
-* Paul BROSSIER, "Automatic Annotation of Musical Audio for Interactive Applications" (Supervisor: Mark Plumbley)
+* Paul BROSSIER, "[Automatic Annotation of Musical Audio for Interactive Applications](http://aubio.org/phd/)" (Supervisor: Mark Plumbley)
 * Dawn BLACK, "High Quality Speech for Packet Switched Networks" (Supervisor: Mark Sandler)
-* Matthew DAVIES, "Towards Automatic Rhythmic Accompaniment" (Supervisor: Mark Plumbley)
+* Matthew DAVIES, "[Towards Automatic Rhythmic Accompaniment](http://telecom.inescporto.pt/~mdavies/pdfs/Davies07-phdthesis.pdf)" (Supervisor: Mark Plumbley)
 * Wen XUE, "Harmonic Sinusoidal Modelling of Tonal Music Events" (Supervisor: Mark Sandler)
 
 ##2006
@@ -69,8 +69,8 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Nikolaos MITIANOUDIS, "Audio Source Separation using Independent Component Analysis" (Supervisor: Mike Davies)
 * Christopher DUXBURY, "Signal Models for Polyphonic Music" (Supervisor: Mark Sandler)
 ##2003
-* Juan BELLO, "Towards the Automated Analysis of Simple Polyphonic Music: A Knowledge-based Approach" (Supervisor: Mark Sandler)
+* Juan BELLO, "[Towards the Automated Analysis of Simple Polyphonic Music: A Knowledge-based Approach](http://www.eecs.qmul.ac.uk/former/people/jbc/Documents/Bello-PhDthesis-2003.pdf)" (Supervisor: Mark Sandler)
 
 ##2002
-* Samer ABDALLAH, "Towards Music Perception by Redundancy Reduction and Unsupervised Learning in Probabilistic Models" (Supervisor: Mark Plumbley)
+* Samer ABDALLAH, "[Towards Music Perception by Redundancy Reduction and Unsupervised Learning in Probabilistic Models](https://qmro.qmul.ac.uk/jspui/handle/123456789/3801)" (Supervisor: Mark Plumbley)
 
