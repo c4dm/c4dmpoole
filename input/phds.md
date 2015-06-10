@@ -15,7 +15,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Thomas WILMERING
 * Holger KIRCHOFF,  "A User-Assisted Approach to Multiple Instrument Music Transcription" (Supervisor: Simon Dixon)
 * Steven HARGREAVES (Supervisor: Mark Sandler)
-* Jordan SMITH (Supervisor: Elaine Chew)
+* Jordan SMITH, "[Explaining Listener Differences in the Perception of Musical Structure](http://www.music.mcgill.ca/~jordan/documents/smith2014-thesis.pdf)" (Supervisor: Elaine Chew)
 
 ##2013
 * Mark LEVY
