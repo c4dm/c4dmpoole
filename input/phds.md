@@ -6,6 +6,7 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2015
+* Sonia WILKIE (Supervisor: Tony Stockman)
 * Dave MECKIN (Supervisor: Nick Bryan-Kinns)
 * Ben BENGLER, "Let’s walk up and play! Design and evaluation of collaborative interactive musical experiences for public settings" (Supervisor: Nick Bryan-Kinns)
 
@@ -13,7 +14,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Daniele BARCHIESI (Supervisor: Mark Plumbley)
 * Thomas WILMERING
 * Holger KIRCHOFF,  "A User-Assisted Approach to Multiple Instrument Music Transcription" (Supervisor: Simon Dixon)
-* Steve HARGREAVES (Supervisor: Mark Sandler)
+* Steven HARGREAVES (Supervisor: Mark Sandler)
 * Jordan SMITH (Supervisor: Elaine Chew)
 
 ##2013
