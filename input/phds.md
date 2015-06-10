@@ -9,8 +9,13 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Sonia WILKIE (Supervisor: Tony Stockman)
 * Dave MECKIN (Supervisor: Nick Bryan-Kinns)
 * Ben BENGLER, "Let’s walk up and play! Design and evaluation of collaborative interactive musical experiences for public settings" (Supervisor: Nick Bryan-Kinns)
+* Peter FOSTER, "[Information-Theoretic Measures of Predictability for Music Content Analysis](http://www.eecs.qmul.ac.uk/~simond/phd/PeterFoster-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Anssi Klapuri)
+
 
 ##2014
+* Amélie ANGLADE, "[Logic-based Modelling of Musical Harmony for Automatic Characterisation and Classification](http://www.eecs.qmul.ac.uk/~simond/phd/AmelieAnglade-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
+* Dimitrios GIANNOULIS, "Recognition of Sound Sources and Acoustic Events in Music and Environmental Audio" (Supervisors: Mark Plumbley and Anssi Klapuri)
+* Chunyang SONG, "Syncopation: unifying music theory and perception" (Supervisor: Mark Sandler)
 * Daniele BARCHIESI (Supervisor: Mark Plumbley)
 * Thomas WILMERING
 * Holger KIRCHOFF,  "A User-Assisted Approach to Multiple Instrument Music Transcription" (Supervisor: Simon Dixon)
@@ -18,12 +23,17 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Jordan SMITH, "[Explaining Listener Differences in the Perception of Musical Structure](http://www.music.mcgill.ca/~jordan/documents/smith2014-thesis.pdf)" (Supervisor: Elaine Chew)
 
 ##2013
+* Lesley MEARNS, "[The Computational Analysis of Harmony in Western Art Music](http://www.eecs.qmul.ac.uk/~simond/phd/LesleyMearns-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Mark LEVY
+* Ken O'HANLON, "Automatic music transcription using sparse representations" (Supervisor: Mark Plumbley)
+* Asteris ZACHARAKIS (Supervisor: Josh Reiss)
 
 ##2012
 * György FAZEKAS (Supervisor: Mark Sandler)
-* Robert MACRAE
+* Robert MACRAE, "[Linking Music Metadata](http://www.eecs.qmul.ac.uk/~simond/phd/RobertMacrae-PhD-Thesis.pdf)"
 * Emmanouil BENETOS, "[Automatic transcription of polyphonic music exploiting temporal evolution](https://qmro.qmul.ac.uk/jspui/handle/123456789/3368)" (Supervisor: Simon Dixon)
+* Tim MURRAY-BROWNE, "[Interactive music: Balancing creative freedom with musical development](http://timmb.com/pdf/murray-browne_phd_2012.pdf)" (Supervisors: Mark Plumbley and Nick Bryan-Kinns)
+* Aris Gretsistas (Supervisor: Mark Plumbley)
 
 ##2011
 * Kurt JACOBSON, "[Connections in Music](https://qmro.qmul.ac.uk/jspui/handle/123456789/6020)"  (Supervisor: Mark Sandler)
