@@ -1,3 +1,6 @@
+title: PhD Graduates
+--------------------
+
 This is a list of past PhDs successfully completed in the Centre for Digital Music.
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
