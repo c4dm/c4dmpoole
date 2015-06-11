@@ -18,7 +18,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Chunyang SONG, "Syncopation: unifying music theory and perception" (Supervisor: Mark Sandler)
 * Daniele BARCHIESI (Supervisor: Mark Plumbley)
 * Thomas WILMERING
-* Holger KIRCHOFF,  "A User-Assisted Approach to Multiple Instrument Music Transcription" (Supervisor: Simon Dixon)
+* Holger KIRCHOFF,  "[A User-Assisted Approach to Multiple Instrument Music Transcription](www.eecs.qmul.ac.uk/~simond/phd/HolgerKirchhoff-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Steven HARGREAVES (Supervisor: Mark Sandler)
 * Jordan SMITH, "[Explaining Listener Differences in the Perception of Musical Structure](http://www.music.mcgill.ca/~jordan/documents/smith2014-thesis.pdf)" (Supervisor: Elaine Chew)
 
