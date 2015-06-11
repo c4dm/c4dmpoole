@@ -24,7 +24,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2013
 * Lesley MEARNS, "[The Computational Analysis of Harmony in Western Art Music](http://www.eecs.qmul.ac.uk/~simond/phd/LesleyMearns-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
-* Mark LEVY
+* Mark LEVY  (Supervisor: Mark Sandler)
 * Ken O'HANLON, "Automatic music transcription using sparse representations" (Supervisor: Mark Plumbley)
 * Louise VALGERÐUR NICKERSON, "[Overviews and their effect on interaction in the auditory interface](/papers/2013/ValgerdurNickerson-2013-thesis.pdf)" (Supervisor: Tony Stockman)
 * Asteris ZACHARAKIS (Supervisor: Josh Reiss)
@@ -40,7 +40,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2011
 * Kurt JACOBSON, "[Connections in Music](https://qmro.qmul.ac.uk/jspui/handle/123456789/6020)"  (Supervisor: Mark Sandler)
 * Oussama METATLA, "Interactive sonification of diagrams" (Supervisor: Nick Bryan-Kinns)
-* Adam STARK
+* Adam STARK  (Supervisor: Mark Plumbley)
 * Stephen WELBURN, "[Object coding of music using expressive MIDI](https://qmro.qmul.ac.uk/jspui/handle/123456789/656)"  (Supervisor: Mark Plumbley)
 
 
@@ -58,12 +58,12 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Arash ESHGI
 * Chris FRAUENBERGER, "[Auditory Display Design: An Investigation of a Design Pattern Approach](/papers/2009/Frauenberger-2009-thesis.pdf)" (Supervisor: Tony Stockman)
 * Yves RAIMOND, "[A distributed music information system](http://raimond.me.uk/phd/)" (Supervisor: Mark Sandler)
-* Katy NOLAND
+* Katy NOLAND  (Supervisor: Mark Sandler)
 * Andrew ROBERTSON (Supervisor: Mark Plumbley)
-* Beiming WANG
+* Beiming WANG  (Supervisor: Mark Plumbley)
 
 ##2008
-* Andrew NESBIT
+* Andrew NESBIT  (Supervisor: Mark Plumbley)
 
 ##2007
 * Paul BROSSIER, "[Automatic Annotation of Musical Audio for Interactive Applications](http://aubio.org/phd/)" (Supervisor: Mark Plumbley)
