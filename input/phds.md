@@ -40,7 +40,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2011
 * Kurt JACOBSON, "[Connections in Music](https://qmro.qmul.ac.uk/jspui/handle/123456789/6020)"  (Supervisor: Mark Sandler)
 * Oussama METATLA, "Interactive sonification of diagrams" (Supervisor: Nick Bryan-Kinns)
-* Adam STARK  (Supervisor: Mark Plumbley)
+* Adam STARK, "[Musicians and Machines: Bridging the Semantic Gap In Live Performance](http://www.eecs.qmul.ac.uk/~adams/ams_thesis.pdf)"  (Supervisor: Mark Plumbley)
 * Stephen WELBURN, "[Object coding of music using expressive MIDI](https://qmro.qmul.ac.uk/jspui/handle/123456789/656)"  (Supervisor: Mark Plumbley)
 
 
