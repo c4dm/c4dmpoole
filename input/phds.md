@@ -24,7 +24,6 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2013
 * Lesley MEARNS, "[The Computational Analysis of Harmony in Western Art Music](http://www.eecs.qmul.ac.uk/~simond/phd/LesleyMearns-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
-* Mark LEVY  (Supervisor: Mark Sandler)
 * Ken O'HANLON, "Automatic music transcription using sparse representations" (Supervisor: Mark Plumbley)
 * Louise VALGERÐUR NICKERSON, "[Overviews and their effect on interaction in the auditory interface](/papers/2013/ValgerdurNickerson-2013-thesis.pdf)" (Supervisor: Tony Stockman)
 * Asteris ZACHARAKIS (Supervisor: Josh Reiss)
@@ -36,6 +35,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Emmanouil BENETOS, "[Automatic transcription of polyphonic music exploiting temporal evolution](https://qmro.qmul.ac.uk/jspui/handle/123456789/3368)" (Supervisor: Simon Dixon)
 * Tim MURRAY-BROWNE, "[Interactive music: Balancing creative freedom with musical development](http://timmb.com/pdf/murray-browne_phd_2012.pdf)" (Supervisors: Mark Plumbley and Nick Bryan-Kinns)
 * Aris Gretsistas (Supervisor: Mark Plumbley)
+* Mark LEVY, "[Retrieval and Annotation of Music Using Latent Semantic Models](https://qmro.qmul.ac.uk/jspui/handle/123456789/2969)"  (Supervisor: Mark Sandler)
 
 ##2011
 * Kurt JACOBSON, "[Connections in Music](https://qmro.qmul.ac.uk/jspui/handle/123456789/6020)"  (Supervisor: Mark Sandler)
@@ -51,7 +51,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Enrique PEREZ-GONZALEZ, "[Advanced automatic mixing tools for music](https://qmro.qmul.ac.uk/jspui/handle/123456789/614)"  (Supervisor: Josh Reiss)
 * Rebecca STEWART, "[Spatial auditory display for acoustics and music collections](https://qmro.qmul.ac.uk/jspui/handle/123456789/413)"  (Supervisor: Mark Sandler)
 * Dan STOWELL, "[Making music through real-time voice timbre analysis: machine learning and timbral control](https://qmro.qmul.ac.uk/jspui/handle/123456789/412)" (Supervisor: Mark Plumbley)
-* Jean-Baptiste THIEBAUT
+* Jean-Baptiste THIEBAUT, "[Sketching music: representation and composition](https://qmro.qmul.ac.uk/jspui/handle/123456789/406)" (Supervisor: Patrick Healey)
 
 
 ##2009
@@ -59,7 +59,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Chris FRAUENBERGER, "[Auditory Display Design: An Investigation of a Design Pattern Approach](/papers/2009/Frauenberger-2009-thesis.pdf)" (Supervisor: Tony Stockman)
 * Yves RAIMOND, "[A distributed music information system](http://raimond.me.uk/phd/)" (Supervisor: Mark Sandler)
 * Katy NOLAND  (Supervisor: Mark Sandler)
-* Andrew ROBERTSON (Supervisor: Mark Plumbley)
+* Andrew ROBERTSON, "[Interactive real-time musical systems](https://qmro.qmul.ac.uk/jspui/handle/123456789/602)" (Supervisor: Mark Plumbley)
 * Beiming WANG  (Supervisor: Mark Plumbley)
 
 ##2008
