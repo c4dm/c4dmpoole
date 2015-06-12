@@ -26,7 +26,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Lesley MEARNS, "[The Computational Analysis of Harmony in Western Art Music](http://www.eecs.qmul.ac.uk/~simond/phd/LesleyMearns-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Ken O'HANLON, "Automatic music transcription using sparse representations" (Supervisor: Mark Plumbley)
 * Louise VALGERÐUR NICKERSON, "[Overviews and their effect on interaction in the auditory interface](/papers/2013/ValgerdurNickerson-2013-thesis.pdf)" (Supervisor: Tony Stockman)
-* Asteris ZACHARAKIS (Supervisor: Josh Reiss)
+* Asteris ZACHARAKIS, "Musical timbre: bridging perception with semantics" (Supervisor: Josh Reiss)
 
 ##2012
 * György FAZEKAS (Supervisor: Mark Sandler)
