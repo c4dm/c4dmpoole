@@ -53,7 +53,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Shahin NABAVIAN, "The nature of collaborative composition" (Supervisor: Nick Bryan-Kinns)
 * Enrique PEREZ-GONZALEZ, "[Advanced automatic mixing tools for music](https://qmro.qmul.ac.uk/jspui/handle/123456789/614)"  (Supervisor: Josh Reiss)
 * Rebecca STEWART, "[Spatial auditory display for acoustics and music collections](https://qmro.qmul.ac.uk/jspui/handle/123456789/413)"  (Supervisor: Mark Sandler)
-* Dan STOWELL, "[Making music through real-time voice timbre analysis: machine learning and timbral control](https://qmro.qmul.ac.uk/jspui/handle/123456789/412)" (Supervisor: Mark Plumbley)
+* Dan STOWELL, "[Making music through real-time voice timbre analysis: machine learning and timbral control](http://mcld.co.uk/thesis/)" (Supervisor: Mark Plumbley)
 * Jean-Baptiste THIEBAUT, "[Sketching music: representation and composition](https://qmro.qmul.ac.uk/jspui/handle/123456789/406)" (Supervisor: Patrick Healey)
 
 
