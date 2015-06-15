@@ -59,7 +59,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2009
 * Arash ESHGHI, "[Uncommon ground: the distribution of dialogue contexts](http://www.eecs.qmul.ac.uk/~arash/thesis.pdf)" (Supervisor: Patrick Healey)
-* Chris FRAUENBERGER, "[Auditory Display Design: An Investigation of a Design Pattern Approach](/papers/2009/Frauenberger-2009-thesis.pdf)" (Supervisor: Tony Stockman)
+* Chris FRAUENBERGER, "[Auditory Display Design: An Investigation of a Design Pattern Approach](https://qmro.qmul.ac.uk/jspui/handle/123456789/7685)" (Supervisor: Tony Stockman)
 * Yves RAIMOND, "[A distributed music information system](http://raimond.me.uk/phd/)" (Supervisor: Mark Sandler)
 * Katy NOLAND  (Supervisor: Mark Sandler)
 * Andrew ROBERTSON, "[Interactive real-time musical systems](https://qmro.qmul.ac.uk/jspui/handle/123456789/602)" (Supervisor: Mark Plumbley)
