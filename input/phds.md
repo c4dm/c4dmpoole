@@ -28,7 +28,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Alice CLIFFORD, "Microphone interference in live sound" (Supervisor: Josh Reiss)
 * Lesley MEARNS, "[The Computational Analysis of Harmony in Western Art Music](http://www.eecs.qmul.ac.uk/~simond/phd/LesleyMearns-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Ken O'HANLON, "Automatic music transcription using sparse representations" (Supervisor: Mark Plumbley)
-* Louise VALGERÐUR NICKERSON, "[Overviews and their effect on interaction in the auditory interface](/papers/2013/ValgerdurNickerson-2013-thesis.pdf)" (Supervisor: Tony Stockman)
+* Louise VALGERÐUR NICKERSON, "[Overviews and their effect on interaction in the auditory interface](https://qmro.qmul.ac.uk/jspui/handle/123456789/7684)" (Supervisor: Tony Stockman)
 * Asteris ZACHARAKIS, "Musical timbre: bridging perception with semantics" (Supervisor: Josh Reiss)
 
 ##2012
