@@ -24,8 +24,8 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Jordan SMITH, "[Explaining Listener Differences in the Perception of Musical Structure](http://www.music.mcgill.ca/~jordan/documents/smith2014-thesis.pdf)" (Supervisor: Elaine Chew)
 
 ##2013
-*	Martin MORRELL, "Gesture controlled spatial audio" (Supervisor: Josh Reiss)
-*	Alice CLIFFORD, "Microphone interference in live sound" (Supervisor: Josh Reiss)
+* Martin MORRELL, "Gesture controlled spatial audio" (Supervisor: Josh Reiss)
+* Alice CLIFFORD, "Microphone interference in live sound" (Supervisor: Josh Reiss)
 * Lesley MEARNS, "[The Computational Analysis of Harmony in Western Art Music](http://www.eecs.qmul.ac.uk/~simond/phd/LesleyMearns-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Ken O'HANLON, "Automatic music transcription using sparse representations" (Supervisor: Mark Plumbley)
 * Louise VALGERÐUR NICKERSON, "[Overviews and their effect on interaction in the auditory interface](/papers/2013/ValgerdurNickerson-2013-thesis.pdf)" (Supervisor: Tony Stockman)
