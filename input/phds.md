@@ -63,7 +63,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Beiming WANG  (Supervisor: Mark Plumbley)
 
 ##2008
-* Andrew NESBIT  (Supervisor: Mark Plumbley)
+* Andrew NESBIT, "Audio Source Separation by Time-Frequency Masking" (Supervisor: Mark Plumbley)
 
 ##2007
 * Paul BROSSIER, "[Automatic Annotation of Musical Audio for Interactive Applications](http://aubio.org/phd/)" (Supervisor: Mark Plumbley)
