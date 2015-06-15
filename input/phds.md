@@ -58,7 +58,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 
 ##2009
-* Arash ESHGI
+* Arash ESHGHI
 * Chris FRAUENBERGER, "[Auditory Display Design: An Investigation of a Design Pattern Approach](/papers/2009/Frauenberger-2009-thesis.pdf)" (Supervisor: Tony Stockman)
 * Yves RAIMOND, "[A distributed music information system](http://raimond.me.uk/phd/)" (Supervisor: Mark Sandler)
 * Katy NOLAND  (Supervisor: Mark Sandler)
