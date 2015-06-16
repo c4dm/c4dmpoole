@@ -16,7 +16,8 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Amélie ANGLADE, "[Logic-based Modelling of Musical Harmony for Automatic Characterisation and Classification](http://www.eecs.qmul.ac.uk/~simond/phd/AmelieAnglade-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Dimitrios GIANNOULIS, "Recognition of Sound Sources and Acoustic Events in Music and Environmental Audio" (Supervisors: Mark Plumbley and Anssi Klapuri)
 * Chunyang SONG, "Syncopation: unifying music theory and perception" (Supervisor: Mark Sandler)
-* Daniele BARCHIESI (Supervisor: Mark Plumbley)
+* Daniele BARCHIESI "[Sparse Approximation and Dictionary Learning
+with Applications to Audio Signals](http://theses.eurasip.org/media/theses/documents/barchiesi-daniele-sparse-approximation-and-dictionary-learning-with-applications-to-audio-signals.pdf)" (Supervisor: Mark Plumbley)
 * Thomas WILMERING
 * Andy SIMPSON, "Psychoacoustics of nonlinear audio systems" (Supervisor: Josh Reiss)
 * Holger KIRCHOFF,  "[A User-Assisted Approach to Multiple Instrument Music Transcription](www.eecs.qmul.ac.uk/~simond/phd/HolgerKirchhoff-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
