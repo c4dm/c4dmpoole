@@ -16,7 +16,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Amélie ANGLADE, "[Logic-based Modelling of Musical Harmony for Automatic Characterisation and Classification](http://www.eecs.qmul.ac.uk/~simond/phd/AmelieAnglade-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Dimitrios GIANNOULIS, "Recognition of Sound Sources and Acoustic Events in Music and Environmental Audio" (Supervisors: Mark Plumbley and Anssi Klapuri)
 * Chunyang SONG, "Syncopation: unifying music theory and perception" (Supervisor: Mark Sandler)
-* Daniele BARCHIESI (Supervisor: Mark Plumbley)
+* Daniele BARCHIESI, "[Sparse Approximation and Dictionary Learning with Applications to Audio Signals](http://theses.eurasip.org/theses/484/sparse-approximation-and-dictionary-learning-with/)" (Supervisor: Mark Plumbley)
 * Thomas WILMERING
 * Andy SIMPSON, "Psychoacoustics of nonlinear audio systems" (Supervisor: Josh Reiss)
 * Holger KIRCHOFF,  "[A User-Assisted Approach to Multiple Instrument Music Transcription](www.eecs.qmul.ac.uk/~simond/phd/HolgerKirchhoff-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
@@ -37,7 +37,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Robert MACRAE, "[Linking Music Metadata](http://www.eecs.qmul.ac.uk/~simond/phd/RobertMacrae-PhD-Thesis.pdf)"
 * Emmanouil BENETOS, "[Automatic transcription of polyphonic music exploiting temporal evolution](https://qmro.qmul.ac.uk/jspui/handle/123456789/3368)" (Supervisor: Simon Dixon)
 * Tim MURRAY-BROWNE, "[Interactive music: Balancing creative freedom with musical development](http://timmb.com/pdf/murray-browne_phd_2012.pdf)" (Supervisors: Mark Plumbley and Nick Bryan-Kinns)
-* Aris Gretsistas (Supervisor: Mark Plumbley)
+* Aris GRETSISTAS, "Sparse Representations & Compressed Sensing applied to the problem of Direction-of-Arrival estimation" (Supervisor: Mark Plumbley)
 * Mark LEVY, "[Retrieval and Annotation of Music Using Latent Semantic Models](https://qmro.qmul.ac.uk/jspui/handle/123456789/2969)"  (Supervisor: Mark Sandler)
 
 ##2011
@@ -63,7 +63,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Yves RAIMOND, "[A distributed music information system](http://raimond.me.uk/phd/)" (Supervisor: Mark Sandler)
 * Katy NOLAND  (Supervisor: Mark Sandler)
 * Andrew ROBERTSON, "[Interactive real-time musical systems](https://qmro.qmul.ac.uk/jspui/handle/123456789/602)" (Supervisor: Mark Plumbley)
-* Beiming WANG  (Supervisor: Mark Plumbley)
+* Beiming WANG, "Single-Channel Musical Audio Separation" (Supervisor: Mark Plumbley)
 
 ##2008
 * Andrew NESBIT, "Audio Source Separation by Time-Frequency Masking" (Supervisor: Mark Plumbley)
