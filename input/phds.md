@@ -32,7 +32,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Asteris ZACHARAKIS, "Musical timbre: bridging perception with semantics" (Supervisor: Josh Reiss)
 
 ##2012
-* György FAZEKAS (Supervisor: Mark Sandler)
+* György FAZEKAS, "Semantic Audio Analysis - Utilities and Applications" (Supervisor: Mark Sandler)
 * Robin FENCOTT, "Multi-person musicking" (Supervisor: Nick Bryan-Kinns)
 * Robert MACRAE, "[Linking Music Metadata](http://www.eecs.qmul.ac.uk/~simond/phd/RobertMacrae-PhD-Thesis.pdf)"
 * Emmanouil BENETOS, "[Automatic transcription of polyphonic music exploiting temporal evolution](https://qmro.qmul.ac.uk/jspui/handle/123456789/3368)" (Supervisor: Simon Dixon)
