@@ -20,7 +20,7 @@ Research themes:
 * [Music Cognition](http://music-cognition.eecs.qmul.ac.uk/)
 * [Music Performance & Expression](http://mupae.blogspot.co.uk/)
 
-<a href="images/c4dm_grp_201507_IMG_7553.jpg"><img src="images/c4dm_grp_201507_IMG_7553_thumb.jpg" style="width:640px; max-width:640px; float: none; display: block; margin: 0px; padding: 0px; clear: none;" alt="Thumbnail of C4DM group photo" /></a>
+<a href="images/c4dm_grp_201507_IMG_7553.jpg"><img src="images/c4dm_grp_201507_IMG_7553_thumb.jpg" style="width:60%; max-width:600px; float: none; display: block; margin: 0px; padding: 0px; clear: none;" alt="Thumbnail of C4DM group photo" /></a>
 
 
 
