@@ -21,7 +21,7 @@ I have also worked on voice, music, birdsong and environmental soundscapes. <a h
 
 ## Publications
 
-*For the latest articles see also [Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)*.
+*For the latest articles see also **[Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)**. Also [on Google Scholar](https://scholar.google.co.uk/citations?user=BXu3q_wAAAAJ).*
 
 **2015 and forthcoming**
 
