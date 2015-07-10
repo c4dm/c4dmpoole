@@ -25,9 +25,11 @@ I have also worked on voice, music, birdsong and environmental soundscapes. <a h
 
 **2015 and forthcoming**
 
-D. Stowell and D. Clayton, [**Acoustic event detection for multiple overlapping similar sources**](http://arxiv.org/abs/1503.07150), *Proceedings of WASPAA 2015*, accepted.
+D. Stowell and D. Clayton, **[Acoustic event detection for multiple overlapping similar sources](http://arxiv.org/abs/1503.07150)**, *Proceedings of WASPAA 2015*, accepted.
 
 D. Stowell, **BirdCLEF 2015 submission: Unsupervised feature learning from audio**, *CLEF 2015 Labs and Workshops, Notebook Papers*, accepted.
+
+D. Barchiesi, D. Giannoulis, D. Stowell, and M. D. Plumbley, **[Acoustic scene classification](http://arxiv.org/abs/1411.3715)**. *IEEE Signal Processing Magazine*, in press.
 
 **2014**
 
@@ -36,8 +38,6 @@ D. Stowell, **BirdCLEF 2015 submission: Unsupervised feature learning from audio
 <p>D. Stowell and M. D. Plumbley, <strong><a href="https://peerj.com/articles/488">Automatic large-scale classification of bird sounds is strongly improved by unsupervised feature learning</a></strong>. <em>PeerJ</em> 2:e488, 2014.
 
 <p>D. Stowell and M. D. Plumbley, <strong><a href="http://dx.doi.org/10.1111/2041-210X.12223">Large-scale analysis of frequency modulation in birdsong databases</a></strong>. <em>Methods in Ecology and Evolution</em>, 2014.
-
-<p>D. Barchiesi, D. Giannoulis, D. Stowell, and M. D. Plumbley, <strong>Acoustic scene classification</strong>. <em>IEEE Signal Processing Magazine</em>, in press.
 
 <p>D. Stowell and M. D. Plumbley, <strong><a href="http://arxiv.org/abs/1309.5275">An open dataset for research on audio field recording archives: freefield1010</a></strong>. In: <em>Proceedings of the AES Conference on Semantic Audio Conference (AES53)</em>, January 2014. [<a href="http://archive.org/details/freefield1010">Data</a>]
 <br />
