@@ -1,7 +1,7 @@
 title: Dan Stowell
 --------------------------------------
 
-<img src="dan-photo-g100.jpg" alt="Photo of Dan Stowell" style="float: right; margin: 10px;" />
+<img src="/people/dan-photo-g100.jpg" alt="Photo of Dan Stowell" style="float: right; margin: 10px;" />
 
 <p> <b>Title:</b> EPSRC Research Fellow<br />
   <b>Tel:</b> <i>National</i>: 020
@@ -17,13 +17,13 @@ I develop new techniques in structured "machine listening",
 using both machine learning and signal processing to analyse soundscapes with multiple birds.
 I have also worked on voice, music, birdsong and environmental soundscapes. <a href="http://mcld.co.uk/research/">More detail on my personal research page.</a>
 
-	<blockquote>Are you interested in a <strong>PhD opportunity</strong> using machine learning / signal processing / data mining to understand natural sound? <strong>Contact me</strong> to discuss informally!</blockquote>
+> Are you interested in a <strong>PhD opportunity</strong> using machine learning / signal processing / data mining to understand natural sound? <strong>Contact me</strong> to discuss informally!</blockquote>
 
-            <h2>Publications</h2>
+## Publications
 
-<p><em>For the latest articles see also <a href="http://arxiv.org/a/stowell_d_1">Dan Stowell on arXiv</a></em></p>
+*For the latest articles see also [Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)*.
 
-<p><strong>2014 and forthcoming</strong></p>
+**2014 and forthcoming**
 
 <p>D. Stowell, <strong><a href="http://rspb.royalsocietypublishing.org/content/281/1792/20141370.e-letters">Renewal processes and semi-Markov processes in animal vocalisations: A response to Kershenbaum et al.</a></strong> (eLetter). <em>Proceedings of the Royal Society B</em> 281, 2014.
 
