@@ -23,7 +23,13 @@ I have also worked on voice, music, birdsong and environmental soundscapes. <a h
 
 *For the latest articles see also [Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)*.
 
-**2014 and forthcoming**
+**2015 and forthcoming**
+
+D. Stowell and D. Clayton, [**Acoustic event detection for multiple overlapping similar sources**](http://arxiv.org/abs/1503.07150), *Proceedings of WASPAA 2015*, accepted.
+
+D. Stowell, **BirdCLEF 2015 submission: Unsupervised feature learning from audio**, *CLEF 2015 Labs and Workshops, Notebook Papers*, accepted.
+
+**2014**
 
 <p>D. Stowell, <strong><a href="http://rspb.royalsocietypublishing.org/content/281/1792/20141370.e-letters">Renewal processes and semi-Markov processes in animal vocalisations: A response to Kershenbaum et al.</a></strong> (eLetter). <em>Proceedings of the Royal Society B</em> 281, 2014.
 
