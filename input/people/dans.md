@@ -15,9 +15,9 @@ title: Dan Stowell
 I am a research fellow applying machine learning to sound.
 I develop new techniques in structured "machine listening",
 using both machine learning and signal processing to analyse soundscapes with multiple birds.
-I have also worked on voice, music, birdsong and environmental soundscapes. <a href="http://mcld.co.uk/research/">More detail on my personal research page.</a>
+I have also worked on voice, music, birdsong and environmental soundscapes. [More detail on my personal research page](http://mcld.co.uk/research/).
 
-> Are you interested in a <strong>PhD opportunity</strong> using machine learning / signal processing / data mining to understand natural sound? <strong>Contact me</strong> to discuss informally!</blockquote>
+> Are you interested in a *PhD opportunity* using machine learning / signal processing / data mining to understand natural sound? **Contact me** to discuss informally!
 
 ## Publications
 
