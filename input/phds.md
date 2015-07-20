@@ -61,7 +61,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Arash ESHGHI, "[Uncommon ground: the distribution of dialogue contexts](http://www.eecs.qmul.ac.uk/~arash/thesis.pdf)" (Supervisor: Patrick Healey)
 * Chris FRAUENBERGER, "[Auditory Display Design: An Investigation of a Design Pattern Approach](https://qmro.qmul.ac.uk/jspui/handle/123456789/7685)" (Supervisor: Tony Stockman)
 * Yves RAIMOND, "[A distributed music information system](http://raimond.me.uk/phd/)" (Supervisor: Mark Sandler)
-* Katy NOLAND  (Supervisor: Mark Sandler)
+* Katy NOLAND, "[Computational Tonality Estimation: Signal Processing and Hidden Markov Models](https://myshare.box.com/shared/static/i0ypd2opj6fu32uzqtah.pdf)"  (Supervisor: Mark Sandler)
 * Andrew ROBERTSON, "[Interactive real-time musical systems](https://qmro.qmul.ac.uk/jspui/handle/123456789/602)" (Supervisor: Mark Plumbley)
 * Beiming WANG, "Single-Channel Musical Audio Separation" (Supervisor: Mark Plumbley)
 
