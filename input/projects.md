@@ -6,11 +6,20 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/M507088/1"><strong> 	Audio Data Exploration: New Insights and Value</strong></a><br>
+Dr Simon Dixon (PI) and Prof Mark Plumbley (PI, Surrey)<br>
+EPSRC Grant EP/M507088/1, £77,443, 2014-2015</p>
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
+Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
+EPSRC Programme Grant EP/L019981/1, £5,199,944, 2014-2019</p>
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L027119/2"><strong>Musical Audio Repurposing using Source Separation</strong></a><br>
+Prof Mark Plumbley (PI, Surrey), Dr Nick Bryan-Kinns, Dr Josh Reiss, Dr Panos Kudumakis, Dr Simon Dixon, Prof Mark Sandler, and 5 others (Surrey)<br>
+EPSRC Grant EP/L027119/2, £856,793, 2015-2018</p>
 <p><a href="http://www.eecs.qmul.ac.uk/%7Eemmanouilb/index.html"><strong>A Machine Learning Framework for Audio Analysis and Retrieval</strong></a><br>Dr Emmanouil Benetos<br>RAEng Research Fellowship RF/128, £505,588, 2015-2020           
 <p><a href="http://dml.city.ac.uk/"><strong>Digital Music Lab - Analysing Big Music Data</strong></a><br>Dr Tillman Weyde (City University London, PI) plus CIs at 
 QMUL (Plumbley, Dixon) and 5 others (at City University London, 
 University College London, The British Library).<br>
-AHRC Grant /L01016X/1, £560,000 (QMUL component £153,093), 2014-15. </p>
+AHRC Grant AH/L01016X/1, £560,000 (QMUL component £153,093), 2014-15. </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L020505/1"><strong>Structured machine listening for soundscapes with multiple birds</strong></a><br>Dr Dan Stowell.<br>
 EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L01632X/1"><strong>EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology</strong></a><br>
@@ -32,7 +41,7 @@ EPSRC Grant EP/J010375/1, £572,750, 2012-2015</p>
 Dr Andrew McPherson<br>EPSRC Grant EP/K032046/1<br>
 £97,982, 2013-14.</p>
 <p><strong>Multisource audio-visual production from user-generated content</strong><br>
-Dr Josh Reiss with Prof Andrea Cavallaro (PI).<br>
+Prof Andrea Cavallaro (PI) and Dr Josh Reiss.<br>
 EPSRC Grant EP/K007491/1, £362,889, 2013-2015. </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J017205/1"><strong>Design Patterns for Inclusive Collaboration (DePIC)</strong></a><br>
 Dr Nick Bryan-Kinns (PI), Dr Tony Stockman, Prof Paul Curzon with 
