@@ -6,20 +6,16 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/M507088/1"><strong> 	Audio Data Exploration: New Insights and Value</strong></a><br>
-Dr Simon Dixon (PI) and Prof Mark Plumbley (PI, Surrey)<br>
-EPSRC Grant EP/M507088/1, £77,443, 2014-2015</p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 EPSRC Programme Grant EP/L019981/1, £5,199,944, 2014-2019</p>
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/M507088/1"><strong>Audio Data Exploration: New Insights and Value</strong></a><br>
+Dr Simon Dixon (PI) and Prof Mark Plumbley (PI, Surrey)<br>
+EPSRC Grant EP/M507088/1, £77,443, 2014-2015</p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L027119/2"><strong>Musical Audio Repurposing using Source Separation</strong></a><br>
 Prof Mark Plumbley (PI, Surrey), Dr Nick Bryan-Kinns, Dr Josh Reiss, Dr Panos Kudumakis, Dr Simon Dixon, Prof Mark Sandler, and 5 others (Surrey)<br>
 EPSRC Grant EP/L027119/2, £856,793, 2015-2018</p>
 <p><a href="http://www.eecs.qmul.ac.uk/%7Eemmanouilb/index.html"><strong>A Machine Learning Framework for Audio Analysis and Retrieval</strong></a><br>Dr Emmanouil Benetos<br>RAEng Research Fellowship RF/128, £505,588, 2015-2020           
-<p><a href="http://dml.city.ac.uk/"><strong>Digital Music Lab - Analysing Big Music Data</strong></a><br>Dr Tillman Weyde (City University London, PI) plus CIs at 
-QMUL (Plumbley, Dixon) and 5 others (at City University London, 
-University College London, The British Library).<br>
-AHRC Grant AH/L01016X/1, £560,000 (QMUL component £153,093), 2014-15. </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L020505/1"><strong>Structured machine listening for soundscapes with multiple birds</strong></a><br>Dr Dan Stowell.<br>
 EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L01632X/1"><strong>EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology</strong></a><br>
@@ -33,19 +29,15 @@ Prof Mark Plumbley (PI) and others (Bryan-Kinns, Chew, Dixon, Healey, Kudumakis,
 EPSRC Grant EP/K009559/1, £1,161,334, 2013-18. </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K003569/1"><strong>Digital Economy IT as a Utility Network+</strong></a><br>
 Prof Mark Sandler (CI) at Queen Mary, plus 4 other partners.<br>
-EPSRC Grant EP/K003569/1, £1,480,940, 2012-2015 </p>
+EPSRC Grant EP/K003569/1, £1,480,940, 2012-2016 </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J010375/1"><strong>Semantic Media: a new paradigm for navigable content for the 21st Century</strong></a><br>
 Prof Mark Sandler and Dr Panos Kudmakis<br>
 EPSRC Grant EP/J010375/1, £572,750, 2012-2015</p>
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K032046/1"><strong>Hackable Instruments: Musical Interface Design for Appropriation, Modification and Creative Destruction</strong></a><br>
-Dr Andrew McPherson<br>EPSRC Grant EP/K032046/1<br>
-£97,982, 2013-14.</p>
-<p><strong>Multisource audio-visual production from user-generated content</strong><br>
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K007491/1"><strong>Multisource audio-visual production from user-generated content</strong></a><br>
 Prof Andrea Cavallaro (PI) and Dr Josh Reiss.<br>
 EPSRC Grant EP/K007491/1, £362,889, 2013-2015. </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J017205/1"><strong>Design Patterns for Inclusive Collaboration (DePIC)</strong></a><br>
-Dr Nick Bryan-Kinns (PI), Dr Tony Stockman, Prof Paul Curzon with 
-Dr Michael Proulx (Bath) and Prof Atau Tanaka (Goldsmiths).<br>
+Dr Nick Bryan-Kinns (PI), Dr Tony Stockman, Prof Paul Curzon with Dr Michael Proulx (Bath) and Prof Atau Tanaka (Goldsmiths).<br>
 EPSRC Grants  EP/J017205/1 &amp; EP/J018120/1, £917,988 (£787,237 to QMUL), 2012-2015.</p>
 <p><a href="http://www.fi.dk/tilskud/bevillingsoversigter/2011/bevillinger-fra-det-strategiske-forskningsraad-programkomiteen-for-strategiske-vaekstteknologier-december-2011"><strong>CoSound: A Cognitive Systems Approach to Enriched and Actionable Information from Audio Streams </strong></a><br>
 Prof Mark Plumbley and Dr Josh Reiss at Queen Mary, plus 13 other partners, led by Dr Jan Larsen, DTU (Denmark)<br>
@@ -56,6 +48,24 @@ AHRC Knowledge Exchange Hub for the Creative Economy, AH/J005142/1, £3,999,848,
 <p><a href="http://matthiasmauch.net/"><strong>Software Systems for Computer-Aided Music Understanding</strong></a><br>
 Dr Matthias Mauch<br>
 RAEng/EPSRC Research Fellowship 10216/108, £433,893, 2012-2016 </p>
+<p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy
+[Media and Arts Technology]</strong></a><br>
+Prof Mark Sandler, Prof Pat Healey,
+Prof Mark Plumbley, and others.<br>
+EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467,
+2009-2017.</p>
+
+
+
+Recent Research Funding
+-------
+
+<p><a href="http://dml.city.ac.uk/"><strong>Digital Music Lab - Analysing Big Music Data</strong></a><br>Dr Tillman Weyde (City University London, PI) plus CIs at 
+QMUL (Plumbley, Dixon) and 5 others (at City University London, University College London, The British Library).<br>
+AHRC Grant AH/L01016X/1, £560,000 (QMUL component £153,093), 2014-15. </p>
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K032046/1"><strong>Hackable Instruments: Musical Interface Design for Appropriation, Modification and Creative Destruction</strong></a><br>
+Dr Andrew McPherson<br>EPSRC Grant EP/K032046/1<br>
+£97,982, 2013-14.</p>
 <p><a href="http://www.soundsoftware.ac.uk/"><strong>SoundSoftware.ac.uk (Sustainable Software for Digital Music and Audio Research)</strong></a><br>
 Prof Mark Plumbley, Prof Mark Sandler, Dr Josh Reiss, Dr Simon Dixon,
 Dr Nick Bryan-Kinns, Chris Cannam<br>
@@ -65,21 +75,10 @@ Dr Andrew Robertson
 <br>
 RAEng/EPSRC Research Fellowship, £426,000, 
 2009-2014.</p>
-<p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy
-[Media and Arts Technology]</strong></a><br>
-Prof Mark Sandler, Prof Pat Healey,
-Prof Mark Plumbley, and others.<br>
-EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467,
-2009-2017.</p>
 <p><strong><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G007144/1">Machine Listening using Sparse Representations</a></strong><br>
 Prof Mark Plumbley<br>
 EPSRC Leadership Fellowship
 <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G007144/1">EP/G007144/1</a>, £1,236,776, 2008-2013.<br><br></p>
-
-
-Recent Research Funding
--------
-
 <p><strong>Making Musical Mood Metadata (M4)</strong><br>
 Prof Mark Sandler, Prof Mark Plumbley, Dr Simon Dixon and Dr Panos Kudumakis at Queen Mary<br>
 Partners: BBC, I Like Music<br>
