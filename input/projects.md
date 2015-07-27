@@ -31,7 +31,7 @@ EPSRC Grant EP/K009559/1, £1,161,334, 2013-18. </p>
 Prof Mark Sandler (CI) at Queen Mary, plus 4 other partners.<br>
 EPSRC Grant EP/K003569/1, £1,480,940, 2012-2016 </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J010375/1"><strong>Semantic Media: a new paradigm for navigable content for the 21st Century</strong></a><br>
-Prof Mark Sandler and Dr Panos Kudmakis<br>
+Prof Mark Sandler and Dr Panos Kudumakis<br>
 EPSRC Grant EP/J010375/1, £572,750, 2012-2015</p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K007491/1"><strong>Multisource audio-visual production from user-generated content</strong></a><br>
 Prof Andrea Cavallaro (PI) and Dr Josh Reiss.<br>
@@ -67,7 +67,7 @@ AHRC Grant AH/L01016X/1, £560,000 (QMUL component £153,093), 2014-15. </p>
 Dr Andrew McPherson<br>EPSRC Grant EP/K032046/1<br>
 £97,982, 2013-14.</p>
 <p><a href="http://www.soundsoftware.ac.uk/"><strong>SoundSoftware.ac.uk (Sustainable Software for Digital Music and Audio Research)</strong></a><br>
-Prof Mark Plumbley, Prof Mark Sandler, Dr Josh Reiss, Dr Simon Dixon,
+Prof Mark Plumbley, Prof Mark Sandler, Dr Josh Reiss, Dr Simon Dixon, Dr Panos Kudumakis,
 Dr Nick Bryan-Kinns, Chris Cannam<br>
 EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/H043101/1">EP/H043101/1</a>, £947,057, 2010-2014</p>
 <p><strong><a href="http://www.eecs.qmul.ac.uk/%7Eandrewr/">Intelligent Interactive Musical Performance Systems</a></strong><br>
