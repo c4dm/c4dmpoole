@@ -10,7 +10,8 @@ Current Research Funding
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 EPSRC Programme Grant EP/L019981/1, £5,199,944, 2014-2019</p>
 
-<p><strong>Informed Transcription of Note Strengths from an Audio Recording Note-level, Probabilistic Transcription of Sung Melody</strong><br>
+<p><strong>Informed Transcription of Note Strengths from an Audio Recording</strong>
+<strong> Note-level, Probabilistic Transcription of Sung Melody</strong><br>
 Elaine Chew (C4DM Partner)<br>
 Yamaha Corporation Japan Internships, &#165;1,076,000, 2015</p>
 
