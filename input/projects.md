@@ -9,6 +9,40 @@ Current Research Funding
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 EPSRC Programme Grant EP/L019981/1, £5,199,944, 2014-2019</p>
+
+<p><strong>Informed Transcription of Note Strengths from an Audio Recording Note-level, Probabilistic Transcription of Sung Melody</strong><br>
+Elaine Chew (C4DM Partner)<br>
+Yamaha Corporation Japan Internships, &#165;1,076,000, 2015</p>
+
+<p><a href="http://mupae.blogspot.com/2015/03/dorien-herremans-wins-marie-curie.html"><strong>MorpheuS: Hybrid Machine Learning-Optimization Techniques to Generate Structured Music through Morphing and Fusion</strong></a><br>
+Elaine Chew (Host PI), Dorien Herremans<br>
+Marie Slodowska-Curie Action Postdoctoral Fellowship, €183,455, 2015-2017</p>
+
+<p><a href="http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16092"><strong>Computational Music Structure Analysis</strong></a><br>
+Meinard Mueller (PI, Audiolabs-Erlangen), Juan Bello (NYU), Elaine Chew<br>
+Dagstuhl Seminar, local expenditures for 30 participants, 2016.</p>
+
+<p><a href="http://mcm2015.qmul.ac.uk/"><strong>International Conference on Mathematics and Computation in Music</strong></a><br>
+Elaine Chew (PI), Oscar Bandtlow<br>
+Institute of Musical Research, £500, 2015.</p>
+
+<p><a href="http://mcm2015.qmul.ac.uk/"><strong>International Conference on Mathematics and Computation in Music</strong></a><br>
+Oscar Bandtlow (PI), Elaine Chew<br>
+London Mathematical Society Financial Support for Conferences—Scheme I Grant, £4,000, 2014-2015.</p>
+
+<p><a href="http://www.lorentzcenter.nl/lc/web/2015/669/info.php3?wsid=669"><strong>Music Similarity: Concepts, Cognition, and Computation</strong></a><br>
+Anja Volk (PI, U. Utrecht), Elaine Chew, Elizabeth Margulis (U. Arkansas), Christina Anagnostopoulou (N&K U. Athens)<br>
+Lorentz Center Workshop, €7,700, 2014-2015.</p>
+
+<p><a href="https://sites.google.com/site/mathemusicalconversations/"><strong>Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition</strong></a><br>
+Elaine Chew (Organizer), Bernard Lanskey (NUS), Gerard Assayag (Ircam), Craig De Wilde (NUS)<br>
+National University of Singapore, various sources, total approx. SG$100,000, 2013-2015.</p>
+
+<p><a href="http://mupae.blogspot.com/search?q=yamaha"><strong>New Technologies for Piano Learning</strong></a><br>
+Elaine Chew (C4DM Partner)<br>
+EPSRC PhD Case Studentship with Yamaha R&D London, £15,600, 2012-2015.</p>
+
+
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/M507088/1"><strong>Audio Data Exploration: New Insights and Value</strong></a><br>
 Dr Simon Dixon (PI) and Prof Mark Plumbley (PI, Surrey)<br>
 EPSRC Grant EP/M507088/1, £77,443, 2014-2015</p>
