@@ -9,7 +9,7 @@ The Conference itself started with a thorough background of sound synthesis and 
 
 Friday began with a keynote by [Derry Fitzgerald](http://nimbus.cit.ie/author/derry/) from Cork Institute of Technology, who discussed the state of the art in source separation and its applications in real world record production, including upmixing of Beachboys tracks. Following this topics such as: implementing audio plugins in Web Audio was presented by Jari Kleimola and Oliver Larkin, Predicting Rhythm with Neural Networks, by Andrew J. Lambert, and applications of Genetic Algorithms within musical composition by Róisín Loughran.
 
-Saturday started with a Keynote from Canadian composer [Barry Truax](www.sfu.ca/~truax) who gave an overview of his composition techniques and aesthetic ideas by referring to his extensive online archive. Presentations on MIR, perception and performance analysis were then presented, including Alex Wilson's analysis of how mixing engineers move around the mix space and Timbral Control of Granular Synthesis by Diemo Schwarz.
+Saturday started with a Keynote from Canadian composer [Barry Truax](http://www.sfu.ca/~truax) who gave an overview of his composition techniques and aesthetic ideas by referring to his extensive online archive. Presentations on MIR, perception and performance analysis were then presented, including Alex Wilson's analysis of how mixing engineers move around the mix space and Timbral Control of Granular Synthesis by Diemo Schwarz.
 
 
 The C4DM related papers presented were:
