@@ -1,4 +1,4 @@
-Title: Listening in the Wild 2015
+title: Listening in the Wild 2015
 -------------------------------
 
 <p><strong>Listening in the Wild: Animal and machine audition in multisource environments</strong><br />&nbsp;&nbsp; Research workshop, QMUL, London<br />&nbsp;&nbsp; Fri 28th August, 10:30am-5pm<br /><br /><em>* How do animals recognise sounds in noisy multisource environments?</em><br /><em>* How should machines recognise sounds in noisy multisource environments?</em><br /><br />This workshop will bring together researchers in engineering disciplines (machine listening, signal processing, computer science) and biological disciplines (bioacoustics, ecology, perception and cognition), to discuss complementary perspectives on making sense of natural and everyday sound.</p>
