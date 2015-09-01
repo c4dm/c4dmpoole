@@ -34,7 +34,7 @@ title: Listening in the Wild 2015
 <p><strong><br /></strong></p>
 
 <p><strong>LIST OF ATTENDEES:</strong></p>
-<p>See <a href="litw2015attendees.pdf">Listening in the Wild 2015 list of attendees</a>.</p>
+<p>See <a href="/events/litw2015/litw2015attendees.pdf">Listening in the Wild 2015 list of attendees</a>.</p>
 <p><strong><br /></strong></p>
 
 <p><strong>PREVIOUS EVENT:</strong></p>
