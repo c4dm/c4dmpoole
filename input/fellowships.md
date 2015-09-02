@@ -10,7 +10,7 @@ Postdoctoral Research Assistant opportunities
 
 We sometimes have openings Postdoctoral Research Assistants funded by research projects. These jobs will be advertised on the university's Human Resources (HR) website, see:
 
-* [Teaching and Research Jobs](http://webapps.qmul.ac.uk/hr/vacancies/jobs.php?c=1)<br>(look out for "School of Electronic Engineering and Computer Science")
+* [Academic and Research Jobs](https://webapps2.is.qmul.ac.uk/jobs/jobs.action?classID=1)<br>(look out for "School of Electronic Engineering and Computer Science")
 They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also provides an email update service.
 
 <br>
@@ -26,7 +26,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 <br>More details: [https://www.epsrc.ac.uk/skills/fellows/](https://www.epsrc.ac.uk/skills/fellows/)
 
 <b>RAEng Research Fellowships</b>
-<br>These provide support for high-quality engineers and encourage them to develop successful academic research careers. Applicants may be about to finish their PhD or have up to three years Post-Doctoral research experience. The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector.
+<br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to three years Post-Doctoral research experience.
 <br>Deadline: 14 September 2015
 <br>More details: [http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
 
