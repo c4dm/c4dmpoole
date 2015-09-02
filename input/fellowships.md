@@ -8,11 +8,9 @@ title: Postdoctoral Research Opportunities and Fellowships
 Postdoctoral Research Assistant opportunities
 -------
 
-<p>We sometimes have openings Postdoctoral Research Assistants funded by research projects. These jobs will be advertised on the university's Human Resources (HR) website, see:</p>
-<ul>
-<li>[http://webapps.qmul.ac.uk/hr/vacancies/jobs.php?c=1](Teaching and Research Jobs)<br>(look out for "School of Electronic Engineering and Computer Science")</li>
-</ul>
-<p>They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also provides an email update service.</p>
+We sometimes have openings Postdoctoral Research Assistants funded by research projects. These jobs will be advertised on the university's Human Resources (HR) website, see:
+* [http://webapps.qmul.ac.uk/hr/vacancies/jobs.php?c=1](Teaching and Research Jobs)<br>(look out for "School of Electronic Engineering and Computer Science")
+They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also provides an email update service.
 
 
 Fellowship Schemes
@@ -21,7 +19,7 @@ Fellowship Schemes
 As well as Research Assistants funded by projects, we can also help people who wish to apply for their own funding via a postdoctoral Research Fellowship to carry our research work with us. A number of schemes are available, with varying eligibility: some of these schemes are detailed below.
 
 <b>Royal Society University Research Fellowships</b>
-The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
+<br>The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
 Deadline: 17 September 2013
 More details: [http://royalsociety.org/grants/schemes/university-research/](http://royalsociety.org/grants/schemes/university-research/)
 
