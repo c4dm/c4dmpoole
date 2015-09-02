@@ -9,9 +9,11 @@ Postdoctoral Research Assistant opportunities
 -------
 
 We sometimes have openings Postdoctoral Research Assistants funded by research projects. These jobs will be advertised on the university's Human Resources (HR) website, see:
-* [http://webapps.qmul.ac.uk/hr/vacancies/jobs.php?c=1](Teaching and Research Jobs)<br>(look out for "School of Electronic Engineering and Computer Science")
+
+* [Teaching and Research Jobs](http://webapps.qmul.ac.uk/hr/vacancies/jobs.php?c=1)<br>(look out for "School of Electronic Engineering and Computer Science")
 They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also provides an email update service.
 
+<br>
 
 Fellowship Schemes
 -------
