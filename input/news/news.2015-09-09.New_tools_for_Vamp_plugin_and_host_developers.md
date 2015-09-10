@@ -12,8 +12,8 @@ you release it. The tester is a host that knows how to load a plugin,
 run 20 different categories of test on it, and give diagnostic warnings
 and errors.
 
-http://vamp-plugins.org/forum/index.php/topic,290.0.html
-https://code.soundsoftware.ac.uk/projects/vamp-plugin-tester
+[http://vamp-plugins.org/forum/index.php/topic,290.0.html](http://vamp-plugins.org/forum/index.php/topic,290.0.html)
+[https://code.soundsoftware.ac.uk/projects/vamp-plugin-tester](https://code.soundsoftware.ac.uk/projects/vamp-plugin-tester)
 
 
 ##Vamp Test Plugin v1.1
@@ -21,7 +21,7 @@ https://code.soundsoftware.ac.uk/projects/vamp-plugin-tester
 A plugin that generates fixed test data, for use by host developers.
 Less immediately relevant than the plugin tester.
 
-https://code.soundsoftware.ac.uk/projects/vamp-test-plugin
+[https://code.soundsoftware.ac.uk/projects/vamp-test-plugin](https://code.soundsoftware.ac.uk/projects/vamp-test-plugin)
 
 
 ##jVamp v1.3
@@ -29,4 +29,4 @@ https://code.soundsoftware.ac.uk/projects/vamp-test-plugin
 An adapter for loading native Vamp plugins into host applications
 written in Java or other JVM languages (using JNI).
 
-https://code.soundsoftware.ac.uk/projects/jvamp
+[https://code.soundsoftware.ac.uk/projects/jvamp](https://code.soundsoftware.ac.uk/projects/jvamp)
