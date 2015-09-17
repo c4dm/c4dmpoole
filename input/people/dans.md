@@ -25,7 +25,7 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 
 **2015 and forthcoming**
 
-D. Stowell, D. Giannoulis, E. Benetos, M. Lagrange and M. D. Plumbley, [Detection and Classification of Audio Scenes and Events](http://dx.doi.org/10.1109/TMM.2015.2428998). *IEEE Transactions on Multimedia* 17(10), 1733-1746, 2015.
+D. Stowell, D. Giannoulis, E. Benetos, M. Lagrange and M. D. Plumbley, **[Detection and Classification of Audio Scenes and Events](http://dx.doi.org/10.1109/TMM.2015.2428998)**. *IEEE Transactions on Multimedia* 17(10), 1733-1746, 2015.
 
 D. Stowell and D. Clayton, **[Acoustic event detection for multiple overlapping similar sources](http://arxiv.org/abs/1503.07150)**, *Proceedings of WASPAA 2015*, accepted.
 
