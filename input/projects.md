@@ -6,9 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
+<p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
-EPSRC Programme Grant EP/L019981/1, £5,199,944, 2014-2019</p>
+<a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
 
 <p><strong>Informed Transcription of Note Strengths from an Audio Recording</strong>
 <strong> Note-level, Probabilistic Transcription of Sung Melody</strong><br>
