@@ -52,6 +52,6 @@ For the <b>[Demos & Late-Breaking News](http://ismir2015.uma.es/demosandlate.htm
 
 In the <b>[Unconference](http://ismir2015.uma.es/unconference.html)</b> session, C4DM members co-organised a discussion on [Big Data for Musicology](https://docs.google.com/presentation/d/1fVLjzYIeYY1AoFvDhZ2gd3ZW9-UyTWcL3JEMUCTsF_0/edit#slide=id.ge6671e5b7_0_0) (Tillman Weyde, Emmanouil Benetos, Daniel Wolff)
 
-Finally, on the organisational side, the following C4DM members were members of the <b>programme committee</b>: Emmanouil Benetos, Simon Dixon, Sebastian Ewert, George Fazekas, Matthias Mauch; and Bob Sturm chaired the oral session on Music Similarity.
+Finally, on the organisational side, the following C4DM members were members of the <b>programme committee</b>: Emmanouil Benetos, Simon Dixon, Sebastian Ewert, George Fazekas, Dorien Herremans, Matthias Mauch; and Bob Sturm chaired the oral session on Music Similarity.
 
 <i>(Author: Emmanouil Benetos - 2nd November 2015)</i>
