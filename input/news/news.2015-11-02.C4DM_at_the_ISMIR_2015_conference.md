@@ -8,8 +8,8 @@ Queen Mary University of London, and more specifically its Centre for Digital Mu
 
 On <b>Tutorials</b>, the following were co-organised by C4DM members:
 
-* [Why singing is interesting (Simon Dixon, Masataka Goto, Matthias Mauch)](http://ismir2015.uma.es/tutorialschedule.html#tutorial1). [Slides (PDF)](http://ismir2015.uma.es/docs/ISMIR2015tutorial_Singing.pdf)
-* [Automatic music transcription (Zhiyao Duan, Emmanouil Benetos)](http://ismir2015.uma.es/tutorialschedule.html#tutorial6). [Slides & Material](http://c4dm.eecs.qmul.ac.uk/ismir15-amt-tutorial)
+* [Why singing is interesting](http://ismir2015.uma.es/tutorialschedule.html#tutorial1) (Simon Dixon, Masataka Goto, Matthias Mauch). [Slides (PDF)](http://ismir2015.uma.es/docs/ISMIR2015tutorial_Singing.pdf)
+* [Automatic music transcription](http://ismir2015.uma.es/tutorialschedule.html#tutorial6) (Zhiyao Duan, Emmanouil Benetos). [Slides & Material](http://c4dm.eecs.qmul.ac.uk/ismir15-amt-tutorial)
 
 On <b>Keynotes</b>, Prof. Mark Sandler gave a talk on ["Integrating music information sources for music production and consumption"](http://ismir2015.uma.es/keynotespeakers.html#keynote1).
 
@@ -27,14 +27,14 @@ For the <b>[MIREX 2015](http://www.music-ir.org/mirex/wiki/2015:MIREX2015_Result
 * Chris Cannam, Emmanouil Benetos, Matthias Mauch, Matthew E. P. Davies, Simon Dixon, Christian Landone, Katy Noland, and Dan Stowell, ["MIREX 2015: VAMP Plugins from the Centre for Digital Music"](http://www.music-ir.org/mirex/abstracts/2015/CC1.pdf). Participated in the following tasks: Music Structure Segmentation, Audio Onset Detection, Audio Tempo Estimation, Audio Key Detection, Audio Beat Tracking, Audio Chord Estimation, Multiple Fundamental Frequency Estimation & Note Tracking. 
 * Emmanouil Benetos and Tillman Weyde, ["Multiple-F0 estimation and note tracking for MIREX 2015 using a sound state-based spectrogram factorization model"](http://www.music-ir.org/mirex/abstracts/2015/BW1.pdf). Participated in the Multiple Fundamental Frequency Estimation & Note Tracking task.
 
-In addition, C4DM co-organised the task on [Music/Speech Classification and Detection](http://www.music-ir.org/mirex/wiki/2015:Music/Speech_Classification/Detection) (task captains: Tillman Weyde, Aggelos Pikrakis, Emmanouil Benetos, Daniel Wolff, Dan Tidhar)
+In addition, C4DM co-organised the MIREX 2015 task on [Music/Speech Classification and Detection](http://www.music-ir.org/mirex/wiki/2015:Music/Speech_Classification/Detection) (task captains: Tillman Weyde, Aggelos Pikrakis, Emmanouil Benetos, Daniel Wolff, Dan Tidhar)
 
 
 At the <b>[Business Meeting](http://ismir2015.uma.es/othersessions.html#meeting)</b>, Dr Simon Dixon as President of ISMIR presented the society's work and activities to the community.
 
 <p><img src="/news/images/ismir15_simon.jpg" width="50%" /></p>
 
-For the <b>[Demos & Late-Breaking News](http://ismir2015.uma.es/demosandlate.html)</b> session, the following were presented/authored/coauthored by C4DM members:
+For the <b>[Demos & Late-Breaking News](http://ismir2015.uma.es/demosandlate.html)</b> session, the following submissions were authored/coauthored by C4DM members:
 
 * [Faults in the Latin Music Database and with its Use](http://ismir2015.uma.es/LBD/LBD7.pdf) (Bob L. Sturm)
 * [Estimation of the Reliability of Multiple Rhythm Features Extraction from a Single Descriptor](http://ismir2015.uma.es/LBD/LBD11.pdf) (Elio Quinton, Mark Sandler, Simon Dixon)
