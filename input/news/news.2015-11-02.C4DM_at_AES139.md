@@ -1,3 +1,9 @@
+title: C4DM at the 138th Convention of the AES
+
+-------------------
+
+Author: Brecht De Man
+
 ## C4DM at the 139th Convention of the Audio Engineering Society in New York City
 *29 October to 1 November 2015*
 
