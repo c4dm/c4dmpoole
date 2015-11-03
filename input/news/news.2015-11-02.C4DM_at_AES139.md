@@ -1,11 +1,7 @@
-title: C4DM at the 138th Convention of the AES
-
--------------------
-
-Author: Brecht De Man
-
 ## C4DM at the 139th Convention of the Audio Engineering Society in New York City
 *29 October to 1 November 2015*
+
+Brecht De Man
 
 Last weekend saw the [139th Convention of the Audio Engineering Society](http://www.aes.org/events/139/) in Javits Convention Center in New York City. The annual American AES Convention is the world's main event for all things audio, spanning a wide range of topics including loudspeaker design, music production, hearing aids, game audio and perception, and featuring a huge trade show as opposed to its less industry-heavy annual European counterparts. 
 
