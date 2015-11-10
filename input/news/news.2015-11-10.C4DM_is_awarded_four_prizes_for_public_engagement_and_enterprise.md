@@ -10,7 +10,7 @@ The winners of the QMUL [Engagement and Enterprise Awards 2015](http://www.qmul.
 
 <img src="/news/images/awards15-nbk-hunan-group.jpg" style="float: right; clear: both; margin: 10px; max-width: 33%;">
 
-<img src="/news/images/awards15-nbk-hunan-bb.jpg" style="float: right; clear: both; margin: 10px; max-width: 25%;" />
+<!-- <img src="/news/images/awards15-nbk-hunan-bb.jpg" style="float: right; clear: both; margin: 10px; max-width: 25%;" /> -->
 
 * A team led by [Dr Nick Bryan-Kinns](http://www.eecs.qmul.ac.uk/~nickbk/), Dr Ben Bengler and Dr Wei Wang (Hunan University) won the *Inspire* award, recognising their highly innovative *cocreation* and Interactive Art project. The project was called "Kam's Romeo & Juliet: Co-creating Interactive Drama Across Cultures", and involved a [large team](https://twitter.com/nickbknickbk/status/663842572159332352) of collaborators working together.
 
