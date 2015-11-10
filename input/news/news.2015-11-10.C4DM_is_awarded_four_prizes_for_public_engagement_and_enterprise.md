@@ -4,7 +4,7 @@ The winners of the QMUL [Engagement and Enterprise Awards 2015](http://www.qmul.
 
 * [Dr Josh Reiss](http://www.eecs.qmul.ac.uk/~josh/) won the *Academic Commercial Enterprise* award for [LandR](https://www.landr.com/), an online service that performs automatic mastering of your music tracks using intelligent signal analysis.
 
-<img src="/news/images/awards15-warblr-ds.jpg" style="float: right; clear: both; margin: 10px; max-width: 25%;" />
+<img src="/news/images/awards15-warblr-ds.jpg" style="float: right; clear: both; margin: 10px; max-width: 20%;" />
 
 * [Dr Dan Stowell](http://mcld.co.uk/research) and Florence Wilkinson won the *Involve* award for [Warblr](http://warblr.net/), a smartphone app that automatically recognises birds from a simple sound recording. The award recognised the "citizen science" benefit of Warblr, involving the public in collecting audio observations of birds to improve conservation and research.
 
