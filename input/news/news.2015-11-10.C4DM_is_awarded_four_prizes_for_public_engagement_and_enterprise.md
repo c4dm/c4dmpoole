@@ -10,11 +10,11 @@ The winners of the QMUL [Engagement and Enterprise Awards 2015](http://www.qmul.
 
 * A team led by [Dr Nick Bryan-Kinns](http://www.eecs.qmul.ac.uk/~nickbk/), Dr Ben Bengler and Dr Wei Wang (Hunan University)) won the *Inspire* award, recognising their highly innovative *cocreation* and Interactive Art project. The project was called "Kam's Romeo & Juliet: Co-creating Interactive Drama Across Cultures", and involved a [large team](https://twitter.com/nickbknickbk/status/663842572159332352) of collaborators working together.
 
-<img src="/news/images/awards15-nbk-hunan-bb.jpg" style="max-width: 25%; height: 5em;" />
-<img src="/news/images/awards15-nbk-hunan-group.jpg" style="max-width: 50%; height: 5em;" />
+<img src="/news/images/awards15-nbk-hunan-bb.jpg" style="max-width: 25%; float: none;" />
+<img src="/news/images/awards15-nbk-hunan-group.jpg" style="max-width: 50%; float: none;" />
 
 * [Dr Andrew McPherson](http://www.eecs.qmul.ac.uk/~andrewm/) won the *Entrepreneur of the Year* award for TouchKeys, a system to add touch sensitivity to the surface of any piano-style keyboard.
 
 The [DePIC team](http://depic.eecs.qmul.ac.uk/) led by Dr Nick Bryan-Kinns and Dr Tony Stockman were also finalists, for their [accessible peak meter](http://depic.eecs.qmul.ac.uk/apm/) project, which developed a tool that makes music production easier for people with visual impairments.
 
-<img src="/news/images/awards15-peak-meter.jpg" style="max-width: 50%;" />
+<img src="/news/images/awards15-peak-meter.jpg" style="max-width: 50%; float: none;" />
