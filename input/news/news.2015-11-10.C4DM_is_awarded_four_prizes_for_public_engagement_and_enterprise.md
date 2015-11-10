@@ -14,7 +14,7 @@ The winners of the QMUL [Engagement and Enterprise Awards 2015](http://www.qmul.
 
 * A team led by [Dr Nick Bryan-Kinns](http://www.eecs.qmul.ac.uk/~nickbk/), Dr Ben Bengler and Dr Wei Wang (Hunan University) won the *Inspire* award, recognising their highly innovative *cocreation* and Interactive Art project. The project was called "Kam's Romeo & Juliet: Co-creating Interactive Drama Across Cultures", and involved a [large team](https://twitter.com/nickbknickbk/status/663842572159332352) of collaborators working together.
 
-* [Dr Andrew McPherson](http://www.eecs.qmul.ac.uk/~andrewm/) won the *Entrepreneur of the Year* award for TouchKeys, a system to add touch sensitivity to the surface of any piano-style keyboard.
+* [Dr Andrew McPherson](http://www.eecs.qmul.ac.uk/~andrewm/) won the *Entrepreneur of the Year* award for [TouchKeys](http://www.eecs.qmul.ac.uk/~andrewm/touchkeys.html), a system to add touch sensitivity to the surface of any piano-style keyboard. After two successful production runs, TouchKeys is spinning out from QMUL into an independent company.
 
 The [DePIC team](http://depic.eecs.qmul.ac.uk/) led by Dr Nick Bryan-Kinns and Dr Tony Stockman were also finalists, for their [accessible peak meter](http://depic.eecs.qmul.ac.uk/apm/) project, which developed a tool that makes music production easier for people with visual impairments.
 
