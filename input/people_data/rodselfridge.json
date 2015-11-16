@@ -1,8 +1,8 @@
 {
 "name": "Rod Selfridge", 
-"url": "", 
-"acadposition": "", 
-"blurb": "", 
+"url": "https://rodselfridge.wordpress.com/", 
+"acadposition": "PhD Student", 
+"blurb": "Developing real-time physical sound synthesis models. Currently focussed on aeroacoustic sounds", 
 "themes": [
 "audioeng",
 "soundsynthesis"
