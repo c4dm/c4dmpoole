@@ -19,7 +19,7 @@ Day three began with an excellent introduction and summary of Wave Digital filte
 
 * [Identification of metrical structure of music, by Elio from C4DM](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_41.pdf/5f03ebae-8759-4c6c-adb9-dcf56856333b)
 * [research on whether computer games noticeably prefer spacial audio, from York University](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_35.pdf/12202144-c7e5-41c6-a119-c71f53edc603)
-* [discussion and evaluation of feature extraction toolboxes, when to use different feature extraction tools, and how we can develop them in the future, by Dave from C4DM (Honourable Mention for Best Paper Award)](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_43_v2.pdf/06508f48-9272-41c8-9381-7639a0240770)
+* [An evaluation of feature extraction toolboxes by Dave from C4DM (Honourable Mention for Best Paper Award)](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_43_v2.pdf/06508f48-9272-41c8-9381-7639a0240770)
 * [Work on vocal tract modelling from York, PPCU Budapest and KTH Sweden ](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_32.pdf/34a3cec5-9f6b-47f7-ba6b-4ab7bd2ce4cb).
 
 The final days of the conference started with Franz Zotters keynote on Ambisonic Audio Effects and spacialisation of audio. The following presentation session on audio coding including [optimisation of audio latency for Android](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_29.pdf/c20ccc4f-1262-42ae-af5f-4a0b1305d142), some interesting work on virtual analog and physical modelling systems. The session finished with an introduction to DAFx16, which will be hosted in Brno, Czech Republic in September.
