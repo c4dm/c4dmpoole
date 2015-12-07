@@ -18,11 +18,12 @@ Day two opened with Marije Baalmans keynote on the range of hardware and softwar
 Day three began with an excellent introduction and summary of Wave Digital filters and Digital Wave Guides by Kurt Werner and Julius O. Smith from CCRMA, in which the current state of the art in physical modelling no nonlinearities was presented and some potential avenues for future exploration was discussed. Following on from this work was discussed regarding 
 
 * [Identification of metrical structure of music, by Elio from C4DM](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_41_final.pdf/8d8a028d-3e77-4e6e-b4d8-6c0cae12aefd)
-* [Research on whether computer games noticeably prefer spacial audio, from York University](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_35.pdf/12202144-c7e5-41c6-a119-c71f53edc603)
+* [Research on whether computer games noticeably prefer spatial audio, from York University](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_35.pdf/12202144-c7e5-41c6-a119-c71f53edc603)
+* [An approac to efficient estimations of non-linear components, by Giulio from C4DM](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_68.pdf/6c4dbece-fd6e-4efb-a0f4-2864dbd80a43_ 
 * [An evaluation of feature extraction toolboxes by Dave Moffat from C4DM (Honourable Mention for Best Paper Award)](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_43_v2.pdf/06508f48-9272-41c8-9381-7639a0240770)
 * [Work on vocal tract modelling from York, PPCU Budapest and KTH Sweden ](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_32.pdf/34a3cec5-9f6b-47f7-ba6b-4ab7bd2ce4cb).
 
-The final days of the conference started with Franz Zotters keynote on Ambisonic Audio Effects and spacialisation of audio. The following presentation session on audio coding including [optimisation of audio latency for Android](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_29.pdf/c20ccc4f-1262-42ae-af5f-4a0b1305d142), some interesting work on virtual analog and physical modelling systems. The session finished with an introduction to DAFx16, which will be hosted in Brno, Czech Republic in September.
+The final days of the conference started with Franz Zotters keynote on Ambisonic Audio Effects and spatialisation of audio. The following presentation session on audio coding including [optimisation of audio latency for Android](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_29.pdf/c20ccc4f-1262-42ae-af5f-4a0b1305d142), some interesting work on virtual analog and physical modelling systems. The session finished with an introduction to DAFx16, which will be hosted in Brno, Czech Republic in September.
 
 
 
