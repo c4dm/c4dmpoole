@@ -10,7 +10,7 @@ During lunch, as it was getting dark, the snow started, which unfortunately bloc
 
 Day two opened with Marije Baalmans keynote on the range of hardware and software audio effects and synthesisers are available to artists, and how different artists utilise these effects. This talk was focused primarily on small embedded systems that artists use, such as Arduino, Beaglebone Black and Raspberry Pi. Later in the day, some excellent work including 
 
-* Granular Synthesis was presented by [Sadjad Siddiq from Square Enix](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_7.pdf/e66b153c-1b7b-4c29-b13c-83197d5c7c92)
+* [Granular Synthesis was presented by Sadjad Siddiq from Square Enix](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_7.pdf/e66b153c-1b7b-4c29-b13c-83197d5c7c92)
 * [A collaboration on synthesising Percussive Drilling Sounds, between IRCAM and HUT](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_4.pdf/d0e8cd6c-af41-4303-a81b-1c35d78ab5eb)
 * [Using a modal reverberator structure to modify samples from CCRMA](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_72.pdf/6940422d-a958-4698-b861-4aea48a615ee)
 * [work on intelligent multitrack audio subgrouping](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_19_v2.pdf/4f6d9373-5c7f-465a-b083-9f6f8587ff98)
