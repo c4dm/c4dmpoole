@@ -16,6 +16,7 @@ Day two opened with Marije Baalmans keynote on the range of hardware and softwar
 * [work on intelligent multitrack audio subgrouping](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_19_v2.pdf/4f6d9373-5c7f-465a-b083-9f6f8587ff98)
 
 Day three began with an excellent introduction and summary of Wave Digital filters and Digital Wave Guides by Kurt Werner and Julius O. Smith from CCRMA, in which the current state of the art in physical modelling no nonlinearities was presented and some potential avenues for future exploration was discussed. Following on from this work was discussed regarding 
+
 * [Identification of metrical structure of music, by Elio from C4DM](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_41.pdf/5f03ebae-8759-4c6c-adb9-dcf56856333b)
 * [research on whether computer games noticeably prefer spacial audio, from York University](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_35.pdf/12202144-c7e5-41c6-a119-c71f53edc603)
 * [discussion and evaluation of feature extraction toolboxes, when to use different feature extraction tools, and how we can develop them in the future, by Dave from C4DM (Honourable Mention for Best Paper Award)](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_43_v2.pdf/06508f48-9272-41c8-9381-7639a0240770)
@@ -26,6 +27,7 @@ The final days of the conference started with Franz Zotters keynote on Ambisonic
 
 
 <b>Queen Mary Papers</b>
+
 * [Automatic subgrouping of multitrack audio](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_19_v2.pdf/4f6d9373-5c7f-465a-b083-9f6f8587ff98) by David Ronan, David Moffat, Hatice Gunes and Joshua D. Reiss
 * [On comparison of phase alignments of harmonic components](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_25.pdf/82bf5992-cda7-49c7-94b7-9a903776bc0f) by Xue Wen, Xiaoyan Lou and Mark Sandler
 * [Real-time excitation based binaural loudness meters](http://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_44.pdf/f409da1d-5cfb-45b3-b568-5a2afd6000a3) by Dominic Ward, Sean Enderby, Cham Athwal and Joshua Reiss
