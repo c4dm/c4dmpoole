@@ -3,6 +3,7 @@ title: Audio Engineering Research in the Centre for Digital Music
 
 * [**News and reporting**](http://c4dm.eecs.qmul.ac.uk/audioengineering/news/index.html) on our research
 * **Demonstration videos** on [YouTube Channel: Intelligent Sound Engineering](http://www.youtube.com/user/IntelligentSoundEng)
+* Check out our blog, [Intelligent Sound Engineering](https://intelligentsoundengineering.wordpress.com/)
 * [**Academic publications**](http://www.eecs.qmul.ac.uk/~josh/publications.htm)
 
 Some of our current and recent research projects include;
