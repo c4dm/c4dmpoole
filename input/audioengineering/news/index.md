@@ -19,8 +19,10 @@ title: C4DM's Audio Engineering team - News and Press
 * May 4, 2014, Josh Reiss appears on the <a href="http://www.channel4.com/programmes/for-the-love-of-cars/4od#3694559">Channel 4 show For the Love of Cars</a> in a discussion about automotive sound design and an informal comparison of the sound of the Triumph Stag engine against other vehicles.
 * Dec. 19, 2013, MixGenius, and the journey from basic research to start-up, is featured in QMUL's video '<a href="http://www.youtube.com/watch?v=u9tDo3yoXxo">A tale of two start-ups</a>'
 * October 3rd, 2013, Montreal newspaper <a href="http://plus.lapresse.ca/screens/49ca-678c-524c3c97-a473-74a6ac1c606a|_0">La Presse reports</a> on the start-up company <a href="http://mixgeni.us">MixGenius</a>, based on our group's research.
-* September 26, 2013, Queen Mary issues a <a href="http://www.qmul.ac.uk/media/news/items/se/114694.html">press release</a> on the spin-out company  <a href="http://mixgeni.us">MixGenius</a>. 
+* September 26, 2013, Queen Mary issues a <a href="http://www.qmul.ac.uk/media/news/items/se/114694.html">press release</a> on the spin-out company  <a href="http://mixgeni.us">MixGenius</a>.
+
 <img src="http://c4dm.eecs.qmul.ac.uk/audioengineering/news/images/HRH and Reiss.jpg" width="250" height="167" longdesc="Josh Reiss demonstrates automatic music production to HRH Prince Philip" />Josh Reiss presents Automatic Music Production to HRH Duke of Edinburgh at the Royal Academy of Engineering's inauguration of Prince Philip House
+
 * On October 16, 2012, Stuart Mansbridge and Josh Reiss demonstrated Automatic Music Production to HRH Duke of Edinburgh at the Royal Academy of Engineering's inauguration of Prince Philip House.
 * '<a href="http://www.raeng.org.uk/about/fellowship/pdf/newsletter/Autumn_News_2012.pdf">Changing   the Music Industry's Tune</a>' - our automatic music production system work   featured in the Royal Academy of Engineering's Autumn 2012 Newsletter
 * April 23, 2012, our mixing technologies were <a href="featured in The Engineer magazine">featured in The Engineer magazine</a>.
