@@ -1,12 +1,9 @@
 title: C4DM's Audio Engineering team - News and Press 
 -------------------
 
-
-* [**News and reporting**](http://c4dm.eecs.qmul.ac.uk/audioengineering/news/index.html) on our research
 * **Demonstration videos** on [YouTube Channel: Intelligent Sound Engineering](http://www.youtube.com/user/IntelligentSoundEng)
-* [**Academic publications**](http://www.eecs.qmul.ac.uk/~josh/publications.htm)
-
-
+* Check out our [**blog, Intelligent Sound Engineering**](https://intelligentsoundengineering.wordpress.com/)
+* * [**Academic publications**](http://www.eecs.qmul.ac.uk/~josh/publications.htm)
 
        <p><em>Automatic Music Production in the news </em></p>
         <p><img src="http://c4dm.eecs.qmul.ac.uk/audioengineering/news/images/140609_UKTIR_SIDE_0220_for personal use_1.jpg" width="360" height="270" longdesc="Josh Reiss meets her Majesty the Queen at the UK Technology Reception at Buckingham Palace" /></p>
