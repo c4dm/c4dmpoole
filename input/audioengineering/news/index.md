@@ -8,6 +8,7 @@ title: C4DM's Audio Engineering team - News and Press
        <p><em>Automatic Music Production in the news </em></p>
         <p><img src="http://c4dm.eecs.qmul.ac.uk/audioengineering/news/images/140609_UKTIR_SIDE_0220_for personal use_1.jpg" width="360" height="270" longdesc="Josh Reiss meets her Majesty the Queen at the UK Technology Reception at Buckingham Palace" /></p>
         <p>Josh Reiss meets her Majesty the Queen at the UK Technology Reception at Buckingham Palace</p>
+        
 * Jan. 2016, Josh Reiss's research on perception of high resolution audio is discussed in an [editorial in Stereophile magazine](http://www.stereophile.com/content/simple-everything-appears-simple#BLXEcRR3rh5ikOSq.97). 
 * Dec. 16, 2016, [Audiostream reports](http://www.audiostream.com/content/stereophile-reports-proof-high-rez-audibility-over-cd-quality#CIOEDKXXI5r0ABT6.97) on Dr. Reiss's research into high resolution audio perception, leading to further online debate.
 * Dec. 8, 2015, [The Naked Scientists](http://www.thenakedscientists.com), a popular international science radio show, focused on music technology in the most recent episode. It featured an interview with Josh Reiss about [Intelligent Music Production](http://www.thenakedscientists.com/HTML/interviews/interview/1001571/). It was broadcast live by the BBC in the East of England, and also broadcast by BBC Radio 5 Live and ABC Radio National, Australia.
