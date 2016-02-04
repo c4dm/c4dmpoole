@@ -1,5 +1,7 @@
 title: Audio Commons Seminar - Xavier Serra and Frederic Font
 
+----------------
+
 On Tuesday, 9th February 2016, at 11:00am, Xavier Serra and Frederic Font will give a seminar about our joint H2020 funded project Audio Commons.
 
 The talk will take place in the ITL Top Floor Meeting room. 
