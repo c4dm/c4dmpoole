@@ -16,6 +16,9 @@ Gawain Hewitt
 <span style="font-size: 130%;">Title</span></br>
 Breaking barriers to music making through accessible design
 
+<span style="font-size: 130%;">Video</span></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHw8P6THiWs" frameborder="0" allowfullscreen></iframe>
+
 <span style="font-size: 130%;">Abstract</span></br>
 Conventional instruments are designed with non-disabled people in mind. If a person’s impairment is such that they cannot play a musical instrument, then they face an access barrier to music making and they are disabled. Drake Music believe that good musical instrument design can remove this barrier, allowing disabled musicians to develop deep and lasting artistic practice and careers.
 
