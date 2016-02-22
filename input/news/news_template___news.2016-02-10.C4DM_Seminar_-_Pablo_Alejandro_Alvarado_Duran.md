@@ -17,7 +17,7 @@ Pablo Alejandro Alvarado Duran
 Physically-Musically Inspired Probabilistic Models for Audio Content Analysis
 
 <span style="font-size: 130%;">Video</span></br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EHw8P6THiWs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H7O72q5wBdc" frameborder="0" allowfullscreen></iframe>
 
 <span style="font-size: 130%;">Abstract</span></br>
 The aim of audio content analysis in music information research is to estimate musical concepts such as pitch, melody, chords, onset, beat, tempo and rhythm, which are present but hidden in the audio signal. Automatic music transcription (AMT) refers to extraction of a human readable and interpretable description from a recording of a music performance.
