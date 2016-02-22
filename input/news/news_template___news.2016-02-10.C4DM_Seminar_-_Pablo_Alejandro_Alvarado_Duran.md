@@ -25,3 +25,5 @@ We present the design, initial implementation, and results of a Bayesian approac
 
 <span style="font-size: 130%;">Bio</span></br>
 Pablo A. Alvarado is interested in probabilistic approaches for modelling music signals, with a focus on Gaussian processes and kernel methods. Pablo holds an Electronic Engineering degree from Universidad Tecnológica de Pereira, Colombia (UTP), and a MSc in Electric Engineering from the UTP. Pablo is currently a member of C4DM pursuing a PhD at Queen Mary University of London with Dan Stowell.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHw8P6THiWs" frameborder="0" allowfullscreen></iframe>
