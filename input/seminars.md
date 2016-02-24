@@ -18,7 +18,7 @@ Seminar Announcement List and Contact
 
 Past seminars
 --------
-* Shlomo Dubnov: <a href="news.2016-02-23.C4DM_Seminar_-_Shlomo_Dubnov.html">Information theoretic creativity, or how to find the optimal automata for music?</a>
+* Shlomo Dubnov: <a href="/news/news.2016-02-23.C4DM_Seminar_-_Shlomo_Dubnov.html">Information theoretic creativity, or how to find the optimal automata for music?</a>
 * Ichiro Fujinaga: <a href="/news/news_template___news.2016-02-18.C4DM_Seminar_-_Ichiro_Fujinaga.html">The Research Program of the Distributed Digital Music Archives and Libraries Laboratory at McGill University </a>
 * Pablo Alejandro Alvarado Duran: <a href="/news/news_template___news.2016-02-10.C4DM_Seminar_-_Pablo_Alejandro_Alvarado_Duran.html">Physically-Musically Inspired Probabilistic Models for Audio Content Analysis</a> (Video Available)
 * Gawain Hewitt: <a href="/news/news.2016-01-27.C4DM_Seminar_-_Gawain_Hewitt.html">Breaking barriers to music making through accessible design</a> (Video Available)
