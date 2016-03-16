@@ -5,9 +5,18 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
+##2016
+* Zheng MA, "Intelligent tools for multitrack dynamics and frequency processing" (Supervisor: Josh Reiss)
+* Robert TUBB, "Creativity, Exploration and Control in Musical Parameter Spaces" (Supervisor: Simon Dixon)
+* Louis McCallum (Supervisor: Peter McOwan)
+* Sara HEITLINGER, "Talking Plants and a Bug Hotel: Participatory Design of ludic encounters with an urban farming community" (Supervisor: Nick Bryan-Kinns)
+* Shengchen LI, "Expressive timing analysis in classical piano performance by mathematical model selection" (Supervisor: Simon Dixon)
+
 ##2015
 * Sonia WILKIE, "[The effect of audio cues and sound source stimuli on looming perception](/papers/2015/Wilkie-2015-thesis.pdf)" (Supervisor: Tony Stockman)
 * David MECKIN, "Context and Constraint: Designing Novel Technologies for Group Music Making by Young People Who Have Complex Needs" (Supervisor: Nick Bryan-Kinns)
+* Yading SONG, "The Role of Emotion and Context in Musical Preference" (Supervisor: Simon Dixon)
+* Duncan MENZIES, "Technological Support for Highland Piping Tuition and Practice" (Supervisor: Andrew McPherson)
 * Ben BENGLER, "Let’s walk up and play! Design and evaluation of collaborative interactive musical experiences for public settings" (Supervisor: Nick Bryan-Kinns)
 * Peter FOSTER, "[Information-Theoretic Measures of Predictability for Music Content Analysis](http://www.eecs.qmul.ac.uk/~simond/phd/PeterFoster-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Anssi Klapuri)
 
