@@ -8,7 +8,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2016
 * Zheng MA, "Intelligent tools for multitrack dynamics and frequency processing" (Supervisor: Josh Reiss)
 * Robert TUBB, "Creativity, Exploration and Control in Musical Parameter Spaces" (Supervisor: Simon Dixon)
-* Louis McCallum (Supervisor: Peter McOwan)
+* Louis MCCALLUM (Supervisor: Peter McOwan)
 * Sara HEITLINGER, "Talking Plants and a Bug Hotel: Participatory Design of ludic encounters with an urban farming community" (Supervisor: Nick Bryan-Kinns)
 * Shengchen LI, "Expressive timing analysis in classical piano performance by mathematical model selection" (Supervisor: Simon Dixon)
 
