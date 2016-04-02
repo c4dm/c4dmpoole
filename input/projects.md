@@ -15,7 +15,7 @@ Coordinator: UPF (Spain); Participants: Surrey (UK), Jamendo (Luxemburg), Audiog
 EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-2019</p>
 
 <p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH/N504531/1"><strong>DaCaRyH (Data science for the study of calypso-rhythm through history)</strong></a><br>
-Dr Bob Sturm (PI) and Dr Oded Ben-Ta (CI, Kingston)<br>
+Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
 AHRC Grant AH/N504531/1, £79,934, 2016-2017</p>
 
 <p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
