@@ -6,6 +6,22 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N005112/1"><strong>Design for Virtuosity: Modelling and Supporting Expertise in Digital Musical Interaction</strong></a><br>Dr Andrew McPherson.<br>
+EPSRC Fellowship EP/N005112/1, £897,686, 2016-2020.</p>
+
+<p><a href="http://www.audiocommons.org/"><strong>Audio Commons: An Ecosystem for Creative Reuse of Audio Content</strong></a><br>
+Dr George Fazekas (PI, QMUL), Dr Mathieu Barthet (CI, QMUL), Prof Mark Sandler (CI, QMUL)<br>
+Coordinator: UPF (Spain); Participants: Surrey (UK), Jamendo (Luxemburg), Audiogaming (France), Waves Audio (Israel)<br>
+EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-2019</p>
+
+<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH/N504531/1"><strong>DaCaRyH (Data science for the study of calypso-rhythm through history)</strong></a><br>
+Dr Bob Sturm (PI) and Dr Oded Ben-Ta (CI, Kingston)<br>
+AHRC Grant AH/N504531/1, £79,934, 2016-2017</p>
+
+<p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
+Dr Simon Dixon (PI) and Dr Emmanouil Benetos (CI)<br>
+DoReMIR Music Research AB, £63,871, 2015-2016</p>
+
 <p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
