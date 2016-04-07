@@ -41,9 +41,15 @@ def peoplelist(criteria=None):
 	return ret
 
 def publicationslist(year):
-	ret = """<p>Select year: <strong>%i</strong>""" % year
-	for otheryear in range(year-1, 1995, -1):
-		ret += " <a href='pubs%i.html'>%i</a>" % (otheryear, otheryear)
+	actual_year = 2016
+	# NOTE: The current year is static, so this needs to be updated as a new publication
+	#       page is created. Alternatively, do from datetime import date; actual_year = date.today().year
+	ret="""<p>Select year: """
+	for future_year in range(actual_year, year, -1): # links to future years
+		ret += " <a href='pubs%i.html'>%i</a>" % (future_year, future_year)
+	ret += """ <strong>%i</strong>""" % year # current year in bold, no link
+	for past_year in range(year-1, 1995, -1): # links to past years
+		ret += " <a href='pubs%i.html'>%i</a>" % (past_year, past_year)
 	ret +="""
 <h2>%i</h2>""" % year
 	# Now load the content pre-rendered by bibtex2html
