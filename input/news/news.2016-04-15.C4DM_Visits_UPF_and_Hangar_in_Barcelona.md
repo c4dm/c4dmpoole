@@ -24,4 +24,4 @@ After the morning poster session, the group got a chance to see the latest resea
 
 A group of three students and two academics also had the chance to visit [Hangar](https://hangar.org/en/), an arts centre in Barcelona. Marta Garcia, the Director of the Research Programmes, showed the group around the making facilities, studios, video editing suite, and audio synth studio.
 
-![Photo of entrance to Hangar](/images/Hangar.jpg "Hangar")
+<img src="/news/images/Hangar.jpg" style="max-width: 50%; float: none; clear: both; text-align: center"  alt="Photo of entrance to Hangar"/>
