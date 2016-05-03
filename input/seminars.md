@@ -16,8 +16,10 @@ Seminar Announcement List and Contact
 * External visitors are welcome to join our <a href="http://www.lists.qmul.ac.uk/sympa/info/eecs-c4dm-seminars">seminar announcement list</a>.
 * For all enquiries, please contact <a href="http://www.eecs.qmul.ac.uk/people/view/21068/sebastian-ewert">Sebastian Ewert</a>.
 
-Past seminars
+Seminars
 --------
+* Adrien Mamou-Mani: <a href="/news/news.2016-05-18.C4DM_Seminar_-_Adrien_Mamou-Mani.html">SmartInstruments: And the physics becomes programmable</a>
+* Yvonne Blokland: <a href="/news/news.2016-05-11.C4DM_Seminar_-_Yvonne_Blokland.html">Towards a Brain-Computer Interface for awareness detection</a>
 * Shlomo Dubnov: <a href="/news/news.2016-02-23.C4DM_Seminar_-_Shlomo_Dubnov.html">Information theoretic creativity, or how to find the optimal automata for music?</a>
 * Ichiro Fujinaga: <a href="/news/news_template___news.2016-02-18.C4DM_Seminar_-_Ichiro_Fujinaga.html">The Research Program of the Distributed Digital Music Archives and Libraries Laboratory at McGill University </a>
 * Pablo Alejandro Alvarado Duran: <a href="/news/news_template___news.2016-02-10.C4DM_Seminar_-_Pablo_Alejandro_Alvarado_Duran.html">Physically-Musically Inspired Probabilistic Models for Audio Content Analysis</a> (Video Available)
