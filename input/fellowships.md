@@ -57,7 +57,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b> Marie Skłodowska-Curie Actions - Individual Fellowships</b>
 <br>An EU Horizon 2020 scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
-<br>Deadline: 10 September 2015
+<br>Deadline: 14 September 2016
 <br>More details: [http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm)
 
 <b>Newton International Fellowships</b>
