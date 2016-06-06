@@ -16,6 +16,21 @@ Seminar Announcement List and Contact
 * External visitors are welcome to join our <a href="http://www.lists.qmul.ac.uk/sympa/info/eecs-c4dm-seminars">seminar announcement list</a>.
 * For all enquiries, please contact <a href="http://www.eecs.qmul.ac.uk/people/view/21068/sebastian-ewert">Sebastian Ewert</a>.
 
+Seminar Videos
+--------
+<!--%
+from datetime import datetime
+posts = [p for p in pages if "post" in p] # get all blog post pages
+posts.sort(key=lambda p: p.get("date"), reverse=True) # sort post pages by date
+for p in posts:
+    if ('seminar' in p.post.lower()) AND ('video' in p.post.lower()) AND ('available' in p.post.lower()) :
+       date = datetime.strptime(p.date, "%Y-%m-%d").strftime("%Y-%m-%d")
+       poststring = p.post.replace('C4DM Seminar - ','')
+       poststring = poststring.replace('C4DM Seminar','')
+       print "* %s: [%s](%s)" % (date,poststring, p.url) # markdown list item
+%-->
+
+
 Seminars (Past and Upcoming)
 --------
 <!--%
