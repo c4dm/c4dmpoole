@@ -16,12 +16,14 @@ Seminar Announcement List and Contact
 * External visitors are welcome to join our <a href="http://www.lists.qmul.ac.uk/sympa/info/eecs-c4dm-seminars">seminar announcement list</a>.
 * For all enquiries, please contact <a href="http://www.eecs.qmul.ac.uk/people/view/21068/sebastian-ewert">Sebastian Ewert</a>.
 
-Seminars
+Seminars (Past and Upcoming)
 --------
-* Adrien Mamou-Mani: <a href="/news/news.2016-05-18.C4DM_Seminar_-_Adrien_Mamou-Mani.html">SmartInstruments: And the physics becomes programmable</a>
-* Yvonne Blokland: <a href="/news/news.2016-05-11.C4DM_Seminar_-_Yvonne_Blokland.html">Towards a Brain-Computer Interface for awareness detection</a>
-* Shlomo Dubnov: <a href="/news/news.2016-02-23.C4DM_Seminar_-_Shlomo_Dubnov.html">Information theoretic creativity, or how to find the optimal automata for music?</a>
-* Ichiro Fujinaga: <a href="/news/news_template___news.2016-02-18.C4DM_Seminar_-_Ichiro_Fujinaga.html">The Research Program of the Distributed Digital Music Archives and Libraries Laboratory at McGill University </a>
-* Pablo Alejandro Alvarado Duran: <a href="/news/news_template___news.2016-02-10.C4DM_Seminar_-_Pablo_Alejandro_Alvarado_Duran.html">Physically-Musically Inspired Probabilistic Models for Audio Content Analysis</a> (Video Available)
-* Gawain Hewitt: <a href="/news/news.2016-01-27.C4DM_Seminar_-_Gawain_Hewitt.html">Breaking barriers to music making through accessible design</a> (Video Available)
-* Derry Fitzgerald: <a href="/news/news.2016-01-13.C4DM_Seminar_-_Derry_FitzGerald.html">Projet - Spatial Audio Separation Using Projections</a>
+<!--%
+from datetime import datetime
+posts = [p for p in pages if "post" in p] # get all blog post pages
+posts.sort(key=lambda p: p.get("date"), reverse=True) # sort post pages by date
+for p in posts:
+    if 'seminar' in p.post.lower():
+       date = datetime.strptime(p.date, "%Y-%m-%d").strftime("%B %d, %Y")
+       print "* [%s](%s) - %s" % (p.post, p.url, date) # markdown list item
+%-->
