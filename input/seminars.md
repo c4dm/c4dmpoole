@@ -24,6 +24,8 @@ posts = [p for p in pages if "post" in p] # get all blog post pages
 posts.sort(key=lambda p: p.get("date"), reverse=True) # sort post pages by date
 for p in posts:
     if 'seminar' in p.post.lower():
-       date = datetime.strptime(p.date, "%Y-%m-%d").strftime("%B %d, %Y")
-       print "* [%s](%s) - %s" % (p.post, p.url, date) # markdown list item
+       date = datetime.strptime(p.date, "%Y-%m-%d").strftime("%Y-%m-%d")
+       poststring = p.post.replace('C4DM Seminar - ','')
+       poststring = poststring.replace('C4DM Seminar','')
+       print "* %s: [%s](%s)" % (date,poststring, p.url) # markdown list item
 %-->
