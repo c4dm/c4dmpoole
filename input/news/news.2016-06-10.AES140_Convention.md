@@ -6,7 +6,7 @@ title: 140th Convention of the Audio Engineering Society in Paris, France
 
 Dave Moffat
 
-Last weekend saw the [140th Convention of the Audio Engineering Society](http://www.aes.org/events/140/) — Europe’s largest gathering of audio professionals from around the globe — is slated for June 4-7 at Paris’ Palais des Congrès. From cutting edge research to fundamentals to practical application, the four-day technical program brings the opportunity to network with and learn from leading audio industry luminaries. Special events — including technical tours of premier production facilities and installs, student focused sessions and a 3 day manufacturer exposition round out the Convention. There was a particular focus on 3D and immersive audio at this Convention.
+Last weekend saw the [140th Convention of the Audio Engineering Society](http://www.aes.org/events/140/) — Europe’s largest gathering of audio professionals from around the globe, take place at Paris’ Palais des Congrès. From cutting edge research to fundamentals to practical application, the four-day technical program brings the opportunity to network with and learn from leading audio industry luminaries. Special events — including technical tours of premier production facilities and installs, student focused sessions and a 3 day manufacturer exposition round out the Convention. There was a particular focus on 3D and immersive audio at this Convention.
 
 A handful of C4DM delegates (**Joshua D. Reiss**, **Brecht De Man**, **Joshua Mycroft** and **Dave Moffat**) were each involved in multiple sessions. 
 
