@@ -16,6 +16,9 @@ Room ENG 209, Electronic Engineering building, Queen Mary University of London, 
 <span style="font-size: 130%;">Title</span></br>
 Cross adaptive processing as musical intervention - Exploring radically new modes of musical interaction in live performance
 
+<span style="font-size: 130%;">Video</span></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TF7oVjVytzo?rel=0" frameborder="0" allowfullscreen></iframe>
+
 <span style="font-size: 130%;">Abstract</span></br>
 The project explores cross-adaptive processing as a drastic intervention in the modes of communication between performing musicians. Digital audio analysis and processing techniques are used to enable features of one sound to inform the processing of another. This allows the actions of one performer to directly influence another performer’s sound, and doing so only by means of the acoustic signal produced by normal musical expression on the instrument. To enable the cross adaptive processing methods, a number of software tools for this kind of musical performance will be developed. Sessions documentation, reflections, software and other material will be available as posts to the project blog. The project is run by the Norwegian University of Technology and Science, Music Technology, Trondheim. We are proud to collaborate with our strong partners at De Montfort University, Maynooth University, Queen Mary University of London and University of California San Diego. Our project is strongly based in practical experimentation with said techniques, and for this we rely on collaboration with a range of finely selected performers. Project leader is professor Øyvind Brandtsegg.
 
