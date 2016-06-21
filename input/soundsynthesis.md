@@ -13,6 +13,7 @@ Some of our current and recent research projects include;
 
 Some relevant, recent publications describing our work include;
 
+* L. Mengual, D. Moffat and J. D. Reiss, [Modal Synthesis of Weapon Sounds](http://www.eecs.qmul.ac.uk/~josh/documents/2016/mengual%20moffat%20reiss%20-%202016.pdf), AES 61st International Conference, London, UK, February 10-12, 2016.
 * G. Durr, L. Peixoto, M. Souza, R. Tanoue and J. D. Reiss, [Implementation and evaluation of dynamic level of audio detail](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Durr%20et%20al%20-%20AES56%20-%202015.pdf), AES 56th International Conference, London, UK, February 11–13, 2015.
 * C. Heinrichs, A. McPherson and A. Farnell. [Human performance of computational sound models for immersive environments](http://www.eecs.qmul.ac.uk/~andrewm/heinrichs-mcpherson-farnell-tns.pdf). The New Soundtrack Journal, 2014. 
 * C. Heinrichs and A. McPherson. [Mapping and interaction strategies for performing environmental sound. IEEE VR Workshop on Sonic Interactions for Virtual Environments](http://www.eecs.qmul.ac.uk/~andrewm/heinrichs-mcpherson-sive.pdf), Minneapolis, USA, 2014. 
