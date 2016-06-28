@@ -20,7 +20,7 @@ Some of our current and recent research projects include;
 * [Gesture-controlled mixing of multichannel audio](http://c4dm.eecs.qmul.ac.uk/audioengineering/gesturecontrol/index.html)
 * [Multitrack segmentation](http://www.eecs.qmul.ac.uk/~stevenh/multi_seg.html)
 * [Intelligent dynamic range compression](http://c4dm.eecs.qmul.ac.uk/audioengineering/compressors/index.html)
-* [Microphone shoot-out](http://brechtdeman.com/research.html) (pairwise and multi-stimuli evaluation)
+* [Microphone shoot-out](http://www.brechtdeman.com/blog/microphone-shootout.html) (pairwise and multi-stimuli evaluation)
  
 [PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications.
 
