@@ -8,7 +8,7 @@ title: Audio Engineering Research in the Centre for Digital Music
 
 Some of our current and recent research projects include;
 
-* [Web Audio Evaluation Tool](https://github.com/BrechtDeMan/WebAudioEvaluationTool)- a browser-based listening test environment. See the [Web Audio Conference](http://www.eecs.qmul.ac.uk/~josh/documents/2016/Jillings%20-%20WAET%20-%202016.pdf) and [Sound and Music Computing](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Jillings%20-%20SMC10%202015.pdf) publications  
+* [Web Audio Evaluation Tool](https://github.com/BrechtDeMan/WebAudioEvaluationTool)- a browser-based listening test environment. See the [Web Audio Conference](http://www.eecs.qmul.ac.uk/~josh/documents/2016/Jillings%20-%20WAET%20-%202016.pdf) and [Sound and Music Computing](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Jillings%20-%20SMC10%202015.pdf) publications and [this demo video](https://youtu.be/aHmgSSVaPRY)
 * [The Open Multitrack Testbed](http://multitrack.eecs.qmul.ac.uk/)
 * [Automatic mixing](http://c4dm.eecs.qmul.ac.uk/audioengineering/automaticmixing/index.html) - Methods for automatic multitrack audio production in real-time
 * [Sound synthesis](soundsynthesis.html)
