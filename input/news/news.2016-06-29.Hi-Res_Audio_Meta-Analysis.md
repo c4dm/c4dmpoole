@@ -12,6 +12,7 @@ Dr Reiss explained:  “One motivation for this research was that people in the 
 
 “Our study is the first attempt to have a thorough and impartial look at whether high res audio can be heard.  We gathered 80 publications, and analysed all available data, even asking authors of earlier studies for their original reports from old filing cabinets. We subjected the data to many forms of analysis. The effect was clear, and there were some indicators as to what conditions demonstrate it most effectively. Hopefully, we can now move forward towards identifying how and why we perceive these differences.”
 
+“Audio purists and industry should welcome these findings,” said Reiss. “Our study finds high-resolution audio has a small but important advantage in its quality of reproduction over standard audio content. Trained listeners could distinguish between the two formats around sixty percent of the time.” 
 
 In addition to training, the research suggested that careful selection of stimuli, including use of long duration samples, 
 may play an important role in the ability to discriminate. 
@@ -19,7 +20,6 @@ Studies that did not show an ability to discriminate were generally more prone t
 Reiss concluded that “the perceived fidelity of an audio recording and playback chain is affected by operating at a resolution higher 
 than the CD standard.”
 
-“Audio purists and industry should welcome these findings,” said Reiss. “Our study finds high-resolution audio has a small but important advantage in its quality of reproduction over standard audio content. Trained listeners could distinguish between the two formats around sixty percent of the time.” Dr. Reiss explained, “One motivation for this research was that people in the audio community endlessly discuss whether the use of high-resolution formats and equipment really makes a difference. Conventional wisdom states that CD quality should be sufficient to capture everything we hear, yet anecdotes abound where individuals claim that hi-res content sounds crisper, or more intense. And people often cherry-pick their favorite study to support whichever side they’re on.” He continued, “We gathered 80 publications in the field, and analyzed all available data, even asking authors of earlier studies for their original reports from old filing cabinets. We subjected the data to many forms of analysis. The effect was clear, and there were some indicators as to what conditions demonstrate it most effectively. Hopefully, we can now move forward towards identifying how and why we perceive these differences, and better experimental design.”
 
 When asked about the type of content for which high-resolution recording and playback most made a difference, Dr. Reiss responded, 
 “The jury is still out. The studies that most showed an effect mainly used jazz and classical music, but this wasn’t exclusive. 
