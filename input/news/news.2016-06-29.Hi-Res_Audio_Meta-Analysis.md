@@ -1,7 +1,7 @@
 ## People can hear the difference in high resolution audio, study finds
 ---
 
-Listeners can hear a difference between standard audio and better-than-CD quality, known as high-resolution audio, according to a new study published in the June issue of the Journal of the Audio Engineering Society (JAES) by Dr. Joshua Reiss of the Centre for Digital Music, Queen Mary University of London (QMUL).
+Listeners can hear a difference between standard audio and better-than-CD quality, known as high-resolution audio, according to a [new study](http://www.aes.org/e-lib/browse.cfm?elib=18296) published in the June issue of the [Journal of the Audio Engineering Society (JAES)](http://www.aes.org/journal/) by Dr. Joshua Reiss of the Centre for Digital Music, Queen Mary University of London (QMUL).
 
 The meta-study compared data from 18 studies involving 450 participants listening to samples of music in different formats. 
 In total, the studies involved over 12,000 different trials where participants were asked to discriminate between formats. 
@@ -28,4 +28,4 @@ Results suggested that listeners often needed to listen to each sample for more 
 but possible factors were mostly overshadowed by training test subjects in critical listening skills specific to the test, and in general,
 good experimental design.”
 
-The Journal of the Audio Engineering Society features peer-reviewed papers reporting research in the audio arts and sciences, along with Section and AES event coverage. Full JAES access is a member-benefit. As an Open Access document, Dr. Reiss’ research can be freely downloaded here: http://www.aes.org/e-lib/browse.cfm?elib=18296
+As an Open Access document, Dr. Reiss’ research can be freely downloaded here: http://www.aes.org/e-lib/browse.cfm?elib=18296
