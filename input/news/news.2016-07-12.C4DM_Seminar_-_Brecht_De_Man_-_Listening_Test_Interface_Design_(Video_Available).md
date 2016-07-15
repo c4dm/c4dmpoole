@@ -16,6 +16,9 @@ Brecht De Man
 <span style="font-size: 130%;">Title</span></br>
 Listening Test Interface Design
 
+<span style="font-size: 130%;">Video</span></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UnbSl1CVKm0?rel=0" frameborder="0" allowfullscreen></iframe>
+
 <span style="font-size: 130%;">Abstract</span></br>
 Perceptual evaluation of audio is a key component in a wide range of research topics, from headphone design over codec quality to emotion in music, and beyond. The design of subjective experiments is a critical task, where adjustment of the parameters has a profound impact on the time and effort spent by the subjects and experimenter, and on the accuracy and reproducibility of the results - or whether there are any results at all. 
 
