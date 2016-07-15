@@ -18,7 +18,7 @@ Listening Test Interface Design
 
 <span style="font-size: 130%;">Video</span></br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UnbSl1CVKm0?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/AT0bRMAuVQMudI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/AT0bRMAuVQMudI" width="560" height="480" frameborder="0" allowfullscreen> </iframe>
 
 <span style="font-size: 130%;">Abstract</span></br>
 Perceptual evaluation of audio is a key component in a wide range of research topics, from headphone design over codec quality to emotion in music, and beyond. The design of subjective experiments is a critical task, where adjustment of the parameters has a profound impact on the time and effort spent by the subjects and experimenter, and on the accuracy and reproducibility of the results - or whether there are any results at all. 
