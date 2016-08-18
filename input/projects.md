@@ -18,6 +18,10 @@ EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-
 Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
 AHRC Grant AH/N504531/1, £79,934, 2016-2017</p>
 
+<p><a href="http://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/newton-fund-programmes/newton-research-collaboration-programme"><strong>Automatic transcription of polyphonic music recordings</strong></a><br>
+Dr Emmanouil Benetos (PI) and Dr Rodrigo Schramm (CI, UFRGS, Brazil)<br>
+RAEng / Newton Research Collaboration Programme award NRCP1617/5/46, £23,759, 2016-2017</p>
+
 <p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
 Dr Simon Dixon (PI) and Dr Emmanouil Benetos (CI)<br>
 DoReMIR Music Research AB, £63,871, 2015-2016</p>
