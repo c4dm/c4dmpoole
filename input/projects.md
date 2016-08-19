@@ -55,15 +55,13 @@ EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 Prof Mark Plumbley (PI) and others (Bryan-Kinns, Chew, Dixon, Healey, Kudumakis, Pearce, Purver, Reiss, Sandler, Stockman, Wiggins).<br>
 EPSRC Grant EP/K009559/1, £1,161,334, 2013-18. </p>
 
-<p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy
-[Media and Arts Technology]</strong></a><br>
+<p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy [Media and Arts Technology]</strong></a><br>
 Prof Mark Sandler, Prof Pat Healey, Prof Mark Plumbley, and others.<br>
 EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467, 2009-2017.</p>
 
 <br>
 
-Recent Research Funding
--------
+<h2>Recent Research Funding</h2>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K003569/1"><strong>Digital Economy IT as a Utility Network+</strong></a><br>
 Prof Mark Sandler (CI) at Queen Mary, plus 4 other partners.<br>
@@ -171,39 +169,49 @@ RAEng Engineering Enterprise Fellowship, £84,927, 2012-2013 </p>
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/H042741/1"><strong>Sandpit: SerenA - Chance Encounters in the Space of Ideas</strong></a><br>
 Prof Geraint Wiggins (CI), plus 5 other partners.<br>
 EPSRC Grant EP/H042741/1, £1,538,295, 2010-2013</p>
+
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/J010383/1"><strong>Robust Incremental Semantic Resources for Dialogue (RISER)</strong></a><br>
 Dr Matt Purver<br>
 EPSRC Grant EP/J010383/1, £96,230, 2012-2013</p>
+
 <p><strong>Measuring and Enhancing Expressive Performance with Digital Musical Instruments: Pilot Study and Research Workshop</strong><br>
 Dr Andrew McPherson and Prof Elaine Chew at Queen Mary, with Prof Daniel Leech-Wilkinson at KCL.<br>
 AHRC 
 Digital Transformations in Arts and Humanities grant AH/J013145/1, £30,000, 2012</p>
+
 <p><a href="http://rdm.c4dm.eecs.qmul.ac.uk/"><strong>Sustainable Management of Digital Music Research Data</strong></a><br>
 Dr Simon Dixon, Chris Cannam, Prof Mark Plumbley<br>
 JISC Managing Research Data Programme 2011-13, DIINNAA, £70,922, 2011-2012</p>
+
 <p><strong><a href="http://www.idyom.org/">Information and Neural Dynamics in the Perception of Musical Structure (IDyOM-2)</a></strong><br>
 Prof Mark Plumbley, Prof Mark Sander and Dr Samer Abdallah at Queen Mary; Prof Geraint Wiggins, Dr Joydeep Bhattacharya, Keith Potter
 and Dr Marcus Pearce at Goldsmiths, University of London.<br>
 EPSRC Grants <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/H013059/1">EP/H013059/1</a>, <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/H01294X/1">EP/H01294X/1</a>, £1,049,131 total, £286,079 to Queen Mary, 2010-2013.</p>
+
 <p><a href="http://linkedbrainz.c4dmpresents.org/"><strong>Linked Music Metadata</strong></a><br>
 Dr Simon Dixon, Prof Mark Sandler<br>
 <a href="http://www.jisc.ac.uk/whatwedo/programmes/inf11/jiscexpo/linkedbrainz.aspx">JISC Grant REPDE001</a>, £94,894, 2010-2011.</p>
+
 <p><a href="http://www.small-project.eu/"><strong>SMALL: Sparse Models, Algorithms, and Learning for Large-scale data</strong></a><br>
 Prof Mark Plumbley<br>
 EU FET-Open Project FP7-ICT-225913, €1.8m total, €388k to Queen Mary, 2009-2012.</p>
+
 <p><strong><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/E045235/1">Platform
 Grant: Centre for Digital Music</a></strong><br>
 Dr Mark Plumbley, Dr Josh Reiss, Prof Mark Sandler, Dr Pat Healey and Dr Nick Bryan-Kinns<br>
 EPSRC Grant EP/E045235/1, £1.2m
 fEC, £1,057,355 to Queen Mary,
 2007-2012.</p>
+
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/H042865/1"><strong>Collaborative Cross Modal Interfaces</strong></a><br>
 Dr Nick Bryan-Kinns and Dr Tony Stockman<br>
 EPSRC Grant EP/H042865/1 (Research in the Wild), £230,927, 2010-2012</p>
+
 <p><a href="http://c4dm.eecs.qmul.ac.uk/m4m/"><strong>Musicology for the masses</strong></a><br>
 Dr Simon Dixon and Prof Mark Sandler<br>
 Partners: BBC, British Library <br>
 EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/I001832/1">EP/I001832/1</a> (Research in the Wild), £250,102, 2010-2012</p>
+
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/H008160/1"><strong>3D Audio Interface for Exploration of Audio Collections</strong></a><br>
 Prof Mark Sander and Dr Panos Kudumakis<br>
 EPSRC Grant EP/H008160/1 (Follow-on Funding), £83,127, 2010-2011.</p>
