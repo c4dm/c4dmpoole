@@ -75,11 +75,6 @@ Event page: [aes-uk.org/wimp/](http://aes-uk.org/wimp/)
 		<td>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/Lee.pdf" target="_blank">pdf</a>]<br>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/Lee.bib">BibTeX</a>]</td>
 	</tr>
 	<tr>
-		<td>Sean McGrath, Adrian Hazzard, Alan Chamberlain and Steve Benford</td>
-		<td>Music production as a job of work</td>
-		<td>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/McGrath.pdf" target="_blank">pdf</a>]<br>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/McGrath.bib">BibTeX</a>]</td>
-	</tr>
-	<tr>
 		<td>Kirk McNally</td>
 		<td>What the masters teach us: New approaches in audio engineering and music production education</td>
 		<td>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/McNally.pdf" target="_blank">pdf</a>]<br>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/McNally.bib">BibTeX</a>]</td>
