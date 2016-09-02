@@ -3,6 +3,8 @@ title: Proceedings of the 2nd AES Workshop on Intelligent Music Production
 
 Event page: [aes-uk.org/wimp/](http://aes-uk.org/wimp/)
 
+Download the proceedings as a [ZIP file](http://c4dm.eecs.qmul.ac.uk/events/wimp2-proceedings/wimp2-proceedings.zip). 
+
 <table>
 	<tr>
 		<td>Aur&eacute;lien Antoine, Duncan Williams and Eduardo Miranda</td>
