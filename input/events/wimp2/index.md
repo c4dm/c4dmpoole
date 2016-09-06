@@ -78,7 +78,7 @@ Download the proceedings as a [ZIP file](http://c4dm.eecs.qmul.ac.uk/events/wimp
 	</tr>
 	<tr>
 		<td>Sean McGrath, Adrian Hazzard, Alan Chamberlain and Steve Benford</td>
-		<td>Music production as a job of work</td>
+		<td>An ethnographic exploration of studio production practice</td>
 		<td>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/McGrath.pdf" target="_blank">pdf</a>]<br>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/McGrath.bib">BibTeX</a>]</td>
 	</tr>
 	<tr>
@@ -100,6 +100,11 @@ Download the proceedings as a [ZIP file](http://c4dm.eecs.qmul.ac.uk/events/wimp
 		<td>Gerard Roma, Emad M. Grais, Andrew J. R. Simpson and Mark D. Plumbley</td>
 		<td>Music remixing and upmixing using source separation</td>
 		<td>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/Roma.pdf" target="_blank">pdf</a>]<br>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/Roma.bib">BibTeX</a>]</td>
+	</tr>
+	<tr>
+		<td>Spyridon Stasis, Jason Hockman and Ryan Stables</td>
+		<td>Descriptor sub-representations in semantic equalisation</td>
+		<td>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/Stasis.pdf" target="_blank">pdf</a>]<br>[<a href="http://c4dm.eecs.qmul.ac.uk/events/wimp2/Stasis.bib">BibTeX</a>]</td>
 	</tr>
 	<tr>
 		<td>Simon Waloschek, Axel Berndt, Benjamin W. Bohl and Aristotelis Hadjakos</td>
