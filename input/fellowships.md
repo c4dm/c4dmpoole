@@ -42,7 +42,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
 <br>For women from developing and emerging economies who are preparing for PhD or post-doctoral study in the physical sciences, engineering and technology at leading universities abroad.
-<br>Deadline: 13 November 2015
+<br>Deadline: 18 November 2016
 <br>More details: [https://www.fftf.slb.com/](https://www.fftf.slb.com/)
 
 <b>Daphne Jackson Trust Fellowships</b>
@@ -62,7 +62,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>Leverhulme Trust Early Career Fellowships</b>
 <br>Offering fifty per cent match-funding for the salary costs of three-year academic research position, the scheme enables early career researchers to undertake a significant piece of publishable work.
-<br>Deadline: 10 March 2016
+<br>Deadline: 2 March 2017
 <br>More details: [https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships](https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships)
 
 <b>Dorothy Hodgkin Fellowship</b>
