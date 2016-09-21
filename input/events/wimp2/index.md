@@ -1,7 +1,7 @@
 title: Proceedings of the 2nd AES Workshop on Intelligent Music Production
 -------------------------------
 
-Event page: [aes-uk.org/wimp/](http://aes-uk.org/wimp/)
+[[Event page](http://aes-uk.org/wimp/)]     [[Pictures](http://c4dm.eecs.qmul.ac.uk/events/wimp2/pictures.html)]
 
 Download the proceedings as a [ZIP file](http://c4dm.eecs.qmul.ac.uk/events/wimp2-proceedings/wimp2-proceedings.zip). 
 
