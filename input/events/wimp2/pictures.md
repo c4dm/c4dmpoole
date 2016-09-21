@@ -4,6 +4,10 @@ title: Pictures of the 2nd AES Workshop on Intelligent Music Production
 
 [Proceedings](http://c4dm.eecs.qmul.ac.uk/events/wimp2/)
 
+Pictures by Alessia Milo. 
+
+Click for high resolution version. 
+
 <table style="width: 100%; border: 0; background-color: white; text-align: center;">
 <tr><td><a href="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/10-58-DSC_0003.JPG"><img src="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/thumbnails/10-58-DSC_0003.JPG" height="228" /></a></td><td><a href="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/11-05-DSC_0003%202.JPG"><img src="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/thumbnails/11-05-DSC_0003%202.JPG" height="228" /></a></td></tr>
 <tr><td><a href="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/11-14-DSC_0001.JPG"><img src="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/thumbnails/11-14-DSC_0001.JPG" height="228" /></a></td><td><a href="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/11-17-DSC_0002.JPG"><img src="http://c4dm.eecs.qmul.ac.uk/events/pictures/wimp2/thumbnails/11-17-DSC_0002.JPG" height="228" /></a></td></tr>
