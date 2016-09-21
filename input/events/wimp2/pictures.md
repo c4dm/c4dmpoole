@@ -1,8 +1,6 @@
 title: Pictures of the 2nd AES Workshop on Intelligent Music Production
 -------------------------------
-[Event page](http://aes-uk.org/wimp/)
-
-[Proceedings](http://c4dm.eecs.qmul.ac.uk/events/wimp2/)
+[[Event page](http://aes-uk.org/wimp/)] [[Proceedings](http://c4dm.eecs.qmul.ac.uk/events/wimp2/)]
 
 Pictures by Alessia Milo. 
 
