@@ -11,7 +11,7 @@ Monday, 17th October, at 2:00pm
 Room Laws:1.22, Laws Building, Queen Mary University of London, Mile End Road, London E1 4NS. Information on how to access the school can be found at <a href="http://www.qmul.ac.uk/docs/about/26065.pdf">here</a>.
 
 <span style="font-size: 130%;">Sponsorship</span></br>
-The event is organized by the Machine Listening Lab and the Centre for Digital Music at Queen Mary University of London; it is co-sponsored by the IEEE Signal Processing Society, UK Chapter.<br />
+The event is organized by the Machine Listening Lab and the Centre for Digital Music at Queen Mary University of London; it is co-sponsored by the IEEE United Kingdom and Ireland Signal Processing Chapter. .<br />
 <img style="width:20em;" src="https://signalprocessingsociety.org/sites/all/themes/evolve_sub/assets/images/sps-logo.png" />
 
 <span style="font-size: 130%;">Speaker</span></br>
