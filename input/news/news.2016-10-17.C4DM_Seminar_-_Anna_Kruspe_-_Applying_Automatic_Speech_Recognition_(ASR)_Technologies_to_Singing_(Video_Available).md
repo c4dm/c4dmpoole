@@ -20,6 +20,9 @@ Anna Kruspe
 <span style="font-size: 130%;">Title</span></br>
 Applying Automatic Speech Recognition (ASR) Technologies to Singing
 
+<span style="font-size: 130%;">Video</span></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0shr0pDQPhU" frameborder="0" allowfullscreen></iframe>
+
 <span style="font-size: 130%;">Abstract</span></br>
 In the past 15 years, the field of Music Information Retrieval (MIR) has
 produced a multitude of interesting approaches for the analysis of
