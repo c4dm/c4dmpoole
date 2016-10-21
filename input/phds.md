@@ -6,6 +6,7 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2016
+* Mi TIAN, "A Cross-Cultural Analysis of Music Structure" (Supervisor: Mark Sandler)
 * Magdalena CHUDY, "Discriminating music performers by timbre: On the relation between instrumental gesture, tone quality and perception in classical cello performance" (Supervisor: Simon Dixon)
 * Zheng MA, "Intelligent tools for multitrack dynamics and frequency processing" (Supervisor: Josh Reiss)
 * Robert TUBB, "Creativity, Exploration and Control in Musical Parameter Spaces" (Supervisor: Simon Dixon)
