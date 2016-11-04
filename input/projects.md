@@ -24,7 +24,7 @@ RAEng / Newton Research Collaboration Programme award NRCP1617/5/46, £23,759, 2
 
 <p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
 Dr Simon Dixon (PI) and Dr Emmanouil Benetos (CI)<br>
-DoReMIR Music Research AB, £63,871, 2015-2016</p>
+DoReMIR Music Research AB, £77,445, 2015-2016</p>
 
 <p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
