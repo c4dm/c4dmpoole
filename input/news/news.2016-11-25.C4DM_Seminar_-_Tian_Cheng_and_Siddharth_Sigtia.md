@@ -30,10 +30,12 @@ Tian Cheng recently completed a Ph.D. at Centre for Digital Music in Queen Mary 
 Siddharth Sigtia
 
 <span style="font-size: 130%;">Title</span></br>
-TBA
+Neural Networks for Analysing Music and Environmental Audio
 
 <span style="font-size: 130%;">Abstract</span></br>
-TBA
+We consider the analysis of music and environmental audio recordings with neural networks. Recently, neural networks have been shown to be an effective family of models for speech recognition, computer vision, natural language processing and a number of other statistical modelling problems. The composite layer-wise structure of neural networks allows for flexible model design, where prior knowledge about the domain of application can be used to inform the design and architecture of the neural network models. Additionally, it has been shown that when trained on large quantities of data, neural networks can be directly applied to low-level features to learn mappings to high level concepts like phonemes in speech and object classes in computer vision. In this work we investigate whether neural network models can be usefully applied to processing music and environmental audio.
 
 <span style="font-size: 130%;">Bio</span></br>
-TBA
+Siddharth Sigtia is currently a researcher at the Siri Speech team at Apple where he investigates neural networks for acoustic modelling for speech recognition. He finished his PhD in Electronics Engineering at the Centre for Digital Music (C4DM) at Queen Mary University of London, where he was supervised by Simon Dixon. Previously, he received a Master's degree in Physics and a Bachelor's degree in Electronics Engineering from BITS, Pilani, India. 
+
+
