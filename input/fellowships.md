@@ -37,7 +37,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
 <br>Research Fellowships in Science and Engineering are intended to give early-career scientists or engineers of exceptional promise an opportunity to conduct a research project of their own instigation. The Fellowship is for a maximum of three years, subject to annual renewal.
-<br>Deadline: 18 February 2016
+<br>Deadline: 16 February 2017
 <br>More details: [http://www.royalcommission1851.org/awards/](http://www.royalcommission1851.org/awards/)
 
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
@@ -52,7 +52,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b> Marie Skłodowska-Curie Actions - Individual Fellowships</b>
 <br>An EU Horizon 2020 scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
-<br>Deadline: 14 September 2016
+<br>Deadline: 14 September 2017
 <br>More details: [http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm)
 
 <b>Newton International Fellowships</b>
@@ -67,5 +67,10 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>Dorothy Hodgkin Fellowship</b>
 <br>This scheme is for outstanding scientists in the UK at an early stage of their research career who require a flexible working pattern due to personal circumstances such as parenting or caring responsibilities or health issues. Female candiates are particularly invited to apply.
-<br>Next call expected: currently closed for applications.
+<br>Next call expected: 24 November 2016
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin/](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin/)
+
+<b>APEX Awards</b>
+<br>The APEX award scheme offers established independent researchers, with a strong track record in their respective area, an exciting opportunity to pursue genuine interdisciplinary and curiosity-driven research to benefit wider society.
+<br>Next call expected: 13 January 2017
+<br>More details: [https://royalsociety.org/grants-schemes-awards/grants/apex-awards/](https://royalsociety.org/grants-schemes-awards/grants/apex-awards/)
