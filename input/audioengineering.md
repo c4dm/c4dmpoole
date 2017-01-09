@@ -8,6 +8,8 @@ title: Audio Engineering Research in the Centre for Digital Music
 
 Some of our current and recent research projects include;
 
+* [Web Audio Evaluation Tool](https://github.com/BrechtDeMan/WebAudioEvaluationTool)- a browser-based listening test environment. See the [Web Audio Conference](http://www.eecs.qmul.ac.uk/~josh/documents/2016/Jillings%20-%20WAET%20-%202016.pdf) and [Sound and Music Computing](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Jillings%20-%20SMC10%202015.pdf) publications and [this demo video](https://youtu.be/aHmgSSVaPRY)
+* [The Open Multitrack Testbed](http://multitrack.eecs.qmul.ac.uk/)
 * [Automatic mixing](http://c4dm.eecs.qmul.ac.uk/audioengineering/automaticmixing/index.html) - Methods for automatic multitrack audio production in real-time
 * [Sound synthesis](soundsynthesis.html)
 * [Spatial audio production and reproduction](http://c4dm.eecs.qmul.ac.uk/audioengineering/spatialaudio/index.html)
@@ -18,7 +20,7 @@ Some of our current and recent research projects include;
 * [Gesture-controlled mixing of multichannel audio](http://c4dm.eecs.qmul.ac.uk/audioengineering/gesturecontrol/index.html)
 * [Multitrack segmentation](http://www.eecs.qmul.ac.uk/~stevenh/multi_seg.html)
 * [Intelligent dynamic range compression](http://c4dm.eecs.qmul.ac.uk/audioengineering/compressors/index.html)
-* [Microphone shoot-out](http://brechtdeman.com/research.html) (pairwise and multi-stimuli evaluation)
+* [Microphone shoot-out](http://www.brechtdeman.com/blog/microphone-shootout.html) (pairwise and multi-stimuli evaluation)
  
 [PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications.
 
