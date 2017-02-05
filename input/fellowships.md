@@ -57,7 +57,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>Newton International Fellowships</b>
 <br>Awards enable early stage postdoctoral researchers to work at UK research institutions for a period of two years. Applicants should be working outside the UK and should not hold UK citizenship.
-<br>Deadline: 9 March 2016
+<br>Deadline: 22 March 2017
 <br>More details: [http://www.newtonfellowships.org/](http://www.newtonfellowships.org/)
 
 <b>Leverhulme Trust Early Career Fellowships</b>
