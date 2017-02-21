@@ -13,11 +13,3 @@ Room 2.16, Electronic Engineering building, Queen Mary University of London, Mil
 <span style="font-size: 130%;">Speaker</span></br>
 Several members of C4DM presenting at IEEE ICASSP 2017.
 
-<span style="font-size: 130%;">Title</span></br>
-TBA
-
-<span style="font-size: 130%;">Abstract</span></br>
----
-
-<span style="font-size: 130%;">Bio</span></br>
----
