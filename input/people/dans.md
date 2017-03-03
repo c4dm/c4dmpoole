@@ -23,15 +23,34 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 
 *For the latest articles see also **[Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)**. Also [on Google Scholar](https://scholar.google.co.uk/citations?user=BXu3q_wAAAAJ).*
 
-**2015 and forthcoming**
+**2017 and forthcoming**
+
+D. Stowell, E. Benetos, and L. F. Gill. **On-bird sound recordings: Automatic acoustic recognition of activities and contexts.** IEEE/ACM Transactions on Audio Speech and Language Processing, in press. [[preprint](https://arxiv.org/abs/1612.05489)]
+
+V. Morfi and D. Stowell. **Deductive refinement of species labelling in weakly labelled birdsong recordings.** In Proc ICASSP 2017, 2017. [[preprint](https://arxiv.org/abs/1603.07173)]
+
+**2016**
+
+D. Stowell, L. F. Gill, and D. Clayton. **[Detailed temporal structure of communication networks in groups of songbirds](http://dx.doi.org/10.1098/rsif.2016.0296)**. Journal of the Royal Society Interface, 13(119), 2016. [[preprint](https://arxiv.org/abs/1601.05449)]
+
+D. Stowell, M. Wood, Ya. Stylianou, and H. Glotin. **Bird detection in audio: a survey and a challenge**. In Proceedings of MLSP 2016. 2016. [[preprint](https://arxiv.org/abs/1608.03417)]
+
+D. Stowell, V. Morfi, and L. F. Gill. **Individual identity in songbirds: signal representations and metric learning for locating the information in complex corvid calls.** In Proceedings of InterSpeech 2016. 2016. [[preprint](https://arxiv.org/abs/1603.07236)]
+
+P. A. Alvarado and D. Stowell. **Gaussian processes for music audio modelling and content analysis**. In Proceedings of MLSP 2016. 2016. [[preprint](https://arxiv.org/abs/1606.01039)]
+
+D. Stowell. **Bird Audio Detection challenge 2016: public data**. 2016. [[dataset](https://figshare.com/articles/Bird_Audio_Detection_Challenge_2016_public_data/3851466)]
+
+
+**2015**
 
 D. Stowell, D. Giannoulis, E. Benetos, M. Lagrange and M. D. Plumbley, **[Detection and Classification of Audio Scenes and Events](http://dx.doi.org/10.1109/TMM.2015.2428998)**. *IEEE Transactions on Multimedia* 17(10), 1733-1746, 2015.
 
-D. Stowell and D. Clayton, **[Acoustic event detection for multiple overlapping similar sources](http://arxiv.org/abs/1503.07150)**, *Proceedings of WASPAA 2015*, accepted.
+D. Stowell and D. Clayton, **[Acoustic event detection for multiple overlapping similar sources](https://doi.org/10.1109/WASPAA.2015.7336885)**, *Proceedings of WASPAA 2015*, 2015. [[preprint](http://arxiv.org/abs/1503.07150)]
 
-D. Stowell, **BirdCLEF 2015 submission: Unsupervised feature learning from audio**, *CLEF 2015 Labs and Workshops, Notebook Papers*, accepted.
+D. Stowell, **BirdCLEF 2015 submission: Unsupervised feature learning from audio**, *CLEF 2015 Labs and Workshops, Notebook Papers*, 2015.
 
-D. Barchiesi, D. Giannoulis, D. Stowell, and M. D. Plumbley, **[Acoustic scene classification](http://arxiv.org/abs/1411.3715)**. *IEEE Signal Processing Magazine*, in press.
+D. Barchiesi, D. Giannoulis, D. Stowell, and M. D. Plumbley, **[Acoustic scene classification: Classifying environments from the sounds they produce](http://dx.doi.org/10.1109/MSP.2014.2326181)**. *IEEE Signal Processing Magazine*, 32(3):16--34, 2015. [[preprint](http://arxiv.org/abs/1411.3715)]
 
 **2014**
 
