@@ -52,6 +52,8 @@ D. Stowell, **BirdCLEF 2015 submission: Unsupervised feature learning from audio
 
 D. Barchiesi, D. Giannoulis, D. Stowell, and M. D. Plumbley, **[Acoustic scene classification: Classifying environments from the sounds they produce](http://dx.doi.org/10.1109/MSP.2014.2326181)**. *IEEE Signal Processing Magazine*, 32(3):16--34, 2015. [[preprint](http://arxiv.org/abs/1411.3715)]
 
+D. Stowell and R. E Turner. [Denoising without access to clean data using a partitioned autoencoder](https://arxiv.org/abs/1509.05982). Technical report, 2015. 
+
 **2014**
 
 <p>D. Stowell, <strong><a href="http://rspb.royalsocietypublishing.org/content/281/1792/20141370.e-letters">Renewal processes and semi-Markov processes in animal vocalisations: A response to Kershenbaum et al.</a></strong> (eLetter). <em>Proceedings of the Royal Society B</em> 281, 2014.
