@@ -105,3 +105,5 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2002
 * Samer ABDALLAH, "[Towards Music Perception by Redundancy Reduction and Unsupervised Learning in Probabilistic Models](https://qmro.qmul.ac.uk/jspui/handle/123456789/3801)" (Supervisor: Mark Plumbley)
 
+
+The [QMUL repository "QMRO" has a section for all QMUL PhD theses](https://qmro.qmul.ac.uk/xmlui/handle/123456789/96).
