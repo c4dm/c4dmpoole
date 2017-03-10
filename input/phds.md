@@ -10,7 +10,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2016
 * Mi TIAN, "A Cross-Cultural Analysis of Music Structure" (Supervisor: Mark Sandler)
-* Siddharth SIGTIA, "Neural Networks for Analysing Music and Environmental Audio" (Supervisor: Simon Dixon)
+* Siddharth SIGTIA, "[Neural Networks for Analysing Music and Environmental Audio](http://www.eecs.qmul.ac.uk/~simond/phd/SiddharthSigtia-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Magdalena CHUDY, "[Discriminating music performers by timbre: On the relation between instrumental gesture, tone quality and perception in classical cello performance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/18378)" (Supervisor: Simon Dixon)
 * Zheng MA, "Intelligent tools for multitrack dynamics and frequency processing" (Supervisor: Josh Reiss)
 * Robert TUBB, "[Creativity, Exploration and Control in Musical Parameter Spaces](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12964)" (Supervisor: Simon Dixon)
