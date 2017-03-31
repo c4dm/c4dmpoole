@@ -28,10 +28,6 @@ AHRC Grant AH/N504531/1, £79,934, 2016-2017</p>
 Dr Emmanouil Benetos (PI) and Dr Rodrigo Schramm (CI, UFRGS, Brazil)<br>
 RAEng / Newton Research Collaboration Programme award NRCP1617/5/46, £23,759, 2016-2017</p>
 
-<p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
-Dr Simon Dixon (PI) and Dr Emmanouil Benetos (CI)<br>
-DoReMIR Music Research AB, £77,445, 2015-2016</p>
-
 <p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
@@ -68,6 +64,10 @@ EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G0372
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
+Dr Simon Dixon (PI) and Dr Emmanouil Benetos (CI)<br>
+DoReMIR Music Research AB, £77,445, 2015-2016</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K003569/1"><strong>Digital Economy IT as a Utility Network+</strong></a><br>
 Prof Mark Sandler (CI) at Queen Mary, plus 4 other partners.<br>
