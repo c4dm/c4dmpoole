@@ -6,6 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others.<br>
+Digging into Data Challenge - ESRC/AHRC Grant HJ-253587.</p>
+
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
 EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
 
@@ -50,7 +53,7 @@ EPSRC Grant EP/L023504/1, £257,878, 2015-2017.</p>
 EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L01632X/1"><strong>EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology</strong></a><br>
-Prof Mark Sandler (PI) and others (Plumbley, Chew, Healey, McPherson, Harte, Shoop,  Bryan-Kinns).<br>
+Dr Nick Bryan-Kinns (PI) and others (Chew, McPherson, Harte, Shoop, Healey, Plumbley).<br>
 EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K009559/1"><strong>Platform Grant: Digital Music</strong></a><br>
