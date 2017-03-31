@@ -6,7 +6,7 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss<br>
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
 EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P020275/1"><strong>JADE: Joint Academic Data science Endeavour</strong></a><br>Prof Mike Giles (PI, Oxford), Prof Mark Sandler (CI, QMUL) and 10 others.<br>
