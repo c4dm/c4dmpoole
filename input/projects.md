@@ -6,8 +6,8 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others.<br>
-Digging into Data Challenge - ESRC/AHRC Grant HJ-253587.</p>
+<p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others (in France, Germany, USA).<br>
+Digging into Data Challenge - ESRC/AHRC Grant HJ-253587, £132,775 (QMUL), 2017-2019.</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
 EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
@@ -45,10 +45,6 @@ EPSRC Grant EP/L027119/2, £856,793, 2015-2018</p>
 
 <p><a href="http://www.eecs.qmul.ac.uk/%7Eemmanouilb/index.html"><strong>A Machine Learning Framework for Audio Analysis and Retrieval</strong></a><br>Dr Emmanouil Benetos<br>RAEng Research Fellowship RF/128, £505,588, 2015-2020           
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1"><strong>Connected Seeds and Sensors: supporting sustainable food-growing in the city</strong></a><br>
-Dr Nick Bryan-Kinns (PI), Dr Hamed Haddadi and  Ms Sara Heitlinger.<br>
-EPSRC Grant EP/L023504/1, £257,878, 2015-2017.</p>
-
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L020505/1"><strong>Structured machine listening for soundscapes with multiple birds</strong></a><br>Dr Dan Stowell<br>
 EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
 
@@ -67,6 +63,10 @@ EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G0372
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1"><strong>Connected Seeds and Sensors: supporting sustainable food-growing in the city</strong></a><br>
+Dr Nick Bryan-Kinns (PI), Dr Hamed Haddadi and  Ms Sara Heitlinger.<br>
+EPSRC Grant EP/L023504/1, £257,878, 2015-2017.</p>
 
 <p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
 Dr Simon Dixon (PI) and Dr Emmanouil Benetos (CI)<br>
