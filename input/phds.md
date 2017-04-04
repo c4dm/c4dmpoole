@@ -14,10 +14,10 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Magdalena CHUDY, "[Discriminating music performers by timbre: On the relation between instrumental gesture, tone quality and perception in classical cello performance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/18378)" (Supervisor: Simon Dixon)
 * Zheng MA, "Intelligent tools for multitrack dynamics and frequency processing" (Supervisor: Josh Reiss)
 * Robert TUBB, "[Creativity, Exploration and Control in Musical Parameter Spaces](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12964)" (Supervisor: Simon Dixon)
-* Tian CHENG, "[Exploiting Piano Acoustics in Automatic Transcription](https://qmro.qmul.ac.uk/xmlui/handle/123456789/18421)" (Supervisor: Simon Dixon)
+* Tian CHENG, "[Exploiting Piano Acoustics in Automatic Transcription](https://qmro.qmul.ac.uk/xmlui/handle/123456789/18421)" (Supervisors: Simon Dixon and Matthias Mauch)
 * Louis MCCALLUM, "[Friend Me Your Ears: A Musical Approach to Human-Robot Relationships](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12903)" (Supervisor: Peter McOwan)
 * Sara HEITLINGER, "Talking Plants and a Bug Hotel: Participatory Design of ludic encounters with an urban farming community" (Supervisor: Nick Bryan-Kinns)
-* Shengchen LI, "[Expressive timing analysis in classical piano performance by mathematical model selection](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12854)" (Supervisor: Simon Dixon)
+* Shengchen LI, "[Expressive timing analysis in classical piano performance by mathematical model selection](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12854)" (Supervisors: Simon Dixon and Mark Plumbley)
 * Henrik EKEUS, "[Parameter Search for Aesthetic Design and Composition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/13036)" (Supervisor: )
 
 ##2015
@@ -51,7 +51,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2012
 * György FAZEKAS, "Semantic Audio Analysis - Utilities and Applications" (Supervisor: Mark Sandler)
 * Robin FENCOTT, "Multi-person musicking" (Supervisor: Nick Bryan-Kinns)
-* Robert MACRAE, "[Linking Music Metadata](http://www.eecs.qmul.ac.uk/~simond/phd/RobertMacrae-PhD-Thesis.pdf)"
+* Robert MACRAE, "[Linking Music Metadata](http://www.eecs.qmul.ac.uk/~simond/phd/RobertMacrae-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Emmanouil BENETOS, "[Automatic transcription of polyphonic music exploiting temporal evolution](https://qmro.qmul.ac.uk/jspui/handle/123456789/3368)" (Supervisor: Simon Dixon)
 * Tim MURRAY-BROWNE, "[Interactive music: Balancing creative freedom with musical development](http://timmb.com/pdf/murray-browne_phd_2012.pdf)" (Supervisors: Mark Plumbley and Nick Bryan-Kinns)
 * Aris GRETSISTAS, "Sparse Representations & Compressed Sensing applied to the problem of Direction-of-Arrival estimation" (Supervisor: Mark Plumbley)
