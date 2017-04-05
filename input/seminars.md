@@ -19,7 +19,7 @@ Seminar Announcement List and Contact
 
 Seminars (Past and Upcoming)
 --------
-<span onclick="elements = document.getElementsByClassName('sem_no_video');for (var i = 0; i < elements.length; i++) {elements[i].style.display = 'none';};">Show only seminars with videos</span>
+<span onclick="elements = document.getElementsByClassName('sem_no_video');for (var i = 0; i < elements.length; i++) {elements[i].style.display = elements[i].style.display == 'list-item' ? 'none' : 'list-item';};">Toggle - Show only seminars with videos</span>
 <ul>
 <!--%
 from datetime import datetime
@@ -31,9 +31,10 @@ for p in posts:
        poststring = p.post.replace('C4DM Seminar - ','')
        poststring = poststring.replace('C4DM Seminar','')
        if (('seminar' in p.post.lower()) and ('video' in p.post.lower()) and ('available' in p.post.lower()) ):
-          print '<li class="sem_with_video">%s: <a href="%s">%s</a></li>' % (date, p.url, poststring) # html list item
+          print '<li class="sem_with_video" style="display: list-item;">%s: <a href="%s">%s</a></li>' % (date, p.url, poststring) # html list item
        else:
-          print '<li class="sem_no_video">%s: <a href="%s">%s</a></li>' % (date, p.url, poststring) # html list item
+          print '<li class="sem_no_video" style="display: list-item;">%s: <a href="%s">%s</a></li>' % (date, p.url, poststring) # html list item
 %-->
 </ul>
+
 
