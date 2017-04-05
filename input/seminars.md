@@ -61,6 +61,6 @@ for p in posts:
        if (('seminar' in p.post.lower()) and ('video' in p.post.lower()) and ('available' in p.post.lower()) ):
           print "<il class="sem_with_video">%s: [%s](%s)<\li>" % (date,poststring, p.url) # html list item
        else:
-        print "<il class="sem_no_video">%s: [%s](%s)<\li>" % (date,poststring, p.url) # html list item
+          print "<il class="sem_no_video">%s: [%s](%s)<\li>" % (date,poststring, p.url) # html list item
 %-->
 </ol>
