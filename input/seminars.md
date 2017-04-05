@@ -45,3 +45,23 @@ for p in posts:
        print "* %s: [%s](%s)" % (date,poststring, p.url) # markdown list item
 %-->
 
+
+Seminars (Test)
+--------
+<span onclick="elements = document.getElementsByClassName('sem_no_video');for (var i = 0; i < elements.length; i++) {elements[i].style.display = elements[i].style.display == 'inline' ? 'none' : 'inline';};">Show only seminars with videos</span>
+<ol>
+<!--%
+from datetime import datetime
+posts = [p for p in pages if "post" in p] # get all blog post pages
+posts.sort(key=lambda p: p.get("date"), reverse=True) # sort post pages by date
+for p in posts:
+    if 'seminar' in p.post.lower():
+       date = datetime.strptime(p.date, "%Y-%m-%d").strftime("%Y-%m-%d")
+       poststring = p.post.replace('C4DM Seminar - ','')
+       poststring = poststring.replace('C4DM Seminar','')
+       if (('seminar' in p.post.lower()) and ('video' in p.post.lower()) and ('available' in p.post.lower()) ):
+          print '<il class="sem_with_video">%s: [%s](%s)<\li>' % (date,poststring, p.url) # html list item
+       else:
+          print '<il class="sem_no_video">%s: [%s](%s)<\li>' % (date,poststring, p.url) # html list item
+%-->
+</ol>
