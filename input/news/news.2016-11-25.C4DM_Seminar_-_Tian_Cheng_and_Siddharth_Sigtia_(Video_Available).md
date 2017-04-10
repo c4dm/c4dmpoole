@@ -19,7 +19,7 @@ Tian Cheng
 Exploiting Piano Acoustics in Automatic Transcription
 
 <span style="font-size: 130%;">Video</span></br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/65ixINbglHU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/65ixINbglHU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <span style="font-size: 130%;">Abstract</span></br>
 In this talk we exploit piano acoustics to automatically transcribe piano recordings into a symbolic representation: the pitch and timing of each detected note. The talk mainly consists of two parts. Firstly, we investigate the decay of individual piano partials based on the theoretical analysis of coupled piano strings to model the decay patterns of piano in real-world recordings. In the second part, we propose an attack/decay model, that takes into account the time-varying timbre and decaying energy of piano sounds. The system divides a piano note into percussive attack and harmonic decay stages, and separately models the two parts using two sets of templates and amplitude envelopes. The two parts are coupled by the note activations. We simplify the decay envelope by an exponentially decaying function. We demonstrate the utility of the proposed system in piano music transcription. Results show that explicitly modelling piano acoustical features, especially temporal features, can improve the transcription performance. 
