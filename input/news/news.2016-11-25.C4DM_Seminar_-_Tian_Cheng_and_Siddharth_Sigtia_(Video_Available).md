@@ -36,7 +36,7 @@ Siddharth Sigtia
 Neural Networks for Analysing Music and Environmental Audio
 
 <span style="font-size: 130%;">Video</span></br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/frRJriBpDqI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/frRJriBpDqI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <span style="font-size: 130%;">Abstract</span></br>
 We consider the analysis of music and environmental audio recordings with neural networks. Recently, neural networks have been shown to be an effective family of models for speech recognition, computer vision, natural language processing and a number of other statistical modelling problems. The composite layer-wise structure of neural networks allows for flexible model design, where prior knowledge about the domain of application can be used to inform the design and architecture of the neural network models. Additionally, it has been shown that when trained on large quantities of data, neural networks can be directly applied to low-level features to learn mappings to high level concepts like phonemes in speech and object classes in computer vision. In this work we investigate whether neural network models can be usefully applied to processing music and environmental audio.
