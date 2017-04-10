@@ -16,6 +16,9 @@ Daniel Overholt
 <span style="font-size: 130%;">Title</span></br>
 Augmented Expressivity for Acoustic Instruments: Actuation and Gestural Control
 
+<span style="font-size: 130%;">Video</span></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OjWS9-Wvuc8" frameborder="0" allowfullscreen></iframe>
+
 <span style="font-size: 130%;">Abstract</span></br>
 Experimental work with a series of hybrid acoustic / electric violins will be presented, where embedded signal processing enables real-time alteration and enhancement of the acoustic sounds. This makes it possible for performers to explore sounds beyond the traditional timbres of the violin. The current research is focused on augmenting the expressivity of the violin toward novel timbral possibilities, as opposed to simulations of traditional acoustic violin bodies. The presentation includes several practical approaches to sensor/actuator augmentation and extended playing techniques that can be applied to bowed-string or other instruments, in order to provide creative control over the possibilities offered by various Digital Signal Processing algorithms. Acoustically-emanating sounds and effects can be controlled via a musician’s movements. For example, gestures tracked by a variety of sensors can be used to extend the techniques of the player’s performance to include real-time control over the new sonic possibilities.
 
