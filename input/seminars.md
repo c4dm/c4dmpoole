@@ -19,7 +19,7 @@ Seminar Announcement List and Contact
 
 Seminars (Past and Upcoming)
 --------
-<span onclick="elements = document.getElementsByClassName('sem_no_video');for (var i = 0; i < elements.length; i++) {elements[i].style.display = elements[i].style.display == 'list-item' ? 'none' : 'list-item';};">Toggle - Show only seminars with videos</span>
+<span onclick="elements = document.getElementsByClassName('sem_no_video');for (var i = 0; i < elements.length; i++) {elements[i].style.display = elements[i].style.display == 'list-item' ? 'none' : 'list-item';};"><u>Toggle</u> - Show only seminars with videos</span>
 <ul>
 <!--%
 from datetime import datetime
