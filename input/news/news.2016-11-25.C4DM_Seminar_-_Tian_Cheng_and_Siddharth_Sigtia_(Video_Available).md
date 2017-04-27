@@ -19,7 +19,7 @@ Tian Cheng
 Exploiting Piano Acoustics in Automatic Transcription
 
 <span style="font-size: 130%;">Video</span></br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/65ixINbglHU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/65ixINbglHU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <span style="font-size: 130%;">Abstract</span></br>
 In this talk we exploit piano acoustics to automatically transcribe piano recordings into a symbolic representation: the pitch and timing of each detected note. The talk mainly consists of two parts. Firstly, we investigate the decay of individual piano partials based on the theoretical analysis of coupled piano strings to model the decay patterns of piano in real-world recordings. In the second part, we propose an attack/decay model, that takes into account the time-varying timbre and decaying energy of piano sounds. The system divides a piano note into percussive attack and harmonic decay stages, and separately models the two parts using two sets of templates and amplitude envelopes. The two parts are coupled by the note activations. We simplify the decay envelope by an exponentially decaying function. We demonstrate the utility of the proposed system in piano music transcription. Results show that explicitly modelling piano acoustical features, especially temporal features, can improve the transcription performance. 
@@ -36,7 +36,7 @@ Siddharth Sigtia
 Neural Networks for Analysing Music and Environmental Audio
 
 <span style="font-size: 130%;">Video</span></br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/frRJriBpDqI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/frRJriBpDqI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <span style="font-size: 130%;">Abstract</span></br>
 We consider the analysis of music and environmental audio recordings with neural networks. Recently, neural networks have been shown to be an effective family of models for speech recognition, computer vision, natural language processing and a number of other statistical modelling problems. The composite layer-wise structure of neural networks allows for flexible model design, where prior knowledge about the domain of application can be used to inform the design and architecture of the neural network models. Additionally, it has been shown that when trained on large quantities of data, neural networks can be directly applied to low-level features to learn mappings to high level concepts like phonemes in speech and object classes in computer vision. In this work we investigate whether neural network models can be usefully applied to processing music and environmental audio.
