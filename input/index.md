@@ -1,12 +1,16 @@
 title: Home
 ---
 
-<div><img src="images/wide_IMG_3972_0250.jpg" style="width: 40%; max-width:250px; float: right; margin: 0px; padding: 0px; margin-left: 10px;" alt="Photo of researchers" /></div>
+<!-- <div><img src="images/wide_IMG_3972_0250.jpg" style="width: 40%; max-width:250px; float: right; margin: 0px; padding: 0px; margin-left: 10px;" alt="Photo of researchers" /></div> -->
 
 <h1><img src="images/penlogo.png" alt="Centre for Digital Music" class="c4dmbiglogo" style="width: 50%; max-width: 11em; display: block; float: none; margin: 0px; padding: 0px;" alt="" /></h1>
 
 
 The Centre for Digital Music is a world-leading multidisciplinary research group in the field of Music & Audio Technology. Since its founding members joined Queen Mary in 2001, the Centre has grown to become arguably the UK’s leading Digital Music research group.
+
+<!-- <div style="text-align: center;"><iframe src="https://player.vimeo.com/video/211478044?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div> -->
+
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/Rcbs4NvMFHM?ecver=2" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
 
 {{ twitter() }}
 
