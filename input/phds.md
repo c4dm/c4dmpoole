@@ -6,6 +6,7 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2017
+* Brecht DE MAN, "Towards a better understanding of mix engineering" (Supervisor: Josh Reiss)
 * Laurel PARDUE, "Violin Augmentation Techniques for Learning Assistance" (Supervisor: Andrew McPherson)
 
 ##2016
