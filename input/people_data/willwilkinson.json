@@ -1,8 +1,8 @@
 {
-"name": "Will Wilkinson", 
-"url": "", 
+"name": "William J. Wilkinson", 
+"url": "http://c4dm.eecs.qmul.ac.uk/audioengineering/latent-force-synthesis/", 
 "acadposition": "", 
-"blurb": "Sound Effect Synthesis", 
+"blurb": "Audio analysis and synthesis. Digital representation of natural sounds through physical knowledge and machine listening.", 
 "themes": [
 "audioeng",
 "soundsynthesis"
