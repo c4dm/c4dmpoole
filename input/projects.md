@@ -7,7 +7,7 @@ Current Research Funding
 -------
 
 <p><a href="http://www.iomut.eu/"><strong>Towards the Internet of Musical Things - An ecosystem of interoperable devices connecting performers and audiences (IoMUT)</strong></a><br>
-Luca Turchet<br>
+Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I )<br>
 Marie Slodowska-Curie Action Individual Fellowship, €183,455, 2017-2019</p>
 
 <p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others (in France, Germany, USA).<br>
