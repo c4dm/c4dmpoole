@@ -1,8 +1,9 @@
 title: C4DM Seminar: Mauricio Álvarez - Sequential latent force models for segmenting motor primitives 
 -----------------
 
-<p>For external participants: Please join our <a href="/seminars.html">mailing list</a> to receive announcements of future C4DM seminars.</p>
+As part of the C4DM seminar series, the Machine Listening Lab and the Centre for Intelligent Sensing jointly present Mauricio Álvarez giving a talk about <emph>Sequential latent force models for segmenting motor primitives</emph>.
 
+<p>For external participants: Please join our <a href="/seminars.html">mailing list</a> to receive announcements of future C4DM seminars.</p>
 
 <span style="font-size: 130%;">Date and Time</span></br>
 Wednesday, 24th May 2017, at 4:00pm
