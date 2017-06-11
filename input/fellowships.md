@@ -27,7 +27,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>RAEng Research Fellowships</b>
 <br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to three years Post-Doctoral research experience.
-<br>Deadline: 12 September 2016
+<br>Deadline: 4 September 2017
 <br>More details: [http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
 
 <b>Royal Society University Research Fellowships</b>
