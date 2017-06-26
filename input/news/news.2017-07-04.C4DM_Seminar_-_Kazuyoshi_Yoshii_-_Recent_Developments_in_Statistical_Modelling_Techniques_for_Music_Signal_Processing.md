@@ -8,7 +8,7 @@ title: C4DM Seminar: Kazuyoshi Yoshii - Recent Developments in Statistical Model
 Tuesday, 4th July 2017, at 4:00pm
 
 <span style="font-size: 130%;">Place</span></br>
-Room <TBC>, Queen Mary University of London, Mile End Road, London E1 4NS. Information on how to access the school can be found at <a href="http://www.eecs.qmul.ac.uk/contact-us/">http://www.eecs.qmul.ac.uk/contact-us/</a>.
+Graduate Centre, Room GC222, Queen Mary University of London, Mile End Road, London E1 4NS. Information on how to access the school can be found at <a href="http://www.eecs.qmul.ac.uk/contact-us/">http://www.eecs.qmul.ac.uk/contact-us/</a>.
 
 <span style="font-size: 130%;">Speaker</span></br>
 Kazuyoshi Yoshii
