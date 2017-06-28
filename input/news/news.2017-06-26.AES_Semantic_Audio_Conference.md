@@ -1,3 +1,7 @@
+title: AES International Conference on Semantic Audio
+-----------------
+
+
 Last week saw the <a href="http://www.aes.org/conferences/2017/semantic/">2017 International Conference on Semantic Audio</a> by the Audio Engineering Society. Held at <a href="https://www.iis.fraunhofer.de/">Fraunhofer Institute for Integrated Circuits</a> in Erlangen, Germany, delegates enjoyed a well-organised and high-quality programme, interleaved with social and networking events such as a jazz concert and a visit to Erlangen’s famous beer cellars. The conference was a combined effort of Fraunhofer IIS, Friedrich-Alexander Universität, and their joint venture Audio Labs.
 
 With 5 papers and a late-breaking demo, the Centre for Digital Music was the most strongly represented institution, surpassing even the hosting organisations combined. Our group has a strong tradition in Semantic Audio: director Mark Sandler is Vice Chair on the [AES Technical Committee on Semantic Audio Analysis](http://www.aes.org/technical/saa/), and several more of us are members; and we hosted the [previous Semantic Audio conference](http://www.aes.org/conferences/53/). 
