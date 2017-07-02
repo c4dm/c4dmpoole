@@ -32,12 +32,12 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>Royal Society University Research Fellowships</b>
 <br>The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
-<br>Deadline: 5 September 2016
+<br>Deadline: 4 September 2017
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/university-research/](https://royalsociety.org/grants-schemes-awards/grants/university-research/)
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
 <br>Research Fellowships in Science and Engineering are intended to give early-career scientists or engineers of exceptional promise an opportunity to conduct a research project of their own instigation. The Fellowship is for a maximum of three years, subject to annual renewal.
-<br>Deadline: 16 February 2017
+<br>Deadline: 15 February 2018
 <br>More details: [http://www.royalcommission1851.org/awards/](http://www.royalcommission1851.org/awards/)
 
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
