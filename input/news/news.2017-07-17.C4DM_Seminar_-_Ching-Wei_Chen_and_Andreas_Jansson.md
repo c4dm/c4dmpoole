@@ -5,7 +5,7 @@ title: C4DM Seminar: Ching-Wei Chen and Andreas Jansson
 
 
 <span style="font-size: 130%;">Date and Time</span></br>
-Monday, 17th July 2017, at 3:00pm
+Monday, 17th July 2017, at 4:00pm
 
 <span style="font-size: 130%;">Place</span></br>
 Most rooms are booked for graduation. Therefore, the talk will be in:</br>
