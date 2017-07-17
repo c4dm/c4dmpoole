@@ -6,11 +6,14 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2017
+* Katerina KOSTA, "Computational Modelling and Quantitative Analysis of Dynamics in Performed Music" (Supervisor: Elaine Chew)
+* Elio QUINTON, (Supervisor: Mark Sandler)
+* Christian HEINRICHS, "Human Expressivity in the Control and Integration of Computationally Generated Audio" (Supervisor: Andrew McPherson)
 * Brecht DE MAN, "Towards a better understanding of mix engineering" (Supervisor: Josh Reiss)
 * Laurel PARDUE, "Violin Augmentation Techniques for Learning Assistance" (Supervisor: Andrew McPherson)
 
 ##2016
-* Mi TIAN, "A Cross-Cultural Analysis of Music Structure" (Supervisor: Mark Sandler)
+* Mi TIAN, "[A Cross-Cultural Analysis of Music Structure](https://qmro.qmul.ac.uk/xmlui/handle/123456789/24782)" (Supervisor: Mark Sandler)
 * Siddharth SIGTIA, "[Neural Networks for Analysing Music and Environmental Audio](http://www.eecs.qmul.ac.uk/~simond/phd/SiddharthSigtia-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Magdalena CHUDY, "[Discriminating music performers by timbre: On the relation between instrumental gesture, tone quality and perception in classical cello performance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/18378)" (Supervisor: Simon Dixon)
 * Zheng MA, "Intelligent tools for multitrack dynamics and frequency processing" (Supervisor: Josh Reiss)
