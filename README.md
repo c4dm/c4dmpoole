@@ -16,7 +16,7 @@ To view the website locally use
 and browse to [http://localhost:8080](http://localhost:8080)
 
 
-##Editing publications
+### Editing publications
 
 We store publications data as BibTeX in the folder `input/publications_bibtex`. Since our server doesn't have the `bibtex2html` command we manually create the corresponding HTML files using a linux shell command like this:
 
