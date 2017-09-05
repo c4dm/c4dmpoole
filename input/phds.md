@@ -6,6 +6,7 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2017
+* Doon MACDONALD, "The Development and Evaluation of an Approach to Auditory Display Design Based on Soundtrack Composition" (Supervisor: Tony Stockman)
 * Katerina KOSTA, "Computational Modelling and Quantitative Analysis of Dynamics in Performed Music" (Supervisor: Elaine Chew)
 * Elio QUINTON, (Supervisor: Mark Sandler)
 * Christian HEINRICHS, "Human Expressivity in the Control and Integration of Computationally Generated Audio" (Supervisor: Andrew McPherson)
@@ -22,7 +23,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Louis MCCALLUM, "[Friend Me Your Ears: A Musical Approach to Human-Robot Relationships](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12903)" (Supervisor: Peter McOwan)
 * Sara HEITLINGER, "Talking Plants and a Bug Hotel: Participatory Design of ludic encounters with an urban farming community" (Supervisor: Nick Bryan-Kinns)
 * Shengchen LI, "[Expressive timing analysis in classical piano performance by mathematical model selection](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12854)" (Supervisors: Simon Dixon and Mark Plumbley)
-* Henrik EKEUS, "[Parameter Search for Aesthetic Design and Composition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/13036)" (Supervisor: )
+* Henrik EKEUS, "[Parameter Search for Aesthetic Design and Composition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/13036)"
 
 ##2015
 * Sonia WILKIE, "[The effect of audio cues and sound source stimuli on looming perception](/papers/2015/Wilkie-2015-thesis.pdf)" (Supervisor: Tony Stockman)
