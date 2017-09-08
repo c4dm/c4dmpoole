@@ -5,9 +5,9 @@ title: Dan Stowell
 
 <p> <b>Title:</b> EPSRC Research Fellow<br />
   <b>Tel:</b> <i>National</i>: 020
-  7882 7986<br />
+  7882 3066<br />
   </b><i>International</i>: +44
-  20 7882 7986<br />
+  20 7882 3066<br />
   <strong>Email:</strong> <a href="mailto:dan.stowell@qmul.ac.uk">dan.stowell@qmul.ac.uk</a><br />
   <strong>Room:</strong> Eng
   109</p>
