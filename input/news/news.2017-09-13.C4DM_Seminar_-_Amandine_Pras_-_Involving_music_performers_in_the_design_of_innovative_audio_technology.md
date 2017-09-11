@@ -1,4 +1,4 @@
-title: C4DM Seminar: Amandine Pras
+title: C4DM Seminar: Amandine Pras - Involving music performers in the design of innovative audio technology
 -----------------
 
 <p>For external participants: Please join our mailing list to receive announcements of future C4DM seminars: <a href="http://c4dm.eecs.qmul.ac.uk/seminars.html">http://c4dm.eecs.qmul.ac.uk/seminars.html</a></p>
