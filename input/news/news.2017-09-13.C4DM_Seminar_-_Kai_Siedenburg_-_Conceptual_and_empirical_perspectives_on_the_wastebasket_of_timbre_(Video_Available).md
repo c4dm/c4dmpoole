@@ -18,7 +18,7 @@ Kai Siedenburg
 Conceptual and empirical perspectives on the "wastebasket" of timbre
 
 <span style="font-size: 130%;">Video</span></br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyGqScqHTK4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NyGqScqHTK4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <span style="font-size: 130%;">Abstract</span></br>
 If there is one thing about timbre that researchers in music psychology and acoustics agree on, it is the claim that it is a poorly defined auditory attribute. To cite Al Bregman, timbre is an “ill-defined wastebasket category”. In this talk, I will introduce four conceptual distinctions that may help to clear up some of the confusion around this parameter and present empirical studies relevant to these matters. This includes new work on the acoustic modeling of timbre dissimilarity perception, timbre discrimination, and musical instrument identification. 
