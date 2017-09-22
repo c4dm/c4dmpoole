@@ -9,7 +9,7 @@ All welcome, no pre-booking required.
 Wednesday, 27th September 2017, at 4:00pm
 
 <span style="font-size: 130%;">Place</span></br>
-Room B.R. 3.01, Bancroft Road Teaching Rooms (Computer Science), Queen Mary University of London, Mile End Road, London E1 4NS. Information on how to access the school can be found at <a href="http://www.eecs.qmul.ac.uk/contact-us/">http://www.eecs.qmul.ac.uk/contact-us/</a>.
+Room B.R. 3.01, Bancroft Road Teaching Rooms (Building 10), Queen Mary University of London, Mile End Road, London E1 4NS. Information on how to access the school can be found at <a href="http://www.qmul.ac.uk/about/howtofindus/mileend/">http://www.qmul.ac.uk/about/howtofindus/mileend/</a>.
 
 <span style="font-size: 130%;">Speaker</span></br>
 Sebastian Ewert
