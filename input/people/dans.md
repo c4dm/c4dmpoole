@@ -33,6 +33,8 @@ E. Benetos, D. Stowell, and M. D. Plumbley. [Approaches to complex sound scene a
 
 H. Pamula et al, [Adaptation of deep learning methods to nocturnal bird audio monitoring](http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf), in LXIV Open Seminar on Acoustics (OSA) 2017, Piekary ÅšlÄ…skie, Poland. 2017.
 
+W. Wilkinson, J. Reiss and D. Stowell, [Latent force models for sound: Learning modal synthesis parameters and excitation functions from audio recordings](http://www.dafx17.eca.ed.ac.uk/papers/DAFx17_paper_19.pdf). In Proc DAFX 2017, 2017.
+
 V. Morfi and D. Stowell. **Deductive refinement of species labelling in weakly labelled birdsong recordings.** In Proc ICASSP 2017, 2017. [[preprint](https://arxiv.org/abs/1603.07173)]
 
 **2016**
