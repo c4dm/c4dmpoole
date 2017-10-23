@@ -35,17 +35,9 @@ EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-
 Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
 AHRC Grant AH/N504531/1, £79,934, 2016-2017</p>
 
-<p><a href="http://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/newton-fund-programmes/newton-research-collaboration-programme"><strong>Automatic transcription of polyphonic music recordings</strong></a><br>
-Dr Emmanouil Benetos (PI) and Dr Rodrigo Schramm (CI, UFRGS, Brazil)<br>
-RAEng / Newton Research Collaboration Programme award NRCP1617/5/46, £23,759, 2016-2017</p>
-
 <p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
-
-<p><a href="http://mupae.blogspot.com/2015/03/dorien-herremans-wins-marie-curie.html"><strong>MorpheuS: Hybrid Machine Learning-Optimization Techniques to Generate Structured Music through Morphing and Fusion</strong></a><br>
-Elaine Chew (Host PI), Dorien Herremans<br>
-Marie Slodowska-Curie Action Postdoctoral Fellowship, €183,455, 2015-2017</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L027119/2"><strong>Musical Audio Repurposing using Source Separation</strong></a><br>
 Prof Mark Plumbley (PI, Surrey), Dr Nick Bryan-Kinns, Dr Josh Reiss, Dr Panos Kudumakis, Dr Simon Dixon, Prof Mark Sandler, and 5 others (Surrey)<br>
@@ -71,6 +63,14 @@ EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G0372
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="http://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/newton-fund-programmes/newton-research-collaboration-programme"><strong>Automatic transcription of polyphonic music recordings</strong></a><br>
+Dr Emmanouil Benetos (PI) and Dr Rodrigo Schramm (CI, UFRGS, Brazil)<br>
+RAEng / Newton Research Collaboration Programme award NRCP1617/5/46, £23,759, 2016-2017</p>
+
+<p><a href="http://mupae.blogspot.com/2015/03/dorien-herremans-wins-marie-curie.html"><strong>MorpheuS: Hybrid Machine Learning-Optimization Techniques to Generate Structured Music through Morphing and Fusion</strong></a><br>
+Elaine Chew (Host PI), Dorien Herremans<br>
+Marie Slodowska-Curie Action Postdoctoral Fellowship, €183,455, 2015-2017</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1"><strong>Connected Seeds and Sensors: supporting sustainable food-growing in the city</strong></a><br>
 Dr Nick Bryan-Kinns (PI), Dr Hamed Haddadi and  Ms Sara Heitlinger.<br>
