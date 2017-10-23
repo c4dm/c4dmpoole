@@ -6,20 +6,16 @@ title: Projects
 Current Research Funding
 -------
 
-
-
-Here's a brief description of our funded project, "Engaging three user communities with applications and outcomes of computational music creativity" (AH/R004706/1) 
-
-<p><a href="http://www.ahrc.ac.uk/"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
+<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
 Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
-AHRC Grant AH/R004706/1, 2017-2018</p>
+AHRC Grant AH/R004706/1, £70,990, 2017-2018</p>
 
 <p><a href="http://www.iomut.eu/"><strong>Towards the Internet of Musical Things - An ecosystem of interoperable devices connecting performers and audiences (IoMUT)</strong></a><br>
 Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I )<br>
 Marie Slodowska-Curie Action Individual Fellowship, €183,455, 2017-2019</p>
 
 <p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others (in France, Germany, USA).<br>
-Digging into Data Challenge - ESRC/AHRC Grant HJ-253587, £132,775 (QMUL), 2017-2019.</p>
+Digging into Data Challenge - ESRC Grant ES/R004005/1, £132,775 (QMUL), 2017-2019.</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
 EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
