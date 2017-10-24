@@ -25,15 +25,15 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 
 **2017 and forthcoming**
 
-D. Stowell, E. Benetos, and L. F. Gill, [On-bird sound recordings: Automatic acoustic recognition of activities and contexts.](https://doi.org/10.1109/TASLP.2017.2690565) IEEE/ACM Trans. on Audio Speech and Language Processing, 25(6), 1193-1206, 2017. [[preprint](https://arxiv.org/abs/1612.05489)]
+D. Stowell, E. Benetos, and L. F. Gill, **[On-bird sound recordings: Automatic acoustic recognition of activities and contexts.](https://doi.org/10.1109/TASLP.2017.2690565)** IEEE/ACM Trans. on Audio Speech and Language Processing, 25(6), 1193-1206, 2017. [[preprint](https://arxiv.org/abs/1612.05489)]
 
-D. Stowell. [Computational Bioacoustic Scene Analysis.](https://link.springer.com/chapter/10.1007/978-3-319-63450-0_11) In Computational Analysis of Sound Scenes and Events, T. Virtanen, M. D. Plumbley, and D. P. W. Ellis (eds.), Springer, Oct. 2017.
+D. Stowell. **[Computational Bioacoustic Scene Analysis.](https://link.springer.com/chapter/10.1007/978-3-319-63450-0_11)** In Computational Analysis of Sound Scenes and Events, T. Virtanen, M. D. Plumbley, and D. P. W. Ellis (eds.), Springer, Oct. 2017.
 
-E. Benetos, D. Stowell, and M. D. Plumbley. [Approaches to complex sound scene analysis.](https://link.springer.com/chapter/10.1007/978-3-319-63450-0_8) In Computational Analysis of Sound Scenes and Events, T. Virtanen, M. D. Plumbley, and D. P. W. Ellis (eds.), Springer, Oct. 2017.
+E. Benetos, D. Stowell, and M. D. Plumbley. **[Approaches to complex sound scene analysis.](https://link.springer.com/chapter/10.1007/978-3-319-63450-0_8)** In Computational Analysis of Sound Scenes and Events, T. Virtanen, M. D. Plumbley, and D. P. W. Ellis (eds.), Springer, Oct. 2017.
 
-H. Pamula et al, [Adaptation of deep learning methods to nocturnal bird audio monitoring](http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf), in LXIV Open Seminar on Acoustics (OSA) 2017, Piekary ÅšlÄ…skie, Poland. 2017.
+H. Pamula et al, **[Adaptation of deep learning methods to nocturnal bird audio monitoring](http://c4dm.eecs.qmul.ac.uk/papers/2017/OSA_article_HPamula_etal_04082017.pdf)**, in LXIV Open Seminar on Acoustics (OSA) 2017, Piekary ÅšlÄ…skie, Poland. 2017.
 
-W. Wilkinson, J. Reiss and D. Stowell, [Latent force models for sound: Learning modal synthesis parameters and excitation functions from audio recordings](http://www.dafx17.eca.ed.ac.uk/papers/DAFx17_paper_19.pdf). In Proc DAFX 2017, 2017.
+W. Wilkinson, J. Reiss and D. Stowell, **[Latent force models for sound: Learning modal synthesis parameters and excitation functions from audio recordings](http://www.dafx17.eca.ed.ac.uk/papers/DAFx17_paper_19.pdf)**. In Proc DAFX 2017, 2017.
 
 V. Morfi and D. Stowell. **Deductive refinement of species labelling in weakly labelled birdsong recordings.** In Proc ICASSP 2017, 2017. [[preprint](https://arxiv.org/abs/1603.07173)]
 
