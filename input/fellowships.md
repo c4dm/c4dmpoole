@@ -40,6 +40,11 @@ As well as Research Assistants funded by projects, we can also help people who w
 <br>Deadline: 15 February 2018
 <br>More details: [http://www.royalcommission1851.org/awards/](http://www.royalcommission1851.org/awards/)
 
+<b>Commonwealth Rutherford Fellowships</b>
+<br>For researchers from other Commonwealth countries to spend 1 or 2 years at an eligible UK university or higher education institution conducting postdoctoral research.
+<br>Deadline: 11 December 2017
+<br>More details: [http://cscuk.dfid.gov.uk/apply/rutherford-fellowships/](http://cscuk.dfid.gov.uk/apply/rutherford-fellowships/)
+
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
 <br>For women from developing and emerging economies who are preparing for PhD or post-doctoral study in the physical sciences, engineering and technology at leading universities abroad.
 <br>Deadline: 17 November 2017
