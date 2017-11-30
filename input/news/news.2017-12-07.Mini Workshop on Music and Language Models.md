@@ -1,4 +1,6 @@
 title: Mini Workshop on Music and Language Models
+-----------------
+
 
 **QMUL School of Electronic Engineering and Computer Science**
 
