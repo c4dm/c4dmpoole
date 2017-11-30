@@ -1,4 +1,3 @@
-
 ## Mini Workshop on Music and Language Models
 
 **QMUL School of Electronic Engineering and Computer Science**
@@ -26,7 +25,7 @@ Abstract: Driven by the recent big success of the machine learning techniques in
 
 Biosketch: Keiji Hirata received the Doctor of Engineering degree from the University of Tokyo in 1987. He joined NTT Basic Research Laboratories in 1987 (later renamed to NTT Communication Science Laboratories) and Future University Hakodate as professor in 2011. From 1990 to 1993, under the 5th Generation Computer Project, he joined the Institute for New Generation Computer Technology (ICOT) and was actively engaged in the research and development of parallel inference machines. His research interests include computational music theory, algebraic frameworks for music creation, and music mobility as a service (MaaS). 
 
-More about Keiji Hirata at www.fun.ac.jp/~hirata .
+More about Keiji Hirata at [www.fun.ac.jp/~hirata](www.fun.ac.jp/~hirata).
 
 
 ## Linguistic Model of Music
@@ -38,7 +37,7 @@ Abstract: Music and language are considered to share the common biological origi
 
 Biosketch: Satoshi Tojo received a Bachelor of Engineering, Master of Engineering, and Doctor of Engineering degrees from the University of Tokyo, Japan. He joined Mitsubishi Research Institute, Inc. (MRI) in 1983, and the Japan Advanced Institute of Science and Technology (JAIST), Ishikawa, Japan, as associate professor in 1995 and became professor in 2000. His research interest is centered on formal semantics of natural language, and logic in artificial intelligence, including knowledge and belief of rational agents, and grammar acquisition, as well as linguistic models of music. 
 
-More about Satoshi Tojo at www.jaist.ac.jp/~tojo
+More about Satoshi Tojo at [www.jaist.ac.jp/~tojo](www.jaist.ac.jp/~tojo)
 
 
-Further information on the mini-workshop at http://mupae.blogspot.co.uk/2017/11/music-and-language-models.html
+Further information on the mini-workshop at [http://mupae.blogspot.co.uk/2017/11/music-and-language-models.html](http://mupae.blogspot.co.uk/2017/11/music-and-language-models.html)
