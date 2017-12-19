@@ -57,7 +57,7 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b> Marie Skłodowska-Curie Actions - Individual Fellowships</b>
 <br>An EU Horizon 2020 scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
-<br>Deadline: 14 September 2017
+<br>Deadline: 27 October 2017
 <br>More details: [http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm)
 
 <b>Newton International Fellowships</b>
@@ -77,5 +77,5 @@ As well as Research Assistants funded by projects, we can also help people who w
 
 <b>APEX Awards</b>
 <br>The APEX award scheme offers established independent researchers, with a strong track record in their respective area, an exciting opportunity to pursue genuine interdisciplinary and curiosity-driven research to benefit wider society.
-<br>Next call expected: 13 January 2017
+<br>Next call expected: 14 December 2017
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/apex-awards/](https://royalsociety.org/grants-schemes-awards/grants/apex-awards/)
