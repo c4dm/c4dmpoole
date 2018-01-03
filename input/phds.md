@@ -8,7 +8,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2017
 * Zulfadhli MOHAMAD, "Estimating performance parameters from electric guitar recordings" (Co-supervisors: Chris Harte and Simon Dixon)
 * Antonella MAZZONI, "Mood Glove: Enhancing mood in film music through haptic sensations for an enriched film experience" (Supervisor: Nick Bryan-Kinns)
-* Julie FREEMAN, (Supervisor: Mark Sandler)
+* Julie FREEMAN, "Defining data as an art material" (Supervisor: Mark Sandler)
 * Sarah SAUVÉ, "Prediction in Polyphony: Modelling Auditory Scene Analysis" (Supervisor: Marcus Pearce)
 * Siying WANG, "Computational Methods for the Alignment and Score-Informed Transcription of Piano Music" (Co-supervisors: Sebastian Ewert, Simon Dixon)
 * Doon MACDONALD, "[The Development and Evaluation of an Approach to Auditory Display Design Based on Soundtrack Composition](http://c4dm.eecs.qmul.ac.uk/papers/MacDonald-finalthesis.pdf)" (Supervisor: Tony Stockman)
