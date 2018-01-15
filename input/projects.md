@@ -6,12 +6,24 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://www.bbsrc.ac.uk/documents/2017-awarded-grants-rm2"><strong>Machine Learning for Bird Song Learning</strong></a><br>
+Dr Rob Lachlan (PI), Dr David Clayton (CI), Dr Dan Stowell (CI)<br>
+BBSRC Grant BB/R008736/1, £658,588, 2018-2021</p>
+
+<p><a href="http://mip-frontiers.eecs.qmul.ac.uk/"><strong>New Frontiers in Music Information Processing (MIP-Frontiers)</strong></a><br>
+Prof Simon Dixon (PI, coordinator), Prof Mark Sandler (CI), Dr Emmanouil Benetos (CI), plus 6 other partners<br>
+H2020 Marie Sklodowska-Curie Innovative Training Network, Grant No. 765068, €3,937,088 (total), €819,863 (QMUL), 2018-2022</p>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1"><strong>Integrating sound and context recognition for acoustic scene analysis</strong></a><br>
+Dr Emmanouil Benetos (PI)<br>
+EPSRC Grant EP/R01891X/1, £97,839, 2018-2019</p>
+
 <p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
 Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
 AHRC Grant AH/R004706/1, £70,990, 2017-2018</p>
 
 <p><a href="http://www.iomut.eu/"><strong>Towards the Internet of Musical Things - An ecosystem of interoperable devices connecting performers and audiences (IoMUT)</strong></a><br>
-Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I )<br>
+Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I)<br>
 Marie Slodowska-Curie Action Individual Fellowship, €183,455, 2017-2019</p>
 
 <p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others (in France, Germany, USA).<br>
@@ -73,7 +85,7 @@ Elaine Chew (Host PI), Dorien Herremans<br>
 Marie Slodowska-Curie Action Postdoctoral Fellowship, €183,455, 2015-2017</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1"><strong>Connected Seeds and Sensors: supporting sustainable food-growing in the city</strong></a><br>
-Dr Nick Bryan-Kinns (PI), Dr Hamed Haddadi and  Ms Sara Heitlinger.<br>
+Dr Nick Bryan-Kinns (PI), Dr Hamed Haddadi and Ms Sara Heitlinger.<br>
 EPSRC Grant EP/L023504/1, £257,878, 2015-2017.</p>
 
 <p><a href="https://ec.europa.eu/easme/en/sme/5222/automatic-music-transcription-polyphonic-audio"><strong>Polyfoni-X-Score</strong></a><br>
