@@ -31,10 +31,6 @@ Dr George Fazekas (PI, QMUL), Dr Mathieu Barthet (CI, QMUL), Prof Mark Sandler (
 Coordinator: UPF (Spain); Participants: Surrey (UK), Jamendo (Luxemburg), Audiogaming (France), Waves Audio (Israel)<br>
 EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-2019</p>
 
-<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH/N504531/1"><strong>DaCaRyH (Data science for the study of calypso-rhythm through history)</strong></a><br>
-Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
-AHRC Grant AH/N504531/1, £79,934, 2016-2017</p>
-
 <p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
@@ -52,10 +48,6 @@ EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
 Dr Nick Bryan-Kinns (PI) and others (Chew, McPherson, Harte, Shoop, Healey, Plumbley).<br>
 EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K009559/1"><strong>Platform Grant: Digital Music</strong></a><br>
-Prof Mark Plumbley (PI) and others (Bryan-Kinns, Chew, Dixon, Healey, Kudumakis, Pearce, Purver, Reiss, Sandler, Stockman, Wiggins).<br>
-EPSRC Grant EP/K009559/1, £1,161,334, 2013-18. </p>
-
 <p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy [Media and Arts Technology]</strong></a><br>
 Prof Mark Sandler, Prof Pat Healey, Prof Mark Plumbley, and others.<br>
 EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467, 2009-2017.</p>
@@ -63,6 +55,14 @@ EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G0372
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K009559/1"><strong>Platform Grant: Digital Music</strong></a><br>
+Prof Mark Plumbley (PI) and others (Bryan-Kinns, Chew, Dixon, Healey, Kudumakis, Pearce, Purver, Reiss, Sandler, Stockman, Wiggins).<br>
+EPSRC Grant EP/K009559/1, £1,161,334, 2013-18. </p>
+
+<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH/N504531/1"><strong>DaCaRyH (Data science for the study of calypso-rhythm through history)</strong></a><br>
+Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
+AHRC Grant AH/N504531/1, £79,934, 2016-2017</p>
 
 <p><a href="http://www.raeng.org.uk/grants-and-prizes/international-research-and-collaborations/newton-fund-programmes/newton-research-collaboration-programme"><strong>Automatic transcription of polyphonic music recordings</strong></a><br>
 Dr Emmanouil Benetos (PI) and Dr Rodrigo Schramm (CI, UFRGS, Brazil)<br>
