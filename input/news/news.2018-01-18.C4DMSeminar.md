@@ -1,4 +1,5 @@
 title: C4DM Seminar: Federico Fontana
+-----------------
 
 For external participants: Please join our mailing list to receive announcements of future C4DM seminars: http://c4dm.eecs.qmul.ac.uk/seminars.html
 
