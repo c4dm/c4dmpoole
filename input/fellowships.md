@@ -1,14 +1,14 @@
-title: Postdoctoral Research Opportunities and Fellowships
+title: Vacancies and Fellowships
 ---------
 
-<p>At the Centre for Digital Music we are always open to enquiries from people who wish to work with us, either as postdoctoral Research Assistants on funded projects, or as Research Fellows funded by a fellowship scheme.</p>
+<p>At the Centre for Digital Music we are always open to enquiries from people who wish to work with us, including prospective Academic Staff, Postdoctoral Research Assistants on funded projects, or Research Fellows funded by a fellowship scheme.</p>
 
 <br>
 
-Postdoctoral Research Assistant opportunities
+Vacancies
 -------
 
-We sometimes have openings Postdoctoral Research Assistants funded by research projects. These jobs will be advertised on the university's Human Resources (HR) website, see:
+We sometimes have openings for Academic staff and Postdoctoral Research Assistants. These jobs will be advertised on the university's Human Resources (HR) website, see:
 
 * [Academic and Research Jobs](https://webapps2.is.qmul.ac.uk/jobs/jobs.action?classID=1)<br>(look out for "School of Electronic Engineering and Computer Science")
 They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also provides an email update service.
@@ -18,7 +18,7 @@ They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also
 Fellowship Schemes
 -------
 
-As well as Research Assistants funded by projects, we can also help people who wish to apply for their own funding via a postdoctoral Research Fellowship to carry our research work with us. A number of schemes are available, with varying eligibility: some of these schemes are detailed below.
+We can also help people who wish to apply for their own funding via a Research Fellowship to carry our research work with us. A number of schemes are available, with varying eligibility: some of these schemes are detailed below.
 
 <b>EPSRC Research Fellowships</b>
 <br>Designed to support researchers who hold a PhD or have equivalent research experience, and who have the most potential to deliver the highest quality research.
