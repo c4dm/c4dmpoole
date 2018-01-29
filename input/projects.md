@@ -6,6 +6,14 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="http://www.bbc.co.uk/rd"><strong>Music Data Science for Music Recommendation and Discovery</strong></a><br>
+Prof Mark Sandler (PI)<br>
+ICASE PhD studentship, £83,300 (standard stipend) + £27,600 (contribution from BBC R&D), year TBC</p>
+
+<p><a href="https://roli.com/"><strong>Extraction of features from musical audio using DSP and machine learning</strong></a><br>
+Prof Mark Sandler (PI)<br>
+CASE PhD studentship, £30,800 (contribution from ROLI Ltd), 2017-2021</p>
+
 <p><a href="https://www.bbsrc.ac.uk/documents/2017-awarded-grants-rm2"><strong>Machine Learning for Bird Song Learning</strong></a><br>
 Dr Rob Lachlan (PI), Dr David Clayton (CI), Dr Dan Stowell (CI)<br>
 BBSRC Grant BB/R008736/1, £658,588, 2018-2021</p>
