@@ -28,4 +28,7 @@ by Adib Mehrabi, Kuenwoo Choi, Simon Dixon, Mark Sandler
 [[preprint](https://arxiv.org/abs/1711.00351)]
 by Delia Fano Yela, Sebastian Ewert, Ken O'Hanlon, Mark B. Sandler
 
+"Improved detection of semi-percussive onsets in audio using temporal reassignment"
+by K. O'Hanlon and M.B. Sandler
+
 See you all in Calgary!
