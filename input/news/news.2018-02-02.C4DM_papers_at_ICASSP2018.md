@@ -5,7 +5,7 @@ C4DM researchers have had a lot of success this year in being accepted for [ICAS
 the IEEE's International Conference on Acoustics, Speech and Signal Processing. 
 Most of these papers are led by C4DM PhD students, on MIR and Machine Listening topics:
 
-* "A Deeper Look At Gaussian Mixture Model Based Anti-Spoofing System"
+* "A Deeper Look At Gaussian Mixture Model Based Anti-Spoofing Systems"
 by Bhusan Chettri and Bob L. Sturm
 
 * "Towards Complete Polyphonic Music Transcription: Integrating Multi-Pitch Detection and Rhythm Quantization"
