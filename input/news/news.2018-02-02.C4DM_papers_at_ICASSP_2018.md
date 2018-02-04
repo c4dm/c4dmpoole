@@ -22,13 +22,13 @@ by Di Sheng and György Fazekas
 by Daniel Stoller, Sebastian Ewert, Simon Dixon
 
 * "Similarity Measures For Vocal-Based Drum Sample Retrieval Using Deep Convolutional Auto-Encoders"
-by Adib Mehrabi, Kuenwoo Choi, Simon Dixon, Mark Sandler
+by Adib Mehrabi, Kuenwoo Choi, Simon Dixon, Mark B. Sandler
 
 * "Shift-Invariant Kernel Additive Modelling for Audio Source Separation"
 [[preprint](https://arxiv.org/abs/1711.00351)]
 by Delia Fano Yela, Sebastian Ewert, Ken O'Hanlon, Mark B. Sandler
 
-"Improved detection of semi-percussive onsets in audio using temporal reassignment"
-by K. O'Hanlon and M.B. Sandler
+* "Improved detection of semi-percussive onsets in audio using temporal reassignment"
+by Ken O'Hanlon and Mark B. Sandler
 
 See you all in Calgary!
