@@ -2,7 +2,7 @@
 
 SCRIPT=$(readlink -f "$0")
 SCRIPTPATH=$(dirname "$SCRIPT")
-PYTHON=/import/linux/python27/bin/python    # this config is c4dm-specific, to ensure python version 2.7
+PYTHON=python    # this config is c4dm-specific, to ensure python version 2.7
 export PYTHONPATH=${SCRIPTPATH}/../lib:$PYTHONPATH
 POOLE=${SCRIPTPATH}/../lib/poole/poole.py
 
