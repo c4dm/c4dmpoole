@@ -41,7 +41,7 @@ def peoplelist(criteria=None):
 	return ret
 
 def publicationslist(year):
-	actual_year = 2016
+	actual_year = 2018
 	# NOTE: The current year is static, so this needs to be updated as a new publication
 	#       page is created. Alternatively, do from datetime import date; actual_year = date.today().year
 	ret="""<p>Select year: """
