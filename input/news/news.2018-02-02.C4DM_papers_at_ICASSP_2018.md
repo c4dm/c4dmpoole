@@ -22,7 +22,7 @@ by Di Sheng and György Fazekas
 by Daniel Stoller, Sebastian Ewert, Simon Dixon
 
 * "Similarity Measures For Vocal-Based Drum Sample Retrieval Using Deep Convolutional Auto-Encoders"
-[[preprint](Similarity measures for vocal-based drum sample retrieval using deep convolutional auto-encoders)] by Adib Mehrabi, Kuenwoo Choi, Simon Dixon, Mark B. Sandler
+[[preprint](https://arxiv.org/abs/1802.05178)] by Adib Mehrabi, Kuenwoo Choi, Simon Dixon, Mark B. Sandler
 
 * "Shift-Invariant Kernel Additive Modelling for Audio Source Separation"
 [[preprint](https://arxiv.org/abs/1711.00351)]
