@@ -3,7 +3,7 @@ title: Dan Stowell
 
 <img src="/people/dan_IMG_7567_hscrop200.jpg" alt="Photo of Dan Stowell" style="float: right; margin: 10px;" />
 
-<p> <b>Title:</b> EPSRC Research Fellow<br />
+<p> <b>Title:</b> Senior Research Fellow<br />
   <b>Tel:</b> <i>National</i>: 020
   7882 3066<br />
   </b><i>International</i>: +44
