@@ -1,7 +1,7 @@
 title: Dan Stowell
 --------------------------------------
 
-<img src="/people/dan-photo-g100.jpg" alt="Photo of Dan Stowell" style="float: right; margin: 10px;" />
+<img src="/people/dan_IMG_7567_hscrop.jpg" alt="Photo of Dan Stowell" style="float: right; margin: 10px;" />
 
 <p> <b>Title:</b> EPSRC Research Fellow<br />
   <b>Tel:</b> <i>National</i>: 020
