@@ -28,18 +28,18 @@ Download
         <li> the MAPS MIDI files
         <li> the MAPS posteriograms in CSV format
         <li> the baseline piano-rolls (obtained by median-filtering and thresholding the posteriograms) in CSV format
-        <li> the correspondance tables as text files.
+        <li> the correspondence tables as text files.
 
       </ul>
-    <li> The correspondance tables can be found <a href='http://c4dm.eecs.qmul.ac.uk/datasets/ycart/icassp18/MAPS_corresp_dataset.zip'> here. </a>
-      It contains the correspondance tables alone in CSV format, and in the form of a Pickle file.
+    <li> The correspondence tables can be found <a href='http://c4dm.eecs.qmul.ac.uk/datasets/ycart/icassp18/MAPS_corresp_dataset.zip'> here. </a>
+      It contains the correspondence tables alone in CSV format, and in the form of a Pickle file.
     <li> The code can be found <a href='http://c4dm.eecs.qmul.ac.uk/datasets/ycart/icassp18/icassp18_code.zip'> here. </a>
 
   </ul>
 </p>
 
 <h3>
-MAPS Correspondance Tables Dataset
+MAPS Correspondence Tables Dataset
 </h3>
 <h4>
 Content
@@ -47,7 +47,7 @@ Content
 <p>
 The ZIP file contains, for each MIDI file in the MAPS dataset
 for which rhythmic ground truth was available,
-its rhythm correspondance table in the form of a CSV file.
+its rhythm correspondence table in the form of a CSV file.
 Each CSV has two columns.
 The first one corresponds to the times in seconds.
 The second one corresponds to the metrical position, expressed in quarter notes.
@@ -55,7 +55,7 @@ The note resolution is a sixteenth note, so the metrical position is a multiple 
 It has to be noted that a quarter note doesn't always corresponds to a beat: if the meter of the piece is ternary, a beat will correspond to 1.5 quarter notes.
 </p>
 <p>
-The ZIP file also contains the same dataset, directly provided as a Pickle file to be imported in Python. It contains a dictionnary where each key is the file name, and each value is a Numpy table of shape [N, 2] where N is the number of sixteenth notes.
+The ZIP file also contains the same dataset, directly provided as a Pickle file to be imported in Python. It contains a dictionary where each key is the file name, and each value is a Numpy table of shape [N, 2] where N is the number of sixteenth notes.
 </p>
 
 <h4>
@@ -89,3 +89,49 @@ MAPS_MUS-liz_et6_ENSTDkCl.mid,
 MAPS_MUS-liz_et6_AkPnCGdD.mid,
 MAPS_MUS-liz_et6_AkPnBsdf.mid
 </ul>
+</p>
+
+<h3>
+Code
+</h3>
+
+<h4>
+External dependencies
+</h4>
+
+<p>
+This code was implemented in Python 2.7.
+It uses the following libraries :
+<ul>
+<li> <b>Tensorflow</b> : version 1.0.0
+<li> <b>Numpy</b> : version 1.14.0
+<li> <b>PrettyMIDI</b> : version 0.2.6
+</ul>
+
+
+</p>
+
+<h4>
+Code Organisation
+</h4>
+
+<p>
+<ul>
+<li><b>dataMaps.py</b> holds the class representing one training example. It corresponds to a couple input-target.
+<li><b>datasetMaps.py</b> holds functions relative to the loading and manipulation of
+the dataset as a whole (manipulates DataMaps objects)
+<li><b>modelMaps.py</b> holds functions defining the model, as well as the training
+process.
+<li><b>eval_utils.py</b> holds function to compute the evaluation metrics of a given model.
+<li><b>display_utils.py</b> holds functions to display some MIDI files and some predictions.
+<li><b>utils.py</b> holds some utility functions.
+<li><b>script_train_rnn.py</b> is a script allowing to train several models.
+<li><b>script_get_measures.py</b> is a script allowing, once some model are trained,
+to compute the best threshold on the validation dataset, and use that threshold
+to compute the evaluation metrics on the test dataset.
+</ul>
+</p>
+
+<p>
+For any feedback, comments, or issues, do not hesitate to contact the author.
+</p>
