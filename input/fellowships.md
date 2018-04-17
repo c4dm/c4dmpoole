@@ -20,10 +20,15 @@ Fellowship Schemes
 
 We can also help people who wish to apply for their own funding via a Research Fellowship to carry our research work with us. A number of schemes are available, with varying eligibility: some of these schemes are detailed below.
 
+<b>UKRI Future Leaders Fellowships</b>
+<br>Supporting early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments.
+<br>Deadline: 7 June 2018
+<br>More details: [https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/](https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/)
+
 <b>EPSRC Research Fellowships</b>
 <br>Designed to support researchers who hold a PhD or have equivalent research experience, and who have the most potential to deliver the highest quality research.
 <br>Deadline: Apply at any time (Applications prioritized Jan/Feb and July)
-<br>More details: [https://www.epsrc.ac.uk/skills/fellows/](https://www.epsrc.ac.uk/skills/fellows/)
+<br>More details: [https://epsrc.ukri.org/skills/fellows/](https://epsrc.ukri.org/skills/fellows/)
 
 <b>RAEng Research Fellowships</b>
 <br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to three years Post-Doctoral research experience.
@@ -57,12 +62,12 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b> Marie Skłodowska-Curie Actions - Individual Fellowships</b>
 <br>An EU Horizon 2020 scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
-<br>Deadline: 27 October 2017
-<br>More details: [http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm)
+<br>Deadline: 12 September 2018
+<br>More details: [https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/msca-if-2018.html](https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/msca-if-2018.html)
 
 <b>Newton International Fellowships</b>
 <br>Awards enable early stage postdoctoral researchers to work at UK research institutions for a period of two years. Applicants should be working outside the UK and should not hold UK citizenship.
-<br>Deadline: 22 March 2017
+<br>Deadline: 27 March 2018
 <br>More details: [http://www.newtonfellowships.org/](http://www.newtonfellowships.org/)
 
 <b>Leverhulme Trust Early Career Fellowships</b>
@@ -72,10 +77,10 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Dorothy Hodgkin Fellowship</b>
 <br>This scheme is for outstanding scientists in the UK at an early stage of their research career who require a flexible working pattern due to personal circumstances such as parenting or caring responsibilities or health issues. Female candiates are particularly invited to apply.
-<br>Next call expected: 16 November 2017
+<br>Deadline: 16 November 2017
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin/](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin/)
 
 <b>APEX Awards</b>
 <br>The APEX award scheme offers established independent researchers, with a strong track record in their respective area, an exciting opportunity to pursue genuine interdisciplinary and curiosity-driven research to benefit wider society.
-<br>Next call expected: 14 December 2017
+<br>Deadline: 14 December 2017
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/apex-awards/](https://royalsociety.org/grants-schemes-awards/grants/apex-awards/)
