@@ -8,7 +8,7 @@ title: Vacancies and Fellowships
 Vacancies
 -------
 
-We sometimes have openings for Academic staff and Postdoctoral Research Assistants. These jobs will be advertised on the university's Human Resources (HR) website, see:
+We often have openings for Academic staff and Postdoctoral Research Assistants. These jobs will be advertised on the university's Human Resources (HR) website, see:
 
 * [Academic and Research Jobs](https://webapps2.is.qmul.ac.uk/jobs/jobs.action?classID=1)<br>(look out for "School of Electronic Engineering and Computer Science")
 They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also provides an email update service.
@@ -22,7 +22,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>UKRI Future Leaders Fellowships</b>
 <br>Supporting early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments.
-<br>Deadline: 7 June 2018
+<br>Deadline: 7 June 2018 (1st round); 4 October 2018 (2nd round)
 <br>More details: [https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/](https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/)
 
 <b>EPSRC Research Fellowships</b>
@@ -37,12 +37,12 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Royal Society University Research Fellowships</b>
 <br>The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
-<br>Deadline: 4 September 2017
+<br>Deadline: Applications will open in Summer 2018
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/university-research/](https://royalsociety.org/grants-schemes-awards/grants/university-research/)
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
 <br>Research Fellowships in Science and Engineering are intended to give early-career scientists or engineers of exceptional promise an opportunity to conduct a research project of their own instigation. The Fellowship is for a maximum of three years, subject to annual renewal.
-<br>Deadline: 15 February 2018
+<br>Deadline: Applications will open in October 2018
 <br>More details: [http://www.royalcommission1851.org/awards/](http://www.royalcommission1851.org/awards/)
 
 <b>Commonwealth Rutherford Fellowships</b>
@@ -77,10 +77,10 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Dorothy Hodgkin Fellowship</b>
 <br>This scheme is for outstanding scientists in the UK at an early stage of their research career who require a flexible working pattern due to personal circumstances such as parenting or caring responsibilities or health issues. Female candiates are particularly invited to apply.
-<br>Deadline: 16 November 2017
+<br>Deadline: Currently closed for applications
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin/](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin/)
 
 <b>APEX Awards</b>
 <br>The APEX award scheme offers established independent researchers, with a strong track record in their respective area, an exciting opportunity to pursue genuine interdisciplinary and curiosity-driven research to benefit wider society.
-<br>Deadline: 14 December 2017
+<br>Deadline: Currently closed for applications
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/apex-awards/](https://royalsociety.org/grants-schemes-awards/grants/apex-awards/)
