@@ -25,9 +25,9 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 
 **2018 and forthcoming**
 
-D. Fano Yela, D. Stowell and M. Sandler, **[Does k Matter? k-NN Hubness Analysis for Kernel Additive Modelling Vocal Separation](https://arxiv.org/abs/1804.02325)** to appear in: Proceedings of LVA-ICA, 2018.
+D. Fano Yela, D. Stowell and M. Sandler, **[Does k Matter? k-NN Hubness Analysis for Kernel Additive Modelling Vocal Separation](https://arxiv.org/abs/1804.02325)**. To appear in: Proceedings of LVA-ICA, 2018.
 
-W. J. Wilkinson, J. D. Reiss, D. Stowell, **[A Generative Model for Natural Sounds Based on Latent Force Modelling](https://arxiv.org/abs/1802.00680)** to appear in: Proceedings of LVA-ICA, 2018.
+W. J. Wilkinson, J. D. Reiss, D. Stowell, **[A Generative Model for Natural Sounds Based on Latent Force Modelling](https://arxiv.org/abs/1802.00680)**. To appear in: Proceedings of LVA-ICA, 2018.
 
 **2017**
 
