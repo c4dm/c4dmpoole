@@ -5,6 +5,13 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
+##2018
+* Maria PANTELI, "Computational analysis of world music corpora" (Supervisor: Simon Dixon)
+* Adib MEHRABI, "Vocal imitation for query by vocalisation" (Supervisor: Simon Dixon)
+* Astrid BIN, "The Show Must Go Wrong: Towards an understanding of audience perception of error in digital musical instrument performance" (Co-supervisors: Nick Bryan-Kinns, Andrew McPherson)
+* Yonghao WANG, "Low Latency Audio Processing” (Supervisor: Josh Reiss)
+* Liam DONOVAN, "Travelling wave control of stringed musical instruments" (Supervisor: Andrew McPherson)
+
 ##2017
 * Zulfadhli MOHAMAD, "Estimating performance parameters from electric guitar recordings" (Co-supervisors: Chris Harte and Simon Dixon)
 * Antonella MAZZONI, "Mood Glove: Enhancing mood in film music through haptic sensations for an enriched film experience" (Supervisor: Nick Bryan-Kinns)
