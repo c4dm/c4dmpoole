@@ -6,14 +6,14 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="http://elainechew-research.blogspot.com/2018/04/erc-adg-cosmos.html"><strong>COSMOS: Computational Shaping and Modeling of Musical Structures</strong></a><br>Prof Elaine Chew<br>
+<p><a href="http://elainechew-research.blogspot.com/2018/04/erc-adg-cosmos.html"><strong>COSMOS: Computational Shaping and Modeling of Musical Structures</strong></a><br>Prof Elaine Chew (PI)<br>
 ERC Advanced Grant, €2,495,776, 2018-2023.</p>
 
 <p><a href="http://gtr.ukri.org/projects?ref=133535"><strong>Enabling Accessible, High-Performance Digital Crafts for Makers and Artists</strong></a><br>Dr Andrew McPherson (PI), Dr Rebecca Stewart (CI)<br>
 Innovate UK grant 133535, £78,703, 2018-2019.</p>
 
-<p><a href="https://enterprisehub.raeng.org.uk/"><strong> </strong></a><br>Liam Donovan<br>
-RAEng Enterprise Fellowship, 2018-2019.</p>
+<p><a href="http://bela.io/"><strong>High-Performance Embedded Computing for Makers and Artists</strong></a><br>Liam Donovan<br>
+RAEng Enterprise Fellowship, £60,000, 2018-2019.</p>
 
 <p><a href="http://www.bbc.co.uk/rd"><strong>Music Data Science for Music Recommendation and Discovery</strong></a><br>
 Prof Mark Sandler (PI)<br>
