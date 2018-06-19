@@ -9,8 +9,8 @@ Current Research Funding
 <p><a href="http://elainechew-research.blogspot.com/2018/04/erc-adg-cosmos.html"><strong>COSMOS: Computational Shaping and Modeling of Musical Structures</strong></a><br>Prof Elaine Chew (PI)<br>
 ERC Advanced Grant, €2,495,776, 2018-2023.</p>
 
-<p><a href="http://gtr.ukri.org/projects?ref=133535"><strong>Enabling Accessible, High-Performance Digital Crafts for Makers and Artists</strong></a><br>Dr Andrew McPherson (PI), Dr Rebecca Stewart (CI)<br>
-Innovate UK grant 133535, £78,703, 2018-2019.</p>
+<p><a href="http://gtr.ukri.org/projects?ref=133535"><strong>Enabling Accessible, High-Performance Digital Crafts for Makers and Artists</strong></a><br>Dr Rebecca Stewart (PI)<br>
+Innovate UK grant 133535, £29,723 (QMUL), £78,703 (total), 2018-2019.</p>
 
 <p><a href="http://bela.io/"><strong>High-Performance Embedded Computing for Makers and Artists</strong></a><br>Liam Donovan<br>
 RAEng Enterprise Fellowship, £60,000, 2018-2019.</p>
@@ -18,6 +18,10 @@ RAEng Enterprise Fellowship, £60,000, 2018-2019.</p>
 <p><a href="http://www.bbc.co.uk/rd"><strong>Music Data Science for Music Recommendation and Discovery</strong></a><br>
 Prof Mark Sandler (PI)<br>
 ICASE PhD studentship, £83,300 (standard stipend) + £27,600 (contribution from BBC R&D), year TBC</p>
+
+<p><a href="http://livequest.eecs.qmul.ac.uk/"><strong>A self-contained wearable Internet-of-Things System for Precision Livestock Agriculture</strong></a><br>
+Dr Yue Gao (PI), Dr Rebecca Stewart, Dr Alan McElligott (Roehampton) plus 4 partners<br>
+Newton Fund (InnovateUK/BBSRC), £1,600,000, 2017-2019</p>
 
 <p><a href="https://roli.com/"><strong>Extraction of features from musical audio using DSP and machine learning</strong></a><br>
 Prof Mark Sandler (PI)<br>
@@ -45,9 +49,6 @@ Marie Slodowska-Curie Action Individual Fellowship, €183,455, 2017-2019</p>
 
 <p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others (in France, Germany, USA).<br>
 Digging into Data Challenge - ESRC Grant ES/R004005/1, £132,775 (QMUL), 2017-2019.</p>
-
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
-EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P020275/1"><strong>JADE: Joint Academic Data science Endeavour</strong></a><br>Prof Mike Giles (PI, Oxford), Prof Mark Sandler (CI, QMUL) and 10 others.<br>
 EPSRC Grant EP/P020275/1, £3,000,000 (total), 2016-2019.</p>
@@ -77,13 +78,18 @@ EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
 Dr Nick Bryan-Kinns (PI) and others (Chew, McPherson, Harte, Shoop, Healey, Plumbley).<br>
 EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 
-<p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy [Media and Arts Technology]</strong></a><br>
-Prof Mark Sandler, Prof Pat Healey, Prof Mark Plumbley, and others.<br>
-EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467, 2009-2017.</p>
 
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
+EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
+
+<p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy [Media and Arts Technology]</strong></a><br>
+Prof Mark Sandler, Prof Pat Healey, Prof Mark Plumbley, and others.<br>
+EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467, 2009-2017.</p>
+
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K009559/1"><strong>Platform Grant: Digital Music</strong></a><br>
 Prof Mark Plumbley (PI) and others (Bryan-Kinns, Chew, Dixon, Healey, Kudumakis, Pearce, Purver, Reiss, Sandler, Stockman, Wiggins).<br>
