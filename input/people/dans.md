@@ -23,7 +23,17 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 
 *For the latest articles see also **[Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)**. Also [on Google Scholar](https://scholar.google.co.uk/citations?user=BXu3q_wAAAAJ).*
 
-**2017 and forthcoming**
+**2018 and forthcoming**
+
+D. Stowell, Y. Stylianou, M. Wood, H. Pamuła, H. Glotin, **[Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge](https://arxiv.org/abs/1807.05812)**, submitted.
+
+V. Morfi, D.Stowell, **[Deep Learning for Audio Transcription on Low-Resource Datasets](https://arxiv.org/abs/1807.03697)**, submitted.
+
+D. Fano Yela, D. Stowell and M. Sandler, **[Does k Matter? k-NN Hubness Analysis for Kernel Additive Modelling Vocal Separation](https://arxiv.org/abs/1804.02325)**. Proceedings of LVA-ICA, 2018.
+
+W. J. Wilkinson, J. D. Reiss, D. Stowell, **[A Generative Model for Natural Sounds Based on Latent Force Modelling](https://arxiv.org/abs/1802.00680)**. Proceedings of LVA-ICA, 2018.
+
+**2017**
 
 D. Stowell, E. Benetos, and L. F. Gill, **[On-bird sound recordings: Automatic acoustic recognition of activities and contexts.](https://doi.org/10.1109/TASLP.2017.2690565)** IEEE/ACM Trans. on Audio Speech and Language Processing, 25(6), 1193-1206, 2017. [[preprint](https://arxiv.org/abs/1612.05489)]
 

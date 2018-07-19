@@ -13,6 +13,12 @@ Some of our current and recent research projects include;
 
 Some relevant, recent publications describing our work include;
 
+* D. Moffat and J. D. Reiss. [Perceptual Evaluation of Synthesized Sound Effects](https://dl.acm.org/citation.cfm?id=3165287). ACM Transactions on Applied Perception (TAP) 15, 2, Article 13 (April 2018).
+* R. Selfridge, D. Moffat and J. D. Reiss. [Sound Synthesis of Objects Swinging through Air Using Physical Models](http://www.mdpi.com/2076-3417/7/11/1177). Applied Sciences 7 (11), 2017.
+* D. Moffat, D. Ronan and J. D. Reiss, [Unsupervised Taxonomy of Sound Effects](https://dafx17.eca.ed.ac.uk/papers/DAFx17_paper_26.pdf), 20th International Conference on Digital Audio Effects (DAFx-17), Edinburgh UK, September 2017.
+* R. Selfridge, D. Moffat and J. D. Reiss. [Physically Derived Sound Synthesis Model of a Propeller](http://davemoffat.com/wp/wp-content/uploads/2017/08/Propeller_AuthorsVersion.pdf). ACM Audio Mostly Conference 2017, London UK, July 2017.
+* R. Selfridge, D. Moffat and J. D. Reiss. [Real-time Physical Model for Synthesis of Sword Swing Sound](http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p299.pdf), 14th International Conference on Sound and Music Computing, Helsinki, Finland, July 2017. (Won Best Paper Award)
+* R. Selfridge, D. Moffat, J. D. Reiss and E. J. Avital. [Real-time Physical Model of an Aeolian Harp](https://www.iiav.org/archives_icsv_last/2017_icsv24/content/papers/papers/full_paper_169_20170427190827242.pdf), 24th International Congress on Sound and Vibration, London, UK, July 2017.
 * L. Mengual, D. Moffat and J. D. Reiss, [Modal Synthesis of Weapon Sounds](http://www.eecs.qmul.ac.uk/~josh/documents/2016/mengual%20moffat%20reiss%20-%202016.pdf), AES 61st International Conference, London, UK, February 10-12, 2016.
 * G. Durr, L. Peixoto, M. Souza, R. Tanoue and J. D. Reiss, [Implementation and evaluation of dynamic level of audio detail](http://www.eecs.qmul.ac.uk/~josh/documents/2015/Durr%20et%20al%20-%20AES56%20-%202015.pdf), AES 56th International Conference, London, UK, February 11–13, 2015.
 * C. Heinrichs, A. McPherson and A. Farnell. [Human performance of computational sound models for immersive environments](http://www.eecs.qmul.ac.uk/~andrewm/heinrichs-mcpherson-farnell-tns.pdf). The New Soundtrack Journal, 2014. 
