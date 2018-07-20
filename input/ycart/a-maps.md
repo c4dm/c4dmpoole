@@ -151,7 +151,7 @@ Other annotations
 <p>
 All the other annotations were kept as they were in the original PM files.
 They were input manually by the creator of the PM database.
-They might contain mistakes, but they weren't check in any way during the creation
+They might contain mistakes, but they weren't checked in any way during the creation
 of the A-MAPS MIDI files.
 </p>
 
