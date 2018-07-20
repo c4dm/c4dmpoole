@@ -11,8 +11,7 @@ Presentation
 
 <p>
 The MAPS dataset is the most used benchmark dataset for automatic music transcription (AMT).
-We propose here an updated version of the ground truth MIDI files, containing, on top of the original pitch, onset and offsets,
-additional annotations.
+We propose here an updated version of the ground truth MIDI files, containing, on top of the original pitch, onset and offsets, beat, time signature, key signature annotations, <a href="#contents">and more</a>.
 </p>
 
 <p>
@@ -31,10 +30,10 @@ Download
 </h3>
 
 <p>
-The dataset can be downloaded <a href="https://to_be_added">here</a>.
+The A-MAPS dataset can be downloaded <a href="https://to_be_added">here</a>.
 </p>
 
-<h3>
+<h3  id="contents">
 Contents
 </h3>
 
@@ -43,7 +42,7 @@ The A-MAPS dataset contains all the annotations that were present in the origina
 MIDI files used to create the MAPS dataset.
 The original MIDI files were taken from <a href="http://piano-midi.de">piano-midi.de</a> (PM).
 The PM MIDI files were created to be as close to the score as possible:
-all the elements that are on the score and can be written in MIDI files were reported,
+all the elements that appear on the score and can be written in MIDI files were reported,
 and all these elements were retrieved in the A-MAPS MIDI files.
 In particular, they contain:
 
@@ -102,8 +101,8 @@ Comparison with MAPS
 </h4>
 
 The A-MAPS dataset was made so that the pitches, onsets and offsets in seconds, and velocities of the notes
-are exactly the same as in the MAPS dataset.
-They can be used exactly the same as the MAPS ground-truth MIDI files.
+are the same as in the MAPS dataset.
+They can be used interchangeably with the MAPS ground-truth MIDI files.
 The onsets and offsets of notes are all within 5ms of the original MAPS onsets and offsets.
 
 <h4>
@@ -119,7 +118,7 @@ Then, a tempo is set to specify the duration of a tick (in our case, the tempo v
 <p>
 In the original PM files, the durations of the notes in ticks corresponded exactly
 to the note values from the score (except for ornaments).
-However, because some notes had to be adjusted to match exactly the MAPS durations,
+However, because some onsets and offsets had to be adjusted to match exactly the MAPS durations,
 some note values in the A-MAPS MIDI files are not exact.
 </p>
 
@@ -129,7 +128,7 @@ We match the notes of the two files with <a href="#thanks"> this symbolic alignm
 For each pair of notes,
 we compute the deviation between their onsets in MIDI ticks.
 Then, for each file, we compute the mean and maximum deviations.
-The per-file mean and maximum deviations are reported in <a href="data/delta_mean_max.csv"> this file</a>.
+The per-file mean and maximum deviations are reported in <a href="ycart/data/delta_mean_max.csv"> this file</a>.
 It has to be noted that the large maximum values recorded are most likely due to notes that were modified in later versions of the PM MIDI files, compared to the ones used in the MAPS files.
 </p>
 
@@ -156,11 +155,11 @@ They might contain mistakes, but they weren't check in any way during the creati
 of the A-MAPS MIDI files.
 </p>
 
-<h3>
+<h3 id="thanks">
 Thanks
 </h3>
 
-<p id="thanks">
+<p>
 The A-MAPS dataset was created with the help of the symbolic alignment algorithm described in:<br>
 E. Nakamura, K. Yoshii, and H. Katayose. "Performance error detection and post-processing for fast and accurate symbolic music alignment". In <i>18th International Society for Music Information Retrieval Conference (ISMIR)</i>, 2017.<br>
 It also used the note matching method from the <a href="http://craffel.github.io/mir_eval/">mir_eval</a> Python library.
