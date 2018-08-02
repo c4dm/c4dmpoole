@@ -30,7 +30,7 @@ Download
 </h3>
 
 <p>
-The A-MAPS dataset can be downloaded <a href="https://to_be_added">here</a>.
+The A-MAPS dataset can be downloaded <a href="https://zenodo.org/record/1317039">here</a>.
 </p>
 
 <h3  id="contents">
