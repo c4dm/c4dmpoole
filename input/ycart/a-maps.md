@@ -22,7 +22,9 @@ Adrien Ycart and Emmanouil Benetos.
   September 2018, Paris, France.</li>
 </p>
 
-
+<p>
+The related publication is available <a href="http://www.eecs.qmul.ac.uk/~ay304/pdfs/ismir18-lbd.pdf">here</a>.
+</p>
 
 
 <h3>
