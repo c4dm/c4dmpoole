@@ -31,7 +31,7 @@ We can also help people who wish to apply for their own funding via a Research F
 <br>More details: [https://epsrc.ukri.org/skills/fellows/](https://epsrc.ukri.org/skills/fellows/)
 
 <b>RAEng Research Fellowships</b>
-<br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to three years Post-Doctoral research experience.
+<br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to four years Post-Doctoral research experience.
 <br>Deadline: 24 September 2018
 <br>More details: [http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
 
