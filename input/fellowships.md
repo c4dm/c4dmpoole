@@ -22,7 +22,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>UKRI Future Leaders Fellowships</b>
 <br>Supporting early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments.
-<br>Deadline: 7 June 2018 (1st round); 4 October 2018 (2nd round)
+<br>Deadline: 4 October 2018
 <br>More details: [https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/](https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/)
 
 <b>EPSRC Research Fellowships</b>
@@ -32,12 +32,12 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>RAEng Research Fellowships</b>
 <br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to three years Post-Doctoral research experience.
-<br>Deadline: 6 September 2017
+<br>Deadline: 24 September 2018
 <br>More details: [http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
 
 <b>Royal Society University Research Fellowships</b>
 <br>The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
-<br>Deadline: Applications will open in Summer 2018
+<br>Deadline: 5 September 2018
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/university-research/](https://royalsociety.org/grants-schemes-awards/grants/university-research/)
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
@@ -52,7 +52,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
 <br>For women from developing and emerging economies who are preparing for PhD or post-doctoral study in the physical sciences, engineering and technology at leading universities abroad.
-<br>Deadline: 17 November 2017
+<br>Deadline: 14 November 2018
 <br>More details: [https://www.fftf.slb.com/](https://www.fftf.slb.com/)
 
 <b>Daphne Jackson Trust Fellowships</b>
