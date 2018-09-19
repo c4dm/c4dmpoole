@@ -32,7 +32,17 @@ Download
 </h3>
 
 <p>
-The A-MAPS dataset can be downloaded <a href="https://zenodo.org/record/1317039">here</a>.
+The A-MAPS dataset can be downloaded <a href="https://zenodo.org/record/1421997">here</a>.
+</p>
+
+<h4>
+<b>Version 1.1 (2018-09-19)</b>
+</h4>
+<p>
+<ul>
+<li> <font color="red">BUG FIXED:</font>  In some files, the time signature, key signature and text annotations used to be incorrectly shifted by one quarter note. This is now fixed.
+<li> Sustain pedal activations are now the same as in the MAPS dataset, they are all in the "Piano left" track.
+</ul>
 </p>
 
 <h3  id="contents">
