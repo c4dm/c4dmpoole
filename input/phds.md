@@ -6,6 +6,8 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2018
+* David RONAN, "Intelligent subgrouping of multitrack audio" (Supervisor: Josh Reiss)
+* Keunwoo CHOI, “Deep Neural Networks for Music Tagging” (Supervisor: Mark Sandler)
 * Maria PANTELI, "Computational analysis of world music corpora" (Supervisor: Simon Dixon)
 * Adib MEHRABI, "Vocal imitation for query by vocalisation" (Supervisor: Simon Dixon)
 * Astrid BIN, "The Show Must Go Wrong: Towards an understanding of audience perception of error in digital musical instrument performance" (Co-supervisors: Nick Bryan-Kinns, Andrew McPherson)
