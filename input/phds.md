@@ -8,7 +8,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 ##2018
 
 * Yongmeng WU, "Design and Evaluate Support for Non-musicians’ Creative Engagement with Musical Interfaces" (Supervisor: Nick Bryan-Kinns)
-* Dave MOFFAT, (Supervisor: Josh Reiss)
+* Dave MOFFAT, "Evaluation of Synthesised Sound Effects" (Supervisor: Josh Reiss)
 * David RONAN, "Intelligent subgrouping of multitrack audio" (Supervisor: Josh Reiss)
 * Keunwoo CHOI, "Deep Neural Networks for Music Tagging" (Supervisor: Mark Sandler)
 * Robert JACK, "Tangibility and richness in digital musical instrument design" (Supervisors: Tony Stockman and Andrew McPherson)
