@@ -12,6 +12,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Maria PANTELI, "Computational analysis of world music corpora" (Supervisor: Simon Dixon)
 * Adib MEHRABI, "Vocal imitation for query by vocalisation" (Supervisor: Simon Dixon)
 * Astrid BIN, "The Show Must Go Wrong: Towards an understanding of audience perception of error in digital musical instrument performance" (Co-supervisors: Nick Bryan-Kinns, Andrew McPherson)
+* Sarah SAUVE: "Prediction in polyphony: modelling musical auditory scene analysis." (Supervisor: Marcus Pearce)
 * Yonghao WANG, "Low Latency Audio Processing” (Supervisor: Josh Reiss)
 * Josh MYCROFT, "The Design of Audio Mixing: Software Displays to Support Critical Listening" (Supervisors: Tony Stockman and Josh Reiss)
 * Liam DONOVAN, "Travelling wave control of stringed musical instruments" (Supervisor: Andrew McPherson)
