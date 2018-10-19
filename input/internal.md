@@ -2,7 +2,7 @@ title: Resources for C4DM members
 ----------------
 
 * The [EECS Research Wiki](http://research-wiki.eecs.qmul.ac.uk/)
-* The [C4DM Wiki](https://github.com/c4dm/c4dmpoole.git) - available in the QM subnet only
+* The [C4DM Wiki](https://c4dm.eecs.qmul.ac.uk/wiki) - available in the QM subnet only
 * [how to add a news item to this site](news/howto.html)
 * How to edit this site:
       1. You'll need a github user account. Make sure you're logged in to github.
