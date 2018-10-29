@@ -72,7 +72,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Leverhulme Trust Early Career Fellowships</b>
 <br>Offering fifty per cent match-funding for the salary costs of three-year academic research position, the scheme enables early career researchers to undertake a significant piece of publishable work.
-<br>Deadline: 1 March 2018
+<br>Deadline: 28 February 2019
 <br>More details: [https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships](https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships)
 
 <b>Dorothy Hodgkin Fellowship</b>
