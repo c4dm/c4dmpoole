@@ -11,9 +11,13 @@ Research support staff
 --------------------------
 {{ peoplelist({'role':'staff'}) }}
 
-Postdoctoral researchers
+Postdoctoral research assistants
 --------------------------
 {{ peoplelist({'role':'postdoc'}) }}
+
+Research assistants
+--------------------------
+{{ peoplelist({'role':'ra'}) }}
 
 Research students
 --------------------------
