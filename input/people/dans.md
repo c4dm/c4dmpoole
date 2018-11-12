@@ -29,7 +29,7 @@ W. J. Wilkinson, M. Riis Andersen, J. D. Reiss, D. Stowell and A. Solin, **[Unif
 
 P. A. Alvarado, M. A. Álvarez and D. Stowell, **[Sparse Gaussian process Audio Source Separation Using Spectrum Priors in the Time-Domain](https://arxiv.org/abs/1810.12679)**, submitted.
 
-V. Morfi, Y. Bas, H. Pamuła, H. Glotin and D. Stowell, **[NIPS4Bplus: a richly annotated birdsong audio dataset]()**
+V. Morfi, Y. Bas, H. Pamuła, H. Glotin and D. Stowell, **[NIPS4Bplus: a richly annotated birdsong audio dataset](https://arxiv.org/abs/1811.02275)**, submitted.
 
 D. Stowell, T. Petrusková, M. Šálek and P. Linhart, **[Automatic acoustic identification of individual animals: Improving generalisation across species and recording conditions](https://arxiv.org/abs/1810.09273)**, submitted.
 
