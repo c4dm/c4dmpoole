@@ -1,5 +1,7 @@
 title: Mathieu Lagrange
 
+-----------------
+
 QMUL School of Electronic Engineering and Computer Science
 
 Centre for Digital Music Seminar Series
@@ -14,7 +16,7 @@ Date/time: 11-11.30am, Wednesday, 21st November 2018
 Open to academics, students, alumni, public; all welcome.
 Admission is FREE, no pre-booking required.
 
-abstract:
+Abstract:
 
 Beyond Fourier?
 
