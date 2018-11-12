@@ -1,4 +1,4 @@
-title: Mathieu Lagrange
+title: C4DM Seminar : Mathieu Lagrange
 
 -----------------
 
