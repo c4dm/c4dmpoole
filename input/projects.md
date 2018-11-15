@@ -35,9 +35,9 @@ BBSRC Grant BB/R008736/1, £658,588, 2018-2021</p>
 Prof Simon Dixon (PI, coordinator), Prof Mark Sandler (CI), Dr Emmanouil Benetos (CI), plus 6 other partners<br>
 H2020 Marie Sklodowska-Curie Innovative Training Network, Grant No. 765068, €3,937,088 (total), €819,863 (QMUL), 2018-2022</p>
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1"><strong>Integrating sound and context recognition for acoustic scene analysis</strong></a><br>
+<p><a href="http://soundscape.eecs.qmul.ac.uk/"><strong>Integrating sound and context recognition for acoustic scene analysis</strong></a><br>
 Dr Emmanouil Benetos (PI)<br>
-EPSRC Grant EP/R01891X/1, £97,839, 2018-2019</p>
+<a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1">EPSRC Grant EP/R01891X/1</a>, £97,839, 2018-2019</p>
 
 <p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
 Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
