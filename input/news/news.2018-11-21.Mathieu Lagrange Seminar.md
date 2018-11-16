@@ -6,12 +6,12 @@ QMUL School of Electronic Engineering and Computer Science
 
 Centre for Digital Music Seminar Series
 
-** Lecture by Mathieu Lagrange, CNRS
+** Lecture by Dr Mathieu Lagrange, CNRS
 **
 
 Date/time: 11-11.30am, Wednesday, 21st November 2018
 
-**Location: Eng 2.16 **
+**Location: Engineering Building, room 2.16 **
 
 Open to academics, students, alumni, public; all welcome.
 Admission is FREE, no pre-booking required.
