@@ -10,7 +10,7 @@ Centre for Digital Music Seminar Series
 
 **Date/time: 11am, Tuesday, 11th December 2018**
 
-**Location: ITL First floor seminar room**
+**Location: QMUL Graduate Centre, First Floor, room GC114**
 Campus map: [https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-May2018.pdf](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-May2018.pdf)
 
 Open to academics, students, alumni, public; all welcome.
