@@ -96,7 +96,6 @@ EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
 Prof Mark Sandler, Prof Pat Healey, Prof Mark Plumbley, and others.<br>
 EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467, 2009-2017.</p>
 
-
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K009559/1"><strong>Platform Grant: Digital Music</strong></a><br>
 Prof Mark Plumbley (PI) and others (Bryan-Kinns, Chew, Dixon, Healey, Kudumakis, Pearce, Purver, Reiss, Sandler, Stockman, Wiggins).<br>
 EPSRC Grant EP/K009559/1, £1,161,334, 2013-18. </p>
