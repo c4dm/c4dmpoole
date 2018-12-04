@@ -6,7 +6,10 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="https://gtr.ukri.org/projects?ref=AH%2FS003401%2F1"><strong>Digital Platforms for Craft in the UK and China</strong></a><br>Nick Bryan-Kinns (PI)<br>
+<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/755972/Audience_of_the_Future_Design_Foundations_-_Competition_Results.pdf"><strong>Augmented Live music performance using Immersive Visualisation and Emotion (ALIVEmusic)</strong></a><br>Dr Mathieu Barthet (PI)<br>
+Innovate UK grant 133749, £22,241 (QMUL), £59,340 (total), 2018-2019.</p>
+
+<p><a href="https://gtr.ukri.org/projects?ref=AH%2FS003401%2F1"><strong>Digital Platforms for Craft in the UK and China</strong></a><br>Dr Nick Bryan-Kinns (PI)<br>
 AHRC grant AH/S003401/1, £193,050, 2018-2020.</p>
 
 <p><a href="http://elainechew-research.blogspot.com/2018/04/erc-adg-cosmos.html"><strong>COSMOS: Computational Shaping and Modeling of Musical Structures</strong></a><br>Prof Elaine Chew (PI)<br>
