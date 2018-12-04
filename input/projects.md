@@ -45,10 +45,6 @@ H2020 Marie Sklodowska-Curie Innovative Training Network, Grant No. 765068, €3
 Dr Emmanouil Benetos (PI)<br>
 <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1">EPSRC Grant EP/R01891X/1</a>, £97,839, 2018-2019</p>
 
-<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
-Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
-AHRC Grant AH/R004706/1, £70,990, 2017-2018</p>
-
 <p><a href="http://www.iomut.eu/"><strong>Towards the Internet of Musical Things - An ecosystem of interoperable devices connecting performers and audiences (IoMUT)</strong></a><br>
 Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I)<br>
 Marie Slodowska-Curie Action Individual Fellowship, €183,455, 2017-2019</p>
@@ -71,10 +67,6 @@ EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-
 Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
 <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L027119/2"><strong>Musical Audio Repurposing using Source Separation</strong></a><br>
-Prof Mark Plumbley (PI, Surrey), Dr Nick Bryan-Kinns, Dr Josh Reiss, Dr Panos Kudumakis, Dr Simon Dixon, Prof Mark Sandler, and 5 others (Surrey)<br>
-EPSRC Grant EP/L027119/2, £856,793, 2015-2018</p>
-
 <p><a href="http://www.eecs.qmul.ac.uk/%7Eemmanouilb/index.html"><strong>A Machine Learning Framework for Audio Analysis and Retrieval</strong></a><br>Dr Emmanouil Benetos<br>RAEng Research Fellowship RF/128, £505,588, 2015-2020           
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L020505/1"><strong>Structured machine listening for soundscapes with multiple birds</strong></a><br>Dr Dan Stowell<br>
@@ -88,6 +80,14 @@ EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
+Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
+AHRC Grant AH/R004706/1, £70,990, 2017-2018</p>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L027119/2"><strong>Musical Audio Repurposing using Source Separation</strong></a><br>
+Prof Mark Plumbley (PI, Surrey), Dr Nick Bryan-Kinns, Dr Josh Reiss, Dr Panos Kudumakis, Dr Simon Dixon, Prof Mark Sandler, and 5 others (Surrey)<br>
+EPSRC Grant EP/L027119/2, £856,793, 2015-2018</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
 EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
