@@ -6,8 +6,14 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://gtr.ukri.org/projects?ref=AH%2FS003401%2F1"><strong>Digital Platforms for Craft in the UK and China</strong></a><br>Nick Bryan-Kinns (PI)<br>
+AHRC grant AH/S003401/1, £193,050, 2018-2020.</p>
+
 <p><a href="http://elainechew-research.blogspot.com/2018/04/erc-adg-cosmos.html"><strong>COSMOS: Computational Shaping and Modeling of Musical Structures</strong></a><br>Prof Elaine Chew (PI)<br>
-ERC Advanced Grant, €2,495,776, 2018-2023.</p>
+ERC Advanced Grant 788960, €2,495,776, 2018-2023.</p>
+
+<p><a href="http://www.sfi.ie/"><strong>Data-driven quality prediction for digitally restored audio archives</strong></a><br>Dr Andrew Hines (PI, UCD), Dr Emmanouil Benetos (CI)<br>
+Science Foundation Ireland, Insight-SFI PhD Recruitment Scheme, €166,544, 2018-2021.</p>
 
 <p><a href="http://gtr.ukri.org/projects?ref=133535"><strong>Enabling Accessible, High-Performance Digital Crafts for Makers and Artists</strong></a><br>Dr Rebecca Stewart (PI)<br>
 Innovate UK grant 133535, £29,723 (QMUL), £78,703 (total), 2018-2019.</p>
