@@ -10,7 +10,7 @@ title: Dan Stowell
   20 7882 3066<br />
   <strong>Email:</strong> <a href="mailto:dan.stowell@qmul.ac.uk">dan.stowell@qmul.ac.uk</a><br />
   <strong>Room:</strong> Eng
-  109</p>
+  400</p>
 
 I am a research fellow applying machine learning to sound.
 I develop new techniques in structured "machine listening",
