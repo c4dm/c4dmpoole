@@ -46,7 +46,10 @@ H2020 Marie Sklodowska-Curie Innovative Training Network, Grant No. 765068, €3
 
 <p><a href="http://soundscape.eecs.qmul.ac.uk/"><strong>Integrating sound and context recognition for acoustic scene analysis</strong></a><br>
 Dr Emmanouil Benetos (PI)<br>
-<a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1">EPSRC Grant EP/R01891X/1</a>, £97,839, 2018-2019</p>
+<a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1">EPSRC Grant EP/R01891X/1</a>, £97,839, 2018-2019
+<br>
+Dr Helen L. Bear (PI)<br>
+QMUL-EPSRC Flexible Innovation Starter Award, £4,717, 2018-19</p>
 
 <p><a href="http://www.iomut.eu/"><strong>Towards the Internet of Musical Things - An ecosystem of interoperable devices connecting performers and audiences (IoMUT)</strong></a><br>
 Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I)<br>
