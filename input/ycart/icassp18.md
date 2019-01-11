@@ -19,6 +19,16 @@ title: Polyphonic Music Sequence Transduction with Meter-Constrained LSTM Networ
 Download
 </h3>
 
+<font color="red">
+<h4>NOTICE:</h4>
+
+The correspondance tables given here should only be used to reproduce the results
+in the paper.
+They have been replaced by the newer, more complete <a href='http://c4dm.eecs.qmul.ac.uk/ycart/a-maps.html'> A-MAPS dataset</a>.
+Please use the A-MAPS dataset if you'd like to use beat annotations for MAPS.
+</font>
+
+
 <p>
   <ul>
     <li> All the data needed to reproduce the experiments
