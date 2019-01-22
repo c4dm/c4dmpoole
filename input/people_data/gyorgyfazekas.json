@@ -1,8 +1,8 @@
 {
-"name": "Dr Gyorgy Fazekas", 
-"url": "http://c4dm.eecs.qmul.ac.uk/people/gyorgyf.htm", 
-"acadposition": "Lecturer", 
-"blurb": "", 
+"name": "Dr George Fazekas", 
+"url": "http://eecs.qmul.ac.uk/~gyorgyf", 
+"acadposition": "Senior Lecturer", 
+"blurb": "Semantic Audio, Music Information Retrieval, Semantic Web for Music, Machine Learning and Data Science, Music Emotion Recognition, Interactive music sytems (e.g. intellignet editing, audio production and performance systems)", 
 "themes": [
 "mir"
 ], 

@@ -10,7 +10,7 @@ title: Dan Stowell
   20 7882 3066<br />
   <strong>Email:</strong> <a href="mailto:dan.stowell@qmul.ac.uk">dan.stowell@qmul.ac.uk</a><br />
   <strong>Room:</strong> Eng
-  109</p>
+  400</p>
 
 I am a research fellow applying machine learning to sound.
 I develop new techniques in structured "machine listening",
@@ -25,9 +25,23 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 
 **2018 and forthcoming**
 
-D. Stowell, Y. Stylianou, M. Wood, H. Pamuła, H. Glotin, **[Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge](https://arxiv.org/abs/1807.05812)**, submitted.
+W. J. Wilkinson, M. Riis Andersen, J. D. Reiss, D. Stowell and A. Solin, **[Unifying Probabilistic Models for Time-Frequency Analysis](https://arxiv.org/abs/1811.02489)**, submitted.
 
-V. Morfi, D.Stowell, **[Deep Learning for Audio Transcription on Low-Resource Datasets](https://arxiv.org/abs/1807.03697)**, submitted.
+P. A. Alvarado, M. A. Álvarez and D. Stowell, **[Sparse Gaussian process Audio Source Separation Using Spectrum Priors in the Time-Domain](https://arxiv.org/abs/1810.12679)**, submitted.
+
+V. Morfi, Y. Bas, H. Pamuła, H. Glotin and D. Stowell, **[NIPS4Bplus: a richly annotated birdsong audio dataset](https://arxiv.org/abs/1811.02275)**, submitted.
+
+D. Stowell, T. Petrusková, M. Šálek and P. Linhart, **[Automatic acoustic identification of individual animals: Improving generalisation across species and recording conditions](https://arxiv.org/abs/1810.09273)**, submitted.
+
+A. Matt and D. Stowell, **Estimating & Mitigating the Impact of Acoustic Environments on Machine-to-Machine Signalling**. Submitted.
+
+D. Stowell, Y. Stylianou, M. Wood, H. Pamuła, H. Glotin, **[Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13103)**, *Methods in Ecology and Evolution*, 2018.
+
+V. Morfi, D.Stowell, **[Deep Learning for Audio Transcription on Low-Resource Datasets](https://doi.org/10.3390/app8081397)**, *Applied Sciences* 8(8), article 1397, 2018.
+
+V. Morfi, D. Stowell, **[Data-Efficient Weakly Supervised Learning for Low-Resource Audio Event Detection Using Deep Learning](https://arxiv.org/abs/1807.06972)**, in *Proceedings of the 2018 DCASE workshop*, 2018.
+
+S. McDonald, D. Stowell and N Bryan-Kinns, **[A Networked Communal Plant Watering System](http://pd4more.urbaninformatics.net/wp-content/uploads/2018/07/McDonald_Sophie_v2.pdf)**, 2018.
 
 D. Fano Yela, D. Stowell and M. Sandler, **[Does k Matter? k-NN Hubness Analysis for Kernel Additive Modelling Vocal Separation](https://arxiv.org/abs/1804.02325)**. Proceedings of LVA-ICA, 2018.
 

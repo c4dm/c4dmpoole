@@ -6,6 +6,9 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
 ##2018
+
+* Yongmeng WU, "Design and Evaluate Support for Non-musicians’ Creative Engagement with Musical Interfaces" (Supervisor: Nick Bryan-Kinns)
+* Dave MOFFAT, "Evaluation of Synthesised Sound Effects" (Supervisor: Josh Reiss)
 * David RONAN, "Intelligent subgrouping of multitrack audio" (Supervisor: Josh Reiss)
 * Keunwoo CHOI, "Deep Neural Networks for Music Tagging" (Supervisor: Mark Sandler)
 * Robert JACK, "Tangibility and richness in digital musical instrument design" (Supervisors: Tony Stockman and Andrew McPherson)
@@ -24,8 +27,8 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Sarah SAUVÉ, "Prediction in Polyphony: Modelling Auditory Scene Analysis" (Supervisor: Marcus Pearce)
 * Siying WANG, "Computational Methods for the Alignment and Score-Informed Transcription of Piano Music" (Co-supervisors: Sebastian Ewert, Simon Dixon)
 * Doon MACDONALD, "[The Development and Evaluation of an Approach to Auditory Display Design Based on Soundtrack Composition](http://c4dm.eecs.qmul.ac.uk/papers/MacDonald-finalthesis.pdf)" (Supervisor: Tony Stockman)
-* Katerina KOSTA, "Computational Modelling and Quantitative Analysis of Dynamics in Performed Music" (Supervisor: Elaine Chew)
-* Elio QUINTON, (Supervisor: Mark Sandler)
+* Katerina KOSTA, "[Computational Modelling and Quantitative Analysis of Dynamics in Performed Music](https://qmro.qmul.ac.uk/xmlui/handle/123456789/30712)" (Supervisor: Elaine Chew)
+* Elio QUINTON, "[Towards the Automatic Analysis of Metric Modulations](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25936)" (Supervisor: Mark Sandler)
 * Christian HEINRICHS, "Human Expressivity in the Control and Integration of Computationally Generated Audio" (Supervisor: Andrew McPherson)
 * Brecht DE MAN, "[Towards a better understanding of mix engineering](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25814)" (Supervisor: Josh Reiss)
 * Laurel PARDUE, "[Violin Augmentation Techniques for Learning Assistance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25934)" (Supervisor: Andrew McPherson)
