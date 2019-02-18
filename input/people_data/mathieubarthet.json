@@ -4,7 +4,10 @@
 "acadposition": "Lecturer in Digital Media", 
 "blurb": "Music information research, Internet of musical things, Extended reality, New interfaces for musical expression, Semantic audio, Music perception (timbre, emotions), Audience-Performer interaction, Participatory art", 
 "themes": [
-"mir"
+"mir",
+"augmi",
+"isam",
+"mupae"
 ], 
 "role": "acad"
 }
