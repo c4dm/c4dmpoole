@@ -1,4 +1,4 @@
-title: Study Opportunities in the C4DM
+title: Study Opportunities
 ---------
 
 
