@@ -10,11 +10,9 @@ PhD Study
 **UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM): 12 fully-funded PhD studentships to start September 2019. Visit the AIM website for more details: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)**
 
 
-The Centre for Digital Music at Queen Mary University of London is a world-leading research group in the field of Music & Audio Technology. Our research covers everything in digital music and audio: from analysis, understanding and retrieval to delivery, synthesis and sound rendering. We seek not only to investigate new applications of digital signal processing (DSP), but also to push forward the frontiers of DSP itself.
+The Centre for Digital Music at Queen Mary University of London is a world-leading research group in the field of Music & Audio Technology. Our research covers everything in digital music and audio: from analysis, understanding and retrieval to delivery, synthesis, sound rendering, music interaction and digital musical instruments. The Centre has invested more than £6M in new state-of-the-art studios and computing facilities.
 
-Please see our list of [completed PhD theses in C4DM](phds.html) and our list of [current members of C4DM](people.html) for the wide range of topics we study.
-
-PhD researchers are currently sought in a range of topics under any of our [research themes](index.html). Possible topic areas might include: automatic music transcription; harmony analysis; auditory scene analysis; beat tracking & rhythm analysis; blind source separation & independent component analysis (ICA); joint audio/video tracking and transcription; A/D & D/A conversion; sigma delta modulation; scalable audio codecs; object based coding; sparse representations & sparse coding; music information retrieval; semantic markup, musical metadata ; audio effects; 3D sound & multi-loudspeaker rendering systems; intelligent microphone arrays; automatic accompaniment; interactive performance/internet jamming; interactive compositional tools; biologically inspired audio processing; and pervasive audio ("my music wherever I am"). We have invested more than £6M in new state-of-the-art studios and computing facilities.
+Please see our list of [completed PhD theses in C4DM](phds.html) and our list of [current members of C4DM](people.html) for the wide range of topics we study. PhD researchers are currently sought in a range of topics under any of our [research themes](index.html). 
 
 <img src="images/andrewdan_IMG_3955_0233.jpg" style="float: right; clear: both; width: 25%; max-width: 400px;" />
 
