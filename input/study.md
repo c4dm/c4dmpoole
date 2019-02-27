@@ -1,13 +1,13 @@
 title: Study Opportunities in the C4DM
 ---------
 
+
 PhD Study
-=========
+-------
 
 <img src="images/IMG_0094.jpg" style="float: right; clear: both; width: 30%; max-width: 320px;" />
 
-**UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM): 12 fully-funded PhD studentships to start September 2019**<br>
-**Visit the AIM website for more details: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)**
+**UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM): 12 fully-funded PhD studentships to start September 2019. Visit the AIM website for more details: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)**
 
 
 The Centre for Digital Music at Queen Mary University of London is a world-leading research group in the field of Music & Audio Technology. Our research covers everything in digital music and audio: from analysis, understanding and retrieval to delivery, synthesis and sound rendering. We seek not only to investigate new applications of digital signal processing (DSP), but also to push forward the frontiers of DSP itself.
