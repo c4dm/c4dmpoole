@@ -23,13 +23,13 @@ For more information about the Centre for Digital Music and our research, see [h
 Funding
 -------
 
-The Centre for Digital Music is part of the School of Electronic Engineering and Computer Science, which has a number of EPSRC-funded Research Studentships that cover fees and maintenance for UK students, or fees-only for EU students. Additional studentships are often available There is always strong competition for Research Studentships, so early application is recommended. Applications are also welcomed from self-funded students.
-Application
+The Centre for Digital Music hosts the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM), which will offer 12+ fully funded PhD studentships for September 2019. Applicants should follow the guidelines that can be found at: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)
 
-Applicants should follow the guidelines that can be found at [http://www.eecs.qmul.ac.uk/phd/how-to-apply](http://www.eecs.qmul.ac.uk/phd/how-to-apply)
+In addition, the Centre for Digital Music is part of the School of Electronic Engineering and Computer Science, which has a number of EPSRC-funded Research Studentships that cover fees and maintenance for UK students, or fees-only for EU students. Additional studentships are often available. There is always strong competition for Research Studentships, so early application is recommended. Applications are also welcomed from self-funded students. Applicants should follow the guidelines that can be found at [http://www.eecs.qmul.ac.uk/phd/how-to-apply](http://www.eecs.qmul.ac.uk/phd/how-to-apply)
 
 Informal enquiries
 ------------------
 
-Please contact: Prof Mark Sandler, email: mark.sandler@qmul.ac.uk
+For PhD study at C4DM please contact: Prof Mark Sandler, email: [mark.sandler@qmul.ac.uk](mailto:mark.sandler@qmul.ac.uk)
 
+For AIM-related PhD studentships, please contact: Prof Simon Dixon, email: [s.e.dixon@qmul.ac.uk](mailto:s.e.dixon@qmul.ac.uk)
