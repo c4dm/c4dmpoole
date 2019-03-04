@@ -1,4 +1,4 @@
-title: C4DM / MLLab Seminar : Dr Konstantinos Drossos (TUT, Finland)
+title: C4DM / MLLab Seminar : Dr Konstantinos Drossos
 
 -----------------
 
@@ -6,7 +6,7 @@ QMUL School of Electronic Engineering and Computer Science
 
 Centre for Digital Music / Machine Listening Lab Seminar Series
 
-**Seminar by Konstantinos Drossos (TUT, Finland) **
+**Seminar by Konstantinos Drossos (Tampere University, Finland) **
 
 **Date/time: 3pm, Wednesday, 6th March 2019 **
 
