@@ -5,8 +5,14 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
+##2019
+
+* Jiajie DAI, "Modelling Intonation and Interaction in Vocal Ensembles" (Supervisor: Simon Dixon)
+* Vincent AKKERMANS (Supervisor: Geraint Wiggins)
+
 ##2018
 
+* Rod SELFRIDGE, "Real-time sound synthesis of aeroacoustic sounds using physical models" (Supervisor: Josh Reiss)
 * Yongmeng WU, "Design and Evaluate Support for Non-musicians’ Creative Engagement with Musical Interfaces" (Supervisor: Nick Bryan-Kinns)
 * Dave MOFFAT, "Evaluation of Synthesised Sound Effects" (Supervisor: Josh Reiss)
 * David RONAN, "Intelligent subgrouping of multitrack audio" (Supervisor: Josh Reiss)
