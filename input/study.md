@@ -30,4 +30,4 @@ Informal enquiries
 
 For PhD study at C4DM please contact: Prof Mark Sandler, email: [mark.sandler@qmul.ac.uk](mailto:mark.sandler@qmul.ac.uk)
 
-For AIM-related PhD studentships, please contact: Prof Simon Dixon, email: [s.e.dixon@qmul.ac.uk](mailto:s.e.dixon@qmul.ac.uk)
+For enquiries related to the Centre for Doctoral Training in Artificial Intelligence and Music please send an email to [aim-enquiries@qmul.ac.uk](mailto:aim-enquiries@qmul.ac.uk)
