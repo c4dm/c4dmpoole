@@ -1,8 +1,11 @@
 {
 "name": "Luca Turchet", 
-"url": "http://www.lucaturchet.it", 
-"acadposition": "Aalborg University Copenhagen", 
-"blurb": "Sonic interaction design, haptic technology, perception, multimodal integration, sonification, music technology, virtual reality, product sound design", 
-"themes": [], 
-"role": "visitor"
+"url": "http://www.iomut.eu", 
+"acadposition": "Marie-Curie Postdoctoral Research Fellow", 
+"blurb": "Internet of Musical Things, Smart Instruments, human-computer interaction, sonic interaction design, haptic technology, perception", 
+"themes": [
+"augmi",
+"soundsynthesis"
+], 
+"role": "acad"
 }
