@@ -6,6 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)</strong></a><br>Prof Simon Dixon (PI), Dr Mathieu Barthet (CI), Dr Nick Bryan-Kinns (CI), Dr Gyorgy Fazekas (CI), Prof Elaine Chew (CI), Dr Andrew McPherson (CI), Dr Emmanouil Benetos (CI)<br>
+EPSRC Grant EP/S022694/1, £6,240,207, 2019-2027.</p>
+
 <p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/755972/Audience_of_the_Future_Design_Foundations_-_Competition_Results.pdf"><strong>Augmented Live music performance using Immersive Visualisation and Emotion (ALIVEmusic)</strong></a><br>Dr Mathieu Barthet (PI)<br>
 Innovate UK grant 133749, £22,241 (QMUL), £59,340 (total), 2018-2019.</p>
 
