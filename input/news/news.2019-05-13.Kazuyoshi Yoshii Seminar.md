@@ -11,7 +11,7 @@ Centre for Digital Music Seminar Series
 **Date/time: 2pm, Monday, 13th May 2019 **
 
 **Location: Bancroft Road, room 3.01 **
-Campus map: [https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-May2018.pdf](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-May2018.pdf)
+Campus map: [https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf)
 
 Open to students, staff, alumni, public; all welcome.
 Admission is FREE, no pre-booking required.
