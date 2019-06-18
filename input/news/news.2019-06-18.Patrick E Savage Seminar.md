@@ -10,7 +10,7 @@ Centre for Digital Music Seminar Series
 
 **Date/time: 4pm, Tuesday, 18th June 2019 **
 
-**Location: Bancroft Road, room 4.01 **
+**Location: Bancroft Road Teaching Rooms, room 4.01 **
 Campus map: [https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf)
 
 Open to students, staff, alumni, public; all welcome.
