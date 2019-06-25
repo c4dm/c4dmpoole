@@ -11,12 +11,12 @@ Centre for Digital Music Seminar Series
 **Date/time: 4pm, Tuesday, 18th June 2019 **
 
 **Location: Bancroft Road Teaching Rooms, room 4.01 **
-Campus map: [https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf)
+Number 10 on Campus map: [https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf)
 
 Open to students, staff, alumni, public; all welcome.
 Admission is FREE, no pre-booking required.
 
-<b>Title</b>: Comparative musicology: The science of the world?s music
+<b>Title</b>: Comparative musicology: The science of the world's music
 
 <b>Abstract</b>:
 What is music, and why did it evolve? How can we understand the unity and diversity found throughout the world?s music? Scientific attempts to answer these questions through cross-cultural comparison stalled during the 20th century and have only recently begun to make a resurgence. In this talk, I will synthesize recent advances to outline a new unified theoretical/methodological framework to understand and compare all of the world?s music. This framework takes advantage of new scientific theories and methods ? particularly from advances in computer science, psychology, genetic anthropology, and cultural evolution ? to apply comparative musicological research to answer longstanding questions about the origins of music and to contemporary issues including music copyright law and UNESCO policy. In doing so, I argue for an inclusive, multidisciplinary field that combines the qualitative methods traditionally employed by musicologists and cultural anthropologists with quantitative methods from the natural sciences.
