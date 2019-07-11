@@ -1,4 +1,4 @@
-title: C4DM Seminar : Patrick E. Savage
+title: C4DM Seminar : Davide Rocchesso
 
 -----------------
 
