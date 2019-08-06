@@ -6,6 +6,8 @@ title: Projects
 Current Research Funding
 -------
 
+<p><strong><a href="http://machine-listening.eecs.qmul.ac.uk/2019/08/research-visit-akash-jaiswal-machine-learning-to-analyse-acoustic-bird-monitoring-data/">Machine learning to analyse acoustic bird monitoring data</a></strong><br />Dr Dan Stowell (Host PI), Akash Jaiswal (Visiting Research Student).<br />Newton-Bhabha Fund PhD Placement, £4,080, 2019.</p>
+
 <p><a href="https://gtr.ukri.org/projects?ref=AH%2FT001259%2F1"><strong>AI for Music in the Creative Industries of China and the UK</strong></a><br>Dr Nick Bryan-Kinns (PI), Dr George Fazekas (CI)<br>
 AHRC grant AH/T001259/1, £20,970, 2019.</p>
 
