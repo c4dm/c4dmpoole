@@ -62,6 +62,51 @@ Here, our model manages to successfully detect the short notes around frame 250,
 This is mostly due to our language model: the MLM predictions show that it is able to recognise that pattern of short, repeated notes.
 </p>
 
+<table text-align="right">
+<tr>
+	<td>Ground truth:
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/good_example_ground_truth.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+<tr>
+	<td>Baseline Kelz: 
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/good_example_baseline_quant.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+<tr>
+	<td>HMM: 
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/good_example_hmm_quant.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+<tr>
+	<td>PM+S: 
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/good_example_PM+S_quant.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+</table>
+	
+
+
 <h4>
 Unsuccessful example
 </h4>
@@ -74,3 +119,45 @@ If anything, it over-fragments notes, (e.g. around frame 80), and even adds some
 We can see that the MLM predictions are very blurry, failing to predict any note with confidence.
 </p>
 
+<table text-align="right">
+<tr>
+	<td>Ground truth:
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/bad_example_ground_truth.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+<tr>
+	<td>Baseline Kelz: 
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/bad_example_baseline_quant.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+<tr>
+	<td>HMM: 
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/bad_example_hmm_quant.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+<tr>
+	<td>PM+S: 
+	</td>
+	<td>
+	<audio controls>
+	  <source src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/bad_example_PM+S_quant.mp3" type="audio/mpeg">
+	  Your browser does not support the audio element.
+	</audio>
+	</td>
+</tr>
+</table>
