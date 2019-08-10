@@ -17,7 +17,7 @@ The Centre for Digital Music is a world-leading multidisciplinary research group
 Research themes:
 
 * [Audio Engineering](audioengineering.html)
-* [Augmented Instruments](http://www.eecs.qmul.ac.uk/~andrewm/)
+* [Augmented Instruments](http://instrumentslab.org/)
 * [Sonic Interaction Design](http://isam.eecs.qmul.ac.uk)
 * [Machine Listening](http://machine-listening.eecs.qmul.ac.uk/)
 * [Music Informatics](musicinformatics.html)
