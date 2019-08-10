@@ -24,7 +24,7 @@ Research themes:
 * [Music Cognition](http://music-cognition.eecs.qmul.ac.uk/)
 * [Sound Synthesis](soundsynthesis.html)
 
-Former theme:
+Former research theme:
 
 * [Music Performance & Expression](http://mupae.blogspot.co.uk/)
 
