@@ -1,18 +1,22 @@
-title: Interactional Sound and Music
+title: Sonic Interaction Design
 ----
 
->    *Interactional - capable of acting on or influencing each other*
+The Sonic Interaction Design Lab at the Centre for Digital Music explores through new ways of encountering sound from interactive art to real time data sonification. Sonic Interaction Design is about designing and evaluating interactive systems that prioritise sound over vision.
 
-The Interactional Sound and Music group in the Centre for Digital Music explores new ways of encountering sound from interactive art to real time data sonification.
+This is especially important in the post-screen world we live in (Bryan-Kinns, 2017) where the pervasive, affective, and co-temporal features of sound contribute to the design of:
+* Mobile and wearable interaction
+* System for creative, expressive, artistic interaction
+* Tangible and physical interaction i.e. objects which do not have screens
+* Internet of Things e.g. smart appliances such as Alexa
+* Eyes-free interaction e.g. whilst attending to another task such as driving
+* Accessible interaction
 
-We ask questions such as: How do we design and create engaging interactive soundscapes? What encourages collective action with, and through sound? Does music make the world go round? Can data be sonified beautifully and intuitively? How can algorithms improvise with us in real-time? What do people understand of our new forms of musical expression. How does technology change the music making process? Can we sense the imperceptible? What do diagrams sound like?
 
-[For more information, please visit the ISAM group webpage](http://isam.eecs.qmul.ac.uk/)
+[For more information, please visit the lab webpage](http://isam.eecs.qmul.ac.uk/)
 
 Members
 --------------------------
 {{ peoplelist({'theme_isam':'1'}) }}
 
 
-[PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications. 
-
+[PhD Study](study.html) - interested in joining the team? We are currently accepting PhD applications.

@@ -18,7 +18,7 @@ Research themes:
 
 * [Audio Engineering](audioengineering.html)
 * [Augmented Instruments](http://www.eecs.qmul.ac.uk/~andrewm/)
-* [Interactional Sound & Music](interactional.html)
+* [Sonic Interaction Design](http://isam.eecs.qmul.ac.uk)
 * [Machine Listening](http://machine-listening.eecs.qmul.ac.uk/)
 * [Music Informatics](musicinformatics.html)
 * [Music Cognition](http://music-cognition.eecs.qmul.ac.uk/)
