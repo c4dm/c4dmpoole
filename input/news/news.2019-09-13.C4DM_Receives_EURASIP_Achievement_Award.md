@@ -1,4 +1,4 @@
-Title: C4DM receives EURASIP Group Technical Achievement Award
+title: C4DM receives EURASIP Group Technical Achievement Award
 ---
 
 At the [27th European Signal Processing Conference](http://eusipco2019.org/) this month, the Centre for Digital Music (C4DM) was awarded the EURASIP (European Signal Processing Society) **Group Technical Achievement Award 2019**.
