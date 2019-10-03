@@ -28,6 +28,8 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 D. Stowell, T. Petrusková, M. Šálek, P. Linhart, **[Automatic acoustic identification of individual
 animals: Improving generalisation across species and recording conditions](https://arxiv.org/abs/1810.09273)**, Journal of the Royal Society Interface 16 (153), article 20180940, 2019.
 
+W.J. Wilkinson, M. Riis Andersen, J.D. Reiss, D. Stowell, A. Solin, **[End-to-End Probabilistic Inference for Nonstationary Audio Analysis](https://arxiv.org/abs/1901.11436)**. In Proceedings of the International Conference on Machine Learning (ICML 2019), 2019.
+
 W.J. Wilkinson, M. Riis Andersen, J.D. Reiss, D. Stowell, A. Solin, **[Unifying Probabilistic Models
 for Time-Frequency Analysis](https://arxiv.org/abs/1811.02489)**. In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019), 3352-3356, 2019.
 
