@@ -7,6 +7,9 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2019
 
+* Beici LIANG, "Modelling Instrumental Gestures and Techniques: A case study of piano pedalling" (Supervisor: Mark Sandler)
+* Will WILKINSON, "Gaussian Process Modelling for Audio Signals" (Supervisors: Dan Stowell and Josh Reiss)
+* Feng FENG, "The influence of crossmodal Perception and Implicit Memory on Gestural Input Behaviour" (Supervisor: Tony Stockman)
 * Jiajie DAI, "Modelling Intonation and Interaction in Vocal Ensembles" (Supervisor: Simon Dixon)
 * Vincent AKKERMANS (Supervisor: Geraint Wiggins)
 
