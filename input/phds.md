@@ -9,7 +9,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 * Beici LIANG, "Modelling Instrumental Gestures and Techniques: A case study of piano pedalling" (Supervisor: Mark Sandler)
 * Veronica MORFI, "[Automatic detection and classification of bird sounds in low-resource wildlife audio datasets](https://qmro.qmul.ac.uk/xmlui/handle/123456789/58446)" (Supervisor: Dan Stowell)
-* Will WILKINSON, "Gaussian Process Modelling for Audio Signals" (Supervisors: Dan Stowell and Josh Reiss)
+* Will WILKINSON, "[Gaussian Process Modelling for Audio Signals](https://theses.eurasip.org/theses/838/gaussian-process-modelling-for-audio-signals/)" (Supervisors: Dan Stowell and Josh Reiss)
 * Feng FENG, "The influence of crossmodal Perception and Implicit Memory on Gestural Input Behaviour" (Supervisor: Tony Stockman)
 * Jiajie DAI, "Modelling Intonation and Interaction in Vocal Ensembles" (Supervisor: Simon Dixon)
 * Vincent AKKERMANS, "[A formal descriptive theory of software-based creative practice](https://qmro.qmul.ac.uk/xmlui/handle/123456789/59267)" (Supervisor: Geraint Wiggins)
