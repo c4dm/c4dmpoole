@@ -7,19 +7,23 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2019
 
+* Beici LIANG, "Modelling Instrumental Gestures and Techniques: A case study of piano pedalling" (Supervisor: Mark Sandler)
+* Veronica MORFI, "[Automatic detection and classification of bird sounds in low-resource wildlife audio datasets](https://qmro.qmul.ac.uk/xmlui/handle/123456789/58446)" (Supervisor: Dan Stowell)
+* Will WILKINSON, "[Gaussian Process Modelling for Audio Signals](https://theses.eurasip.org/theses/838/gaussian-process-modelling-for-audio-signals/)" (Supervisors: Dan Stowell and Josh Reiss)
+* Feng FENG, "The influence of crossmodal Perception and Implicit Memory on Gestural Input Behaviour" (Supervisor: Tony Stockman)
 * Jiajie DAI, "Modelling Intonation and Interaction in Vocal Ensembles" (Supervisor: Simon Dixon)
-* Vincent AKKERMANS (Supervisor: Geraint Wiggins)
+* Vincent AKKERMANS, "[A formal descriptive theory of software-based creative practice](https://qmro.qmul.ac.uk/xmlui/handle/123456789/59267)" (Supervisor: Geraint Wiggins)
 
 ##2018
 
-* Rod SELFRIDGE, "Real-time sound synthesis of aeroacoustic sounds using physical models" (Supervisor: Josh Reiss)
+* Rod SELFRIDGE, "[Real-time sound synthesis of aeroacoustic sounds using physical models](https://qmro.qmul.ac.uk/xmlui/handle/123456789/58445)" (Supervisor: Josh Reiss)
 * Yongmeng WU, "Design and Evaluate Support for Non-musicians’ Creative Engagement with Musical Interfaces" (Supervisor: Nick Bryan-Kinns)
 * Dave MOFFAT, "Evaluation of Synthesised Sound Effects" (Supervisor: Josh Reiss)
-* David RONAN, "Intelligent subgrouping of multitrack audio" (Supervisor: Josh Reiss)
+* David RONAN, "[Intelligent subgrouping of multitrack audio](https://qmro.qmul.ac.uk/xmlui/handle/123456789/55527)" (Supervisor: Josh Reiss)
 * Keunwoo CHOI, "Deep Neural Networks for Music Tagging" (Supervisor: Mark Sandler)
 * Robert JACK, "Tangibility and richness in digital musical instrument design" (Supervisors: Tony Stockman and Andrew McPherson)
-* Maria PANTELI, "Computational analysis of world music corpora" (Supervisor: Simon Dixon)
-* Adib MEHRABI, "Vocal imitation for query by vocalisation" (Supervisor: Simon Dixon)
+* Maria PANTELI, "[Computational analysis of world music corpora](https://qmro.qmul.ac.uk/xmlui/handle/123456789/36696)" (Supervisor: Simon Dixon)
+* Adib MEHRABI, "[Vocal imitation for query by vocalisation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/36693)" (Supervisor: Simon Dixon)
 * Astrid BIN, "The Show Must Go Wrong: Towards an understanding of audience perception of error in digital musical instrument performance" (Co-supervisors: Nick Bryan-Kinns, Andrew McPherson)
 * Sarah SAUVE: "Prediction in polyphony: modelling musical auditory scene analysis." (Supervisor: Marcus Pearce)
 * Yonghao WANG, "Low Latency Audio Processing” (Supervisor: Josh Reiss)
@@ -35,7 +39,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Doon MACDONALD, "[The Development and Evaluation of an Approach to Auditory Display Design Based on Soundtrack Composition](http://c4dm.eecs.qmul.ac.uk/papers/MacDonald-finalthesis.pdf)" (Supervisor: Tony Stockman)
 * Katerina KOSTA, "[Computational Modelling and Quantitative Analysis of Dynamics in Performed Music](https://qmro.qmul.ac.uk/xmlui/handle/123456789/30712)" (Supervisor: Elaine Chew)
 * Elio QUINTON, "[Towards the Automatic Analysis of Metric Modulations](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25936)" (Supervisor: Mark Sandler)
-* Christian HEINRICHS, "Human Expressivity in the Control and Integration of Computationally Generated Audio" (Supervisor: Andrew McPherson)
+* Christian HEINRICHS, "[Human Expressivity in the Control and Integration of Computationally Generated Audio](https://qmro.qmul.ac.uk/xmlui/handle/123456789/33924)" (Supervisor: Andrew McPherson)
 * Brecht DE MAN, "[Towards a better understanding of mix engineering](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25814)" (Supervisor: Josh Reiss)
 * Laurel PARDUE, "[Violin Augmentation Techniques for Learning Assistance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25934)" (Supervisor: Andrew McPherson)
 
