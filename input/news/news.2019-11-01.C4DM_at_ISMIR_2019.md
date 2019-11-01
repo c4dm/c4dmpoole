@@ -19,16 +19,17 @@ In the <b>Technical Programme</b>, the following papers are authored/co-authored
 * [Automatic Music Transcription and Ethnomusicology: a User Study](http://archives.ismir.net/ismir2019/paper/000082.pdf) (Andre Holzapfel, Emmanouil Benetos)
 * [Adaptive Time-Frequency Scattering for Periodic Modulation Recognition in Music Signals](http://archives.ismir.net/ismir2019/paper/000099.pdf) (Changhong Wang, Emmanouil Benetos, Vincent Lostanlen, Elaine Chew)
 
-For the <b>[MIREX 2019](https://www.music-ir.org/mirex/wiki/2019:MIREX2019_Results)</b> public evaluations, the following submissions were made from C4DM:
-
-* ["MIREX 2019: VAMP Plugins from the Centre for Digital Music"](https://www.music-ir.org/mirex/abstracts/2019/CB1.pdf) (Chris Cannam, Emmanouil Benetos, Matthias Mauch, Matthew E. P. Davies, Simon Dixon, Christian Landone, Mark Levy, Matthias Mauch, Katy Noland, and Dan Stowell). Participated in the following tasks: Audio Beat Tracking, Audio Key Detection, Audio Chord Estimation, Audio Onset Detection, Multiple Fundamental Frequency Estimation and Tracking, Structural Segmentation, Audio Tempo Estimation. 
-* ["Polyphonic music sequence classification with LSTM networks"](https://www.music-ir.org/mirex/abstracts/2019/YB2.pdf) (Adrien Ycart and Emmanouil Benetos). Participated in the Patterns for Prediction task.
-
 For the <b>[Late Breaking / Demo Session](https://ismir2019.ewi.tudelft.nl/?q=lbd)</b>, the following extended abstracts were authored/co-authored by C4DM members:
 
 * [Effects of Musical Stimulus Habituation and Musical Training on Felt Tension](http://archives.ismir.net/ismir2019/latebreaking/000015.pdf) (Courtney Reed, Elaine Chew)
 * [CBF-periDB: A Chinese Bamboo Flute Dataset for Periodic Modulation Analysis](http://archives.ismir.net/ismir2019/latebreaking/000020.pdf) (Changhong Wang, Emmanouil Benetos, Elaine Chew)
 * [Dig That Lick: Exploring Melodic Patterns in Jazz Improvisation](http://archives.ismir.net/ismir2019/latebreaking/000037.pdf) (Frank Höger, Klaus Frieler, Martin Pfleiderer, Simon Dixon)
+
+Finally, for the <b>[MIREX 2019](https://www.music-ir.org/mirex/wiki/2019:MIREX2019_Results)</b> public evaluations, the following submissions were made from C4DM:
+
+* [MIREX 2019: VAMP Plugins from the Centre for Digital Music](https://www.music-ir.org/mirex/abstracts/2019/CB1.pdf) (Chris Cannam, Emmanouil Benetos, Matthias Mauch, Matthew E. P. Davies, Simon Dixon, Christian Landone, Mark Levy, Matthias Mauch, Katy Noland, and Dan Stowell). Participated in the following tasks: Audio Beat Tracking, Audio Key Detection, Audio Chord Estimation, Audio Onset Detection, Multiple Fundamental Frequency Estimation and Tracking, Structural Segmentation, Audio Tempo Estimation. 
+* [Polyphonic music sequence classification with LSTM networks](https://www.music-ir.org/mirex/abstracts/2019/YB2.pdf) (Adrien Ycart and Emmanouil Benetos). Participated in the Patterns for Prediction task.
+
 
 See you in Delft!
 
