@@ -11,7 +11,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Veronica MORFI, "[Automatic detection and classification of bird sounds in low-resource wildlife audio datasets](https://qmro.qmul.ac.uk/xmlui/handle/123456789/58446)" (Supervisor: Dan Stowell)
 * Will WILKINSON, "[Gaussian Process Modelling for Audio Signals](https://theses.eurasip.org/theses/838/gaussian-process-modelling-for-audio-signals/)" (Supervisors: Dan Stowell and Josh Reiss)
 * Feng FENG, "The influence of crossmodal Perception and Implicit Memory on Gestural Input Behaviour" (Supervisor: Tony Stockman)
-* Jiajie DAI, "Modelling Intonation and Interaction in Vocal Ensembles" (Supervisor: Simon Dixon)
+* Jiajie DAI, "[Modelling Intonation and Interaction in Vocal Ensembles](http://www.eecs.qmul.ac.uk/~simond/phd/JiajieDai-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Vincent AKKERMANS, "[A formal descriptive theory of software-based creative practice](https://qmro.qmul.ac.uk/xmlui/handle/123456789/59267)" (Supervisor: Geraint Wiggins)
 
 ##2018
@@ -31,11 +31,11 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Liam DONOVAN, "Travelling wave control of stringed musical instruments" (Supervisor: Andrew McPherson)
 
 ##2017
-* Zulfadhli MOHAMAD, "Estimating performance parameters from electric guitar recordings" (Co-supervisors: Chris Harte and Simon Dixon)
+* Zulfadhli MOHAMAD, "[Estimating performance parameters from electric guitar recordings](http://www.eecs.qmul.ac.uk/~simond/phd/ZulfadhliMohamad-PhD-Thesis.pdf)" (Co-supervisors: Chris Harte and Simon Dixon)
 * Antonella MAZZONI, "Mood Glove: Enhancing mood in film music through haptic sensations for an enriched film experience" (Supervisor: Nick Bryan-Kinns)
 * Julie FREEMAN, "Defining data as an art material" (Supervisor: Mark Sandler)
 * Sarah SAUVÉ, "Prediction in Polyphony: Modelling Auditory Scene Analysis" (Supervisor: Marcus Pearce)
-* Siying WANG, "Computational Methods for the Alignment and Score-Informed Transcription of Piano Music" (Co-supervisors: Sebastian Ewert, Simon Dixon)
+* Siying WANG, "[Computational Methods for the Alignment and Score-Informed Transcription of Piano Music](http://www.eecs.qmul.ac.uk/~simond/phd/SiyingWang-PhD-Thesis.pdf)" (Co-supervisors: Sebastian Ewert, Simon Dixon)
 * Doon MACDONALD, "[The Development and Evaluation of an Approach to Auditory Display Design Based on Soundtrack Composition](http://c4dm.eecs.qmul.ac.uk/papers/MacDonald-finalthesis.pdf)" (Supervisor: Tony Stockman)
 * Katerina KOSTA, "[Computational Modelling and Quantitative Analysis of Dynamics in Performed Music](https://qmro.qmul.ac.uk/xmlui/handle/123456789/30712)" (Supervisor: Elaine Chew)
 * Elio QUINTON, "[Towards the Automatic Analysis of Metric Modulations](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25936)" (Supervisor: Mark Sandler)
