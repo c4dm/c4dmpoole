@@ -29,6 +29,7 @@ Finally, for the <b>[MIREX 2019](https://www.music-ir.org/mirex/wiki/2019:MIREX2
 
 * [MIREX 2019: VAMP Plugins from the Centre for Digital Music](https://www.music-ir.org/mirex/abstracts/2019/CB1.pdf) (Chris Cannam, Emmanouil Benetos, Matthias Mauch, Matthew E. P. Davies, Simon Dixon, Christian Landone, Mark Levy, Matthias Mauch, Katy Noland, and Dan Stowell). Participated in the following tasks: Audio Beat Tracking, Audio Key Detection, Audio Chord Estimation, Audio Onset Detection, Multiple Fundamental Frequency Estimation and Tracking, Structural Segmentation, Audio Tempo Estimation. 
 * [Polyphonic music sequence classification with LSTM networks](https://www.music-ir.org/mirex/abstracts/2019/YB2.pdf) (Adrien Ycart and Emmanouil Benetos). Participated in the Patterns for Prediction task.
+* [MIREX 2019 - Audio to lyrics alignment challenge 2019](https://www.music-ir.org/mirex/abstracts/2019/ED1.pdf) (Emir Demirel). Participated in the Automatic Lyrics-to-Audio Alignment task.
 
 
 See you in Delft!
