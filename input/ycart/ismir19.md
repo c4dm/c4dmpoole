@@ -26,6 +26,14 @@ The code to reproduce the experiments presented in the paper can be found at thi
 <a href=https://github.com/adrienycart/MLM_decoding> https://github.com/adrienycart/MLM_decoding </a>
 </p>
 
+<p>
+The splits we used to train the acoustic model and language model are available here:
+	<ul>
+		<li> <a href=http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/split_MAPS.zip> Acoustic model split </a>
+		<li> <a href=http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/split_PM.zip> Language model split </a>
+	</ul>
+</p>
+
 <h3>
 Examples of results
 </h3>
