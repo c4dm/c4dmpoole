@@ -8,7 +8,7 @@
 **Seminar by:**   
     Kaustuv Ganguli (Post-Doctoral Associate, NYU Abu Dhabi)  
 
-**Date/time: Wednesday 27th of November, 16h30-17h30**
+**Date/time: Wednesday 27th of November, 15h00-16h00**
 
 **Location: Graduate Centre - Room 102**  
 Number 18 on Campus map: [https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End_map-April2019.pdf)
