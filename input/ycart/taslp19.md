@@ -24,7 +24,7 @@ Dataset splits
 
 
 <p>
-The splits we used to reproduce the prediction experiments are available here: <a href=http://c4dm.eecs.qmul.ac.uk/datasets/ycart/ismir19/piano_midi_pred_split.zip> Piano-midi.de dataset split </a>
+The splits we used to reproduce the prediction experiments are available here: <a href=http://c4dm.eecs.qmul.ac.uk/datasets/ycart/taslp19/piano_midi_pred_split.zip> Piano-midi.de dataset split </a>
 </p>
 
 <h3>
@@ -49,7 +49,7 @@ Grid search results with various timesteps
 </h4>
 
 <h5>
-Table of results
+Table of results for AMT
 </h5>
 
 
@@ -61,28 +61,25 @@ Table of results
 
 
 <h5>
-Visualisation - 40ms timesteps
+Visualisation - MLM evaluation
 </h5>
 
 <p>
     <img src="ycart/data/taslp19/grid_search_40ms_MLM_title.pdf.png" alt="Grid search - MLM - 40ms" width="100%" class="center" />
-    <img src="ycart/data/taslp19/grid_search_40ms_AMT_title.pdf.png" alt="Grid search - AMT - 40ms" width="100%" class="center" />
+        <img src="ycart/data/taslp19/grid_search_note_long_MLM_title.pdf.png" alt="Grid search - MLM - note_long" width="100%" class="center" />
+            <img src="ycart/data/taslp19/grid_search_note_short_MLM_title.pdf.png" alt="Grid search - MLM - note_short" width="100%" class="center" />
+
 </p>
 
 <h5>
-Visualisation - 16th note timesteps
+Visualisation - AMT evaluation
 </h5>
 
 <p>
-    <img src="ycart/data/taslp19/grid_search_note_long_MLM_title.pdf.png" alt="Grid search - MLM - note_long" width="100%" class="center" />
+
+        <img src="ycart/data/taslp19/grid_search_40ms_AMT_title.pdf.png" alt="Grid search - AMT - 40ms" width="100%" class="center" />
     <img src="ycart/data/taslp19/grid_search_note_long_AMT_title.pdf.png" alt="Grid search - AMT - note_long" width="100%" class="center" />
-</p>
-<h5>
-Visualisation - 48th note timesteps
-</h5>
-
-<p>
-    <img src="ycart/data/taslp19/grid_search_note_short_MLM_title.pdf.png" alt="Grid search - MLM - note_short" width="100%" class="center" />
     <img src="ycart/data/taslp19/grid_search_note_short_AMT_title.pdf.png" alt="Grid search - AMT - note_short" width="100%" class="center" />
 </p>
+
 
