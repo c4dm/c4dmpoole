@@ -1,4 +1,5 @@
-Title: Deep learning methods for wildlife bioacoustics and ecology
+title: Deep learning methods for wildlife bioacoustics and ecology
+---
 
 **IJCNN 2020 Special Session**
 
