@@ -36,7 +36,7 @@ The organisation of this session builds on the organisers’ previous experience
 
 ## Important Dates
 
-* Paper Submission Deadline: **15 January 2020**
+* Paper Submission Deadline: ~~15 January 2020~~ extended to **30 January 2020**
 * Paper Acceptance Notification Date: **15 March 2020**
 * IEEE IJCNN 2020: **19-24 July 2020**
 
