@@ -5,6 +5,8 @@ title: Deep learning methods for wildlife bioacoustics and ecology
 
 Organisers: Dan Stowell, Veronica Morfi, Ricard Marxer
 
+> ***Extended deadline: 30th January***
+
 We are pleased to invite submissions for a **Special session on "Deep learning methods for wildlife bioacoustics and ecology"** at the International Joint Conference on Neural Networks (IJCNN 2020), running as part of the IEEE World Congress on Computational Intelligence ([WCCI 2020](https://wcci2020.org/)).
 
 ## Scope
