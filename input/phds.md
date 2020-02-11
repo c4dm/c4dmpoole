@@ -5,8 +5,17 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
+##2020
+
+* Delia FANO YELA, "Signal processing and graph theory techniques for sound source separation" (Supervisors: Mark Sandler and Dan Stowell)
+* Peter HARRISON, "Modelling the perception and composition of Western musical harmony" (Supervisor: Marcus Pearce)
+
 ##2019
 
+* Di SHENG, "Intelligent Control of the Dynamic Range Compressor" (Supervisor: Gyorgy Fazekas)
+* Pablo ALVARADO DURAN, "Acoustically Inspired Probabilistic Time-domain Music Transcription and Source Separation" (Supervisor: Dan Stowell)
+* Giulio MORO, "Beyond Key Velocity:Continuous Sensing for Expressive Control on the Hammond organ and Digital Keyboards" (Supervisor: Mark Sandler)
+* Liang MEN, "Exploring Collaborative Music Making Experience in Shared Virtual Environments" (Supervisor: Nick Bryan-Kinns)
 * Beici LIANG, "Modelling Instrumental Gestures and Techniques: A case study of piano pedalling" (Supervisor: Mark Sandler)
 * Veronica MORFI, "[Automatic detection and classification of bird sounds in low-resource wildlife audio datasets](https://qmro.qmul.ac.uk/xmlui/handle/123456789/58446)" (Supervisor: Dan Stowell)
 * Will WILKINSON, "[Gaussian Process Modelling for Audio Signals](https://theses.eurasip.org/theses/838/gaussian-process-modelling-for-audio-signals/)" (Supervisors: Dan Stowell and Josh Reiss)
