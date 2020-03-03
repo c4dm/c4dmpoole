@@ -38,7 +38,7 @@ Comparison of outputs with different models
 
 
 <figure>
-    <img src="ycart/data/taslp19/model_comparison.png" alt="Model comparison" width="100%" class="center" />
+    <img src="http://c4dm.eecs.qmul.ac.uk/datasets/ycart/taslp19/model_comparison.png" alt="Model comparison" width="100%" class="center" />
     <figcaption>Comparison of sigmoid outputs for various models for the MIDI file chpn-p7.mid transposed into C, with note-long (left) and note-short (right) timesteps.
     The ground truth notes are overlaid as red rectangles. The notes of the scale correspond to the white keys on the left of each image. The tonic is in grey. The same color map is used across images.</figcaption>
 </figure>
