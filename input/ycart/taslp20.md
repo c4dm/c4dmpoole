@@ -2,7 +2,7 @@ title: Investigating Learning and Evaluation Methodologies for Music Language Mo
 -------------------------------------
 
 <h2>
-Adrien Ycart and Emmanouil Benetos - <i>IEEE TASLP 2019</i>
+Adrien Ycart and Emmanouil Benetos - <i>IEEE TASLP 2020</i>
 </h2>
 
 <h3>
@@ -15,7 +15,7 @@ On this page can be found the supplementary material for:<br>
 Adrien Ycart and Emmanouil Benetos.
   "Investigating Learning and Evaluation Methodologies for Music Language Modelling"
   <i>IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), </i>
-  Submitted, 2019.</li>
+  Accepted, 2020.</li>
 </p>
 
 <h3>
