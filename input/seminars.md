@@ -14,7 +14,7 @@ Time and Place
 Seminar Announcement List and Contact
 --------
 * External visitors are welcome to join our <a href="http://www.lists.qmul.ac.uk/sympa/info/eecs-c4dm-seminars">seminar announcement list</a>.
-* For all enquiries, please contact <a href="http://eecs.qmul.ac.uk/profiles/mancoilaria-1.html">Ilaria Manco</a>.
+* For all enquiries, please contact <a href="http://eecs.qmul.ac.uk/profiles/mancoilaria-1.html">Ilaria Manco</a>, <a href="http://eecs.qmul.ac.uk/profiles/vahidicyrus.html">Cyrus Vahidi</a>, or <a href="http://eecs.qmul.ac.uk/profiles/sarmentopedropereira.html">Pedro Sarmento</a>.
 
 
 Seminars (Past and Upcoming)

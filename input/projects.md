@@ -6,7 +6,7 @@ title: Projects
 Current Research Funding
 -------
 
-<p><strong><a href="http://machine-listening.eecs.qmul.ac.uk/2019/08/research-visit-akash-jaiswal-machine-learning-to-analyse-acoustic-bird-monitoring-data/">Metaphors we listen with: the neural correlates of timbral brightness investigated by pitch-timbre interference and fMRI</a></strong><br />Dr Charalampos Saitis (PI), Dr Zachary Wallmark (CI, University of Oregon, US)<br />British Academy, BA/Leverhulme Small Research Grants scheme, SRG1920\101673, £10,000, 2020–2022
+<p><strong><a href="http://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Metaphors we listen with: the neural correlates of timbral brightness investigated by pitch-timbre interference and fMRI</a></strong><br />Dr Charalampos Saitis (PI), Dr Zachary Wallmark (CI, University of Oregon, US)<br />British Academy, BA/Leverhulme Small Research Grants scheme, SRG1920\101673, £10,000, 2020–2022
 
 <p><strong><a href="http://machine-listening.eecs.qmul.ac.uk/2019/08/research-visit-akash-jaiswal-machine-learning-to-analyse-acoustic-bird-monitoring-data/">Machine learning to analyse acoustic bird monitoring data</a></strong><br />Dr Dan Stowell (Host PI), Akash Jaiswal (Visiting Research Student).<br />Newton-Bhabha Fund PhD Placement, £4,080, 2019.</p>
 
