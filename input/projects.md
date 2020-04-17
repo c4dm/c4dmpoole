@@ -6,6 +6,8 @@ title: Projects
 Current Research Funding
 -------
 
+<p><strong><a href="https://gtr.ukri.org/projects?ref=EP%2FT022205%2F1">JADE: Joint Academic Data science Endeavour - 2</a></strong><br />Wesley Gavin Armour (PI, Oxford), Prof Mark Sandler (CI, QMUL), plus 24 others<br />EPSRC Grant EP/T022205/1, £5,539,933, 2020–2023
+
 <p><strong><a href="http://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Metaphors we listen with: the neural correlates of timbral brightness investigated by pitch-timbre interference and fMRI</a></strong><br />Dr Charalampos Saitis (PI), Dr Zachary Wallmark (CI, University of Oregon, US)<br />British Academy, BA/Leverhulme Small Research Grants scheme, SRG1920\101673, £10,000, 2020–2022
 
 <p><a href="https://gtr.ukri.org/projects?ref=30863"><strong>Development of next generation music recognition algorithm for content monitoring</strong></a><br>Prof Simon Dixon (PI), Dr Emmanouil Benetos (CI)<br>
