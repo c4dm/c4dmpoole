@@ -6,6 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://dame.qmul.ac.uk/"><strong>Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME)</strong></a><br>Prof Mark Sandler (PI), Prof Andrea Cavallaro (CI), Prof Pat Healy (CI), Dr Gareth Tyson (CI), and Dr Charalampos Saitis (CI)<br>
+£177,000 (standard stipend) + £27,000 (contribution from BBC), 2021-2024</p>
+
 <p><strong><a href="https://gtr.ukri.org/projects?ref=EP%2FT022205%2F1">JADE: Joint Academic Data science Endeavour - 2</a></strong><br />Wesley Gavin Armour (PI, Oxford), Prof Mark Sandler (CI, QMUL), plus 24 others<br />EPSRC Grant EP/T022205/1, £5,539,933, 2020–2023
 
 <p><strong><a href="http://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Metaphors we listen with: the neural correlates of timbral brightness investigated by pitch-timbre interference and fMRI</a></strong><br />Dr Charalampos Saitis (PI), Dr Zachary Wallmark (CI, University of Oregon, US)<br />British Academy, BA/Leverhulme Small Research Grants scheme, SRG1920\101673, £10,000, 2020–2022
