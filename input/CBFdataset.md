@@ -5,7 +5,7 @@ Content
 </h3>
 
 <p>
-The CBFdataset is created for ecologically valid analysis of playing techniques in real-world music performances. The dataset contains monophonic recordings of representative CBF playing techniques and classic CBF pieces recorded and annotated by professional players. The CBFdataset includes three subsets: CBF-periDB, CBF-petsDB, and CBF-piexDB.
+The CBFdataset is created for ecologically valid analysis of playing techniques in real-world music performances. The dataset contains monophonic recordings of representative Chinese bamboo flute (CBF) playing techniques and classic CBF pieces recorded and annotated by professional players. The CBFdataset includes three subsets: CBF-periDB, CBF-petsDB, and CBF-piexDB.
 </p>
 
 <p>
@@ -23,8 +23,8 @@ Download
 </h3>
 
 <p>
-All the recordings and annotations in CBF-periDB can be downloaded at <a href="https://zenodo.org/record/3250223">zenodo.org/record/3250223</a>. <br>
-	CBF-periDB and CBF-petsDB are being prepared for public release.
+All the recordings and annotations in CBF-periDB and CBF-petsDB can be downloaded at <a href="https://zenodo.org/record/3250223">zenodo.org/record/3250223</a>. <br>
+	CBF-piexDB are being prepared for public release.
 </p>
 
 <p>
@@ -34,7 +34,16 @@ For CBF-periDB, please cite the paper:
 <p>
 Changhong Wang, Emmanouil Benetos, Vincent Lostanlen, and Elaine Chew. <a href="https://qmro.qmul.ac.uk/xmlui/handle/123456789/59179">
 Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals</a>, <i>20th International Society
-	for Music Information Retrieval Conference</i>, Delft, Netherlands, November 2019.
+	for Music Information Retrieval Conference (ISMIR)</i>, November 2019.
+</p>
+
+<p>
+For CBF-petsDB, please cite the paper:
+</p>
+
+<p>
+Changhong Wang, Vincent Lostanlen, Emmanouil Benetos, and Elaine Chew. <a href="https://qmro.qmul.ac.uk/xmlui/handle/123456789/63588">
+Playing Technique Recognition by Joint Time–Frequency Scattering</a>, <i>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, May 2020.
 </p>
 
 <p>
