@@ -9,9 +9,9 @@ On 4-8 May 2020, several C4DM researchers will participate virtually at the <b>[
 As in previous years, the Centre for Digital Music will have a strong presence at the conference, both in terms of numbers and overall impact. The following papers authored/co-authored by C4DM members will be presented:
 
 * Modeling plate and spring reverberation using a DSP-informed deep neural network (M. A. Martínez Ramírez, E. Benetos, and J. D. Reiss)
-[Video](https://www.youtube.com/watch?v=WcEybhnHHso)
-[Paper (IEEEXplore - publicly available until 10th May)](https://ieeexplore.ieee.org/document/9053093/)
-[Paper (ArXiV)](https://arxiv.org/abs/1910.10105v2)
+<br>[Video](https://www.youtube.com/watch?v=WcEybhnHHso)
+<br>[Paper (IEEEXplore - publicly available until 10th May)](https://ieeexplore.ieee.org/document/9053093/)
+<br>[Paper (ArXiV)](https://arxiv.org/abs/1910.10105v2)
 
 * The Fifthnet Chroma Extractor
 [Paper (IEEEXplore - publicly available until 10th May)](https://ieeexplore.ieee.org/document/9053714)
