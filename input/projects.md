@@ -9,6 +9,9 @@ Current Research Funding
 <p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864388/Competition_Results_-_Innovate_UK_Smart_Grants_-_July_2019.pdf"><strong>HookSlam: Making Hits with AI</strong></a><br>Prof Josh Reiss (PI) and Prof Simon Dixon (CI)<br>
 Innovate UK grant 43427, £74,710 (QMUL), 2020-2021.</p>
 
+<p><a href="https://www.turing.ac.uk/research/research-projects/solar-nowcasting-machine-vision"><strong>Solar nowcasting with machine vision</strong></a><br>Dr Dan Stowell (PI), plus others<br>
+Alan Turing Institute Climate Action Pilot Project, R-SPES-115, £50,000, 2019-2020.</p>
+
 <p><a href="https://dame.qmul.ac.uk/"><strong>Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME)</strong></a><br>Prof Mark Sandler (PI), Prof Andrea Cavallaro (CI), Prof Pat Healy (CI), Dr Gareth Tyson (CI), and Dr Charalampos Saitis (CI)<br>
 £177,000 (standard stipend) + £27,000 (contribution from BBC), 2021-2024</p>
 
