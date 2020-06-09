@@ -7,6 +7,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2020
 
+* Adrien YCART, "Music language models for automatic music transcription" (Supervisor: Emmanouil Benetos)
 * Delia FANO YELA, "Signal processing and graph theory techniques for sound source separation" (Supervisors: Mark Sandler and Dan Stowell)
 * Peter HARRISON, "Modelling the perception and composition of Western musical harmony" (Supervisor: Marcus Pearce)
 
