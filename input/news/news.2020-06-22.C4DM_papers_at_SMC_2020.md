@@ -1,4 +1,4 @@
-# C4DM papers at SMC 2020
+title: C4DM papers at SMC 2020
 
 On 24-26 June 2020, several C4DM researchers will participate virtually at the [17th Sound and Music Computing Conference (SMC 2020)](https://smc2020torino.it/uk/). SMC is the flagship conference of the Sound and Music Computing community. For this year, the scientific (paper) track of SMC is co-chaired by C4DM member [Dr Charalampos Saitis](http://eecs.qmul.ac.uk/profiles/saitischaralampos.html) and organised as a virtual conference offering [free and open attendance to everyone, without registration](https://smc2020torino.it/uk/page.asp?PID=144). The SMC 2020 keynotes, oral presentations, and music program will be streamed on a [dedicated YouTube channel](https://www.youtube.comchannel/UCfmolORlQswe4F6d3lryvQ).
 
