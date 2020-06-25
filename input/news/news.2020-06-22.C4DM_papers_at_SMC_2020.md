@@ -12,4 +12,7 @@ The following papers authored/co-authored by C4DM members will be presented:
 * _**Musical dynamics classification with CNN and modulation spectra**_ (**L Marinelli** [future C4DM PhD student], A Lykartsis, **C Saitis** and S Weinzierl)
 <br>[Paper (publicly available on SMC website/proceedings)](https://smc2020torino.it/adminupload/file/SMCCIM_2020_paper_186.pdf)
 
+* _**Sonification as Negotiation - Learning from Translation Studies**_ (**G Lepri**)
+<br>[Paper (publicly available on SMC website/proceedings)](https://smc2020torino.it/adminupload/file/SMCCIM_2020_paper_59.pdf)
+
 Videos will be made available after the conference. 
