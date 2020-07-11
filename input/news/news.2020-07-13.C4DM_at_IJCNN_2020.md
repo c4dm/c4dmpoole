@@ -1,4 +1,4 @@
-title: C4DM papers at IJCNN 2020
+title: C4DM at IJCNN 2020
 
 -------------------
 
@@ -12,15 +12,19 @@ As in previous years, the Centre for Digital Music will have a strong presence a
 
 The following papers authored/co-authored by C4DM members will be presented at the conference:
 
-* <b>Automatic Lyrics Transcription using Dilated Convolutional Neural Networks with Self-Attention</b> (Emir Demirel, Sven Ahlback and Dixon Simon)
+* <b>Automatic Lyrics Transcription using Dilated Convolutional Neural Networks with Self-Attention</b>
+<br>Emir Demirel, Sven Ahlback and Dixon Simon
 
-* <b>Conditioning Autoencoder Latent Spaces for Real-Time Timbre Interpolation and Synthesis</b> (Joseph Colonel and Sam Keene)
+* <b>Conditioning Autoencoder Latent Spaces for Real-Time Timbre Interpolation and Synthesis</b>
+<br>Joseph Colonel and Sam Keene
 <br>[Paper](https://arxiv.org/abs/2001.11296)
 
-* <b>Reliable Local Explanations for Machine Listening</b> (Saumitra Mishra, Emmanouil Benetos, Bob L.T. Sturm and Simon Dixon)
+* <b>Reliable Local Explanations for Machine Listening</b>
+<br>Saumitra Mishra, Emmanouil Benetos, Bob L.T. Sturm and Simon Dixon
 <br>[Paper](https://www.turing.ac.uk/research/publications/reliable-local-explanations-machine-listening)
 
-* <b>Deep Feature Embedding and Hierarchical Classification for Audio Scene Classification</b> (Lam Pham, Ian McLoughlin, Huy Phan, Ramaswamy Palaniappan and Afred Mertins)
+* <b>Deep Feature Embedding and Hierarchical Classification for Audio Scene Classification</b>
+<br>Lam Pham, Ian McLoughlin, Huy Phan, Ramaswamy Palaniappan and Afred Mertins
 <br>[Paper](https://arxiv.org/abs/2002.04857)
 
 
