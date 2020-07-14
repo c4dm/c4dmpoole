@@ -14,6 +14,7 @@ The following papers authored/co-authored by C4DM members will be presented at t
 
 * <b>Automatic Lyrics Transcription using Dilated Convolutional Neural Networks with Self-Attention</b>
 <br>Emir Demirel, Sven Ahlback and Dixon Simon
+<br>[Paper](https://arxiv.org/abs/2007.06486)
 
 * <b>Conditioning Autoencoder Latent Spaces for Real-Time Timbre Interpolation and Synthesis</b>
 <br>Joseph Colonel and Sam Keene
