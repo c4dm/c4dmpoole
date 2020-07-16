@@ -7,8 +7,12 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2020
 
+* Jacob HARRISON, "Instruments and Access: the Role of Instruments in Music and Disability" (Supervisor: Andrew McPherson)
 * Daniel STOLLER, "Deep Learning for Music Information Retrieval in Limited Data Scenarios" (Supervisors: Simon Dixon and Sebastian Ewert)
 * Francisco RODRIGUEZ-ALGARRA, "[A Critical Look at the Music Classification Experiment Pipeline: Using Interventions to Detect and Account for Confounding Effects](http://www.eecs.qmul.ac.uk/~simond/phd/FranciscoRodriguez-Algarra-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Bob Sturm)
+* Simin YANG, "Understanding Agreement and Disagreement in Listeners’ Perceived Emotion in Live Music Performance" (Supervisors: Mathieu Barthet and Elaine Chew)
+* Emmanouil CHORDAKIS (Supervisor: Josh Reiss)
+* Saumitra MISHRA, "Interpretable Machine Learning for Machine Listening" (Supervisor: Simon Dixon)
 * Adrien YCART, "Music language models for automatic music transcription" (Supervisor: Emmanouil Benetos)
 * Delia FANO YELA, "Signal processing and graph theory techniques for sound source separation" (Supervisors: Mark Sandler and Dan Stowell)
 * Peter HARRISON, "Modelling the perception and composition of Western musical harmony" (Supervisor: Marcus Pearce)
