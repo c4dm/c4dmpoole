@@ -17,7 +17,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Pablo ALVARADO DURAN, "Acoustically Inspired Probabilistic Time-domain Music Transcription and Source Separation" (Supervisor: Dan Stowell)
 * Giulio MORO, "Beyond Key Velocity:Continuous Sensing for Expressive Control on the Hammond organ and Digital Keyboards" (Supervisor: Mark Sandler)
 * Liang MEN, "Exploring Collaborative Music Making Experience in Shared Virtual Environments" (Supervisor: Nick Bryan-Kinns)
-* Beici LIANG, "Modelling Instrumental Gestures and Techniques: A case study of piano pedalling" (Supervisor: Mark Sandler)
+* Beici LIANG, "[Modelling Instrumental Gestures and Techniques: A case study of piano pedalling](https://qmro.qmul.ac.uk/xmlui/handle/123456789/64236)" (Supervisor: Mark Sandler)
 * Veronica MORFI, "[Automatic detection and classification of bird sounds in low-resource wildlife audio datasets](https://qmro.qmul.ac.uk/xmlui/handle/123456789/58446)" (Supervisor: Dan Stowell)
 * Will WILKINSON, "[Gaussian Process Modelling for Audio Signals](https://theses.eurasip.org/theses/838/gaussian-process-modelling-for-audio-signals/)" (Supervisors: Dan Stowell and Josh Reiss)
 * Feng FENG, "The influence of crossmodal Perception and Implicit Memory on Gestural Input Behaviour" (Supervisor: Tony Stockman)
