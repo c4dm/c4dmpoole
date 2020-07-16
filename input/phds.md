@@ -7,6 +7,8 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2020
 
+* Daniel STOLLER, "Deep Learning for Music Information Retrieval in Limited Data Scenarios" (Supervisors: Simon Dixon and Sebastian Ewert)
+* Francisco RODRIGUEZ-ALGARRA, "[A Critical Look at the Music Classification Experiment Pipeline: Using Interventions to Detect and Account for Confounding Effects](http://www.eecs.qmul.ac.uk/~simond/phd/FranciscoRodriguez-Algarra-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Bob Sturm)
 * Adrien YCART, "Music language models for automatic music transcription" (Supervisor: Emmanouil Benetos)
 * Delia FANO YELA, "Signal processing and graph theory techniques for sound source separation" (Supervisors: Mark Sandler and Dan Stowell)
 * Peter HARRISON, "Modelling the perception and composition of Western musical harmony" (Supervisor: Marcus Pearce)
@@ -153,4 +155,4 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Samer ABDALLAH, "[Towards Music Perception by Redundancy Reduction and Unsupervised Learning in Probabilistic Models](https://qmro.qmul.ac.uk/jspui/handle/123456789/3801)" (Supervisor: Mark Plumbley)
 
 
-The [QMUL repository "QMRO" has a section for all QMUL PhD theses](https://qmro.qmul.ac.uk/xmlui/handle/123456789/96).
+The [QMUL repository "QMRO" has a section for all QMUL PhD theses](https://qmro.qmul.ac.uk/xmlui/handle/123456789/56370).
