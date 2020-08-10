@@ -7,7 +7,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2020
 
-* Bhusan CHETTRI, "Voice biometric system security: Design and analysis of countermeasures for replay attacks" (Supervisors: Bob Sturm and Emmanouil Benetos)
+* Bhusan CHETTRI, "[Voice biometric system security: Design and analysis of countermeasures for replay attacks](https://theses.eurasip.org/theses/866/voice-biometric-system-security-design-and/)" (Supervisors: Bob Sturm and Emmanouil Benetos)
 * Jacob HARRISON, "Instruments and Access: the Role of Instruments in Music and Disability" (Supervisor: Andrew McPherson)
 * Daniel STOLLER, "Deep Learning for Music Information Retrieval in Limited Data Scenarios" (Supervisors: Simon Dixon and Sebastian Ewert)
 * Francisco RODRIGUEZ-ALGARRA, "[A Critical Look at the Music Classification Experiment Pipeline: Using Interventions to Detect and Account for Confounding Effects](http://www.eecs.qmul.ac.uk/~simond/phd/FranciscoRodriguez-Algarra-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Bob Sturm)
