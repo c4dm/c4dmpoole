@@ -22,7 +22,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>UKRI Future Leaders Fellowships</b>
 <br>Supporting early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments.
-<br>Deadline: June 2020
+<br>Deadline: January 2021
 <br>More details: [https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/for-applicants/](https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/for-applicants/)
 
 <b>EPSRC Research Fellowships</b>
@@ -32,12 +32,12 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>RAEng Research Fellowships</b>
 <br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to four years Post-Doctoral research experience.
-<br>Deadline: currently closed, applications to open in July 2020
+<br>Deadline: September 2020
 <br>More details: [http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
 
 <b>Royal Society University Research Fellowships</b>
 <br>The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
-<br>Deadline: currently closed, applications to open in July 2020
+<br>Deadline: currently closed, applications to open in July 2021
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/university-research/](https://royalsociety.org/grants-schemes-awards/grants/university-research/)
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
@@ -52,12 +52,12 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
 <br>For women from developing and emerging economies who are preparing for PhD or post-doctoral study in the physical sciences, engineering and technology at leading universities abroad.
-<br>Deadline: currently closed, applications to open in Seotember 2020
+<br>Deadline: November 2020
 <br>More details: [https://www.fftf.slb.com/](https://www.fftf.slb.com/)
 
 <b>Daphne Jackson Trust Fellowships</b>
 <br>A Daphne Jackson Fellowship is a unique fellowship designed to return STEM professionals to their careers after a break. Fellows normally carry out their research part-time over 2 years, in a university or research establishment in the UK.
-<br>Deadline: April 2020
+<br>Deadline: September 2020
 <br>More details: [http://www.daphnejackson.org/fellowships/](http://www.daphnejackson.org/fellowships/)
 
 <b> Marie Skłodowska-Curie Actions - Individual Fellowships</b>
@@ -72,7 +72,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Leverhulme Trust Early Career Fellowships</b>
 <br>Offering fifty per cent match-funding for the salary costs of three-year academic research position, the scheme enables early career researchers to undertake a significant piece of publishable work.
-<br>Deadline: May 2020
+<br>Deadline: Februrary 2021
 <br>More details: [https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships](https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships)
 
 <b>Dorothy Hodgkin Fellowship</b>
