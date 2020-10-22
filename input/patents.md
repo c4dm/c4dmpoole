@@ -8,7 +8,6 @@ To enquire about these patents & patent applications, please contact [Prof Mark 
 The present invention relates to audio processing, in particular audio processing using deep neural networks. This invention is on a general-purpose deep learning architecture for audio processing in the context of audio effects modeling. In this way, given an arbitrary audio processor, a neural network may learn and apply the intrinsic characteristics of this transformation. The architecture is capable of recreating the sound, behaviour and main perceptual features of various types of audio effects. 
 
 Filing date: May 12, 2020
-
 Application Number: PCT/GB2020/051150
 
 **Method and Apparatus for Music Collection Navigation**
@@ -16,7 +15,6 @@ Application Number: PCT/GB2020/051150
 This application describes the means to effectively navigate and interact with a user’s digital music collection or a computer generated music playlist by using 3D audio technology. This is achieved when several songs played simultaneously as if they were originating from different spatial locations. The user can then easily navigate around the 3D virtual sound space, listen briefly and select the song of choice by pointing and/or tilting a handheld device (eg. Wii, iPhone).
 
 Filing Date: August 20, 2009
-
 Application Number: GB0815362.9
 
 **Anti-feedback Device**
