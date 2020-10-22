@@ -1,8 +1,8 @@
-title: Investigating Learning and Evaluation Methodologies for Polyphonic Music Sequence Prediction with LSTMs
+title: Learning and Evaluation Methodologies for Polyphonic Music Sequence Prediction with LSTMs
 -------------------------------------
 
 <h2>
-Adrien Ycart and Emmanouil Benetos - <i>IEEE TASLP 2019</i>
+Adrien Ycart and Emmanouil Benetos - <i>IEEE TASLP 2020</i>
 </h2>
 
 <h3>
@@ -13,9 +13,9 @@ Presentation
 <p>
 On this page can be found the supplementary material for:<br>
 Adrien Ycart and Emmanouil Benetos.
-  "Investigating Learning and Evaluation Methodologies for Polyphonic Music Sequence Prediction with LSTMs"
-  <i>IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), </i>
-  Accepted, 2019.</li>
+  "Learning and Evaluation Methodologies for Polyphonic Music Sequence Prediction with LSTMs"
+  <i>IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP). </i>
+  28:1328-1341 (2020).</li>
 </p>
 
 <h3>
