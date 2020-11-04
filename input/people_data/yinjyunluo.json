@@ -4,6 +4,8 @@
 "acadposition": "", 
 "blurb": "Industry-scale Machine Listening for Music and Audio Data", 
 "themes": [
+"soundsynthesis",
+"mlist"
 ], 
 "role": "phd"
 }

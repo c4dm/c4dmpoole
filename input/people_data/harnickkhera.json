@@ -4,6 +4,8 @@
 "acadposition": "", 
 "blurb": "Informed source separation for multi-mic production", 
 "themes": [
+"mir", 
+"mlist"
 ], 
 "role": "phd"
 }

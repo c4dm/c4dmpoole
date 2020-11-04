@@ -4,6 +4,8 @@
 "acadposition": "", 
 "blurb": "Audio Applications of Novel Mathematical Methods in Deep Learning", 
 "themes": [
+"soundsynthesis",
+"mlist"
 ], 
 "role": "phd"
 }
