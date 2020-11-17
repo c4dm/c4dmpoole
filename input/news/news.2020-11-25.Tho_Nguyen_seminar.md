@@ -10,7 +10,7 @@
 
 **Date/time: Wednesday 25th October, 11 am - 12 pm**
 
-**Location: Online**  
+**Location: Zoom (link to register [here](https://qmul-ac-uk.zoom.us/meeting/register/tZIkceyhpzsrG9LtSTke-tK-GhQ-IUDuxnuQ))**  
 
 -----------------
 
