@@ -8,7 +8,7 @@
 **Seminar by:**   
     Tho Nguyen (Nanyang Technological University)
 
-**Date/time: Wednesday 25th October, 11 am - 12 pm**
+**Date/time: Wednesday 25th October, 11 am - 12 pm UTC**
 
 **Location: Zoom (link to register [here](https://qmul-ac-uk.zoom.us/meeting/register/tZIkceyhpzsrG9LtSTke-tK-GhQ-IUDuxnuQ))**  
 
