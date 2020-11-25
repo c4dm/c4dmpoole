@@ -32,7 +32,17 @@ Download
 </h3>
 
 <p>
-The A-MAPS dataset can be downloaded <a href="https://zenodo.org/record/1421997">here</a>.
+The A-MAPS dataset can be downloaded <a href="https://zenodo.org/record/2590657">here</a>.
+</p>
+
+<h4>
+<b>Version 1.2 (2019-03-11)</b>
+</h4>
+<p>
+<ul>
+<li>  Add 3 missing MAPS files to the dataset: MAPS_MUS-chpn-e01_ENSTDkCl.mid, MAPS_MUS-chpn-e01_SptkBGAm.mid, MAPS_MUS-chpn-e01_StbgTGd2.mid. <font color="red">WARNING: They correspond to the same piece as MAPS_MUS-chpn_op10_e01_AkPnCGdD.mid </font> 
+<li> Tempo curve slightly edited to avoid unnatural tempo changes: see <a href="#tempo"> here </a> for details
+</ul>
 </p>
 
 <h4>
@@ -91,10 +101,6 @@ Some data was lost throughout the process.
 
 <ul>
 <li>One file was duplicated, we removed the duplicate: MAPS_MUS-chpn-p11-format0_AkPnCGdD.mid / MAPS_MUS-chpn-p11_AkPnCGdD.mid
-<li>One piece could not be found in the Piano-Midi.de dataset, it  was present in 3 versions in the MAPS dataset:
-MAPS_MUS-chpn-e01_ENSTDkCl.mid,
-MAPS_MUS-chpn-e01_SptkBGAm.mid,
-MAPS_MUS-chpn-e01_StbgTGd2.mid
 <li>One piece actually contained two pieces, we kept only the first one (cut after 36.5 seconds): MAPS_MUS-scn15_5_SptkBGCl.mid
 <li> For one piece, the alignment failed at some point. We only kept the first part where the alignment succeeded (cut after 209.75 seconds). This corresponds to 4 files :
 MAPS_MUS-liz_et6_StbgTGd2.mid,
@@ -102,7 +108,7 @@ MAPS_MUS-liz_et6_ENSTDkCl.mid,
 MAPS_MUS-liz_et6_AkPnCGdD.mid,
 MAPS_MUS-liz_et6_AkPnBsdf.mid
 </ul>
-Overall, we lost around 13 minutes of data. This represents 1.2% of the original MAPS dataset.
+Overall, we lost around 8 minutes of data. This represents 0.7% of the original MAPS dataset.
 </p>
 <h3>
 Accuracy of the Annotations
@@ -155,6 +161,25 @@ we added it to the right hand staff if its pitch was above 60 (C4), to the left 
 This concerns around 2.7% of the notes.
 </p>
 
+<h4 id="tempo">
+Tempo curve
+</h4>
+<p>
+The tempo curve is computed based on the correspondence table, obtained from matchings between PM and MAPS notes, see Section 3 of the <a href="http://www.eecs.qmul.ac.uk/~ay304/pdfs/ismir18-lbd.pdf">article</a> for details.
+Following the notation of the article, the tempo value might be unnaturally high in the case where t2-t1 &lt&lt q2-q1 (this happens often when ornaments are written differently in PM and MAPS).
+From Version 1.2 onwards, we slightly edit the correspondence table to remove such cases and obtain a smoother tempo curve.
+</p>
+<p>
+We use the following criterion:
+<ul>
+<li> If the tempo between t1 and t2 is higher than 1.5 times what it was just before t1 and just after t2, or if it is lower than 0.66 times what it was just before t1 and just after t2, we consider the tempo deviation to be unnatural.
+<li> We erase the tempo deviation by deleting one of the pairs (t1,q1) or (t2,q2). If one of q1 or q2 is not aligned to a metrical grid with a 96th note step, it is considered as an ornament and deleted. 
+</ul>
+</p>
+<p>
+In case both notes are aligned to the metrical grid, they are both kept, which means that there might still be some unnatural tempo jumps in the tempo curve.
+We decided to keep them; users can smooth them out if needed using a similar procedure as explained above.
+</p>
 
 <h4>
 Other annotations

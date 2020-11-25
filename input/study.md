@@ -1,16 +1,20 @@
-title: Study Opportunities in the C4DM
+title: Study Opportunities
 ---------
 
+
 PhD Study
-=========
+-------
 
 <img src="images/IMG_0094.jpg" style="float: right; clear: both; width: 30%; max-width: 320px;" />
 
-The Centre for Digital Music at Queen Mary University of London is a world-leading research group in the field of Music & Audio Technology. Our research covers everything in digital music and audio: from analysis, understanding and retrieval to delivery, synthesis and sound rendering. We seek not only to investigate new applications of digital signal processing (DSP), but also to push forward the frontiers of DSP itself.
+**Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME): 3 fully-funded PhD studentships to start January 2021. Visit the DAME website for more details: [https://dame.qmul.ac.uk/](https://dame.qmul.ac.uk/)**
 
-Please see our list of [completed PhD theses in C4DM](phds.html) and our list of [current members of C4DM](people.html) for the wide range of topics we study.
+**UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM): 12+ fully-funded PhD studentships to start September 2020. Visit the AIM website for more details: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)**
 
-PhD researchers are currently sought in a range of topics under any of our [research themes](index.html). Possible topic areas might include: automatic music transcription; harmony analysis; auditory scene analysis; beat tracking & rhythm analysis; blind source separation & independent component analysis (ICA); joint audio/video tracking and transcription; A/D & D/A conversion; sigma delta modulation; scalable audio codecs; object based coding; sparse representations & sparse coding; music information retrieval; semantic markup, musical metadata & MPEG7 applications; audio effects; 3D sound & multi-loudspeaker rendering systems; intelligent microphone arrays; automatic accompaniment; interactive performance/internet jamming; interactive compositional tools; biologically inspired audio processing; and pervasive audio ("my music wherever I am"). We have recently invested £300k in a new state-of-the-art audio listening facility, and we are keen to encourage at least one project in the area of 3D sound which would be allied to this new facility.
+
+The Centre for Digital Music at Queen Mary University of London is a world-leading research group in the field of Music & Audio Technology. Our research covers everything in digital music and audio: from analysis, understanding and retrieval to delivery, synthesis, sound rendering, music interaction and digital musical instruments. The Centre has invested more than £6M in new state-of-the-art studios and computing facilities.
+
+Please see our list of [completed PhD theses in C4DM](phds.html) and our list of [current members of C4DM](people.html) for the wide range of topics we study. PhD researchers are currently sought in a range of topics under any of our [research themes](index.html). 
 
 <img src="images/andrewdan_IMG_3955_0233.jpg" style="float: right; clear: both; width: 25%; max-width: 400px;" />
 
@@ -19,13 +23,17 @@ For more information about the Centre for Digital Music and our research, see [h
 Funding
 -------
 
-The Centre for Digital Music is part of the School of Electronic Engineering and Computer Science, which has a number of EPSRC-funded Research Studentships that cover fees and maintenance for UK students, or fees-only for EU students. Additional studentships are often available There is always strong competition for Research Studentships, so early application is recommended. Applications are also welcomed from self-funded students.
-Application
+* <b>DAME CDT</b>: The Centre for Digital Music hosts the Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME), which offers 3 fully funded PhD studentships for January 2021 start. Applicants should follow the guidelines that can be found at: [https://dame.qmul.ac.uk/?page_id=20](https://dame.qmul.ac.uk/?page_id=20)
 
-Applicants should follow the guidelines that can be found at [http://www.eecs.qmul.ac.uk/phd/how-to-apply](http://www.eecs.qmul.ac.uk/phd/how-to-apply)
+* <b>AIM CDT</b>: The Centre for Digital Music hosts the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM), which offers 12+ fully funded PhD studentships for September 2020 start. Applicants should follow the guidelines that can be found at: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)
+
+* <b>EECS studentships</b>: The Centre for Digital Music is part of the School of Electronic Engineering and Computer Science, which has a number of fully-funded PhD Studentships that cover fees and maintenance for UK, EU, and international students. The application deadline is typically on the 31st January of every year. Applicants should follow the guidelines that can be found at [http://www.eecs.qmul.ac.uk/phd/how-to-apply](http://www.eecs.qmul.ac.uk/phd/how-to-apply)
 
 Informal enquiries
 ------------------
 
-Please contact: Prof Mark Sandler, email: mark.sandler@qmul.ac.uk
+For PhD enquiries at C4DM please contact Prof Mark Sandler, email: [mark.sandler@qmul.ac.uk](mailto:mark.sandler@qmul.ac.uk)
 
+For PhD enquiries related to the DAME Centre for Doctoral Training please send an email to [mark.sandler@qmul.ac.uk](mailto:mark.sandler@qmul.ac.uk)
+
+For PhD enquiries related to the AIM Centre for Doctoral Training please send an email to [aim-enquiries@qmul.ac.uk](mailto:aim-enquiries@qmul.ac.uk)

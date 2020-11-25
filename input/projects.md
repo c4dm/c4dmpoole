@@ -6,22 +6,42 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="http://elainechew-research.blogspot.com/2018/04/erc-adg-cosmos.html"><strong>COSMOS: Computational Shaping and Modeling of Musical Structures</strong></a><br>Prof Elaine Chew (PI)<br>
-ERC Advanced Grant, €2,495,776, 2018-2023.</p>
+<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864388/Competition_Results_-_Innovate_UK_Smart_Grants_-_July_2019.pdf"><strong>HookSlam: Making Hits with AI</strong></a><br>Prof Josh Reiss (PI) and Prof Simon Dixon (CI)<br>
+Innovate UK grant 43427, £74,710 (QMUL), 2020-2021.</p>
 
-<p><a href="http://gtr.ukri.org/projects?ref=133535"><strong>Enabling Accessible, High-Performance Digital Crafts for Makers and Artists</strong></a><br>Dr Rebecca Stewart (PI)<br>
-Innovate UK grant 133535, £29,723 (QMUL), £78,703 (total), 2018-2019.</p>
+<p><a href="https://www.turing.ac.uk/research/research-projects/solar-nowcasting-machine-vision"><strong>Solar nowcasting with machine vision</strong></a><br>Dr Dan Stowell (PI), plus others<br>
+Alan Turing Institute Climate Action Pilot Project, R-SPES-115, £50,000, 2019-2020.</p>
 
-<p><a href="http://bela.io/"><strong>High-Performance Embedded Computing for Makers and Artists</strong></a><br>Liam Donovan<br>
-RAEng Enterprise Fellowship, £60,000, 2018-2019.</p>
+<p><a href="https://dame.qmul.ac.uk/"><strong>Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME)</strong></a><br>Prof Mark Sandler (PI), Prof Andrea Cavallaro (CI), Prof Pat Healy (CI), Dr Gareth Tyson (CI), and Dr Charalampos Saitis (CI)<br>
+£177,000 (standard stipend) + £27,000 (contribution from BBC), 2021-2024</p>
+
+<p><strong><a href="https://gtr.ukri.org/projects?ref=EP%2FT022205%2F1">JADE: Joint Academic Data science Endeavour - 2</a></strong><br />Wesley Gavin Armour (PI, Oxford), Prof Mark Sandler (CI, QMUL), plus 24 others<br />EPSRC Grant EP/T022205/1, £5,539,933, 2020–2023
+
+<p><strong><a href="http://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Metaphors we listen with: the neural correlates of timbral brightness investigated by pitch-timbre interference and fMRI</a></strong><br />Dr Charalampos Saitis (PI), Dr Zachary Wallmark (CI, University of Oregon, US)<br />British Academy, BA/Leverhulme Small Research Grants scheme, SRG1920\101673, £10,000, 2020–2022
+
+<p><a href="https://gtr.ukri.org/projects?ref=30863"><strong>Development of next generation music recognition algorithm for content monitoring</strong></a><br>Prof Simon Dixon (PI), Dr Emmanouil Benetos (CI)<br>
+Innovate UK grant 105516, £148,038 (QMUL), 2019-2021.</p>
+
+<p><a href="https://gtr.ukri.org/projects?ref=studentship-2161145"><strong>Perceptual Aspects of Broadcast Audio Mixing for the Hearing Impaired</strong></a><br>
+Prof Josh Reiss (PI)<br>
+ICASE PhD studentship 2161145, £83,300 (standard stipend) + £27,600 (contribution from BBC), year TBC</p>
+
+<p><a href="https://gtr.ukri.org/projects?ref=studentship-2123709"><strong>Intelligent Tools for Drum Loop Library Searching</strong></a><br>
+Prof Mark Sandler (PI)<br>
+ICASE PhD studentship 2123709, £83,300 (standard stipend) + £27,600 (contribution from ROLI Ltd), year TBC</p>
+
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)</strong></a><br>Prof Simon Dixon (PI), Dr Mathieu Barthet (CI), Dr Nick Bryan-Kinns (CI), Dr Gyorgy Fazekas (CI), Prof Elaine Chew (CI), Dr Andrew McPherson (CI), Dr Emmanouil Benetos (CI)<br>
+EPSRC Grant EP/S022694/1, £6,240,207, 2019-2027.</p>
+
+<p><a href="https://gtr.ukri.org/projects?ref=AH%2FS003401%2F1"><strong>Digital Platforms for Craft in the UK and China</strong></a><br>Dr Nick Bryan-Kinns (PI)<br>
+AHRC grant AH/S003401/1, £193,050, 2018-2020.</p>
+
+<p><a href="http://www.sfi.ie/"><strong>Data-driven quality prediction for digitally restored audio archives</strong></a><br>Dr Andrew Hines (PI, UCD), Dr Emmanouil Benetos (CI)<br>
+Science Foundation Ireland, Insight-SFI PhD Recruitment Scheme, €166,544, 2018-2021.</p>
 
 <p><a href="http://www.bbc.co.uk/rd"><strong>Music Data Science for Music Recommendation and Discovery</strong></a><br>
 Prof Mark Sandler (PI)<br>
 ICASE PhD studentship, £83,300 (standard stipend) + £27,600 (contribution from BBC R&D), year TBC</p>
-
-<p><a href="http://livequest.eecs.qmul.ac.uk/"><strong>A self-contained wearable Internet-of-Things System for Precision Livestock Agriculture</strong></a><br>
-Dr Yue Gao (PI), Dr Rebecca Stewart, Dr Alan McElligott (Roehampton) plus 4 partners<br>
-Newton Fund (InnovateUK/BBSRC), £1,600,000, 2017-2019</p>
 
 <p><a href="https://roli.com/"><strong>Extraction of features from musical audio using DSP and machine learning</strong></a><br>
 Prof Mark Sandler (PI)<br>
@@ -35,44 +55,8 @@ BBSRC Grant BB/R008736/1, £658,588, 2018-2021</p>
 Prof Simon Dixon (PI, coordinator), Prof Mark Sandler (CI), Dr Emmanouil Benetos (CI), plus 6 other partners<br>
 H2020 Marie Sklodowska-Curie Innovative Training Network, Grant No. 765068, €3,937,088 (total), €819,863 (QMUL), 2018-2022</p>
 
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1"><strong>Integrating sound and context recognition for acoustic scene analysis</strong></a><br>
-Dr Emmanouil Benetos (PI)<br>
-EPSRC Grant EP/R01891X/1, £97,839, 2018-2019</p>
-
-<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
-Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
-AHRC Grant AH/R004706/1, £70,990, 2017-2018</p>
-
-<p><a href="http://www.iomut.eu/"><strong>Towards the Internet of Musical Things - An ecosystem of interoperable devices connecting performers and audiences (IoMUT)</strong></a><br>
-Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I)<br>
-Marie Slodowska-Curie Action Individual Fellowship, €183,455, 2017-2019</p>
-
-<p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others (in France, Germany, USA).<br>
-Digging into Data Challenge - ESRC Grant ES/R004005/1, £132,775 (QMUL), 2017-2019.</p>
-
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P020275/1"><strong>JADE: Joint Academic Data science Endeavour</strong></a><br>Prof Mike Giles (PI, Oxford), Prof Mark Sandler (CI, QMUL) and 10 others.<br>
-EPSRC Grant EP/P020275/1, £3,000,000 (total), 2016-2019.</p>
-
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N005112/1"><strong>Design for Virtuosity: Modelling and Supporting Expertise in Digital Musical Interaction</strong></a><br>Dr Andrew McPherson<br>
 EPSRC Fellowship EP/N005112/1, £897,686, 2016-2020.</p>
-
-<p><a href="http://www.audiocommons.org/"><strong>Audio Commons: An Ecosystem for Creative Reuse of Audio Content</strong></a><br>
-Dr George Fazekas (PI, QMUL), Dr Mathieu Barthet (CI, QMUL), Prof Mark Sandler (CI, QMUL)<br>
-Coordinator: UPF (Spain); Participants: Surrey (UK), Jamendo (Luxemburg), Audiogaming (France), Waves Audio (Israel)<br>
-EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-2019</p>
-
-<p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
-Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
-<a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
-
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L027119/2"><strong>Musical Audio Repurposing using Source Separation</strong></a><br>
-Prof Mark Plumbley (PI, Surrey), Dr Nick Bryan-Kinns, Dr Josh Reiss, Dr Panos Kudumakis, Dr Simon Dixon, Prof Mark Sandler, and 5 others (Surrey)<br>
-EPSRC Grant EP/L027119/2, £856,793, 2015-2018</p>
-
-<p><a href="http://www.eecs.qmul.ac.uk/%7Eemmanouilb/index.html"><strong>A Machine Learning Framework for Audio Analysis and Retrieval</strong></a><br>Dr Emmanouil Benetos<br>RAEng Research Fellowship RF/128, £505,588, 2015-2020           
-
-<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L020505/1"><strong>Structured machine listening for soundscapes with multiple birds</strong></a><br>Dr Dan Stowell<br>
-EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L01632X/1"><strong>EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology</strong></a><br>
 Dr Nick Bryan-Kinns (PI) and others (Chew, McPherson, Harte, Shoop, Healey, Plumbley).<br>
@@ -83,13 +67,69 @@ EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 
 <h2>Recent Research Funding</h2>
 
+<p><a href="http://www.eecs.qmul.ac.uk/%7Eemmanouilb/index.html"><strong>A Machine Learning Framework for Audio Analysis and Retrieval</strong></a><br>Dr Emmanouil Benetos<br>RAEng Research Fellowship RF/128, £505,588, 2015-2020
+
+<p><a href="https://diggingintodata.org/awards/2016/project/dig-lick-analysing-large-scale-data-melodic-patterns-jazz-performances"><strong>Dig that lick: Analysing large-scale data for melodic patterns in jazz performances</strong></a><br>Dr Simon Dixon (PI, QMUL) and 3 others (in France, Germany, USA).<br>
+Digging into Data Challenge - ESRC Grant ES/R004005/1, £132,775 (QMUL), 2017-2019.</p>
+
+<p><strong><a href="http://machine-listening.eecs.qmul.ac.uk/2019/08/research-visit-akash-jaiswal-machine-learning-to-analyse-acoustic-bird-monitoring-data/">Machine learning to analyse acoustic bird monitoring data</a></strong><br />Dr Dan Stowell (Host PI), Akash Jaiswal (Visiting Research Student).<br />Newton-Bhabha Fund PhD Placement, £4,080, 2019.</p>
+
+<p><a href="https://gtr.ukri.org/projects?ref=AH%2FT001259%2F1"><strong>AI for Music in the Creative Industries of China and the UK</strong></a><br>Dr Nick Bryan-Kinns (PI), Dr George Fazekas (CI)<br>
+AHRC grant AH/T001259/1, £20,970, 2019.</p>
+
+<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/755972/Audience_of_the_Future_Design_Foundations_-_Competition_Results.pdf"><strong>Augmented Live music performance using Immersive Visualisation and Emotion (ALIVEmusic)</strong></a><br>Dr Mathieu Barthet (PI)<br>
+Innovate UK grant 133749, £22,241 (QMUL), £59,340 (total), 2018-2019.</p>
+
+<p><a href="http://bela.io/"><strong>High-Performance Embedded Computing for Makers and Artists</strong></a><br>Liam Donovan<br>
+RAEng Enterprise Fellowship, £60,000, 2018-2019.</p>
+
+<p><a href="http://www.semanticaudio.ac.uk/"><strong>Fusing Semantic and Audio Technologies for Intelligent Music Production and Consumption (FAST-IMPACt)</strong></a><br>
+Prof Mark Sandler (PI), Prof Geraint Wiggins, Prof Steve Benford (Nottingham), and Prof David De Roure (Oxford)<br>
+<a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L019981/1">EPSRC Programme Grant EP/L019981/1</a>, £5,199,944, 2014-2019</p>
+
+<p><a href="http://www.audiocommons.org/"><strong>Audio Commons: An Ecosystem for Creative Reuse of Audio Content</strong></a><br>
+Dr George Fazekas (PI, QMUL), Dr Mathieu Barthet (CI, QMUL), Prof Mark Sandler (CI, QMUL)<br>
+Coordinator: UPF (Spain); Participants: Surrey (UK), Jamendo (Luxemburg), Audiogaming (France), Waves Audio (Israel)<br>
+EU Project H2020-ICT-2015 688382, €2.9m total, €676,852 to Queen Mary, 2016-2019</p>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P020275/1"><strong>JADE: Joint Academic Data science Endeavour</strong></a><br>Prof Mike Giles (PI, Oxford), Prof Mark Sandler (CI, QMUL) and 10 others.<br>
+EPSRC Grant EP/P020275/1, £3,000,000 (total), 2016-2019.</p>
+
+<p><a href="http://gtr.ukri.org/projects?ref=133535"><strong>Enabling Accessible, High-Performance Digital Crafts for Makers and Artists</strong></a><br>Dr Rebecca Stewart (PI)<br>
+Innovate UK grant 133535, £29,723 (QMUL), £78,703 (total), 2018-2019.</p>
+
+<p><a href="http://livequest.eecs.qmul.ac.uk/"><strong>A self-contained wearable Internet-of-Things System for Precision Livestock Agriculture</strong></a><br>
+Dr Yue Gao (PI), Dr Rebecca Stewart, Dr Alan McElligott (Roehampton) plus 4 partners<br>
+Newton Fund (InnovateUK/BBSRC), £1,600,000, 2017-2019</p>
+
+<p><a href="http://soundscape.eecs.qmul.ac.uk/"><strong>Integrating sound and context recognition for acoustic scene analysis</strong></a><br>
+Dr Emmanouil Benetos (PI)<br>
+<a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R01891X/1">EPSRC Grant EP/R01891X/1</a>, £97,839, 2018-2019
+<br>
+Dr Helen L. Bear (PI)<br>
+QMUL-EPSRC Flexible Innovation Starter Award, £4,717, 2018-19</p>
+
+<p><a href="http://www.iomut.eu/"><strong>Towards the Internet of Musical Things - An ecosystem of interoperable devices connecting performers and audiences (IoMUT)</strong></a><br>
+Luca Turchet, Mathieu Barthet (Host PI), Andrew McPherson (Co-I)<br>
+Marie Slodowska-Curie Action Individual Fellowship, €183,455, 2017-2019</p>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L020505/1"><strong>Structured machine listening for soundscapes with multiple birds</strong></a><br>Dr Dan Stowell<br>
+EPSRC Early Career Fellowship EP/L020505/1, £506,361, 2014-2019. </p>
+
+<p><a href="http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1"><strong>Engaging three user communities with applications and outcomes of computational music creativity</strong></a><br>
+Dr Bob Sturm (PI) and Dr Oded Ben-Tal (CI, Kingston)<br>
+AHRC Grant AH/R004706/1, £70,990, 2017-2018</p>
+
+<p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L027119/2"><strong>Musical Audio Repurposing using Source Separation</strong></a><br>
+Prof Mark Plumbley (PI, Surrey), Dr Nick Bryan-Kinns, Dr Josh Reiss, Dr Panos Kudumakis, Dr Simon Dixon, Prof Mark Sandler, and 5 others (Surrey)<br>
+EPSRC Grant EP/L027119/2, £856,793, 2015-2018</p>
+
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005435/1"><strong>Autonomous System for Sound Integration and GeneratioN (ASSIGN)</strong></a><br>Dr Josh Reiss (PI)<br>
 EPSRC Grant EP/R005435/1, £116,428, 2017-2018.</p>
 
 <p><a href="http://www.mat.qmul.ac.uk/"><strong>Doctoral Training Centre in Digital Music and Media for the Creative Economy [Media and Arts Technology]</strong></a><br>
 Prof Mark Sandler, Prof Pat Healey, Prof Mark Plumbley, and others.<br>
 EPSRC Grant <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G03723X/1">EP/G03723X/1</a>, £5,955,467, 2009-2017.</p>
-
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K009559/1"><strong>Platform Grant: Digital Music</strong></a><br>
 Prof Mark Plumbley (PI) and others (Bryan-Kinns, Chew, Dixon, Healey, Kudumakis, Pearce, Purver, Reiss, Sandler, Stockman, Wiggins).<br>

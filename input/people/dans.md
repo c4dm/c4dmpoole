@@ -10,9 +10,9 @@ title: Dan Stowell
   20 7882 3066<br />
   <strong>Email:</strong> <a href="mailto:dan.stowell@qmul.ac.uk">dan.stowell@qmul.ac.uk</a><br />
   <strong>Room:</strong> Eng
-  109</p>
+  400</p>
 
-I am a research fellow applying machine learning to sound.
+I am a lecturer applying machine learning to sound.
 I develop new techniques in structured "machine listening",
 using both machine learning and signal processing to analyse soundscapes with multiple birds.
 I have also worked on voice, music, birdsong and environmental soundscapes. [More detail on my personal research page](http://mcld.co.uk/research/).
@@ -23,17 +23,29 @@ I have also worked on voice, music, birdsong and environmental soundscapes. [Mor
 
 *For the latest articles see also **[Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)**. Also [on Google Scholar](https://scholar.google.co.uk/citations?user=BXu3q_wAAAAJ).*
 
-**2018 and forthcoming**
+**2019 and forthcoming**
 
-W. J. Wilkinson, M. Riis Andersen, J. D. Reiss, D. Stowell and A. Solin, **[Unifying Probabilistic Models for Time-Frequency Analysis](https://arxiv.org/abs/1811.02489)**, submitted.
+D. Stowell, T. Petrusková, M. Šálek, P. Linhart, **[Automatic acoustic identification of individual
+animals: Improving generalisation across species and recording conditions](https://arxiv.org/abs/1810.09273)**, Journal of the Royal Society Interface 16 (153), article 20180940, 2019.
 
-P. A. Alvarado, M. A. Álvarez and D. Stowell, **[Sparse Gaussian process Audio Source Separation Using Spectrum Priors in the Time-Domain](https://arxiv.org/abs/1810.12679)**, submitted.
+W.J. Wilkinson, M. Riis Andersen, J.D. Reiss, D. Stowell, A. Solin, **[End-to-End Probabilistic Inference for Nonstationary Audio Analysis](https://arxiv.org/abs/1901.11436)**. In Proceedings of the International Conference on Machine Learning (ICML 2019), 2019.
 
-V. Morfi, Y. Bas, H. Pamuła, H. Glotin and D. Stowell, **[NIPS4Bplus: a richly annotated birdsong audio dataset](https://arxiv.org/abs/1811.02275)**, submitted.
+W.J. Wilkinson, M. Riis Andersen, J.D. Reiss, D. Stowell, A. Solin, **[Unifying Probabilistic Models
+for Time-Frequency Analysis](https://arxiv.org/abs/1811.02489)**. In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019), 3352-3356, 2019.
 
-D. Stowell, T. Petrusková, M. Šálek and P. Linhart, **[Automatic acoustic identification of individual animals: Improving generalisation across species and recording conditions](https://arxiv.org/abs/1810.09273)**, submitted.
+P.A. Alvarado, M.A. Álvarez, D. Stowell, **[Sparse Gaussian process Audio Source Separation
+Using Spectrum Priors in the Time-Domain](https://arxiv.org/abs/1810.12679)**. In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2019), 995-999, 2019.
 
-A. Matt and D. Stowell, **Estimating & Mitigating the Impact of Acoustic Environments on Machine-to-Machine Signalling**. Submitted.
+D.F. Yela, D. Stowell, M. Sandler. **[Spectral Visibility Graphs: Application to Similarity of Harmonic Signals](https://arxiv.org/abs/1903.01976)**. In European Signal Processing Conference (EUSIPCO) 2019, accepted.
+
+A. Matt, D. Stowell, **[Estimating & Mitigating the Impact of Acoustic Environments on Machine-to-Machine Signalling](https://arxiv.org/abs/1908.04672)**. In European Signal Processing Conference (EUSIPCO) 2019.
+
+V. Morfi, Y. Bas, H. Pamuła, H. Glotin and D. Stowell, **[NIPS4Bplus: a richly annotated birdsong audio dataset](https://arxiv.org/abs/1811.02275)**, in press.
+
+D.F. Yela, F. Thalmann, V. Nicosia, D. Stowell, M. Sandler. **[Efficient On-line Computation of Visibility Graphs](https://arxiv.org/abs/1905.03204)**, submitted.
+
+
+**2018**
 
 D. Stowell, Y. Stylianou, M. Wood, H. Pamuła, H. Glotin, **[Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13103)**, *Methods in Ecology and Evolution*, 2018.
 

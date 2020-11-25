@@ -14,7 +14,7 @@ Time and Place
 Seminar Announcement List and Contact
 --------
 * External visitors are welcome to join our <a href="http://www.lists.qmul.ac.uk/sympa/info/eecs-c4dm-seminars">seminar announcement list</a>.
-* For all enquiries, please contact <a href="http://www.eecs.qmul.ac.uk/people/view/21068/sebastian-ewert">Sebastian Ewert</a>.
+* For all enquiries, please contact the <a href="mailto:c4dm-seminar-organisers@qmul.ac.uk">C4DM seminar organisers</a>.
 
 
 Seminars (Past and Upcoming)
