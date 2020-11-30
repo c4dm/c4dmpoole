@@ -7,9 +7,9 @@ PhD Study
 
 <img src="images/IMG_0094.jpg" style="float: right; clear: both; width: 30%; max-width: 320px;" />
 
-**Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME): 3 fully-funded PhD studentships to start January 2021. Visit the DAME website for more details: [https://dame.qmul.ac.uk/](https://dame.qmul.ac.uk/)**
+<!---**Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME): 3 fully-funded PhD studentships to start January 2021. Visit the DAME website for more details: [https://dame.qmul.ac.uk/](https://dame.qmul.ac.uk/)** --->
 
-**UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM): 12+ fully-funded PhD studentships to start September 2020. Visit the AIM website for more details: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)**
+**UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM): 12+ fully-funded PhD studentships to start September 2021. Visit the AIM website for more details: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)**
 
 
 The Centre for Digital Music at Queen Mary University of London is a world-leading research group in the field of Music & Audio Technology. Our research covers everything in digital music and audio: from analysis, understanding and retrieval to delivery, synthesis, sound rendering, music interaction and digital musical instruments. The Centre has invested more than £6M in new state-of-the-art studios and computing facilities.
@@ -23,17 +23,19 @@ For more information about the Centre for Digital Music and our research, see [h
 Funding
 -------
 
-* <b>DAME CDT</b>: The Centre for Digital Music hosts the Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME), which offers 3 fully funded PhD studentships for January 2021 start. Applicants should follow the guidelines that can be found at: [https://dame.qmul.ac.uk/?page_id=20](https://dame.qmul.ac.uk/?page_id=20)
+<!--- * <b>DAME CDT</b>: The Centre for Digital Music hosts the Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME), which offers 3 fully funded PhD studentships for January 2021 start. Applicants should follow the guidelines that can be found at: [https://dame.qmul.ac.uk/?page_id=20](https://dame.qmul.ac.uk/?page_id=20) --->
 
-* <b>AIM CDT</b>: The Centre for Digital Music hosts the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM), which offers 12+ fully funded PhD studentships for September 2020 start. Applicants should follow the guidelines that can be found at: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)
+* <b>AIM CDT</b>: The Centre for Digital Music hosts the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM), which offers 12+ fully funded PhD studentships for September 2021 start. Applicants should follow the guidelines that can be found at: [https://www.aim.qmul.ac.uk/](https://www.aim.qmul.ac.uk/)
 
-* <b>EECS studentships</b>: The Centre for Digital Music is part of the School of Electronic Engineering and Computer Science, which has a number of fully-funded PhD Studentships that cover fees and maintenance for UK, EU, and international students. The application deadline is typically on the 31st January of every year. Applicants should follow the guidelines that can be found at [http://www.eecs.qmul.ac.uk/phd/how-to-apply](http://www.eecs.qmul.ac.uk/phd/how-to-apply)
+* <b>QMUL studentships</b>: The Centre for Digital Music is part of the School of Electronic Engineering and Computer Science, which has a number of fully-funded PhD Studentships that cover fees and maintenance for UK, EU, and international students. The application deadline is on 27th January 2021 for September 2021 entry. Applicants should follow the guidelines that can be found at [http://www.eecs.qmul.ac.uk/phd/how-to-apply](http://www.eecs.qmul.ac.uk/phd/how-to-apply)
+
+* <b>CSC studentships</b>: The Centre for Digital Music supports applicants funded by the China Scholarship Council, and the university offers tuition fee waivers for CSC applicants. The application deadline is on 27th January 2021 for September 2021 entry. Applicants should follow the guidelines that can be found at [http://www.eecs.qmul.ac.uk/phd/how-to-apply](http://www.eecs.qmul.ac.uk/phd/how-to-apply)
 
 Informal enquiries
 ------------------
 
 For PhD enquiries at C4DM please contact Prof Mark Sandler, email: [mark.sandler@qmul.ac.uk](mailto:mark.sandler@qmul.ac.uk)
 
-For PhD enquiries related to the DAME Centre for Doctoral Training please send an email to [mark.sandler@qmul.ac.uk](mailto:mark.sandler@qmul.ac.uk)
+<!---For PhD enquiries related to the DAME Centre for Doctoral Training please send an email to [mark.sandler@qmul.ac.uk](mailto:mark.sandler@qmul.ac.uk) --->
 
 For PhD enquiries related to the AIM Centre for Doctoral Training please send an email to [aim-enquiries@qmul.ac.uk](mailto:aim-enquiries@qmul.ac.uk)
