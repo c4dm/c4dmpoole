@@ -41,8 +41,9 @@ def peoplelist(criteria=None):
 	ret += "</table>"
 	return ret
 
-def publicationslist(year):
+def publicationslist(year=False):
 	actual_year = datetime.now().year
+	if not year: year = actual_year
 	# NOTE: The current year is static, so this needs to be updated as a new publication
 	#       page is created. Alternatively, do from datetime import date; actual_year = date.today().year
 	ret="""<p>Select year: """
