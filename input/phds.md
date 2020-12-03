@@ -7,6 +7,10 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2020
 
+* Thomas DEACON, "Shaping Sounds in Space: Exploring the Design of Collaborative Virtual Reality Audio Production Tools" (Supervisor: Mathieu Barthet)
+* Vanessa POPE, "That's What She Said: A computational approach to analysing structure and timing in stand-up comedy" (Supervisors: Becky Stewart, Elaine Chew, Nick Bryan-Kinns)
+* Ireti OLOWE, "Bountiful Data: Leveraging Multitrack Audio and Content-based Features for Audiovisual Performance" (Supervisors: Mathieu Barthet)
+* Alessia MILO (Supervisor: Josh Reiss)
 * Marco A. MARTÍNEZ RAMÍREZ, "[Deep learning for audio effects modeling](https://marquetem.files.wordpress.com/2020/05/thesis_marco_a_martinez_ramirez_1_0.pdf)" (Supervisor: Josh Reiss)
 * Bhusan CHETTRI, "[Voice biometric system security: Design and analysis of countermeasures for replay attacks](https://theses.eurasip.org/theses/866/voice-biometric-system-security-design-and/)" (Supervisors: Bob Sturm and Emmanouil Benetos)
 * Jacob HARRISON, "Instruments and Access: the Role of Instruments in Music and Disability" (Supervisor: Andrew McPherson)
