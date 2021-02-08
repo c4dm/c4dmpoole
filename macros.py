@@ -48,7 +48,7 @@ def publicationslist(year=False):
 		while year > 2000:
 			try:  # find the latest-existent file
 				with open("input/pubs%i_raw.html" % year, "r") as fp:
-				break
+					break
 			year -= 1
                 print("Auto selected year: %i" % year)
 
