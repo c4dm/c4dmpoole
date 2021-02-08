@@ -1,11 +1,15 @@
-Here's how I render the site:
 
-	./lib/poole/poole.py --build --base-url /sketch/
+The c4dm site is automated as follows:
 
-or
+1. We maintain the code in the github repository (markdown files, with a static site generator whose name is Poole)
+2. There's a cron job in my personal user account which simply does a "git pull" regularly (you can see it in the github at scripts/cronscript)
+3. There's a git "hook" in my local checkout which executes whenever the website changes: it runs the site generator, then copies the resulting output into the folder /import/elecpublicdept/legacysites/digitalmusic/ (you can see this hook at scripts/git-hook-post-merge)
+    (I notice it hardcodes python 2.7, probably because of the Poole codebase. This hardcoded python versioning could be a source of breakage) 
+
+
+Here's how you can render the site manually on your own computer:
 
 	./lib/poole/poole.py --build
-
 
 For install info see [INSTALL.md](INSTALL.md).
 
