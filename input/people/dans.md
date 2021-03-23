@@ -12,8 +12,6 @@ I develop new techniques in structured "machine listening",
 using both machine learning and signal processing to analyse soundscapes with multiple birds.
 I have also worked on voice, music, birdsong and environmental soundscapes. [More detail on my personal research page](http://mcld.co.uk/research/).
 
-> Are you interested in a *PhD opportunity* using machine learning / signal processing / data mining to understand natural sound? **Contact me** to discuss informally!
-
 ## Publications
 
 *For the latest articles see also **[Dan Stowell on arXiv](http://arxiv.org/a/stowell_d_1)**. Also [on Google Scholar](https://scholar.google.co.uk/citations?user=BXu3q_wAAAAJ).*
