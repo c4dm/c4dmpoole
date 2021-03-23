@@ -3,14 +3,9 @@ title: Dan Stowell
 
 <img src="/people/dan_IMG_7567_hscrop200.jpg" alt="Photo of Dan Stowell" style="float: right; margin: 10px;" />
 
-<p> <b>Title:</b> Senior Research Fellow<br />
-  <b>Tel:</b> <i>National</i>: 020
-  7882 3066<br />
-  </b><i>International</i>: +44
-  20 7882 3066<br />
-  <strong>Email:</strong> <a href="mailto:dan.stowell@qmul.ac.uk">dan.stowell@qmul.ac.uk</a><br />
-  <strong>Room:</strong> Eng
-  400</p>
+> NEW: I have now moved to [Tilburg University](https://research.tilburguniversity.edu/en/persons/dan-stowell) and [Naturalis Biodiversity Centre](https://www.naturalis.nl/en/dan-stowell) in the Netherlands.
+
+------
 
 I am a lecturer applying machine learning to sound.
 I develop new techniques in structured "machine listening",
