@@ -22,28 +22,33 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>UKRI Future Leaders Fellowships</b>
 <br>Supporting early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments.
-<br>Deadline: January 2021
-<br>More details: [https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/for-applicants/](https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/for-applicants/)
+<br>Deadline: currently closed
+<br>More details: [https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/)
 
-<b>EPSRC Research Fellowships</b>
-<br>Designed to support researchers who hold a PhD or have equivalent research experience, and who have the most potential to deliver the highest quality research.
-<br>Deadline: Apply at any time (Applications prioritized Jan/Feb and July)
-<br>More details: [https://epsrc.ukri.org/skills/fellows/](https://epsrc.ukri.org/skills/fellows/)
+<b>EPSRC Postdoctoral Fellowships</b>
+<br>Designed to support early career researchers who hold a PhD or have equivalent research experience, and who have the most potential to deliver the highest quality research.
+<br>Deadline: Apply at any time
+<br>More details: [https://www.ukri.org/opportunity/epsrc-postdoctoral-fellowship/](https://www.ukri.org/opportunity/epsrc-postdoctoral-fellowship/)
+
+<b>AHRC Research, Development and Engagement Fellowships</b>
+<br>This fellowship scheme allows early-career researchers to carry out high-quality innovative research that moves significantly beyond doctoral projects, in any area covered by the Arts & Humanities Research Council.
+<br>Deadline: Apply at any time
+<br>More details: [https://www.ukri.org/opportunity/ahrc-research-development-and-engagement-fellowships-early-career-researchers-ecr-route/](https://www.ukri.org/opportunity/ahrc-research-development-and-engagement-fellowships-early-career-researchers-ecr-route/)
 
 <b>RAEng Research Fellowships</b>
 <br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to four years Post-Doctoral research experience.
-<br>Deadline: September 2020
-<br>More details: [http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship](http://www.raeng.org.uk/grants-and-prizes/support-for-research/research-fellowships/raeng-research-fellowship)
+<br>Deadline: September 2021
+<br>More details: [https://www.raeng.org.uk/grants-prizes/grants/support-for-research/raeng-research-fellowship](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/raeng-research-fellowship)
 
 <b>Royal Society University Research Fellowships</b>
 <br>The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
-<br>Deadline: currently closed, applications to open in July 2021
+<br>Deadline: September 2021
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/university-research/](https://royalsociety.org/grants-schemes-awards/grants/university-research/)
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
 <br>Research Fellowships in Science and Engineering are intended to give early-career scientists or engineers of exceptional promise an opportunity to conduct a research project of their own instigation. The Fellowship is for a maximum of three years, subject to annual renewal.
-<br>Deadline: currently closed, applications to open in October 2020
-<br>More details: [http://www.royalcommission1851.org/awards/](http://www.royalcommission1851.org/awards/)
+<br>Deadline: currently closed, applications to open in October 2021
+<br>More details: [https://royalcommission1851.org/fellowships/research-fellowships](https://royalcommission1851.org/fellowships/research-fellowships)
 
 <b>Commonwealth Rutherford Fellowships</b>
 <br>For researchers from other Commonwealth countries to spend 1 or 2 years at an eligible UK university or higher education institution conducting postdoctoral research.
