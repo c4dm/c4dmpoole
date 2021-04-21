@@ -6,8 +6,20 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>Smart Channel Strip using Neural Audio Processing</strong></a><br>Dr George Fazekas (PI)<br>
+AIM CDT PhD studentship, £109,649 (contribution from Steinberg Media Technologies GmbH), 2021-2025.</p>
+
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Industry-scale machine listening for music and audio data</strong></a><br>Prof Simon Dixon (PI)<br>
 AIM CDT PhD studentship, £108,000 (contribution from Spotify Ltd), 2020-2024.</p>
+
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>Perceptual end to end learning for music understanding</strong></a><br>Dr George Fazekas (PI)<br>
+AIM CDT PhD studentship, £27,000 (contribution from MUSIC Tribe Brands UK Limited), 2019-2023.</p>
+
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>Deep learning and multi-modal models for the music industry</strong></a><br>Dr George Fazekas (PI)<br>
+AIM CDT PhD studentship, £54,000 (contribution from Universal Music Group), 2019-2023.</p>
+
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>Optical music recognition using deep learning</strong></a><br>Dr George Fazekas (PI)<br>
+AIM CDT PhD studentship, £109,649 (contribution from Steinberg Media Technologies GmbH), 2019-2023.</p>
 
 <p><a href="https://seeing-music.herokuapp.com/"><strong>Seeing Music: An interactive digital exhibit on sensory variation and the cross-sensory experience of music</strong></a><br>Dr Charalampos Saitis (PI), Dr Christine Cuskley (Newcastle, CI)<br>
 QMUL Centre for Public Engagement Large Grant, £9,783, 2021-2022.</p>
