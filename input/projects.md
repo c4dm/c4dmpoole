@@ -6,6 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://seeing-music.herokuapp.com/"><strong>Seeing Music: An interactive digital exhibit on sensory variation and the cross-sensory experience of music</strong></a><br>Dr Charalampos Saitis (PI), Dr Christine Cuskley (Newcastle, CI)<br>
+QMUL Centre for Public Engagement Large Grant, £9,783, 2021-2022.</p>
+
 <p><a href="https://gtr.ukri.org/projects?ref=MR%2FT040580%2F1"><strong>Designing new musical technologies for older adults' wellbeing</strong></a><br>Dr Jennifer MacRitchie (Sheffield, PI), Dr Andrew McPherson (CI), plus 2 others<br>
 UKRI Future Leaders Fellowship MR/T040580/1, £946,672, 2021-2025.</p>
 
