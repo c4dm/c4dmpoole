@@ -18,7 +18,7 @@ AHRC grant AH/V009699/1, £202,566, 2021-2023.</p>
 <p><a href="https://gtr.ukri.org/projects?ref=EP%2FV062107%2F1"><strong>GraphNEx: Graph Neural Networks for Explainable Artificial Intelligence</strong></a><br>Prof Andrea Cavallaro (QMUL PI), Dr Emmanouil Benetos (CI)<br>
 CHIST-ERA / EPSRC grant EP/V062107/1, £293,434, 2021-2024.</p>
 
-<p><a href="https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/"><strong>Unsupervised detection of sound events for complex audio</strong></a><br>Dr Emmanouil Benetos (PI)<br>
+<p><a href="https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/"><strong>Unsupervised detection of sound events for complex audio</strong></a><br>Dr Emmanouil Benetos (PI), Dr Yanxiong Li (SCUT, CI)<br>
 Royal Society International Exchanges grant IEC\NSFC\201382, £3,800, 2021-2023.</p>
 
 <p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864388/Competition_Results_-_Innovate_UK_Smart_Grants_-_July_2019.pdf"><strong>HookSlam: Making Hits with AI</strong></a><br>Prof Josh Reiss (PI) and Prof Simon Dixon (CI)<br>
