@@ -12,6 +12,9 @@ AIM CDT PhD studentship, £108,000 (contribution from Spotify Ltd), 2020-2024.</
 <p><a href="https://seeing-music.herokuapp.com/"><strong>Seeing Music: An interactive digital exhibit on sensory variation and the cross-sensory experience of music</strong></a><br>Dr Charalampos Saitis (PI), Dr Christine Cuskley (Newcastle, CI)<br>
 QMUL Centre for Public Engagement Large Grant, £9,783, 2021-2022.</p>
 
+<p><a href="https://www.qmul.ac.uk/publicengagement/"><strong>Timbre-Colour Associations: from Artistic Expression to Listener Perception</strong></a><br>Dr Charalampos Saitis (PI)<br>
+QMUL Centre for Public Engagement Small Grant, £992, 2020-2021.</p>
+
 <p><a href="https://gtr.ukri.org/projects?ref=MR%2FT040580%2F1"><strong>Designing new musical technologies for older adults' wellbeing</strong></a><br>Dr Jennifer MacRitchie (Sheffield, PI), Dr Andrew McPherson (CI), plus 2 others<br>
 UKRI Future Leaders Fellowship MR/T040580/1, £946,672, 2021-2025.</p>
 
