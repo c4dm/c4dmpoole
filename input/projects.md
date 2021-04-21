@@ -21,6 +21,9 @@ AIM CDT PhD studentship, £54,000 (contribution from Universal Music Group), 201
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Optical music recognition using deep learning</strong></a><br>Dr George Fazekas (PI)<br>
 AIM CDT PhD studentship, £109,649 (contribution from Steinberg Media Technologies GmbH), 2019-2023.</p>
 
+<p><a href="https://www.qmul.ac.uk/global/global-engagement-strategy/"><strong>Understanding how music empowers sustainable development goals</strong></a><br>Dr George Fazekas (PI)<br>
+QMUL Global Engagement Research Initiation Scheme, £1,000, 2020-21.</p>
+
 <p><a href="https://seeing-music.herokuapp.com/"><strong>Seeing Music: An interactive digital exhibit on sensory variation and the cross-sensory experience of music</strong></a><br>Dr Charalampos Saitis (PI), Dr Christine Cuskley (Newcastle, CI)<br>
 QMUL Centre for Public Engagement Large Grant, £9,783, 2021-2022.</p>
 
@@ -71,7 +74,7 @@ Science Foundation Ireland, Insight-SFI PhD Recruitment Scheme, €166,544, 2018
 
 <p><a href="http://www.bbc.co.uk/rd"><strong>Music Data Science for Music Recommendation and Discovery</strong></a><br>
 Prof Mark Sandler (PI)<br>
-ICASE PhD studentship, £83,300 (standard stipend) + £27,600 (contribution from BBC R&D), year TBC</p>
+ICASE PhD studentship, £83,300 (standard stipend) + £27,600 (contribution from BBC R&D), 2018-2022</p>
 
 <p><a href="https://roli.com/"><strong>Extraction of features from musical audio using DSP and machine learning</strong></a><br>
 Prof Mark Sandler (PI)<br>
