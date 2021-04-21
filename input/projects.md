@@ -6,6 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>Industry-scale machine listening for music and audio data</strong></a><br>Prof Simon Dixon (PI)<br>
+AIM CDT PhD studentship, £108,000 (contribution from Spotify Ltd), 2020-2024.</p>
+
 <p><a href="https://seeing-music.herokuapp.com/"><strong>Seeing Music: An interactive digital exhibit on sensory variation and the cross-sensory experience of music</strong></a><br>Dr Charalampos Saitis (PI), Dr Christine Cuskley (Newcastle, CI)<br>
 QMUL Centre for Public Engagement Large Grant, £9,783, 2021-2022.</p>
 
@@ -16,7 +19,7 @@ UKRI Future Leaders Fellowship MR/T040580/1, £946,672, 2021-2025.</p>
 NERC grant NE/T014342/1, £10,997, 2020-2021.</p>
 
 <p><a href="https://gtr.ukri.org/projects?ref=AH%2FV009699%2F1"><strong>New Directions in Digital Jazz Studies: Music Information Retrieval and AI Support for Jazz Scholarship in Digital Archives</strong></a><br>Dr Tillman Weyde (City, PI), Prof Simon Dixon (CI), plus two others<br>
-AHRC grant AH/V009699/1, £202,566, 2021-2023.</p>
+AHRC grant AH/V009699/1, £50,845 (QMUL), £202,566 (total), 2021-2023.</p>
 
 <p><a href="https://gtr.ukri.org/projects?ref=EP%2FV062107%2F1"><strong>GraphNEx: Graph Neural Networks for Explainable Artificial Intelligence</strong></a><br>Prof Andrea Cavallaro (QMUL PI), Dr Emmanouil Benetos (CI)<br>
 CHIST-ERA / EPSRC grant EP/V062107/1, £293,434, 2021-2024.</p>
