@@ -66,7 +66,7 @@ ICASE PhD studentship 2161145, £83,300 (standard stipend) + £27,600 (contribut
 Prof Mark Sandler (PI)<br>
 ICASE PhD studentship 2123709, £83,300 (standard stipend) + £27,600 (contribution from ROLI Ltd), 2017-21</p>
 
-<p><a href="https://www.aim.qmul.ac.uk/"><strong>UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)</strong></a><br>Prof Simon Dixon (PI), Dr Mathieu Barthet (CI), Dr Nick Bryan-Kinns (CI), Dr Gyorgy Fazekas (CI), Prof Elaine Chew (CI), Dr Andrew McPherson (CI), Dr Emmanouil Benetos (CI)<br>
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)</strong></a><br>Prof Simon Dixon (PI), Dr Mathieu Barthet (CI), Dr Nick Bryan-Kinns (CI), Dr Gyorgy Fazekas (CI), Prof Mark Sandler (CI), Dr Andrew McPherson (CI), Dr Emmanouil Benetos (CI)<br>
 EPSRC Grant EP/S022694/1, £6,240,207, 2019-2027.</p>
 
 <p><a href="http://www.sfi.ie/"><strong>Data-driven quality prediction for digitally restored audio archives</strong></a><br>Dr Andrew Hines (PI, UCD), Dr Emmanouil Benetos (CI)<br>
@@ -75,10 +75,6 @@ Science Foundation Ireland, Insight-SFI PhD Recruitment Scheme, €166,544, 2018
 <p><a href="http://www.bbc.co.uk/rd"><strong>Music Data Science for Music Recommendation and Discovery</strong></a><br>
 Prof Mark Sandler (PI)<br>
 ICASE PhD studentship, £83,300 (standard stipend) + £27,600 (contribution from BBC R&D), 2018-2022</p>
-
-<p><a href="https://roli.com/"><strong>Extraction of features from musical audio using DSP and machine learning</strong></a><br>
-Prof Mark Sandler (PI)<br>
-CASE PhD studentship, £30,800 (contribution from ROLI Ltd), 2017-2021</p>
 
 <p><a href="https://www.bbsrc.ac.uk/documents/2017-awarded-grants-rm2"><strong>Machine Learning for Bird Song Learning</strong></a><br>
 Dr Rob Lachlan (PI), Dr David Clayton (CI), Dr Dan Stowell (CI)<br>
@@ -89,7 +85,7 @@ Prof Simon Dixon (PI, coordinator), Prof Mark Sandler (CI), Dr Emmanouil Benetos
 H2020 Marie Sklodowska-Curie Innovative Training Network, Grant No. 765068, €3,937,088 (total), €819,863 (QMUL), 2018-2022</p>
 
 <p><a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L01632X/1"><strong>EPSRC and AHRC Centre for Doctoral Training in Media and Arts Technology</strong></a><br>
-Dr Nick Bryan-Kinns (PI) and others (Chew, McPherson, Harte, Shoop, Healey, Plumbley).<br>
+Dr Nick Bryan-Kinns (PI) and others (McPherson, Barthet, Shoop).<br>
 EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 
 
