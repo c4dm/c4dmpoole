@@ -7,7 +7,7 @@ C4DM Intro Video
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Rcbs4NvMFHM" frameborder="0" allowfullscreen></iframe>
 
 
-C4DM Youtube Channel
+C4DM YouTube Channel
 -------
 
 The Centre for Digital Music has a <a href="https://www.youtube.com/channel/UCWe-Z_fY4HKcZr5pjUOxSSQ">dedicated YouTube channel</a> for showcasing the group's research as well as serving as a repository for past talks and seminars.
