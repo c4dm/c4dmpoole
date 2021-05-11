@@ -1,10 +1,22 @@
 title: Videos
 ----------------
 
+C4DM Intro Video
+-------
+
+<iframe width="390" height="293" src="https://www.youtube.com/embed/Rcbs4NvMFHM" frameborder="0" allowfullscreen></iframe>
+
+
+C4DM Youtube Channel
+-------
+
+The Centre for Digital Music has a <a href="https://www.youtube.com/channel/UCWe-Z_fY4HKcZr5pjUOxSSQ">dedicated YouTube channel</a> for showcasing the group's research as well as serving as a repository for past talks and seminars.
 
 <iframe src="http://www.youtube.com/embed/videoseries?list=UUWe-Z_fY4HKcZr5pjUOxSSQ" width="480" height="400"></iframe>
 
 
+Additional C4DM videos
+-------
 
 <iframe width="390" height="293" src="https://www.youtube.com/embed/NugMVZn-54g" frameborder="0" allowfullscreen></iframe>
 
