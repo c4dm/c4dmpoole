@@ -2,7 +2,7 @@ title: Videos
 ----------------
 
 
-<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=UCWe-Z_fY4HKcZr5pjUOxSSQ" width="480" height="400"></iframe>
+<iframe src="http://www.youtube.com/embed/videoseries?list=UUWe-Z_fY4HKcZr5pjUOxSSQ" width="480" height="400"></iframe>
 
 
 
