@@ -65,10 +65,10 @@ We can also help people who wish to apply for their own funding via a Research F
 <br>Deadline: Apply at any time
 <br>More details: [https://www.ukri.org/opportunity/daphne-jackson-fellowship/](https://www.ukri.org/opportunity/daphne-jackson-fellowship/)
 
-<b> Marie Skłodowska-Curie Actions - Individual Fellowships</b>
-<br>An EU Horizon 2020 scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
-<br>Deadline: currently closed
-<br>More details: [https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/msca-if-2020;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=H2020;programDivisionCode=31047830;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/msca-if-2020;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=H2020;programDivisionCode=31047830;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState)
+<b> Marie Skłodowska-Curie Actions - Postdoctoral Fellowships</b>
+<br>A EU Horizon Europe scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
+<br>Deadline: September 2021
+<br>More details: [https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
 
 <b>Newton International Fellowships</b>
 <br>These fellowships are for non-UK scientists who are at an early stage of their research career and wish to conduct research in the UK.
