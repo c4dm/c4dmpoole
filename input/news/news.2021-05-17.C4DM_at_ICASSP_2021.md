@@ -1,7 +1,7 @@
 title: C4DM at ICASSP 2021 conference
 ------------------
 
-<p><img src="/news/images/ICASSP-2021-logo.png" width="70%" /></p>
+<p><img src="/news/images/ICASSP-2021-logo.png" width="40%" /></p>
 
 On 6-11 June, several C4DM researchers will participate at the <b>[2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021)](https://2021.ieeeicassp.org/)</b>. ICASSP is the leading conference in the field of signal processing and the flagship event of the [IEEE Signal Processing Society](https://signalprocessingsociety.org/).
 
