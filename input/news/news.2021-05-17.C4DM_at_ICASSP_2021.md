@@ -19,9 +19,7 @@ As in previous years, the Centre for Digital Music will have a strong presence a
 
 * [Prototypical networks for domain adaptation in acoustic scene classification](https://ieeexplore.ieee.org/document/9414876), by Shubhr Singh, Helen L. Bear, Emmanouil Benetos
 
-* [Multi-View Audio And Music Classification](https://ieeexplore.ieee.org/document/9414551/), by Huy Phan, Huy Le Nguyen, Oliver Y. Chén, Lam Pham, Philipp Koch, Ian McLoughlin, Alfred Mertins
-
- Khanh Nguyen, Huy Phan, Lam Pham, Kenneth Ooi, Douglas L. Jones, Woon-Seng Gan
+* [Multi-View Audio And Music Classification](https://ieeexplore.ieee.org/document/9414551/), by Huy Phan, Huy Le Nguyen, Oliver Y. Chén, Lam Pham, Philipp Koch, Ian McLoughlin, Alfred Mertins, Khanh Nguyen, Huy Phan, Lam Pham, Kenneth Ooi, Douglas L. Jones, Woon-Seng Gan
 
 * [Self-Attention Generative Adversarial Network for Speech Enhancement](https://ieeexplore.ieee.org/document/9414265/), by Huy Phan, Huy Le Nguyen, Oliver Y. Chén, Philipp Koch, Ngoc Q. K. Duong, Ian McLoughlin, Alfred Mertins
 
