@@ -1,4 +1,4 @@
-title: C4DM at ICASSP 2021 conference
+title: C4DM at ICASSP 2021
 ------------------
 
 <p><img src="/news/images/ICASSP-2021-logo.png" width="40%" /></p>
