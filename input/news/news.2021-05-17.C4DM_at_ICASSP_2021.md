@@ -9,17 +9,19 @@ As in previous years, the Centre for Digital Music will have a strong presence a
 
 <!---* [Differentiable Signal Processing With Black-Box Audio Effects](https://ieeexplore.ieee.org/document/9415103/), by Marco A. Martínez Ramírez, Oliver Wang, Paris Smaragdis, Nicholas J. Bryan --->
 
-* [Joint multi-pitch detection and score transcription for polyphonic piano music](https://ieeexplore.ieee.org/document/9413601), by Lele Liu, Veronica Morfi, Emmanouil Benetos
-
-* [Prototypical networks for domain adaptation in acoustic scene classification](https://ieeexplore.ieee.org/document/9414876), by Shubhr Singh, Helen L. Bear, Emmanouil Benetos
-
 * [Structure-Aware Audio-to-Score Alignment Using Progressively Dilated Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9414049/), by Ruchit Agrawal, Daniel Wolff, Simon Dixon
 
 * [Low Resource Audio-To-Lyrics Alignment from Polyphonic Music Recordings](https://ieeexplore.ieee.org/document/9414395/), by Emir Demirel, Sven Ahlbäck, Simon Dixon
 
+* [Joint multi-pitch detection and score transcription for polyphonic piano music](https://ieeexplore.ieee.org/document/9413601), by Lele Liu, Veronica Morfi, Emmanouil Benetos
+
+* [A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network](https://ieeexplore.ieee.org/document/9414602/), by Thi Ngoc Tho Nguyen, Ngoc
+
+* [Prototypical networks for domain adaptation in acoustic scene classification](https://ieeexplore.ieee.org/document/9414876), by Shubhr Singh, Helen L. Bear, Emmanouil Benetos
+
 * [Multi-View Audio And Music Classification](https://ieeexplore.ieee.org/document/9414551/), by Huy Phan, Huy Le Nguyen, Oliver Y. Chén, Lam Pham, Philipp Koch, Ian McLoughlin, Alfred Mertins
 
-* [A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network](https://ieeexplore.ieee.org/document/9414602/), by Thi Ngoc Tho Nguyen, Ngoc Khanh Nguyen, Huy Phan, Lam Pham, Kenneth Ooi, Douglas L. Jones, Woon-Seng Gan
+ Khanh Nguyen, Huy Phan, Lam Pham, Kenneth Ooi, Douglas L. Jones, Woon-Seng Gan
 
 * [Self-Attention Generative Adversarial Network for Speech Enhancement](https://ieeexplore.ieee.org/document/9414265/), by Huy Phan, Huy Le Nguyen, Oliver Y. Chén, Philipp Koch, Ngoc Q. K. Duong, Ian McLoughlin, Alfred Mertins
 
