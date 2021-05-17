@@ -9,6 +9,8 @@ We also run the [**SoundSoftware** code repository](http://code.soundsoftware.ac
 
 **Datasets:** see our [Research Data Repository](http://c4dm.eecs.qmul.ac.uk/rdr/).
 
+The QMUL Library also maintains a [Subject Guide for Digital Music](https://www.qmul.ac.uk/library/subject-guides/electronic-engineering-and-computer-science/useful-websites/digital-music-multimedia/), covering sections on Websites for digital study of music, Software, and Professional organisations/socities on digital music.
+
 
 
 
