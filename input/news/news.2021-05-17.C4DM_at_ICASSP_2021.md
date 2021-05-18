@@ -7,8 +7,6 @@ On 6-11 June, several C4DM researchers will participate at the <b>[2021 IEEE Int
 
 As in previous years, the Centre for Digital Music will have a strong presence at the conference, both in terms of numbers and overall impact. The below papers presented at ICASSP 2021 are authored or co-authored by C4DM members (all papers are publicly available until 14th June 2021):
 
-<!---* [Differentiable Signal Processing With Black-Box Audio Effects](https://ieeexplore.ieee.org/document/9415103/), by Marco A. Martínez Ramírez, Oliver Wang, Paris Smaragdis, Nicholas J. Bryan --->
-
 * [Structure-Aware Audio-to-Score Alignment Using Progressively Dilated Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9414049/), by Ruchit Agrawal, Daniel Wolff, Simon Dixon
 
 * [Low Resource Audio-To-Lyrics Alignment from Polyphonic Music Recordings](https://ieeexplore.ieee.org/document/9414395/), by Emir Demirel, Sven Ahlbäck, Simon Dixon
@@ -20,6 +18,8 @@ As in previous years, the Centre for Digital Music will have a strong presence a
 * [Multi-View Audio And Music Classification](https://ieeexplore.ieee.org/document/9414551/), by Huy Phan, Huy Le Nguyen, Oliver Y. Chén, Lam Pham, Philipp Koch, Ian McLoughlin, Alfred Mertins
 
 * [Self-Attention Generative Adversarial Network for Speech Enhancement](https://ieeexplore.ieee.org/document/9414265/), by Huy Phan, Huy Le Nguyen, Oliver Y. Chén, Philipp Koch, Ngoc Q. K. Duong, Ian McLoughlin, Alfred Mertins
+
+* [Differentiable Signal Processing With Black-Box Audio Effects](https://ieeexplore.ieee.org/document/9415103/), by Marco A. Martínez Ramírez, Oliver Wang, Paris Smaragdis, Nicholas J. Bryan
 
 * [Prototypical networks for domain adaptation in acoustic scene classification](https://ieeexplore.ieee.org/document/9414876), by Shubhr Singh, Helen L. Bear, Emmanouil Benetos
 
