@@ -6,6 +6,10 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards"><strong>Bela / Royal Academy of Engineering Senior Research Fellow in Embedded Music Computing</strong></a><br>Dr Andrew McPherson (PI)<br>RAEng Senior Research Fellowship, £208,776, 2021-2026
+
+<p><a href="https://gtr.ukri.org/projects?ref=MR%2FT040580%2F1"><strong>Designing new musical technologies for older adults' wellbeing</strong></a><br>Dr Jennifer MacRitchie (PI, Sheffield), Dr Andrew McPherson (CI), and 2 others<br>UKRI Future Leaders Fellowship, £946,672 (total), £24,879 (QMUL), 2021-2025
+
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Smart Channel Strip using Neural Audio Processing</strong></a><br>Dr George Fazekas (PI)<br>
 AIM CDT PhD studentship, £109,649 (contribution from Steinberg Media Technologies GmbH), 2021-2025.</p>
 
