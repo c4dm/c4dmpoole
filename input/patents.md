@@ -56,18 +56,32 @@ UK patent filed July 18th 2005; US patent 11/995804, filed 15th January 2008
 
 European patent PCT/EP2007/063080, filed Jan. 16, 2008
 
+
+
+**A logical approach to music information system**
+
+Filing Date: 18 December 2007
+Application Number: 06744249.1
+
+
+**A method of analysing audio, music or video data**
+
+Filing Date: 19 June 2006
+Application Number: 0612118.0
+
+
 **System to detect unauthorized signal processing of audio signals** 
 
-Filing Date: 25 April 2001  
+Filing Date: 25 April 2001
 Application Number: GB0110132.8
 
 **Method of labelling a multi-frequency signal** 
 
-Filing Date: 2 February 2000   
+Filing Date: 2 February 2000
 Application Number: GB0002259.0
 
 **Method of scrambling a signal** 
 
-Filing Date: 21 January 2000  
+Filing Date: 21 January 2000
 Application Number: GB0001286.4
 
