@@ -5,16 +5,20 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
+##2021
+
+* Changhong WANG, "Scattering Transform for Playing Technique Recognition" (Supervisors: Emmanouil Benetos and Elaine Chew)
+
 ##2020
 
 * Thomas DEACON, "Shaping Sounds in Space: Exploring the Design of Collaborative Virtual Reality Audio Production Tools" (Supervisor: Mathieu Barthet)
 * Vanessa POPE, "That's What She Said: A computational approach to analysing structure and timing in stand-up comedy" (Supervisors: Becky Stewart, Elaine Chew, Nick Bryan-Kinns)
-* Ireti OLOWE, "Bountiful Data: Leveraging Multitrack Audio and Content-based Features for Audiovisual Performance" (Supervisors: Mathieu Barthet)
-* Alessia MILO (Supervisor: Josh Reiss)
+* Ireti OLOWE, "[Bountiful Data: Leveraging Multitrack Audio and Content-based Features for Audiovisual Performance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/71073)" (Supervisors: Mathieu Barthet)
+* Alessia MILO, "[Developing Aural Awareness in Acoustic Design of Everyday Spaces](https://qmro.qmul.ac.uk/xmlui/handle/123456789/68553)" (Supervisor: Josh Reiss)
 * Marco A. MARTÍNEZ RAMÍREZ, "[Deep learning for audio effects modeling](https://marquetem.files.wordpress.com/2020/05/thesis_marco_a_martinez_ramirez_1_0.pdf)" (Supervisor: Josh Reiss)
 * Bhusan CHETTRI, "[Voice biometric system security: Design and analysis of countermeasures for replay attacks](https://theses.eurasip.org/theses/866/voice-biometric-system-security-design-and/)" (Supervisors: Bob Sturm and Emmanouil Benetos)
-* Jacob HARRISON, "Instruments and Access: the Role of Instruments in Music and Disability" (Supervisor: Andrew McPherson)
-* Daniel STOLLER, "Deep Learning for Music Information Retrieval in Limited Data Scenarios" (Supervisors: Simon Dixon and Sebastian Ewert)
+* Jacob HARRISON, "[Instruments and Access: the Role of Instruments in Music and Disability](https://qmro.qmul.ac.uk/xmlui/handle/123456789/67358)" (Supervisor: Andrew McPherson)
+* Daniel STOLLER, "[Deep Learning for Music Information Retrieval in Limited Data Scenarios](https://qmro.qmul.ac.uk/xmlui/handle/123456789/68513)" (Supervisors: Simon Dixon and Sebastian Ewert)
 * Francisco RODRIGUEZ-ALGARRA, "[A Critical Look at the Music Classification Experiment Pipeline: Using Interventions to Detect and Account for Confounding Effects](http://www.eecs.qmul.ac.uk/~simond/phd/FranciscoRodriguez-Algarra-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Bob Sturm)
 * Simin YANG, "Understanding Agreement and Disagreement in Listeners’ Perceived Emotion in Live Music Performance" (Supervisors: Mathieu Barthet and Elaine Chew)
 * Emmanouil CHOURDAKIS (Supervisor: Josh Reiss)
@@ -25,7 +29,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2019
 
-* Di SHENG, "Intelligent Control of the Dynamic Range Compressor" (Supervisor: Gyorgy Fazekas)
+* Di SHENG, "[Intelligent Control of the Dynamic Range Compressor](https://qmro.qmul.ac.uk/xmlui/handle/123456789/69433)" (Supervisor: Gyorgy Fazekas)
 * Pablo ALVARADO DURAN, "[Acoustically Inspired Probabilistic Time-domain Music Transcription and Source Separation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/67960)" (Supervisor: Dan Stowell)
 * Giulio MORO, "[Beyond Key Velocity: Continuous Sensing for Expressive Control on the Hammond organ and Digital Keyboards](https://qmro.qmul.ac.uk/xmlui/handle/123456789/67082)" (Supervisor: Mark Sandler)
 * Liang MEN, "[Exploring Collaborative Music Making Experience in Shared Virtual Environments](https://qmro.qmul.ac.uk/xmlui/handle/123456789/68554)" (Supervisor: Nick Bryan-Kinns)
