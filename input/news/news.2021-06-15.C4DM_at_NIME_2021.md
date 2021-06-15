@@ -11,7 +11,7 @@ Below is a list of all the publications authored or co-authored by C4DM members:
 
 * [DMI Apprenticeship: Sharing and Replicating Musical Artefacts](https://nime.pubpub.org/pub/dmiapprenticeship/release/1), by Luis Zayas-Garin, Jacob Harrison, Robert Jack, and Andrew McPherson;
 
-* [Guitar augmentation for Percussive Fingerstyle: Combining self-reflexive practice and user-centred](https://nime.pubpub.org/pub/zgj85mzv/draft?access=1n1p3o1a), by Andrea Martelloni, Andrew McPherson, and Mathieu Barthet;
+* [Guitar augmentation for Percussive Fingerstyle: Combining self-reflexive practice and user-centred design](https://nime.pubpub.org/pub/zgj85mzv/draft?access=1n1p3o1a), by Andrea Martelloni, Andrew McPherson, and Mathieu Barthet;
 
 * [The Timbre Explorer: A Synthesizer Interface for Educational Purposes and Perceptual Studies](https://nime.pubpub.org/pub/q5oc20wg/draft?access=7l529uv8), by Joshua Ryan Lam and Charalampos Saitis;
 
