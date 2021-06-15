@@ -5,10 +5,6 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
-##2021
-
-* Changhong WANG, "Scattering Transform for Playing Technique Recognition" (Supervisors: Emmanouil Benetos and Elaine Chew)
-
 ##2020
 
 * Thomas DEACON, "Shaping Sounds in Space: Exploring the Design of Collaborative Virtual Reality Audio Production Tools" (Supervisor: Mathieu Barthet)
@@ -57,6 +53,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Liam DONOVAN, "[Travelling wave control of stringed musical instruments](https://qmro.qmul.ac.uk/xmlui/handle/123456789/54052)" (Supervisor: Andrew McPherson)
 
 ##2017
+* Luwei YANG, "[Computational Modelling and Analysis of Vibrato and Portamento in Expressive Music Performance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/24857)" (Supervisors: Elaine Chew and Khalid Rajab)
 * Zulfadhli MOHAMAD, "[Estimating performance parameters from electric guitar recordings](http://www.eecs.qmul.ac.uk/~simond/phd/ZulfadhliMohamad-PhD-Thesis.pdf)" (Co-supervisors: Chris Harte and Simon Dixon)
 * Antonella MAZZONI, "[Mood Glove: Enhancing mood in film music through haptic sensations for an enriched film experience](https://qmro.qmul.ac.uk/xmlui/handle/123456789/39757)" (Supervisor: Nick Bryan-Kinns)
 * Julie FREEMAN, "[Defining data as an art material](https://qmro.qmul.ac.uk/xmlui/handle/123456789/31793)" (Supervisor: Mark Sandler)
