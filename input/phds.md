@@ -17,7 +17,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Daniel STOLLER, "[Deep Learning for Music Information Retrieval in Limited Data Scenarios](https://qmro.qmul.ac.uk/xmlui/handle/123456789/68513)" (Supervisors: Simon Dixon and Sebastian Ewert)
 * Francisco RODRIGUEZ-ALGARRA, "[A Critical Look at the Music Classification Experiment Pipeline: Using Interventions to Detect and Account for Confounding Effects](http://www.eecs.qmul.ac.uk/~simond/phd/FranciscoRodriguez-Algarra-PhD-Thesis.pdf)" (Supervisors: Simon Dixon and Bob Sturm)
 * Simin YANG, "Understanding Agreement and Disagreement in Listeners’ Perceived Emotion in Live Music Performance" (Supervisors: Mathieu Barthet and Elaine Chew)
-* Emmanouil CHOURDAKIS (Supervisor: Josh Reiss)
+* Emmanouil CHOURDAKIS "Computational Methods for Assisting Radio Drama Production"(Supervisor: Josh Reiss)
 * Saumitra MISHRA, "[Interpretable Machine Learning for Machine Listening](https://theses.eurasip.org/theses/874/interpretable-machine-learning-for-machine/)" (Supervisor: Simon Dixon)
 * Adrien YCART, "[Music language models for automatic music transcription](https://theses.eurasip.org/theses/873/music-language-models-for-automatic-music/)" (Supervisor: Emmanouil Benetos)
 * Delia FANO YELA, "[Signal processing and graph theory techniques for sound source separation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/68279)" (Supervisors: Mark Sandler and Dan Stowell)
