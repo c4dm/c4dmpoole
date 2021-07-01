@@ -76,10 +76,11 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Louis MCCALLUM, "[Friend Me Your Ears: A Musical Approach to Human-Robot Relationships](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12903)" (Supervisor: Peter McOwan)
 * Sara HEITLINGER, "[Talking Plants and a Bug Hotel: Participatory Design of ludic encounters with an urban farming community](https://qmro.qmul.ac.uk/xmlui/handle/123456789/18381)" (Supervisor: Nick Bryan-Kinns)
 * Shengchen LI, "[Expressive timing analysis in classical piano performance by mathematical model selection](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12854)" (Supervisors: Simon Dixon and Mark Plumbley)
-* Henrik EKEUS, "[Parameter Search for Aesthetic Design and Composition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/13036)"
+* Henrik EKEUS, "[Parameter Search for Aesthetic Design and Composition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/13036)" (Supervisors: Peter McOwan and Andrew McPherson)
+* Dena AL-THANI, "[Understanding and Supporting Cross-modal Collaborative Information Seeking](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12528)" (Supervisor: Tony Stockman)
 
 ##2015
-* Sonia WILKIE, "[The effect of audio cues and sound source stimuli on looming perception](/papers/2015/Wilkie-2015-thesis.pdf)" (Supervisor: Tony Stockman)
+* Sonia WILKIE, "[The effect of audio cues and sound source stimuli on looming perception](https://qmro.qmul.ac.uk/xmlui/handle/123456789/8974)" (Supervisor: Tony Stockman)
 * David MECKIN, "Context and Constraint: Designing Novel Technologies for Group Music Making by Young People Who Have Complex Needs" (Supervisor: Nick Bryan-Kinns)
 * Yading SONG, "[The Role of Emotion and Context in Musical Preference](https://qmro.qmul.ac.uk/xmlui/handle/123456789/12915)" (Supervisor: Simon Dixon)
 * Duncan MENZIES, "[Technological Support for Highland Piping Tuition and Practice](https://qmro.qmul.ac.uk/xmlui/handle/123456789/9551)" (Supervisor: Andrew McPherson)
