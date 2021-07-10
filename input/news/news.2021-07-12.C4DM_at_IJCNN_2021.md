@@ -2,7 +2,7 @@ title: C4DM at IJCNN 2021
 
 -------------------
 
-<p><img src="/news/images/ijcnn2021.jpg" width="50%" /></p>
+<p><a href="https://www.ijcnn.org/" target=”_blank”><img src="/news/images/ijcnn2021.jpg" width="50%" /></a></p>
 
 On 18-22 July 2021, C4DM researchers will participate virtually at the <b>[IEEE International Joint Conference on Neural Networks (IJCNN 2021)](https://www.ijcnn.org/)</b>, the flagship conference of the IEEE Computational Intelligence Society and the International Neural Network Society. 
 
