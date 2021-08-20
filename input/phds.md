@@ -5,6 +5,12 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
+##2021
+
+* Antonella NONNIS, "Tangible User Interfaces for Socially Engaged and Open-Ended Play Between Autistic Children" (Supervisor: Nick Bryan-Kinns)
+* Changhong WANG, "Scattering transform for playing technique recognition" (Supervisors: Elaine Chew and Emmanouil Benetos)
+* Callum GODARD, "Virtuosity in Computationally Creative Musical Performance for Bass Guitar" (Supervisors: Geraint Wiggins and Mathieu Barthet)
+
 ##2020
 
 * Thomas DEACON, "Shaping Sounds in Space: Exploring the Design of Collaborative Virtual Reality Audio Production Tools" (Supervisor: Mathieu Barthet)
