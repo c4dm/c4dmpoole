@@ -2,7 +2,7 @@ title: C4DM students and staff to join the Alan Turing Institute
 
 -------------------
 
-<p><a href="https://www.turing.ac.uk/" target=”_blank”><img src="/news/images/Turing-logo.jpg" width="50%" /></a></p>
+<p><a href="https://www.turing.ac.uk/" target=”_blank”><img src="/news/images/Turing-logo.jpg" width="30%" /></a></p>
 
 Three C4DM PhD students and five C4DM academics will join the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>, the UK's national institute in artificial intelligence and data science, in Autumn 2021.
 
