@@ -12,7 +12,7 @@ The following C4DM PhD students will join the Turing as Enrichment students in 2
 
 * <a href="https://ilariamanco.com/">Ilaria Manco</a> - Enrichment project: Multimodal deep learning for music information retrieval
 
-* <a href="https://ilariamanco.com/">Luca Marinelli</a> - Enrichment project: Gender-coded sound: A multimodal data-driven analysis of gender encoding strategies in sound and music for advertising
+* <a href="https://scholar.google.com/citations?user=a7QiLTQAAAAJ&hl=en">Luca Marinelli</a> - Enrichment project: Gender-coded sound: A multimodal data-driven analysis of gender encoding strategies in sound and music for advertising
 
 The Turing's <a href="https://www.turing.ac.uk/work-turing/studentships/enrichment">Enrichment scheme</a> offers students enrolled on a doctoral programme at a UK university an opportunity to boost their research project with a placement at the Turing for up to 12 months.
 
