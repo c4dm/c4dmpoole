@@ -24,7 +24,7 @@ The following C4DM academics have been appointed Turing Fellows in 2021/22:
 
 * <a href="https://pquochuy.github.io/">Dr Huy Phan</a>
 
-* <a href="http://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Dr Charis Saitis</a>
+* <a href="http://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Dr Charalampos Saitis</a>
 
 * <a href="http://www.eecs.qmul.ac.uk/profiles/sandlermark.html">Prof. Mark Sandler</a>
 
