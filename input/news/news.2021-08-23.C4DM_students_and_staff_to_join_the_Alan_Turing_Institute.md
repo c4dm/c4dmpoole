@@ -4,7 +4,7 @@ title: C4DM students and staff to join the Alan Turing Institute
 
 <p><a href="https://www.turing.ac.uk/" target=”_blank”><img src="/news/images/Turing-logo.jpg" width="30%" /></a></p>
 
-Three C4DM PhD students and five C4DM academics will join the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>, the UK's national institute in artificial intelligence and data science, in Autumn 2021.
+Three C4DM PhD students and six C4DM academics will join the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>, the UK's national institute in artificial intelligence and data science, in Autumn 2021.
 
 The following C4DM PhD students will join the Turing as Enrichment students in 2021/22:
 
@@ -19,6 +19,8 @@ The Turing's <a href="https://www.turing.ac.uk/work-turing/studentships/enrichme
 The following C4DM academics have been appointed Turing Fellows in 2021/22:
 
 * <a href="http://eecs.qmul.ac.uk/~emmanouilb/">Dr Emmanouil Benetos</a>
+
+* <a href="http://www.eecs.qmul.ac.uk/~nickbk/">Prof. Nick Bryan-Kinns</a>
 
 * <a href="http://www.eecs.qmul.ac.uk/~simond/">Prof. Simon Dixon</a>
 
