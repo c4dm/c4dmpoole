@@ -3,11 +3,11 @@ title: People
 
 <!-- TO EDIT THE ACTUAL DATA PLEASE GO TO https://github.com/c4dm/c4dmpoole/blob/master/input/people_data -->
 
-Academic staff and fellows
+Primary academic staff and fellows
 --------------------------
 {{ peoplelist({'role':'acad'}) }}
 
-Associate academic staff
+Associate academic staff and fellows
 --------------------------
 {{ peoplelist({'role':'acad-associate'}) }}
 
