@@ -7,6 +7,10 @@ Academic staff and fellows
 --------------------------
 {{ peoplelist({'role':'acad'}) }}
 
+Associate academic staff
+--------------------------
+{{ peoplelist({'role':'acad-associate'}) }}
+
 Research support staff
 --------------------------
 {{ peoplelist({'role':'staff'}) }}
