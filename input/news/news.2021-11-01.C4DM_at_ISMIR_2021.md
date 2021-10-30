@@ -4,7 +4,7 @@ title: C4DM at ISMIR 2021
 
 <p><img src="/news/images/ismir-2021.png" width="50%" /></p>
 
-On 8-12 November 2021, several C4DM researchers will participate at the <b>[22nd International Society for Music Information Retrieval Conference (ISMIR 2021)](https://ismir2021.ismir.net/)</b>. ISMIR is the leading conference in the field of music informatics, and is currently the [top cited publication for Music & Musicology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=hum_musicmusicology) (source: Google Scholar).
+On 8-12 November 2021, several C4DM researchers will participate at the <b>[22nd International Society for Music Information Retrieval Conference (ISMIR 2021)](https://ismir2021.ismir.net/)</b>. ISMIR is the leading conference in the field of music informatics, and is currently the [top-cited publication for Music & Musicology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=hum_musicmusicology) (source: Google Scholar).
 
 As in previous years, the Centre for Digital Music will have a strong presence at the conference, both in terms of numbers and overall impact.
 
