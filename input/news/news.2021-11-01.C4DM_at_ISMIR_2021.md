@@ -14,7 +14,7 @@ In the <b>Technical Programme</b>, the following papers are authored/co-authored
 * [Filosax: A Dataset of Annotated Jazz Saxophone Recordings](https://archives.ismir.net/ismir2021/paper/000025.pdf) (Dave Foster, Simon Dixon)
 * [Neural Waveshaping Synthesis](https://archives.ismir.net/ismir2021/paper/000031.pdf) (Ben Hayes, Charalampos Saitis, Gyorgy Fazekas)
 * [Pitch-Informed Instrument Assignment using a Deep Convolutional Network with Multiple Kernel Shapes](https://archives.ismir.net/ismir2021/paper/000048.pdf) (Carlos Lordelo, Emmanouil Benetos, Simon Dixon, Sven Ahlbäck)
-* [Agreement Among Human and Automated Transcriptions of Global Songs](https://archives.ismir.net/ismir2021/paper/000062.pdf) (Yuto Ozaki, John M Mcbride, Emmanouil Benetos, Peter Pfordresher, Joren Six, Adam Tierney, Polina Proutskova, Emi Sakai, Haruka Kondo, Haruno Fukatsu, Shinya Fujii, Patrick E. Savage)
+* [Agreement Among Human and Automated Transcriptions of Global Songs](https://archives.ismir.net/ismir2021/paper/000062.pdf) (Yuto Ozaki, John M McBride, Emmanouil Benetos, Peter Pfordresher, Joren Six, Adam Tierney, Polina Proutskova, Emi Sakai, Haruka Kondo, Haruno Fukatsu, Shinya Fujii, Patrick E. Savage)
 * [DadaGP: A Dataset of Tokenized GuitarPro Songs for Sequence Models](https://archives.ismir.net/ismir2021/paper/000076.pdf) (Pedro Pereira Sarmento, Adarsh Kumar, CJ Carr, Zack Zukowski, Mathieu Barthet, Yi-Hsuan Yang)
 
 For the <b>[MIREX 2021](https://www.music-ir.org/mirex/wiki/2021:Main_Page)</b> public evaluations, C4DM PhD student <a href="https://emirdemirel.github.io/">Emir Demirel</a> is co-captain for the <a href="https://www.music-ir.org/mirex/wiki/2021:Automatic_Lyrics_Transcription">Automatic Lyrics Transcription task</a>.
