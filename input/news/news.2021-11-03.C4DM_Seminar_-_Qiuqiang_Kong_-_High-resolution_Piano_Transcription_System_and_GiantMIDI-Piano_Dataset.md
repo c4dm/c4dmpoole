@@ -17,7 +17,7 @@ Admission is FREE, no pre-booking required.
 
 -----------------
 
-<p><img src="/input/news/images/qiuqiang_kong.jpg" width="50%" /></p>
+<p><img src="/news/images/qiuqiang_kong.jpg" width="50%" /></p>
 
 <b>Title</b>: High-resolution piano transcription system andGiantMIDI-Piano dataset
 
