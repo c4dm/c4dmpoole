@@ -21,7 +21,7 @@ For the <b>[MIREX 2021](https://www.music-ir.org/mirex/wiki/2021:Main_Page)</b> 
 
 As part of the <b><a href="https://ismir2021.ismir.net/labshowcase/">ISMIR 2021 Lab Showcases</a></b>, the Centre for Digital Music will be <a href="https://ismir2021.ismir.net/labshowcase/#8-centre-for-digital-music--queen-mary-university-of-london">featured at the session</a>.
 
-Finally on conference organisation, C4DM PhD student <a href="https://cheriell.github.io/">Lele Liu</a> is coordinating the <a href="https://ismir2021.ismir.net/labshowcase/">ISMIR 2021 Lab Showcases</a>; and C4DM PhD students <a href="http://www.eecs.qmul.ac.uk/~yz007/">Yixiao Zhang</a> and <a href="http://www.huanz.info/">Huan Zhang</a> are volunteers for the conference.
+Finally on conference organisation, C4DM PhD student <a href="https://cheriell.github.io/">Lele Liu</a> is coordinating the <a href="https://ismir2021.ismir.net/labshowcase/">ISMIR 2021 Lab Showcases</a>; C4DN PhD student <a href="https://elonashatri.github.io/">Elona Shatri</a> is chairing the ISMIR <a href="https://medium.com/ismir2021/getting-the-most-out-of-the-ismir-conference-9c3eb6c71377">Newcomer Initiative</a> & Diversity and Inclusion; and C4DM PhD students <a href="http://www.eecs.qmul.ac.uk/~yz007/">Yixiao Zhang</a> and <a href="http://www.huanz.info/">Huan Zhang</a> are volunteers for the conference.
 
 See you at ISMIR!
 
