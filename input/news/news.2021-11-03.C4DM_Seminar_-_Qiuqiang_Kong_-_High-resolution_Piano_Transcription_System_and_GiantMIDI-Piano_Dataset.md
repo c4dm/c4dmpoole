@@ -28,4 +28,4 @@ The joint research of artificialintelligence (AI) and music has been a popular r
 Qiuqiang Kong started his Ph.D. study at Centrefor Digital Music (C4DM), Queen Mary University of London in 2015, and receivedhis Ph.D. degree from University of Surrey, Guildford, UK in 2020. Followinghis PhD, he joined ByteDance AI Lab as a research scientist. His research topicincludes the classification, detection and separation of general sounds andmusic.
 
 <b>Presentation Slides:</b>:
-<a href="/news/documents/music_transcription_giantmidi-piano_qiuqiangkong.pdf">Music Transcription & GiantMIDI-Piano - Qiuqiang Kong</a>
+<a href="https://drive.google.com/file/d/1V5j1kTt2wwnK2EhHMzbyBu0Z5b_vId9N/view?usp=sharing">Music Transcription & GiantMIDI-Piano - Qiuqiang Kong</a>
