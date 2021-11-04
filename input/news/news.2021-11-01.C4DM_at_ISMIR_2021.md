@@ -17,6 +17,10 @@ In the <b>Technical Programme</b>, the following papers are authored/co-authored
 * [Agreement Among Human and Automated Transcriptions of Global Songs](https://archives.ismir.net/ismir2021/paper/000062.pdf) (Yuto Ozaki, John M McBride, Emmanouil Benetos, Peter Pfordresher, Joren Six, Adam Tierney, Polina Proutskova, Emi Sakai, Haruka Kondo, Haruno Fukatsu, Shinya Fujii, Patrick E. Savage)
 * [DadaGP: A Dataset of Tokenized GuitarPro Songs for Sequence Models](https://archives.ismir.net/ismir2021/paper/000076.pdf) (Pedro Pereira Sarmento, Adarsh Kumar, CJ Carr, Zack Zukowski, Mathieu Barthet, Yi-Hsuan Yang)
 
+In the <b>Late Breaking Demos track</b>, the following extended abstract is authored/co-authored by C4DM members:
+
+* [ACPAS: a dataset of Aligned Classical Piano Audio and Scores for audio-to-score transcription](https://ismir2021.ismir.net/lbd/) (Lele Liu, Veronica Morfi, Emmanouil Benetos)
+
 For the <b>[MIREX 2021](https://www.music-ir.org/mirex/wiki/2021:Main_Page)</b> public evaluations, C4DM PhD student <a href="https://emirdemirel.github.io/">Emir Demirel</a> is co-captain for the <a href="https://www.music-ir.org/mirex/wiki/2021:Automatic_Lyrics_Transcription">Automatic Lyrics Transcription task</a>.
 
 As part of the <b><a href="https://ismir2021.ismir.net/labshowcase/">ISMIR 2021 Lab Showcases</a></b>, the Centre for Digital Music will be <a href="https://ismir2021.ismir.net/labshowcase/#8-centre-for-digital-music--queen-mary-university-of-london">featured at the session</a>.
