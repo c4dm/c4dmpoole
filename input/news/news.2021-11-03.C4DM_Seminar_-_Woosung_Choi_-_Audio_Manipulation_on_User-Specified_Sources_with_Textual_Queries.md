@@ -22,6 +22,9 @@ Admission is FREE, no pre-booking required.
 <b>Abstract</b>:
 It is difficult for non-experts to edit multimedia content such as audio and video. Decreasing the difficulty of audio editing will make more users create, edit, manipulate, and share their audio. This talk will introduce a prototype model called AMSS-Net for a next-generation interface for audio editing. AMSS-Net can perform source-aware audio manipulation according to a given textual query such as 'apply heavy lowpass to vocals, drums'. This talk will also cover relevant future works.
 
+<b>Video</b>:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/papnEDGQs4Q" frameborder="0" allowfullscreen></iframe>
+
 <b>Bio</b>: 
 Woosung Choi received his PhD degree from Korea University in 2021.
 Currently, he is a postdoctoral visiting fellow at the Centre for Digital Music (C4DM), based at Queen Mary University of London (QMUL).
