@@ -1,7 +1,7 @@
 title: Software & data
 -------
 
-Software
+Software & Code
 -------
 
 <img src="http://www.sonicvisualiser.org/images/sv2-thumb.png" style="float: right; margin: 5px;" />
@@ -10,7 +10,7 @@ The most widely-used software tools from C4DM are **[Sonic Visualiser](http://ww
 
 A large part of our research is converted into **[Vamp plugins](https://www.vamp-plugins.org/download.html)**, which are compatible with Sonic Visualiser and Audacity across several operating systems.
 
-Other C4DM software is available on [isophonics.org](http://isophonics.org/) and our previous [download page](http://c4dm.eecs.qmul.ac.uk/downloads/).
+Other C4DM software is available on **[isophonics.org](http://isophonics.org/)** and our previous **[download page](http://c4dm.eecs.qmul.ac.uk/downloads/)**.
 
 We also run the [**SoundSoftware** code repository](http://code.soundsoftware.ac.uk/) which hosts software projects for audio and music researchers.
 
@@ -19,9 +19,9 @@ Finally, we maintain a **[C4DM group in GitHub](https://github.com/c4dm/)**, hos
 Datasets
 -------
 
-Our [C4DM Zenodo community page](https://zenodo.org/communities/c4dm/) hosts public datasets created as part of our research. 
+Our **[C4DM Zenodo community page](https://zenodo.org/communities/c4dm/)** hosts public datasets created as part of our research. 
 
-The [C4DM Research Data Repository](http://c4dm.eecs.qmul.ac.uk/rdr/) hosts datasets created between 2010-2015.
+The **[C4DM Research Data Repository](http://c4dm.eecs.qmul.ac.uk/rdr/)** hosts datasets created between 2010-2015.
 
 
 Study Resources for Digital Music
