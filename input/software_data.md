@@ -27,7 +27,7 @@ The **[C4DM Research Data Repository](http://c4dm.eecs.qmul.ac.uk/rdr/)** hosts 
 Study Resources for Digital Music
 -------
 
-The QMUL Library maintains a [Subject Guide for Digital Music](https://www.qmul.ac.uk/library/subject-guides/electronic-engineering-and-computer-science/useful-websites/digital-music-multimedia/), covering sections on Websites for digital study of music, Software, and Professional organisations/socities on digital music.
+The QMUL Library maintains a [Subject Guide for Digital Music](https://www.qmul.ac.uk/library/library-skills/resource-guides-by-subject/electronic-engineering-and-computer-science/useful-websites/digital-music/), covering sections on Websites for digital study of music, Software, and Professional organisations/socities on digital music.
 
 
 
