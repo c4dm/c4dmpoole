@@ -23,6 +23,8 @@ Our **[C4DM Zenodo community page](https://zenodo.org/communities/c4dm/)** hosts
 
 The **[C4DM Research Data Repository](http://c4dm.eecs.qmul.ac.uk/rdr/)** hosts datasets created between 2010-2015.
 
+Several C4DM datasets are also available on **[isophonics.org](http://isophonics.org/)** .
+
 
 Study Resources for Digital Music
 -------
