@@ -1,51 +1,30 @@
-<h2>CBFdataset: A Dataset of Chinese Bamboo Flute Performances</h2>
+# CBFdataset: A Dataset of Chinese Bamboo Flute Performances</h2>
 
-<h3>
-Content
-</h3>
+## Content
 
-<p>
-The CBFdataset is created for ecologically valid analysis of playing techniques in real-world music performances. The dataset contains monophonic recordings of representative Chinese bamboo flute (CBF) playing techniques and classic CBF pieces recorded and annotated by professional players. The CBFdataset includes three subsets: CBF-periDB, CBF-petsDB, and CBF-piexDB.
-</p>
+The CBFdataset is created for ecologically valid analysis of playing techniques in real-world music performances. The dataset contains monophonic recordings of classic CBF pieces and expert playing technique annotations, including two subsets:
 
-<p>
-(1) <b>CBF-periDB</b>: a dataset for periodic modulation analysis. This dataset contains recordings of four types of isolated playing techniques–vibrato, tremolo, trill, and flutter-tongue–and twenty full-length pieces recorded and annotated by ten professional players.
-</p>
-<p>
-(2) <b>CBF-petsDB</b>: a dataset for pitch evolution-based playing techniques (pets) analysis. This dataset contains recordings of three types of isolated playing techniques–acciacatura, portamento, and glissando–and twenty full-length pieces recorded and annotated by ten professional players.
-</p>
-<p>
-(3) <b>CBF-piexDB</b>: piece expanded (piex) CBFdataset with more than forty additional pieces different from the pieces in CBF-periDB and CBF-petsDB.
-</p>
+(1) **CBF-periDB**: a subset for periodic modulation analysis. It comprises full-length pieces and annotations of four types of periodic modulations: vibratos, tremolos, trills, and flutter-tongue. 
 
-<h3>
-Download
-</h3>
+(2) **CBF-petsDB**: a subset for pitch evolution-based playing techniques (pets) analysis. It includes full-length pieces and annotations of three types of PETs: acciaccatura, portamento, and glissando.
 
-<p>
-All the recordings and annotations in CBF-periDB and CBF-petsDB can be downloaded at <a href="https://zenodo.org/record/3250223">zenodo.org/record/3250223</a>. <br>
-	CBF-piexDB are being prepared for public release.
-</p>
+## Download
 
-<p>
-For CBF-periDB, please cite the paper:
-</p>
+All the recordings and annotations in the CBFdataset can be downloaded at [zenodo.org/record/3776864](https://zenodo.org/record/3776864).
 
-<p>
-Changhong Wang, Emmanouil Benetos, Vincent Lostanlen, and Elaine Chew. <a href="https://qmro.qmul.ac.uk/xmlui/handle/123456789/59179">
-Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals</a>, <i>20th International Society
-	for Music Information Retrieval Conference (ISMIR)</i>, November 2019.
-</p>
+## Code
 
-<p>
-For CBF-petsDB, please cite the paper:
-</p>
+Code for reproducibility at [github.com/changhongw/ScatteringTransformPTR](https://github.com/changhongw/ScatteringTransformPTR)
 
-<p>
-Changhong Wang, Vincent Lostanlen, Emmanouil Benetos, and Elaine Chew. <a href="https://qmro.qmul.ac.uk/xmlui/handle/123456789/63588">
-Playing Technique Recognition by Joint Time–Frequency Scattering</a>, <i>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, May 2020.
-</p>
+## Cite
 
-<p>
-Any questions about the dataset, please contact Changhong at changhong.wang@qmul.ac.uk.
-</p>
+* Changhong Wang, Emmanouil Benetos, Vincent Lostanlen, and Elaine Chew. [Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals](https://qmro.qmul.ac.uk/xmlui/handle/123456789/59179), in *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*, pages 809–815, 2019. => This paper used the **CBF-periDB**.
+
+* Changhong Wang, Vincent Lostanlen, Emmanouil Benetos, and Elaine Chew. [Playing Technique Recognition by Joint Time–Frequency Scattering](https://qmro.qmul.ac.uk/xmlui/handle/123456789/63588), in *Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pages 881–885, 2020. => This paper used the **CBF-petsDB**.
+
+* Changhong Wang, Emmanouil Benetos, Vincent Lostanlen, and Elaine Chew. Adaptive Scattering Transforms for Playing Technique Recognition, submitted to *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*. => This paper used the complete **CBFdataset**.
+
+* Changhong Wang. *Scattering Transforms for Playing Technique Recognition*, PhD thesis, Queen Mary Univeristy of London. => The thesis used the complete **CBFdataset**. 
+
+## Contact
+Any questions about the dataset, code, or publications, please feel free to contact Changhong at changhong.wang@qmul.ac.uk.
