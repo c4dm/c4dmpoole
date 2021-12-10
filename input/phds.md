@@ -7,6 +7,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2021
 
+* Hazar TEZ, "Exploring Collaborative Music Making Through Design Constraints and Collaboration-Driven Digital Music Instruments" (Supervisor: Nick Bryan-Kinns)
 * Antonella NONNIS, "Tangible User Interfaces for Socially Engaged and Open-Ended Play Between Autistic Children" (Supervisor: Nick Bryan-Kinns)
 * Changhong WANG, "Scattering transform for playing technique recognition" (Supervisors: Elaine Chew and Emmanouil Benetos)
 * Callum GODARD, "Virtuosity in Computationally Creative Musical Performance for Bass Guitar" (Supervisors: Geraint Wiggins and Mathieu Barthet)
