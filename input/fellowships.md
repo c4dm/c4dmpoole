@@ -10,7 +10,7 @@ Vacancies
 
 We often have openings for Academic staff and Postdoctoral Research Assistants. These jobs will be advertised on the university's Human Resources (HR) website, see:
 
-* [Academic and Research Jobs](https://webapps2.is.qmul.ac.uk/jobs/jobs.action?classID=1)<br>(look out for "School of Electronic Engineering and Computer Science")
+* [Academic and Research Jobs](https://www.qmul.ac.uk/jobs/vacancies/)<br>(look out for "School of Electronic Engineering & Computer Science")
 They will also be advertised on [http://www.jobs.ac.uk/](jobs.ac.uk), which also provides an email update service.
 
 <br>
