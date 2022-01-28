@@ -2,10 +2,11 @@
 "name": "Dr Charalampos Saitis", 
 "url": "http://eecs.qmul.ac.uk/profiles/saitischaralampos.html", 
 "acadposition": "Lecturer in Digital Music Processing, Turing Fellow", 
-"blurb": "Auditory perception and cognition, crossmodal correspondences, musical acoustics, musical haptics, musician-instrument interaction, affective computing", 
+"blurb": "Communication acoustics, crossmodal correspondences, sound synthesis, cognitive audio, musical haptics", 
 "themes": [
 "augmi", 
-"mcog"
+"mcog",
+"soundsynthesis"
 ], 
 "role": "acad"
 }
