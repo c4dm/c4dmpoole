@@ -18,7 +18,7 @@ Research themes:
 
 * [Audio Engineering](audioengineering.html)
 * [Augmented Instruments](http://instrumentslab.org/)
-* Communication Acoustics
+* [Communication Acoustics](communicationacoustics.html)
 * [Music Cognition](http://music-cognition.eecs.qmul.ac.uk/)
 * [Music Informatics](musicinformatics.html)
 * [Machine Listening](http://machine-listening.eecs.qmul.ac.uk/)
