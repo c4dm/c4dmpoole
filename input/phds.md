@@ -9,7 +9,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 * Hazar TEZ, "Exploring Collaborative Music Making Through Design Constraints and Collaboration-Driven Digital Music Instruments" (Supervisor: Nick Bryan-Kinns)
 * Antonella NONNIS, "Tangible User Interfaces for Socially Engaged and Open-Ended Play Between Autistic Children" (Supervisor: Nick Bryan-Kinns)
-* Changhong WANG, "Scattering transform for playing technique recognition" (Supervisors: Elaine Chew and Emmanouil Benetos)
+* Changhong WANG, "[Scattering transform for playing technique recognition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/76559)" (Supervisors: Elaine Chew and Emmanouil Benetos)
 * Callum GODARD, "Virtuosity in Computationally Creative Musical Performance for Bass Guitar" (Supervisors: Geraint Wiggins and Mathieu Barthet)
 
 ##2020
