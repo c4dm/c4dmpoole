@@ -18,10 +18,11 @@ Research themes:
 
 * [Audio Engineering](audioengineering.html)
 * [Augmented Instruments](http://instrumentslab.org/)
-* [Sonic Interaction Design](http://isam.eecs.qmul.ac.uk)
-* [Machine Listening](http://machine-listening.eecs.qmul.ac.uk/)
-* [Music Informatics](musicinformatics.html)
+* [Communication Acoustics](communicationacoustics.html)
 * [Music Cognition](http://music-cognition.eecs.qmul.ac.uk/)
+* [Music Informatics](musicinformatics.html)
+* [Machine Listening](http://machine-listening.eecs.qmul.ac.uk/)
+* [Sonic Interaction Design](http://isam.eecs.qmul.ac.uk)
 * [Sound Synthesis](soundsynthesis.html)
 
 Former research theme:
