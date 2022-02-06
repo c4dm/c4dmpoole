@@ -1,11 +1,12 @@
 {
-"name": "Brendan O'Connor", 
-"url": "http://eecs.qmul.ac.uk/profiles/oconnorbrendandavid.html", 
-"acadposition": "", 
-"blurb": "Voice Transformation", 
-"themes": [
-"mir",
-"soundsynthesis"
-], 
-"role": "phd"
+    "name": "Brendan O'Connor",
+    "url": "https://trebolium.github.io/",
+    "acadposition": "",
+    "blurb": "Singing Voice Attribute Transformation",
+    "themes": [
+    "soundsynthesis",
+    "audioeng"
+    "mir"
+    ],
+    "role": "phd"
 }
