@@ -2,10 +2,10 @@
 "name": "Xavier Riley", 
 "url": "http://eecs.qmul.ac.uk/profiles/rileyjohnxavier.html", 
 "acadposition": "", 
-"blurb": "Digging Deeper - expanding the “Dig That Lick” corpus with new sources and techniques", 
+"blurb": "Pitch tracking for music applications - beyond 99% accuracy", 
 "themes": [
 "mir", 
-"mlist"
+"audioeng"
 ], 
 "role": "phd"
 }
