@@ -1,22 +1,11 @@
 {
-
 "name":"Elizabeth Wilson",
-
 "url":"https://lwlsn.github.io",
-
 "acadposition":"",
-
 "blurb":"Co-creative Algorithmic Composition Based on Models of Affective Response",
-
 "themes": [
-
-"Musical artificial intelligence",
-"Algorithmic Composition", 
-"Affective Computing",
-"Computational Creativity"
-
+"mir",
+"isam"
 ],
-
 "role":"phd"
-
 }
