@@ -1,10 +1,10 @@
 {
-"name": "Mary Pilataki-Manika", 
-"url": "http://eecs.qmul.ac.uk/profiles/pilataki-manikamaria-1.html", 
-"acadposition": "", 
-"blurb": "Polyphonic Music Transcription using Deep Learning", 
-"themes": [
-"mir"
-], 
-"role": "phd"
-}
+	"name": "Mary Pilataki", 
+	"url": "https://github.com/marypilataki", 
+	"acadposition": "",
+	"blurb": "Deep Learning methods for Multi-Instrument Music Transcription", 
+	"themes": [
+	"mir"
+	], 
+	"role": "phd"
+	}
