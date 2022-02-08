@@ -1,12 +1,13 @@
 {
     "name": "Soumya Sai Vanka", 
     "url": "http://eecs.qmul.ac.uk/profiles/vankasaisoumya.html", 
-    "acadposition": "", [leave as is]
+    "acadposition": "", 
     "blurb": "Music Production Style Transfer and Mix Similarity", 
     "themes": [
-    "audioeng", "mir"
+    "audioeng", 
+    "mir"
     ], 
-    "role": "phd" [leave as is]
+    "role": "phd" 
     }
      
     
