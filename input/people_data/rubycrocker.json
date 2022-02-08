@@ -1,11 +1,11 @@
 {
 "name": "Ruby Crocker",
 "url": "",
-"acadposition": "", [leave as is]
+"acadposition": "", 
 "blurb": "Continuous mood recognition in film music",
 "themes": [
 "mir",
 "mcog"
 ],
-"role": "phd" [leave as is]
+"role": "phd" 
 }
