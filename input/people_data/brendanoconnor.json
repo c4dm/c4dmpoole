@@ -5,7 +5,7 @@
     "blurb": "Singing Voice Attribute Transformation",
     "themes": [
     "soundsynthesis",
-    "audioeng"
+    "audioeng",
     "mir"
     ],
     "role": "phd"
