@@ -34,6 +34,8 @@ All of this work is being developed in the context of my PhD.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=DMPe79KLasg" frameborder="0" allowfullscreen></iframe>
 
+<b></b>
+
 [1] Marmoret, A., Cohen, J., Bertin, N., & Bimbot, F. (2020, October). Uncovering Audio Patterns in Music with Nonnegative Tucker Decomposition for Structural Segmentation. In ISMIR 2020-21st International Society for Music Information Retrieval.
 
 [2] Marmoret, A., Voorwinden, F., Leplat, V., Cohen, J. E., & Bimbot, F. (2021). Nonnegative Tucker Decomposition with Beta-divergence for Music Structure Analysis of audio signals. arXiv preprint arXiv:2110.14434.
