@@ -28,13 +28,7 @@ Secondly, the talk will present linear (PCA) and nonlinear (AutoEncoders) compre
 Finally, this talk will present recent developments about a new compression paradigm, mixing NTD and AutoEncoders, which could be a new lead for Explainable Deep Learning in MIR.
 All of this work is being developed in the context of my PhD.
 
-<b>Presentation Slides</b>: <a href="https://drive.google.com/file/d/1L315aWbZBE_OmO1vy0RUBwottBmdtChY/view?usp=sharing">[PDF]</a> <a href="https://docs.google.com/presentation/d/1Y7KZOd72a3jtnuN3SnVk0XnR4aUGy6Bj/edit?usp=sharing&ouid=106885667490850476381&rtpof=true&sd=true">[PPT]</a>
-
-<b>Video Recording</b>: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DMPe79KLasg" frameborder="0" allowfullscreen></iframe>
-
-<b></b>
+<b>Presentation</b>: <a href="https://drive.google.com/file/d/1L315aWbZBE_OmO1vy0RUBwottBmdtChY/view?usp=sharing">[PDF Slides]</a> <a href="https://docs.google.com/presentation/d/1Y7KZOd72a3jtnuN3SnVk0XnR4aUGy6Bj/edit?usp=sharing&ouid=106885667490850476381&rtpof=true&sd=true">[PPT Slides]</a> <a href="https://www.youtube.com/watch?v=DMPe79KLasg">[Video Recording]</a>
 
 [1] Marmoret, A., Cohen, J., Bertin, N., & Bimbot, F. (2020, October). Uncovering Audio Patterns in Music with Nonnegative Tucker Decomposition for Structural Segmentation. In ISMIR 2020-21st International Society for Music Information Retrieval.
 
