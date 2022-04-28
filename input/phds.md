@@ -7,6 +7,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2022
 
+* Emir DEMIREL, "Deep Neural Networks for Automatic Lyrics Transcription" (Supervisor: Simon Dixon)
 * Ruchit AGRAWAL, "Towards Context-Aware Neural Performance-Score Synchronisation" (Supervisor: Simon Dixon)
 * Fred BUDFORD, "Intelligent Tools for Drum Loop Retrieval and Generation" (Supervisor: Mark Sandler)
 
