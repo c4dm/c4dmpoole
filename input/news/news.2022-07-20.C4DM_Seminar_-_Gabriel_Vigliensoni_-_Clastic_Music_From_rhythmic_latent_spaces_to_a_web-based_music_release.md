@@ -24,3 +24,5 @@ Gabriel Vigliensoni is an electronic music artist, performer, and researcher who
 
 <b>Abstract</b>:
 In this talk, I will present the development of Clastic Music, a set of musical pieces where I play with the geological concept of a clast: new entities and forms created out of pre-existing fragments. Clastic Music is the result of rhythmic explorations using a machine learning-assisted approach to music making. To create the rhythmic clasts, I built a software device based on a variational autoencoder architecture that can learn a model based on the regularities of rhythmic training data and projects it into a latent space. To explore patterns within the latent space a web-based visualizer generates a dynamic representation of the latent space that relies directly on the pulsing rhythmic patterns encoded in the models. Clastic Music was premiered live at the MUTEK festival in Montréal and was packaged as a web-based release, where visuals are rendered in real time on the browser and depend on user and sound input.
+
+<b>Video</b>: [https://youtu.be/rQ7jYkhGPAQ](https://youtu.be/rQ7jYkhGPAQ)
