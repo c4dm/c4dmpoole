@@ -7,6 +7,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2022
 
+* Angela McARTHUR, "Aesthetic potentials of distance in spatial sound for immersive environments" (Supervisor: Mark Sandler)
 * Yudong ZHAO, "A Study in Violinist Identification using Short-term Note Features" (Supervisor: Mark Sandler)
 * Emir DEMIREL, "Deep Neural Networks for Automatic Lyrics Transcription" (Supervisor: Simon Dixon)
 * Ruchit AGRAWAL, "Towards Context-Aware Neural Performance-Score Synchronisation" (Supervisor: Simon Dixon)
