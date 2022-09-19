@@ -6,13 +6,17 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://gtr.ukri.org/projects?ref=EP%2FX023478%2F1"><strong>RUDIMENTS: Reflective Understanding of Digital Instruments as Musical Entanglements</strong></a><br>Prof Andrew McPherson (PI)<br>ERC Consolidator Grant / UKRI Research Grant  EP/X023478/1, £1,723,185, 2022-2027.
+
+<p><strong><a href="https://gtr.ukri.org/projects?ref=AH%2FW010429%2F1">Music and Disability: Deconstructing the barriers to full participation</a></strong><br />Dr Victoria Kinsella (PI, BCU), Prof Andrew McPherson (CI, QMUL), <br />AHRC Grant AH/W010429/1, £29,812, 2022–2024.</p>
+
 <p><strong><a href="https://gtr.ukri.org/projects?ref=AH%2FV011340%2F1">Bridging the Gap - visually impaired and sighted music producers working side by side</a></strong><br />Prof Franziska Schroeder (PI, QUB), Prof Andrew McPherson (CI, QMUL), <br />AHRC Grant AH/V011340/1, £576,879, 2021–2024.</p>
 
 <p><strong><a href="https://huawei.eu/">Deep learning technologies for multi-instrument automatic music transcription</a></strong><br />Dr Emmanouil Benetos (PI), Prof Simon Dixon (CI), <br />Huawei Technologies Düsseldorf, £252,000, 2022–2023.</p>
 
-<p><a href="https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards"><strong>Bela / Royal Academy of Engineering Senior Research Fellow in Embedded Music Computing</strong></a><br>Dr Andrew McPherson (PI)<br>RAEng Senior Research Fellowship, £208,776, 2021-2026
+<p><a href="https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards"><strong>Bela / Royal Academy of Engineering Senior Research Fellow in Embedded Music Computing</strong></a><br>Dr Andrew McPherson (PI)<br>RAEng Senior Research Fellowship, £208,776, 2021-2026.
 
-<p><a href="https://gtr.ukri.org/projects?ref=MR%2FT040580%2F1"><strong>Designing new musical technologies for older adults' wellbeing</strong></a><br>Dr Jennifer MacRitchie (PI, Sheffield), Dr Andrew McPherson (CI), and 2 others<br>UKRI Future Leaders Fellowship, £946,672 (total), £24,879 (QMUL), 2021-2025
+<p><a href="https://gtr.ukri.org/projects?ref=MR%2FT040580%2F1"><strong>Designing new musical technologies for older adults' wellbeing</strong></a><br>Dr Jennifer MacRitchie (PI, Sheffield), Dr Andrew McPherson (CI), and 2 others<br>UKRI Future Leaders Fellowship, £946,672 (total), £24,879 (QMUL), 2021-2025.
 
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Smart Channel Strip using Neural Audio Processing</strong></a><br>Dr George Fazekas (PI)<br>
 AIM CDT PhD studentship, £109,649 (contribution from Steinberg Media Technologies GmbH), 2021-2025.</p>
