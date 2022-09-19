@@ -22,7 +22,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>UKRI Future Leaders Fellowships</b>
 <br>Supporting early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments.
-<br>Deadline: currently closed
+<br>Deadline: October 2022
 <br>More details: [https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/)
 
 <b>EPSRC Postdoctoral Fellowships</b>
@@ -47,7 +47,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Royal Society University Research Fellowships</b>
 <br>The University Research Fellowships scheme aims to provide outstanding scientists, who should have the potential to become leaders in their chosen field, with the opportunity to build an independent research career.
-<br>Deadline: September 2022
+<br>Deadline: currently closed
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/university-research/](https://royalsociety.org/grants-schemes-awards/grants/university-research/)
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
@@ -57,7 +57,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
 <br>For women from developing and emerging economies who are preparing for PhD or post-doctoral study in the physical sciences, engineering and technology at leading universities abroad.
-<br>Deadline: currently closed for applications
+<br>Deadline: November 2022
 <br>More details: [https://www.fftf.slb.com/](https://www.fftf.slb.com/)
 
 <b>Daphne Jackson Trust Fellowships</b>
@@ -67,7 +67,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b> Marie Skłodowska-Curie Actions - Postdoctoral Fellowships</b>
 <br>A EU Horizon Europe scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
-<br>Deadline: next call will open in Spring 2022
+<br>Deadline: next call will open in April 2023
 <br>More details: [https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
 
 <b>Newton International Fellowships</b>
@@ -77,7 +77,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Leverhulme Trust Early Career Fellowships</b>
 <br>Offering fifty per cent match-funding for the salary costs of three-year academic research position, the scheme enables early career researchers to undertake a significant piece of publishable work.
-<br>Deadline: currently closed for applications
+<br>Deadline: February 2023
 <br>More details: [https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships](https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships)
 
 <b>Dorothy Hodgkin Fellowship</b>
