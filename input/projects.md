@@ -6,9 +6,19 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards"><strong>Bela / Royal Academy of Engineering Senior Research Fellow in Embedded Music Computing</strong></a><br>Dr Andrew McPherson (PI)<br>RAEng Senior Research Fellowship, £208,776, 2021-2026
+<p><a href="https://gtr.ukri.org/projects?ref=EP%2FX023478%2F1"><strong>RUDIMENTS: Reflective Understanding of Digital Instruments as Musical Entanglements</strong></a><br>Prof Andrew McPherson (PI)<br>ERC Consolidator Grant / UKRI Research Grant EP/X023478/1, £1,723,185, 2022-2027.
 
-<p><a href="https://gtr.ukri.org/projects?ref=MR%2FT040580%2F1"><strong>Designing new musical technologies for older adults' wellbeing</strong></a><br>Dr Jennifer MacRitchie (PI, Sheffield), Dr Andrew McPherson (CI), and 2 others<br>UKRI Future Leaders Fellowship, £946,672 (total), £24,879 (QMUL), 2021-2025
+<p><a href="https://gtr.ukri.org/projects?ref=EP%2FV519935%2F1"><strong>Centre for Doctoral Training (CDT) in Data Centric Engineering</strong></a><br>Prof Eram Rizvi (PI), Prof Mark Sandler (CI), Prof Nick Bryan-Kinns (CI)<br>EPSRC Training Grant EP/V519935/1, £1,629,373, 2020-2028.
+
+<p><strong><a href="https://gtr.ukri.org/projects?ref=AH%2FW010429%2F1">Music and Disability: Deconstructing the barriers to full participation</a></strong><br />Dr Victoria Kinsella (PI, BCU), Prof Andrew McPherson (CI, QMUL), <br />AHRC Grant AH/W010429/1, £29,812, 2022–2024.</p>
+
+<p><strong><a href="https://gtr.ukri.org/projects?ref=AH%2FV011340%2F1">Bridging the Gap - visually impaired and sighted music producers working side by side</a></strong><br />Prof Franziska Schroeder (PI, QUB), Prof Andrew McPherson (CI, QMUL), <br />AHRC Grant AH/V011340/1, £576,879, 2021–2024.</p>
+
+<p><strong><a href="https://huawei.eu/">Deep learning technologies for multi-instrument automatic music transcription</a></strong><br />Dr Emmanouil Benetos (PI), Prof Simon Dixon (CI), <br />Huawei Technologies Düsseldorf, £252,000, 2022–2023.</p>
+
+<p><a href="https://www.raeng.org.uk/grants-prizes/grants/support-for-research/research-chairs/current-and-recent-awards"><strong>Bela / Royal Academy of Engineering Senior Research Fellow in Embedded Music Computing</strong></a><br>Dr Andrew McPherson (PI)<br>RAEng Senior Research Fellowship, £208,776, 2021-2026.
+
+<p><a href="https://gtr.ukri.org/projects?ref=MR%2FT040580%2F1"><strong>Designing new musical technologies for older adults' wellbeing</strong></a><br>Dr Jennifer MacRitchie (PI, Sheffield), Dr Andrew McPherson (CI), and 2 others<br>UKRI Future Leaders Fellowship, £946,672 (total), £24,879 (QMUL), 2021-2025.
 
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Smart Channel Strip using Neural Audio Processing</strong></a><br>Dr George Fazekas (PI)<br>
 AIM CDT PhD studentship, £109,649 (contribution from Steinberg Media Technologies GmbH), 2021-2025.</p>
@@ -25,17 +35,8 @@ AIM CDT PhD studentship, £54,000 (contribution from Universal Music Group), 201
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Optical music recognition using deep learning</strong></a><br>Dr George Fazekas (PI)<br>
 AIM CDT PhD studentship, £109,649 (contribution from Steinberg Media Technologies GmbH), 2019-2023.</p>
 
-<p><a href="https://www.qmul.ac.uk/global/global-engagement-strategy/"><strong>Understanding how music empowers sustainable development goals</strong></a><br>Dr George Fazekas (PI)<br>
-QMUL Global Engagement Research Initiation Scheme, £1,000, 2020-21.</p>
-
 <p><a href="https://seeing-music.herokuapp.com/"><strong>Seeing Music: An interactive digital exhibit on sensory variation and the cross-sensory experience of music</strong></a><br>Dr Charalampos Saitis (PI), Dr Christine Cuskley (Newcastle, CI)<br>
 QMUL Centre for Public Engagement Large Grant, £9,783, 2021-2022.</p>
-
-<p><a href="https://www.qmul.ac.uk/publicengagement/"><strong>Timbre-Colour Associations: from Artistic Expression to Listener Perception</strong></a><br>Dr Charalampos Saitis (PI)<br>
-QMUL Centre for Public Engagement Small Grant, £992, 2020-2021.</p>
-
-<p><a href="https://gtr.ukri.org/projects?ref=NE%2FT014342%2F1#/tabOverview"><strong>A Study of Multimodal Guitar Augmentation for Gestural Expressivity</strong></a><br>Dr Andrew McPherson (PI)<br>
-NERC grant NE/T014342/1, £10,997, 2020-2021.</p>
 
 <p><a href="https://gtr.ukri.org/projects?ref=AH%2FV009699%2F1"><strong>New Directions in Digital Jazz Studies: Music Information Retrieval and AI Support for Jazz Scholarship in Digital Archives</strong></a><br>Dr Tillman Weyde (City, PI), Prof Simon Dixon (CI), plus two others<br>
 AHRC grant AH/V009699/1, £50,845 (QMUL), £202,566 (total), 2021-2023.</p>
@@ -46,9 +47,6 @@ CHIST-ERA / EPSRC grant EP/V062107/1, £293,434, 2021-2024.</p>
 <p><a href="https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/"><strong>Unsupervised detection of sound events for complex audio</strong></a><br>Dr Emmanouil Benetos (PI), Dr Yanxiong Li (SCUT, CI)<br>
 Royal Society International Exchanges grant IEC\NSFC\201382, £3,800, 2021-2023.</p>
 
-<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864388/Competition_Results_-_Innovate_UK_Smart_Grants_-_July_2019.pdf"><strong>HookSlam: Making Hits with AI</strong></a><br>Prof Josh Reiss (PI) and Prof Simon Dixon (CI)<br>
-Innovate UK grant 43427, £74,710 (QMUL), 2020-2021.</p>
-
 <p><a href="https://dame.qmul.ac.uk/"><strong>Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME)</strong></a><br>Prof Mark Sandler (PI), Prof Andrea Cavallaro (CI), Prof Pat Healy (CI), Dr Gareth Tyson (CI), and Dr Charalampos Saitis (CI)<br>
 £177,000 (standard stipend) + £27,000 (contribution from BBC), 2021-2024.</p>
 
@@ -56,30 +54,16 @@ Innovate UK grant 43427, £74,710 (QMUL), 2020-2021.</p>
 
 <p><strong><a href="http://eecs.qmul.ac.uk/profiles/saitischaralampos.html">Metaphors we listen with: the neural correlates of timbral brightness investigated by pitch-timbre interference and fMRI</a></strong><br />Dr Charalampos Saitis (PI), Dr Zachary Wallmark (CI, University of Oregon, US)<br />British Academy, BA/Leverhulme Small Research Grants scheme, SRG1920\101673, £10,000, 2020–2022.</p>
 
-<p><a href="https://gtr.ukri.org/projects?ref=30863"><strong>Development of next generation music recognition algorithm for content monitoring</strong></a><br>Prof Simon Dixon (PI), Dr Emmanouil Benetos (CI)<br>
-Innovate UK grant 105516, £148,038 (QMUL), 2019-2021.</p>
-
 <p><a href="https://gtr.ukri.org/projects?ref=studentship-2161145"><strong>Perceptual Aspects of Broadcast Audio Mixing for the Hearing Impaired</strong></a><br>
 Prof Josh Reiss (PI)<br>
 ICASE PhD studentship 2161145, £83,300 (standard stipend) + £27,600 (contribution from BBC), 2019-22</p>
 
-<p><a href="https://gtr.ukri.org/projects?ref=studentship-2123709"><strong>Intelligent Tools for Drum Loop Library Searching</strong></a><br>
-Prof Mark Sandler (PI)<br>
-ICASE PhD studentship 2123709, £83,300 (standard stipend) + £27,600 (contribution from ROLI Ltd), 2017-21</p>
-
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)</strong></a><br>Prof Simon Dixon (PI), Dr Mathieu Barthet (CI), Dr Nick Bryan-Kinns (CI), Dr Gyorgy Fazekas (CI), Prof Mark Sandler (CI), Dr Andrew McPherson (CI), Dr Emmanouil Benetos (CI)<br>
 EPSRC Grant EP/S022694/1, £6,240,207, 2019-2027.</p>
-
-<p><a href="http://www.sfi.ie/"><strong>Data-driven quality prediction for digitally restored audio archives</strong></a><br>Dr Andrew Hines (PI, UCD), Dr Emmanouil Benetos (CI)<br>
-Science Foundation Ireland, Insight-SFI PhD Recruitment Scheme, €166,544, 2018-2021.</p>
 
 <p><a href="http://www.bbc.co.uk/rd"><strong>Music Data Science for Music Recommendation and Discovery</strong></a><br>
 Prof Mark Sandler (PI)<br>
 ICASE PhD studentship, £83,300 (standard stipend) + £27,600 (contribution from BBC R&D), 2018-2022</p>
-
-<p><a href="https://www.bbsrc.ac.uk/documents/2017-awarded-grants-rm2"><strong>Machine Learning for Bird Song Learning</strong></a><br>
-Dr Rob Lachlan (PI), Dr David Clayton (CI), Dr Dan Stowell (CI)<br>
-BBSRC Grant BB/R008736/1, £658,588, 2018-2021</p>
 
 <p><a href="http://mip-frontiers.eecs.qmul.ac.uk/"><strong>New Frontiers in Music Information Processing (MIP-Frontiers)</strong></a><br>
 Prof Simon Dixon (PI, coordinator), Prof Mark Sandler (CI), Dr Emmanouil Benetos (CI), plus 6 other partners<br>
@@ -89,10 +73,35 @@ H2020 Marie Sklodowska-Curie Innovative Training Network, Grant No. 765068, €3
 Dr Nick Bryan-Kinns (PI) and others (McPherson, Barthet, Shoop).<br>
 EPSRC Grant EP/L01632X/1, £3,697,357, 2014-22.</p>
 
-
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="https://gtr.ukri.org/projects?ref=NE%2FT014342%2F1#/tabOverview"><strong>A Study of Multimodal Guitar Augmentation for Gestural Expressivity</strong></a><br>Dr Andrew McPherson (PI)<br>
+NERC grant NE/T014342/1, £10,997, 2020-2021.</p>
+
+<p><a href="https://gtr.ukri.org/projects?ref=studentship-2123709"><strong>Intelligent Tools for Drum Loop Library Searching</strong></a><br>
+Prof Mark Sandler (PI)<br>
+ICASE PhD studentship 2123709, £83,300 (standard stipend) + £27,600 (contribution from ROLI Ltd), 2017-21</p>
+
+<p><a href="https://www.bbsrc.ac.uk/documents/2017-awarded-grants-rm2"><strong>Machine Learning for Bird Song Learning</strong></a><br>
+Dr Rob Lachlan (PI), Dr David Clayton (CI), Dr Dan Stowell (CI)<br>
+BBSRC Grant BB/R008736/1, £658,588, 2018-2021</p>
+
+<p><a href="http://www.sfi.ie/"><strong>Data-driven quality prediction for digitally restored audio archives</strong></a><br>Dr Andrew Hines (PI, UCD), Dr Emmanouil Benetos (CI)<br>
+Science Foundation Ireland, Insight-SFI PhD Recruitment Scheme, €166,544, 2018-2021.</p>
+
+<p><a href="https://gtr.ukri.org/projects?ref=30863"><strong>Development of next generation music recognition algorithm for content monitoring</strong></a><br>Prof Simon Dixon (PI), Dr Emmanouil Benetos (CI)<br>
+Innovate UK grant 105516, £148,038 (QMUL), 2019-2021.</p>
+
+<p><a href="https://www.qmul.ac.uk/publicengagement/"><strong>Timbre-Colour Associations: from Artistic Expression to Listener Perception</strong></a><br>Dr Charalampos Saitis (PI)<br>
+QMUL Centre for Public Engagement Small Grant, £992, 2020-2021.</p>
+
+<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864388/Competition_Results_-_Innovate_UK_Smart_Grants_-_July_2019.pdf"><strong>HookSlam: Making Hits with AI</strong></a><br>Prof Josh Reiss (PI) and Prof Simon Dixon (CI)<br>
+Innovate UK grant 43427, £74,710 (QMUL), 2020-2021.</p>
+
+<p><a href="https://www.qmul.ac.uk/global/global-engagement-strategy/"><strong>Understanding how music empowers sustainable development goals</strong></a><br>Dr George Fazekas (PI)<br>
+QMUL Global Engagement Research Initiation Scheme, £1,000, 2020-21.</p>
 
 <p><a href="https://www.turing.ac.uk/research/research-projects/solar-nowcasting-machine-vision"><strong>Solar nowcasting with machine vision</strong></a><br>Dr Dan Stowell (PI), plus others<br>
 Alan Turing Institute Climate Action Pilot Project, R-SPES-115, £50,000, 2019-2020.</p>

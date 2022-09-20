@@ -1,10 +1,12 @@
+
 {
-"name": "Lewis Wolstanholme", 
-"url": "http://eecs.qmul.ac.uk/profiles/wolstanholmelewisharold.html", 
-"acadposition": "", 
-"blurb": "Real-time instrument transformation and augmentation with deep learning", 
-"themes": [
-"augmi"
-], 
-"role": "phd"
+	"name": "Lewis Wolstanholme",
+	"url": "http://lewiswolstanholme.co.uk",
+	"acadposition": "",
+	"blurb": "Meta-Physical Modelling",
+	"themes": [
+		"sounsynthesis",
+		"augmi"
+	],
+	"role": "phd"
 }

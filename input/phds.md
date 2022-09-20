@@ -5,15 +5,26 @@ This is a list of past PhDs successfully completed in the Centre for Digital Mus
 
 Our [current students are listed here](people.html). Would you like to [study with us](study.html)?
 
+##2022
+
+* Rishi SHUKLA, "Binaural virtual auditory display for music discovery and recommendation" (Supervisors: Mark Sandler and Rebecca Stewart)
+* Angela McARTHUR, "Aesthetic potentials of distance in spatial sound for immersive environments" (Supervisors: Mark Sandler and Rebecca Stewart)
+* Yudong ZHAO, "A Study in Violinist Identification using Short-term Note Features" (Supervisor: Mark Sandler)
+* Emir DEMIREL, "Deep Neural Networks for Automatic Lyrics Transcription" (Supervisor: Simon Dixon)
+* Ruchit AGRAWAL, "[Towards Context-Aware Neural Performance-Score Synchronisation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/79323)" (Supervisor: Simon Dixon)
+* Fred BRUFORD, "Intelligent Tools for Drum Loop Retrieval and Generation" (Supervisor: Mark Sandler)
+
 ##2021
 
+* Hazar TEZ, "[Exploring Collaborative Music Making Through Design Constraints and Collaboration-Driven Digital Music Instruments](https://qmro.qmul.ac.uk/xmlui/handle/123456789/79820)" (Supervisor: Nick Bryan-Kinns)
+* Jack ARMITAGE, "Subtlety and Detail in Digital Musical Instrument Design" (Supervisor: Andrew McPherson)
 * Antonella NONNIS, "Tangible User Interfaces for Socially Engaged and Open-Ended Play Between Autistic Children" (Supervisor: Nick Bryan-Kinns)
-* Changhong WANG, "Scattering transform for playing technique recognition" (Supervisors: Elaine Chew and Emmanouil Benetos)
+* Changhong WANG, "[Scattering transform for playing technique recognition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/76559)" (Supervisors: Elaine Chew and Emmanouil Benetos)
 * Callum GODARD, "Virtuosity in Computationally Creative Musical Performance for Bass Guitar" (Supervisors: Geraint Wiggins and Mathieu Barthet)
 
 ##2020
 
-* Thomas DEACON, "Shaping Sounds in Space: Exploring the Design of Collaborative Virtual Reality Audio Production Tools" (Supervisor: Mathieu Barthet)
+* Thomas DEACON, "[Shaping Sounds in Space: Exploring the Design of Collaborative Virtual Reality Audio Production Tools](https://qmro.qmul.ac.uk/xmlui/handle/123456789/72743)" (Supervisor: Mathieu Barthet)
 * Vanessa POPE, "That's What She Said: A computational approach to analysing structure and timing in stand-up comedy" (Supervisors: Becky Stewart, Elaine Chew, Nick Bryan-Kinns)
 * Ireti OLOWE, "[Bountiful Data: Leveraging Multitrack Audio and Content-based Features for Audiovisual Performance](https://qmro.qmul.ac.uk/xmlui/handle/123456789/71073)" (Supervisors: Mathieu Barthet)
 * Alessia MILO, "[Developing Aural Awareness in Acoustic Design of Everyday Spaces](https://qmro.qmul.ac.uk/xmlui/handle/123456789/68553)" (Supervisor: Josh Reiss)
@@ -38,7 +49,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Beici LIANG, "[Modelling Instrumental Gestures and Techniques: A case study of piano pedalling](https://qmro.qmul.ac.uk/xmlui/handle/123456789/64236)" (Supervisor: Mark Sandler)
 * Veronica MORFI, "[Automatic detection and classification of bird sounds in low-resource wildlife audio datasets](https://qmro.qmul.ac.uk/xmlui/handle/123456789/58446)" (Supervisor: Dan Stowell)
 * Will WILKINSON, "[Gaussian Process Modelling for Audio Signals](https://theses.eurasip.org/theses/838/gaussian-process-modelling-for-audio-signals/)" (Supervisors: Dan Stowell and Josh Reiss)
-* Feng FENG, "The influence of crossmodal Perception and Implicit Memory on Gestural Input Behaviour" (Supervisor: Tony Stockman)
+* Feng FENG, "[Examining the Effect of Crossmodal Perception and Implicit Memory on Gestural Input Behaviour](https://qmro.qmul.ac.uk/xmlui/handle/123456789/72880)" (Supervisor: Tony Stockman)
 * Jiajie DAI, "[Modelling Intonation and Interaction in Vocal Ensembles](http://www.eecs.qmul.ac.uk/~simond/phd/JiajieDai-PhD-Thesis.pdf)" (Supervisor: Simon Dixon)
 * Vincent AKKERMANS, "[A formal descriptive theory of software-based creative practice](https://qmro.qmul.ac.uk/xmlui/handle/123456789/59267)" (Supervisor: Geraint Wiggins)
 

@@ -1,12 +1,10 @@
 {
-"name": "Dalia Senvaityte", 
-"url": "", 
-"acadposition": "", 
-"blurb": "Audio Source Separation for Advanced Digital Audio Effects", 
+"name": "Dalia Senvaityte",
+"url": "http://eecs.qmul.ac.uk/profiles/senvaitytedalia.html",
+"acadposition": "",
+"blurb": "Audio Source Separation for Advanced Digital Audio Effects",
 "themes": [
-"audioeng",
-"mir",
-"mlist"
-], 
+  "mlist"
+],
 "role": "phd"
 }
