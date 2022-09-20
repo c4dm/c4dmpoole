@@ -7,11 +7,12 @@ Our [current students are listed here](people.html). Would you like to [study wi
 
 ##2022
 
-* Angela McARTHUR, "Aesthetic potentials of distance in spatial sound for immersive environments" (Supervisor: Mark Sandler)
+* Rishi SHUKLA, "Binaural virtual auditory display for music discovery and recommendation" (Supervisors: Mark Sandler and Rebecca Stewart)
+* Angela McARTHUR, "Aesthetic potentials of distance in spatial sound for immersive environments" (Supervisors: Mark Sandler and Rebecca Stewart)
 * Yudong ZHAO, "A Study in Violinist Identification using Short-term Note Features" (Supervisor: Mark Sandler)
 * Emir DEMIREL, "Deep Neural Networks for Automatic Lyrics Transcription" (Supervisor: Simon Dixon)
 * Ruchit AGRAWAL, "[Towards Context-Aware Neural Performance-Score Synchronisation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/79323)" (Supervisor: Simon Dixon)
-* Fred BUDFORD, "Intelligent Tools for Drum Loop Retrieval and Generation" (Supervisor: Mark Sandler)
+* Fred BRUFORD, "Intelligent Tools for Drum Loop Retrieval and Generation" (Supervisor: Mark Sandler)
 
 ##2021
 

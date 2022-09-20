@@ -6,7 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
-<p><a href="https://gtr.ukri.org/projects?ref=EP%2FX023478%2F1"><strong>RUDIMENTS: Reflective Understanding of Digital Instruments as Musical Entanglements</strong></a><br>Prof Andrew McPherson (PI)<br>ERC Consolidator Grant / UKRI Research Grant  EP/X023478/1, £1,723,185, 2022-2027.
+<p><a href="https://gtr.ukri.org/projects?ref=EP%2FX023478%2F1"><strong>RUDIMENTS: Reflective Understanding of Digital Instruments as Musical Entanglements</strong></a><br>Prof Andrew McPherson (PI)<br>ERC Consolidator Grant / UKRI Research Grant EP/X023478/1, £1,723,185, 2022-2027.
+
+<p><a href="https://gtr.ukri.org/projects?ref=EP%2FV519935%2F1"><strong>Centre for Doctoral Training (CDT) in Data Centric Engineering</strong></a><br>Prof Eram Rizvi (PI), Prof Mark Sandler (CI), Prof Nick Bryan-Kinns (CI)<br>EPSRC Training Grant EP/V519935/1, £1,629,373, 2020-2028.
 
 <p><strong><a href="https://gtr.ukri.org/projects?ref=AH%2FW010429%2F1">Music and Disability: Deconstructing the barriers to full participation</a></strong><br />Dr Victoria Kinsella (PI, BCU), Prof Andrew McPherson (CI, QMUL), <br />AHRC Grant AH/W010429/1, £29,812, 2022–2024.</p>
 
