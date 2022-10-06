@@ -1,3 +1,6 @@
+### C4DM Seminar: Dr. Vipul Arora
+-----------------
+
 #### QMUL, School of Electronic Engineering and Computer Science
 
 #### Centre for Digital Music Seminar Series
@@ -7,7 +10,9 @@
 
 **Date/time: Wednesday 11th of October, 14:00-15:00**
 
-**Location: Online**
+**Location: Hybrid**
+
+Bancroft Road Teaching Room 4.01 or join [zoom meeting](https://qmul-ac-uk.zoom.us/j/84254407411?pwd=azU2WU1ZWTIvN0pEb3lQZVg2SVNNQT09).
 
 Open to students, staff, alumni, public; all welcome.
 Admission is FREE, no pre-booking required.
