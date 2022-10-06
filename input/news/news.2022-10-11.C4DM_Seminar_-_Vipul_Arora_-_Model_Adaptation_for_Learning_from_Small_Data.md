@@ -12,7 +12,7 @@
 
 **Location: Hybrid**
 
-Mile End Campus, Bancroft Road Teaching Room 4.01 or join [zoom meeting](https://qmul-ac-uk.zoom.us/j/84254407411?pwd=azU2WU1ZWTIvN0pEb3lQZVg2SVNNQT09).
+Bancroft Road Teaching Room 4.01 in the Mile End campus, or join [zoom meeting](https://qmul-ac-uk.zoom.us/j/84254407411?pwd=azU2WU1ZWTIvN0pEb3lQZVg2SVNNQT09).
 
 Open to students, staff, alumni, public; all welcome.
 Admission is FREE, no pre-booking required.
