@@ -43,9 +43,16 @@ def peoplelist(criteria=None):
 
 def publicationslist(year=False):
 	actual_year = datetime.now().year
-	if not year: year = actual_year
-	# NOTE: The current year is static, so this needs to be updated as a new publication
-	#       page is created. Alternatively, do from datetime import date; actual_year = date.today().year
+	if not year:
+		year = actual_year
+		while year > 2000:
+			try:  # find the latest-existent file
+				with open("input/pubs%i_raw.html" % year, "r") as fp:
+					break
+			except:
+				year -= 1
+                print("Auto selected year: %i" % year)
+
 	ret="""<p>Select year: """
 	for future_year in range(actual_year, year, -1): # links to future years
 		ret += " <a href='pubs%i.html'>%i</a>" % (future_year, future_year)

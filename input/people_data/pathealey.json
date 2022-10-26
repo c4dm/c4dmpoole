@@ -1,10 +1,10 @@
 {
 "name": "Prof Pat Healey", 
 "url": "http://www.eecs.qmul.ac.uk/%7Eph/", 
-"acadposition": "Professor of Human Interaction", 
+"acadposition": "Professor of Human Interaction, Turing Fellow", 
 "blurb": "", 
 "themes": [
 "isam"
 ], 
-"role": "acad"
+"role": "acad-associate"
 }

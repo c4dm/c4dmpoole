@@ -1,10 +1,10 @@
 {
 "name": "Dr Dan Stowell", 
-"url": "http://c4dm.eecs.qmul.ac.uk/people/dans.html", 
-"acadposition": "Lecturer", 
+"url": "http://mcld.co.uk/research/", 
+"acadposition": "Visitor", 
 "blurb": "Machine listening, birdsong, bird calls, multi-source, probabilistic models, machine learning, beatboxing", 
 "themes": [
 "mlist"
 ], 
-"role": "acad"
+"role": "visitingacad"
 }
