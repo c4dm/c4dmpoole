@@ -1,7 +1,7 @@
 title: C4DM at DCASE 2022
 ------------------
 
-<p><a href="https://dcase.community/workshop2022/"><img src="/news/images/DCASE2022_logo.png" width="40%" /></a></p>
+<p><a href="https://dcase.community/workshop2022/"><img src="/news/images/DCASE2022_logo.png" width="50%" /></a></p>
 
 On 3-4 November, several C4DM researchers will participate at the <b>[7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)](https://dcase.community/workshop2022/)</b>.  The workshop aims to provide a venue for researchers working on computational analysis of sound events and scene analysis to present and discuss their results, and is organised in conjunction with the [DCASE 2022 Challenge](https://dcase.community/challenge2022/).
 
