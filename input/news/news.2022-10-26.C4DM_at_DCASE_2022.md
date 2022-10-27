@@ -7,9 +7,9 @@ On 3-4 November, several C4DM researchers will participate at the <b>[7th Worksh
 
 As in previous years, the Centre for Digital Music will have a strong presence at the workshop, both in terms of numbers and overall impact. The below papers presented at DCASE 2022 are authored or co-authored by C4DM members:
 
-* [Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks](), by Ren Li, Jinhua Liang, Huy Phan
+* [Few-shot bioacoustic event detection: enhanced classifiers for prototypical networks](https://qmro.qmul.ac.uk/xmlui/handle/123456789/82125), by Ren Li, Jinhua Liang, Huy Phan
 
-* [Leveraging label hierarchies for few-shot everyday sound recognition](), by Jinhua Liang, Huy Phan, Emmanouil Benetos
+* [Leveraging label hierarchies for few-shot everyday sound recognition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/82109), by Jinhua Liang, Huy Phan, Emmanouil Benetos
 
 * [Few-shot bioacoustic event detection at the DCASE 2022 challenge](https://arxiv.org/abs/2207.07911), by Ines Nolasco, Dan Stowell, Vincent Lostanlen, Shubhr Singh, Veronica Morfi, Ari Strandburg-Peshkin, Lisa Gill, Emily Grout, Ester Vidana-Villa, Joe Morford, Michael Emmerson, Frants Jensen, Helen Whitehead, Hanna Pamula, Ivan Kiskin
 
