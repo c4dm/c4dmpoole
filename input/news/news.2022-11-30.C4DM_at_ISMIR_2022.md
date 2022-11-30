@@ -18,6 +18,7 @@ In the <b>Technical Programme</b>, the following papers are authored/co-authored
 * [Emotion-driven Harmonisation And Tempo Arrangement of Melodies Using Transfer Learning](https://ismir2022program.ismir.net/static/final_papers/80.pdf) (Takuya Takahashi, Mathieu Barthet)
 * [DDX7: Differentiable FM Synthesis of Musical Instrument Sounds](https://ismir2022program.ismir.net/static/final_papers/248.pdf) (Franco Caspe, Andrew McPherson, Mark Sandler)
 * [How Music features and Musical Data Representations Affect Objective Evaluation of Music Composition: A Review of CSMT Data Challenge 2020](https://ismir2022program.ismir.net/static/final_papers/90.pdf) (Yuqiang Li, Shengchen Li, George Fazekas)
+* [Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model](https://ismir2022program.ismir.net/static/final_papers/103.pdf) (Yixiao Zhang, Junyan Jiang, Gus Xia, Simon Dixon)
 
 
 On <b>Tutorials</b>, C4DM PhD students Christian Steinmetz, Soumya Vanka, and Gary Bromham, along with C4DM PhD alumnus Marco Martínez, will be giving a [tutorial on "Deep learning for automatic mixing"](https://ismir2022.ismir.net/program/tutorials/).
