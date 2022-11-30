@@ -17,7 +17,7 @@ In the <b>Technical Programme</b>, the following papers are authored/co-authored
 * [Performance MIDI-to-score conversion by neural beat tracking](https://ismir2022program.ismir.net/static/final_papers/335.pdf) (Lele Liu, Qiuqiang Kong, Veronica Morfi, Emmanouil Benetos)
 * [Emotion-driven Harmonisation And Tempo Arrangement of Melodies Using Transfer Learning](https://ismir2022program.ismir.net/static/final_papers/80.pdf) (Takuya Takahashi, Mathieu Barthet)
 * [DDX7: Differentiable FM Synthesis of Musical Instrument Sounds](https://ismir2022program.ismir.net/static/final_papers/248.pdf) (Franco Caspe, Andrew McPherson, Mark Sandler)
-* [How Music features and Musical Data Representations Affect Objective Evaluation of Music Composition: A Review of CSMT Data Challenge 2020](https://ismir2022program.ismir.net/static/final_papers/90.pdf (Yuqiang Li, Shengchen Li, George Fazekas)
+* [How Music features and Musical Data Representations Affect Objective Evaluation of Music Composition: A Review of CSMT Data Challenge 2020](https://ismir2022program.ismir.net/static/final_papers/90.pdf) (Yuqiang Li, Shengchen Li, George Fazekas)
 
 
 On <b>Tutorials</b>, C4DM PhD students Christian Steinmetz, Soumya Vanka, and Gary Bromham, along with C4DM PhD alumnus Marco Martínez, will be giving a [tutorial on "Deep learning for automatic mixing"](https://ismir2022.ismir.net/program/tutorials/).
@@ -26,4 +26,4 @@ On <b>Special Sessions</b>, C4DM MSc by Research student and Spotify Research En
 
 See you at ISMIR!
 
-<i>(30th November 2022)</i>
+<i>(30th November 2022)</i> 
