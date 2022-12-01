@@ -25,6 +25,10 @@ On <b>Tutorials</b>, C4DM PhD students Christian Steinmetz, Soumya Vanka, and Ga
 
 On <b>Special Sessions</b>, C4DM MSc by Research student and Spotify Research Engineer Shahar Elisha will be giving a talk on "Research on the Industrial Lane" as part of the [WiMIR Plenary Session](https://ismir2022.ismir.net/program/special/).
 
+On the <b>Late-breaking/Demo (LBD)</b> session, the following extended abstracts are authored/co-authored by C4DM members:
+
+* [MAP-Music2Vec: A Simple and Effective Baseline for Self-Supervised Music Audio Representation Learning]() (Yizhi Li, Ruibin Yuan, Ge Zhang, Yinghao Ma, Chenghua Lin, Xingran Chen, Anton Ragni, Hanzhi Yin, Zhijie Hu, Haoyu He,  Emmanouil Benetos, Norbert Gyenge, Ruibo Liu, Jie Fu)
+
 See you at ISMIR!
 
 <i>(30th November 2022)</i> 
