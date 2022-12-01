@@ -14,11 +14,11 @@ In the <b>Technical Programme</b>, the following papers are authored/co-authored
 * [ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performance](https://archives.ismir.net/ismir2022/paper/000053.pdf) (Huan Zhang, Jingjing Tang, Syed Rafee, Simon Dixon, György Fazekas)
 * ["More than words": Linking Music Preferences and Moral Values through Lyrics](https://archives.ismir.net/ismir2022/paper/000096.pdf) (Vjosa Preniqi, Kyriaki Kalimeri, Charalampos Saitis)
 * [EnsembleSet: a new high quality synthesised dataset for chamber ensemble separation](https://archives.ismir.net/ismir2022/paper/000075.pdf) (Saurjya Sarkar, Emmanouil Benetos, Mark Sandler)
-* [Performance MIDI-to-score conversion by neural beat tracking](https://archives.ismir.net/ismir2022/paper/000047.pdf) (Lele Liu, Qiuqiang Kong, Veronica Morfi, Emmanouil Benetos)
+* [Performance MIDI-to-score conversion by neural beat tracking](https://archives.ismir.net/ismir2022/paper/000047.pdf) (Lele Liu, Qiuqiang Kong, Veronica Morfi, Emmanouil Benetos) <b>Best paper award nominee</b>
 * [Emotion-driven Harmonisation And Tempo Arrangement of Melodies Using Transfer Learning](https://archives.ismir.net/ismir2022/paper/000089.pdf) (Takuya Takahashi, Mathieu Barthet)
 * [DDX7: Differentiable FM Synthesis of Musical Instrument Sounds](https://archives.ismir.net/ismir2022/paper/000073.pdf) (Franco Caspe, Andrew McPherson, Mark Sandler)
 * [How Music features and Musical Data Representations Affect Objective Evaluation of Music Composition: A Review of CSMT Data Challenge 2020](https://archives.ismir.net/ismir2022/paper/000010.pdf) (Yuqiang Li, Shengchen Li, George Fazekas)
-* [Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model](https://archives.ismir.net/ismir2022/paper/000001.pdf) (Yixiao Zhang, Junyan Jiang, Gus Xia, Simon Dixon)
+* [Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model](https://archives.ismir.net/ismir2022/paper/000001.pdf) (Yixiao Zhang, Junyan Jiang, Gus Xia, Simon Dixon) <b>Best paper award nominee</b>
 
 
 On <b>Tutorials</b>, C4DM PhD students Christian Steinmetz, Soumya Vanka, and Gary Bromham, along with C4DM PhD alumnus Marco Martínez, will be giving a [tutorial on "Deep learning for automatic mixing"](https://ismir2022.ismir.net/program/tutorials/).
