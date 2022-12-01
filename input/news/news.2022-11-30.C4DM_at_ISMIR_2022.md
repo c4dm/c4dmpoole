@@ -23,7 +23,8 @@ In the <b>Technical Programme</b>, the following papers are authored/co-authored
 
 On <b>Tutorials</b>, C4DM PhD students Christian Steinmetz, Soumya Vanka, and Gary Bromham, along with C4DM PhD alumnus Marco Martínez, will be giving a [tutorial on "Deep learning for automatic mixing"](https://ismir2022.ismir.net/program/tutorials/).
 
-On <b>Special Sessions</b>: 
+On <b>Special Sessions</b>:
+
 * C4DM MSc by Research student and Spotify Research Engineer Shahar Elisha will be giving a talk on "Research on the Industrial Lane" as part of the [WiMIR Plenary Session](https://ismir2022.ismir.net/program/special/)
 * C4DM PhD student Lele Liu is joining as panellist the special session on [PhD in MIR: Challenges and Opportunities](https://ismir2022.ismir.net/program/special/).
 
