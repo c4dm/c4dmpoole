@@ -30,8 +30,8 @@ On <b>Special Sessions</b>:
 
 On the <b>Late-breaking/Demo (LBD)</b> session, the following extended abstracts are authored/co-authored by C4DM members:
 
-* [MAP-Music2Vec: A Simple and Effective Baseline for Self-Supervised Music Audio Representation Learning]() (Yizhi Li, Ruibin Yuan, Ge Zhang, Yinghao Ma, Chenghua Lin, Xingran Chen, Anton Ragni, Hanzhi Yin, Zhijie Hu, Haoyu He,  Emmanouil Benetos, Norbert Gyenge, Ruibo Liu, Jie Fu)
-* [Song Describer: a Platform for Collecting Textual Descriptions of Music Recordings]() (Ilaria Manco, Benno Weck, Philip Tovstogan, Minz Won, Dmitry Bogdanov)
+* [MAP-Music2Vec: A Simple and Effective Baseline for Self-Supervised Music Audio Representation Learning](https://ismir2022program.ismir.net/lbd_410.html) (Yizhi Li, Ruibin Yuan, Ge Zhang, Yinghao Ma, Chenghua Lin, Xingran Chen, Anton Ragni, Hanzhi Yin, Zhijie Hu, Haoyu He,  Emmanouil Benetos, Norbert Gyenge, Ruibo Liu, Jie Fu)
+* [Song Describer: a Platform for Collecting Textual Descriptions of Music Recordings](https://ismir2022program.ismir.net/lbd_405.html) (Ilaria Manco, Benno Weck, Philip Tovstogan, Minz Won, Dmitry Bogdanov)
 
 See you at ISMIR!
 
