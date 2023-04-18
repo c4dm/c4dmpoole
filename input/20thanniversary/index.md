@@ -14,27 +14,33 @@ Key Dates
 
 Events
 ------------------
-**Work in Progress** (22nd June)
+**WORK IN PROGRESS:** (21st June)
+
 Our work in progress events aim to give students of the MAT, AIM and SMC programmes an opportunity to present their (unfinished) works and ideas in a laid-back, zero-pressure environment. All students are encouraged present their own work and join in, sonically or visually: there will be instruments and a PA setup as well as some projectors, and possibly some a jam sessions happening after the performances. 
 
 Details to follow.
 
 
-**Symposium** (22nd June)
+
+**SYMPOSIUM:** (22nd June)
+
 Talks from C4DM alumni across the years...
-* Mark Plumbley
+
 * Adam Stark
-* Juan Pablo Bello
-* Kurt Jacobson 
-* Di Mainstone
 * Becky Stewart
+* Di Mainstone
+* Juan Pablo Bello
+* Kurt Jacobson
+* Mark Plumbley
 
 Followed by a closing panel on the future of C4DM! Tea and coffee available throughout the day!
 
 
-**Concert** (22nd June)
+
+**CONCERT:** (22nd June)
 
 Details to follow.
+
 
 
 
