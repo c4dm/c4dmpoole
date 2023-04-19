@@ -18,7 +18,7 @@ Events
 
 Our work in progress events aim to give students of the MAT, AIM and SMC programmes an opportunity to present their (unfinished) works and ideas in a laid-back, zero-pressure environment. All students are encouraged present their own work and join in, sonically or visually: there will be instruments and a PA setup as well as some projectors, and possibly some a jam sessions happening after the performances. 
 
-Details to follow.\
+Details to follow.
 
 
 
@@ -33,13 +33,13 @@ Talks from C4DM alumni across the years...
 * Kurt Jacobson
 * Mark Plumbley
 
-Followed by a closing panel on the future of C4DM! Tea and coffee available at key points i.e arrival, lunch and then possibly an afternoon break.\
+Followed by a closing panel on the future of C4DM! Tea and coffee available at key points i.e arrival, lunch and then possibly an afternoon break.
 
 
 
 **CONCERT:** (22nd June)
 
-Details to follow.\
+Details to follow.
 
 
 
