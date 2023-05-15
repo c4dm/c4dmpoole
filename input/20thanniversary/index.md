@@ -6,6 +6,8 @@ About
 -------
 It's the C4DM's 20th anniversary! You are invited to celebrate the achievements and contributions of the centre to the field of digital music! To mark the occasion, we are planning multiple party events including a work in progress, symposium and an evening concert. Events will also feature food and drink, with different types available throughout the day!
 
+REGISTRATION: https://www.eventbrite.co.uk/e/c4dm-20th-anniversary-celebrations-tickets-621612257997
+
   
 
 Key Dates 
@@ -47,7 +49,16 @@ Details to follow.
 
 **CONCERT:** (22nd June)
 
-Details to follow.
+A night of diverse musical and innovation!
+
+7pm - 10pm Foyer of the Graduate Centre, QMUL
+
+FREE ENTRY, but registration required.
+
+Celebrate 20 years of C4DM with a night of music from around the world! From traditional and folk music to AI-generated compositions, there's likely to be something for everyone at this one-of-a-kind event. Join us for a night of musical exploration and discovery!
+
+The jam will run from 9pm to 10pm and is open to all attendees. Standard live music gear will be provided, but attendees are welcome to bring their own instruments.
+
 
   
 
