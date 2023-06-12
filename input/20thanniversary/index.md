@@ -9,7 +9,6 @@ It's the C4DM's 20th anniversary! You are invited to celebrate the achievements 
 
 Register for the Symposium & Concert here: [https://www.eventbrite.co.uk/e/c4dm-20th-anniversary-celebrations-tickets-621612257997](https://www.eventbrite.co.uk/e/c4dm-20th-anniversary-celebrations-tickets-621612257997)
 
- **Thursday 22nd June 2023**
 
   
 Fun Table Tennis Event with Pongathon (21st June)
