@@ -8,24 +8,13 @@ It's the C4DM's 20th anniversary! You are invited to celebrate the achievements 
 
 REGISTRATION: https://www.eventbrite.co.uk/e/c4dm-20th-anniversary-celebrations-tickets-621612257997
 
-  
-
-Key Dates 
--------
-21st to 22nd of June
+ **Thursday 22nd June 2023**
 
   
 
 
 Events
 ------------------
-**WORK IN PROGRESS:** (21st June)
-
-Our work in progress events aim to give students of the MAT, AIM and SMC programmes an opportunity to present their (unfinished) works and ideas in a laid-back, zero-pressure environment. All students are encouraged present their own work and join in, sonically or visually: there will be instruments and a PA setup as well as some projectors, and possibly some a jam sessions happening after the performances. 
-
-Details to follow.
-
-  
 
 **SYMPOSIUM:** (22nd June)
 
