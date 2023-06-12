@@ -4,7 +4,7 @@ title: C4DM 20th Anniversary Celebration
 
 About
 -------
-It's the C4DM's 20th anniversary! You are invited to celebrate the achievements and contributions of the centre to the field of digital music! To mark the occasion, we are planning multiple party events including a work in progress, symposium and an evening concert. Events will also feature food and drink, with different types available throughout the day!
+It's the C4DM's 20th anniversary! You are invited to celebrate the achievements and contributions of the centre to the field of digital music! To mark the occasion, we are planning multiple party events including i) a symposium and ii) an evening concert. Events will also feature food and drink, with different types available throughout the day!
 
 REGISTRATION: [https://www.eventbrite.co.uk/e/c4dm-20th-anniversary-celebrations-tickets-621612257997](https://www.eventbrite.co.uk/e/c4dm-20th-anniversary-celebrations-tickets-621612257997)
 
