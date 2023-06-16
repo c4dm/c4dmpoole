@@ -10,6 +10,9 @@ Current Research Funding
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Emotion-driven audio-visual game design using AI</strong></a><br>Dr Mathieu Barthet (PI)<br>
 AIM CDT PhD studentship, £33,500 (contribution from Ovomind SA), 2020-2025.</p>
 
+<p><a href="https://www.ableton.com/en/"><strong>Investigating mental models of DAW software use by visually-impaired musicians</strong></a><br>Prof Andrew McPherson (PI)<br>
+Ableton AG, £97,000, 2022-2023.</p>
+
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Expressive Performance Rendering for Music Generation Systems</strong></a><br>Prof Simon Dixon (PI)<br>
 AIM CDT PhD studentship, £140,000 (contribution from DAACI Ltd), 2022-2026.</p>
 
@@ -69,6 +72,9 @@ EPSRC Grant EP/L01632X/1, £3,697,357, 2014-23.</p>
 <br>
 
 <h2>Recent Research Funding</h2>
+
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>Towards complete music transcription: converting performance MIDI to quantized MIDI</strong></a><br>Dr Emmanouil Benetos (PI)<br>
+AIM CDT PhD internship, £8,125 (contribution from Bytedance UK), 2022.</p>
 
 <p><a href="https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/"><strong>Unsupervised detection of sound events for complex audio</strong></a><br>Dr Emmanouil Benetos (PI), Dr Yanxiong Li (SCUT, CI)<br>
 Royal Society International Exchanges grant IEC\NSFC\201382, £3,800, 2021-2023.</p>
