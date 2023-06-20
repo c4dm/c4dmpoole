@@ -37,7 +37,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Jack ARMITAGE, "[Subtlety and Detail in Digital Musical Instrument Design](https://qmro.qmul.ac.uk/xmlui/handle/123456789/79852)" (Supervisor: Andrew McPherson)
 * Antonella NONNIS, "[Playful E-textile Sonic Interaction for Socially Engaged and Open-Ended Play Between Autistic Children](https://qmro.qmul.ac.uk/xmlui/handle/123456789/83072)" (Supervisor: Nick Bryan-Kinns)
 * Changhong WANG, "[Scattering transform for playing technique recognition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/76559)" (Supervisors: Elaine Chew and Emmanouil Benetos)
-* Callum GODARD, "Virtuosity in Computationally Creative Musical Performance for Bass Guitar" (Supervisors: Geraint Wiggins and Mathieu Barthet)
+* Callum GODARD, "[Virtuosity in Computationally Creative Musical Performance for Bass Guitar](https://qmro.qmul.ac.uk/xmlui/handle/123456789/89059)" (Supervisors: Geraint Wiggins and Mathieu Barthet)
 
 ##2020
 
