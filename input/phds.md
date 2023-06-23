@@ -23,7 +23,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Alejandro Delgado Luezas, "Data-Driven Query by Vocal Percussion" (Supervisor: Mark Sandler) 
 * An LIANG, "[Design of an E-Textile Sensing System for Dance Applications](https://qmro.qmul.ac.uk/xmlui/handle/123456789/86118)" (Supervisors: Becky Stewart, Nick Bryan-Kinns)
 * Rémi DE FLEURIAN, "[Modelling chills in music](https://qmro.qmul.ac.uk/xmlui/handle/123456789/80798)" (Supervisor: Marcus Pearce)
-* Antonio DANIELE
+* Antonio DANIELE, "The Problem of Expression in Generative and Human Drawing Agents" (Supervisor: Nick Bryan-Kinns)
 * Rishi SHUKLA, "[Binaural virtual auditory display for music discovery and recommendation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/85580)" (Supervisors: Mark Sandler and Rebecca Stewart)
 * Angela McARTHUR, "[Aesthetic potentials of distance in spatial sound for immersive environments](https://qmro.qmul.ac.uk/xmlui/handle/123456789/84575)" (Supervisors: Mark Sandler and Rebecca Stewart)
 * Yudong ZHAO, "[A Study in Violinist Identification using Short-term Note Features](https://qmro.qmul.ac.uk/xmlui/handle/123456789/82067)" (Supervisor: Mark Sandler)
