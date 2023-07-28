@@ -6,6 +6,11 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/leverhulme-trust-research-fellowships"><strong>Resource-efficient machine listening</strong></a><br>Dr Emmanouil Benetos (PI)<br>
+RAEng/Leverhulme Trust Research Fellowship LTRF2223-19-106, £52,455, 2023-2024.</p>
+
+<p><a href="https://enterprisehub.raeng.org.uk/programmes/enterprise-fellowships/awardees"><strong>RoEx</strong></a><br>Dr David Ronan (PI)<br>
+RAEng Enterpise Fellowship EF-2223-16-150, £75,000, 2023-2024.</p>
 
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Emotion-driven audio-visual game design using AI</strong></a><br>Dr Mathieu Barthet (PI)<br>
 AIM CDT PhD studentship, £33,500 (contribution from Ovomind SA), 2020-2025.</p>
