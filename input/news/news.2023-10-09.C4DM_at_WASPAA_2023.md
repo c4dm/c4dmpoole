@@ -20,3 +20,6 @@ In the <b>Demo Session</b>, the following demos will be presented by C4DM member
 * Music Ensemble Separation using Permutation Invariant Training (Saurjya Sarkar, Emmanouil Benetos, Mark B Sandler)
 
 See you at WASPAA!
+
+
+(<i>9 Oct 2023</i>)
