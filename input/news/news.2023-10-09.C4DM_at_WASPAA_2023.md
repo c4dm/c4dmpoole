@@ -4,11 +4,11 @@ title: C4DM at WASPAA 2023
 
 <p><img src="https://waspaa.com/wordpress/wp-content/uploads/2023/02/SPA_SummerHouse_Drone_w_MountainHouse_0789-scaled-copy-2-1.jpeg" width="40%" /></p>
 
-On 22-25 October, several C4DM researchers will participate at the <b>[2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics](http://www.waspaa.com/)</b>, taking place in New Paltz, USA. WASPAA is a premier event in the field of audio signal processing, organised by the IEEE's Audio and Acoustic Signal Processing (AASP) technical committee, with a strong focus on music signal processing and computational sound scene analysis.
+On 22-25 October, several C4DM researchers will participate at the <b>[2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics](http://www.waspaa.com/)</b>, taking place at the Mohonk Mountain House in New Paltz, NY, USA. WASPAA is a premier event in the field of audio signal processing, organised by the IEEE's Audio and Acoustic Signal Processing (AASP) technical committee, with a strong focus on music signal processing and computational sound scene analysis.
 
 The Centre for Digital Music (C4DM), as in previous years, will have a strong presence at WASPAA 2023.
 
-In the <b>Technical Programme</b>, the following papers are authored/coauthored by C4DM members:
+In the <b>Technical Programme</b>, the following papers are authored by C4DM members:
 
 * [Perceptual Musical Similarity Metric Learning with Graph Neural Networks](https://ieeexplore.ieee.org/document/10248151) (Cyrus Vahidi, Shubhr Singh, George Fazekas, Emmanouil Benetos, Dan Stowell, Huy Phan, Mathieu Lagrange) [Postprint](https://qmro.qmul.ac.uk/xmlui/handle/123456789/90297)
 * [Annotating Jazz Recordings using Lead Sheet Alignment with Deep Chroma Features](https://ieeexplore.ieee.org/document/10248107/) (Ivan Shanin, Simon Dixon) [Postprint](https://qmro.qmul.ac.uk/xmlui/handle/123456789/90038)
