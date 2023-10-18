@@ -1,8 +1,7 @@
 title: C4DM PhD students win at the MIDI Innovation Awards
+------------------
 
--------------------
-
-<p><img src="images/Andrea-Max.png" width="40%" /></p>
+<p><img src="news/images/Andrea-Max.png" width="40%" /></p>
 
 <b>Congratulations to two C4DM PhD students, Andrea Martelloni and Max Graf, who have both won MIDI Innovation Awards 2023 in the hardware prototype and software prototype categories, respectively.</b>
 
