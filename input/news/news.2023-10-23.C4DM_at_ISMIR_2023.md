@@ -8,7 +8,7 @@ On 5-9 November 2023, several C4DM researchers will participate at the <b>[24th 
 
 This year, the Centre for Digital Music is involved in the organisation of the conference, while also having a strong presence at the tutorials and scientific programme of the conference.
 
-In the <b>Technical Programme</b>, the following papers are authored/co-authored by C4DM members:
+In the <b>Scientific Programme</b>, the following papers are authored/co-authored by C4DM members:
 
 * [Real-time Percussive Technique Recognition and Embedding Learning for the Acoustic Guitar](https://qmro.qmul.ac.uk/xmlui/handle/123456789/89568) (Andrea Martelloni, Andrew McPherson, Mathieu Barthet)
 * [Symbolic Music Representations for Classification Tasks: A Systematic Evaluation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/89964) (Huan Zhang, Emmanouil Karystinaios, Simon Dixon, Gerhard Widmer, Carlos Eduardo Cancino-Chacón)
