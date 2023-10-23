@@ -27,7 +27,9 @@ The following <b>Tutorials</b> will be presented by C4DM members:
 * [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](https://ismir2023.ismir.net/tutorials/#3-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models) (Berker Banar, Pedro Sarmento, Sara Adkins)
 * [Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](https://ismir2023.ismir.net/tutorials/#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing) (Cyrus Vahidi, Christopher Mitcheltree, Vincent Lostanlen)
 
-On <b>Satellite Events</b>, C4DM PhD student [Elona Shatri](https://elonashatri.github.io/) is general co-chair for the [5th International Workshop on Reading Music Systems (WoRMS 2023)](https://sites.google.com/view/worms2023/).
+On <b>Satellite Events</b>, C4DM PhD student [Elona Shatri](https://elonashatri.github.io/) is general co-chair for the [5th International Workshop on Reading Music Systems (WoRMS 2023)](https://sites.google.com/view/worms2023/). Additionally, she will showcase two papers she collaborated on with master's students:
+* [Towards Artificially Generated Handwritten Sheet Music Datasets](https://sites.google.com/view/worms2023/program) (Pranjali Hande, Elona Shatri, Benjamin Timms, and George Fazekas)
+* [Improving Sheet Music Recognition using Data Augmentation and Image Enhancement](https://sites.google.com/view/worms2023/program) (Zihui Zhang, Elona Shatri, and George Fazekas)
 
 Finally, the following C4DM members are involved in the <b>Conference Organisation</b>:
 
