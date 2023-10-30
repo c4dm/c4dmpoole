@@ -4,8 +4,8 @@ title: DMRN+18: Digital Music Research Network One-day Workshop 2023
 
 <b>DMRN+18: Digital Music Research Network 1-Day Workshop 2023</b>
 
-<b>Queen Mary University of London</b>
-<b>Tue 19 December 2023</b>
+<b>Queen Mary University of London</b><br>
+<b>Tue 19 December 2023</b><br>
 <b><a href="https://www.qmul.ac.uk/dmrn/dmrn18/">https://www.qmul.ac.uk/dmrn/dmrn18/</a></b>
 
 The Digital Music Research Network (DMRN) aims to promote research in the area of Digital Music, by bringing together researchers from UK and overseas universities and industry for its annual workshop. The workshop will include invited and contributed talks and posters. The workshop will be an ideal opportunity for networking with other people working in the area. 
