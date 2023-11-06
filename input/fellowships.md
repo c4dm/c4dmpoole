@@ -22,12 +22,12 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>UKRI Future Leaders Fellowships</b>
 <br>Supporting early career researchers and innovators with outstanding potential in universities, UK registered businesses, and other research and user environments.
-<br>Deadline: July 2023
+<br>Deadline: currently closed for applications
 <br>More details: [https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/)
 
 <b>EPSRC Postdoctoral Fellowships</b>
 <br>Designed to support early career researchers who hold a PhD or have equivalent research experience, and who have the most potential to deliver the highest quality research.
-<br>Deadline: Apply at any time
+<br>Deadline: currently closed for applications
 <br>More details: [https://www.ukri.org/opportunity/epsrc-responsive-mode-postdoctoral-fellowship/](https://www.ukri.org/opportunity/epsrc-responsive-mode-postdoctoral-fellowship/)
 
 <b>AHRC Research, Development and Engagement Fellowships</b>

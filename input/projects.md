@@ -6,6 +6,9 @@ title: Projects
 Current Research Funding
 -------
 
+<p><a href="https://www.aim.qmul.ac.uk/"><strong>Modeling Jazz Piano</strong></a><br>Prof Simon Dixon (PI)<br>
+AIM CDT PhD studentship, £60,000 (contribution from Yamaha Corporation), 2023-2025.</p>
+
 <p><a href="https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/leverhulme-trust-research-fellowships"><strong>Resource-efficient machine listening</strong></a><br>Dr Emmanouil Benetos (PI)<br>
 RAEng/Leverhulme Trust Research Fellowship LTRF2223-19-106, £52,455, 2023-2024.</p>
 
