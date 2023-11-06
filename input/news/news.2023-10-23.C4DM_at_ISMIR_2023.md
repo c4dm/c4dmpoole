@@ -27,6 +27,12 @@ The following <b>Tutorials</b> will be presented by C4DM members:
 * [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](https://ismir2023.ismir.net/tutorials/#3-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models) (Berker Banar, Pedro Sarmento, Sara Adkins)
 * [Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](https://ismir2023.ismir.net/tutorials/#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing) (Cyrus Vahidi, Christopher Mitcheltree, Vincent Lostanlen)
 
+The following <b>Late-Breaking Demo</b> papers will be presented by C4DM members:
+
+* [Automatic production of acoustic piano transcription data](https://ismir2023program.ismir.net/lbd_321.html) (Andrew Edwards, Simon Dixon, Akira Maezawa)
+* [On the Use of Synthesized Datasets and Transformer Adaptors for Musical Instrument Recognition](https://ismir2023program.ismir.net/lbd_324.html) (Keitaro Tanaka, Yin-Jyun Luo, Kin Wai Cheuk, Kazuyoshi Yoshii, Shigeo Morishima, Simon Dixon)
+* [The VocalNotes Dataset](https://ismir2023program.ismir.net/lbd_354.html) (Polina Proutskova, John M McBride, Yuto Ozaki, Gakuto Chiba, Yukun Li, Yu Zhaoxin, Wei Yue, Miranda Crowdus, Gabriel Zuckerberg, Olga Velichkina, Yulia Nikolaenko, Yannick Wey, Lawrence Shuster, Patrick E. Savage, Elizabeth Phillips, Andrew Killick)
+
 On <b>Satellite Events</b>, C4DM PhD student [Elona Shatri](https://elonashatri.github.io/) is general co-chair for the [5th International Workshop on Reading Music Systems (WoRMS 2023)](https://sites.google.com/view/worms2023/). Additionally, she will showcase two papers she collaborated on with master's students:
 * [Towards Artificially Generated Handwritten Sheet Music Datasets](https://sites.google.com/view/worms2023/program) (Pranjali Hande, Elona Shatri, Benjamin Timms, and George Fazekas)
 * [Improving Sheet Music Recognition using Data Augmentation and Image Enhancement](https://sites.google.com/view/worms2023/program) (Zihui Zhang, Elona Shatri, and George Fazekas)
