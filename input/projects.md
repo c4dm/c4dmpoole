@@ -27,9 +27,6 @@ AIM CDT PhD studentship, £140,000 (contribution from DAACI Ltd), 2022-2026.</p>
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Deep learning for high-fidelity audio and music production</strong></a><br>Prof Josh Reiss (PI)<br>
 AIM CDT PhD internship, £10,540 (contribution from Tape It Music GmbH), 2023.</p>
 
-<p><a href="https://dame.qmul.ac.uk/"><strong>Analysing User Activity for Improving Recommendations in Streaming Platforms</strong></a><br>Dr Charalampos Saitis (PI)<br>
-DAME CDT PhD internship, £9,834 (contribution from BBC), 2023.</p>
-
 <p><a href="https://gtr.ukri.org/projects?ref=EP%2FX023478%2F1"><strong>RUDIMENTS: Reflective Understanding of Digital Instruments as Musical Entanglements</strong></a><br>Prof Andrew McPherson (PI)<br>ERC Consolidator Grant / UKRI Research Grant EP/X023478/1, £1,723,185, 2022-2027.
 
 <p><a href="https://gtr.ukri.org/projects?ref=EP%2FV519935%2F1"><strong>Centre for Doctoral Training (CDT) in Data Centric Engineering</strong></a><br>Prof Eram Rizvi (PI), Prof Mark Sandler (CI), Prof Nick Bryan-Kinns (CI)<br>EPSRC Training Grant EP/V519935/1, £1,629,373, 2020-2028.
@@ -68,8 +65,6 @@ CHIST-ERA / EPSRC grant EP/V062107/1, £293,434, 2021-2024.</p>
 <p><a href="https://dame.qmul.ac.uk/"><strong>Centre for Doctoral Training in Data-informed Audience-centric Media Engineering (DAME)</strong></a><br>Prof Mark Sandler (PI), Prof Andrea Cavallaro (CI), Prof Pat Healy (CI), Dr Gareth Tyson (CI), and Dr Charalampos Saitis (CI)<br>
 £177,000 (standard stipend) + £27,000 (contribution from BBC), 2021-2024.</p>
 
-<p><strong><a href="https://gtr.ukri.org/projects?ref=EP%2FT022205%2F1">JADE: Joint Academic Data science Endeavour - 2</a></strong><br />Wesley Gavin Armour (PI, Oxford), Prof Mark Sandler (CI, QMUL), plus 24 others<br />EPSRC Grant EP/T022205/1, £5,539,933, 2020–2023.</p>
-
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)</strong></a><br>Prof Simon Dixon (PI), Dr Mathieu Barthet (CI), Dr Nick Bryan-Kinns (CI), Dr Gyorgy Fazekas (CI), Prof Mark Sandler (CI), Dr Andrew McPherson (CI), Dr Emmanouil Benetos (CI)<br>
 EPSRC Grant EP/S022694/1, £6,240,207, 2019-2027.</p>
 
@@ -77,9 +72,14 @@ EPSRC Grant EP/S022694/1, £6,240,207, 2019-2027.</p>
 Dr Nick Bryan-Kinns (PI) and others (McPherson, Barthet, Shoop).<br>
 EPSRC Grant EP/L01632X/1, £3,697,357, 2014-23.</p>
 
+<p><strong><a href="https://gtr.ukri.org/projects?ref=EP%2FT022205%2F1">JADE: Joint Academic Data science Endeavour - 2</a></strong><br />Wesley Gavin Armour (PI, Oxford), Prof Mark Sandler (CI, QMUL), plus 24 others<br />EPSRC Grant EP/T022205/1, £5,539,933, 2020–2024.</p>
+
 <br>
 
-<h2>Recent Research Funding</h2>
+<h2>Past Research Funding</h2>
+
+<p><a href="https://dame.qmul.ac.uk/"><strong>Analysing User Activity for Improving Recommendations in Streaming Platforms</strong></a><br>Dr Charalampos Saitis (PI)<br>
+DAME CDT PhD internship, £9,834 (contribution from BBC), 2023.</p>
 
 <p><a href="https://www.aim.qmul.ac.uk/"><strong>Towards complete music transcription: converting performance MIDI to quantized MIDI</strong></a><br>Dr Emmanouil Benetos (PI)<br>
 AIM CDT PhD internship, £8,125 (contribution from Bytedance UK), 2022.</p>
