@@ -37,12 +37,12 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>RAEng Research Fellowships</b>
 <br>The scheme provides funding for five years to encourage the best researchers to remain in the academic engineering sector. Applicants may be about to finish their PhD or have up to four years Post-Doctoral research experience.
-<br>Deadline: September 2023
+<br>Deadline: currently closed for applications
 <br>More details: [https://www.raeng.org.uk/grants-prizes/grants/support-for-research/raeng-research-fellowship](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/raeng-research-fellowship)
 
 <b>EPSRC Open Fellowships</b>
 <br>Support talented and ambitious researchers to deliver research excellence and lead the EPSRC's research base in the evolution of a modern working culture. Our fellowships provide applicants with the flexibility and freedom to design a package that fits their career ambitions, research needs and personal development requirements.
-<br>Deadline: Apply at any time
+<br>Deadline: currently closed for applications
 <br>More details: [https://www.ukri.org/opportunity/epsrc-responsive-mode-open-fellowship/](https://www.ukri.org/opportunity/epsrc-responsive-mode-open-fellowship/)
 
 <b>Royal Society University Research Fellowships</b>
@@ -52,7 +52,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Royal Commission for the Exhibition of 1851 Research Fellowships</b>
 <br>Research Fellowships in Science and Engineering are intended to give early-career scientists or engineers of exceptional promise an opportunity to conduct a research project of their own instigation. The Fellowship is for a maximum of three years, subject to annual renewal.
-<br>Deadline: call opens in October 2023
+<br>Deadline: January 2024
 <br>More details: [https://royalcommission1851.org/fellowships/research-fellowships](https://royalcommission1851.org/fellowships/research-fellowships)
 
 <b>Schlumberger Foundation Faculty for the Future Fellowships</b>
@@ -67,7 +67,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b> Marie Skłodowska-Curie Actions - Postdoctoral Fellowships</b>
 <br>A EU Horizon Europe scheme. Individual Fellowships fund researchers looking to enhance their career development and prospects by moving from one EU Member State or Associated country to another (e.g. the UK). 
-<br>Deadline: September 2023
+<br>Deadline: next call will open April 2024
 <br>More details: [https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
 
 <b>Newton International Fellowships</b>
@@ -77,7 +77,7 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>Leverhulme Trust Early Career Fellowships</b>
 <br>Offering fifty per cent match-funding for the salary costs of three-year academic research position, the scheme enables early career researchers to undertake a significant piece of publishable work.
-<br>Deadline: currently closed for applications
+<br>Deadline: February 2024
 <br>More details: [https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships](https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships)
 
 <b>Dorothy Hodgkin Fellowship</b>
@@ -87,5 +87,5 @@ We can also help people who wish to apply for their own funding via a Research F
 
 <b>APEX Awards</b>
 <br>The APEX award scheme offers established independent researchers, with a strong track record in their respective area, an exciting opportunity to pursue genuine interdisciplinary and curiosity-driven research to benefit wider society.
-<br>Deadline: applications open September 2023
+<br>Deadline: November 2023
 <br>More details: [https://royalsociety.org/grants-schemes-awards/grants/apex-awards/](https://royalsociety.org/grants-schemes-awards/grants/apex-awards/)
