@@ -6,7 +6,7 @@ title: C4DM at NeurIPS 2023
 
 On 10-16 December, several C4DM researchers will participate at the <b>[Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023)](https://nips.cc/Conferences/2023)</b>, taking place in New Orleans, USA. NeurIPS is a world-leading conference in AI, machine learning, and computational neuroscience, attracting more than ten thousand attendees annually.
 
-The Centre for Digital Music (C4DM), as in previous years, will have a strong presence at NeurIPS 2023.
+The Centre for Digital Music (C4DM) will have a strong presence at NeurIPS 2023.
 
 In the <b>Main Conference</b> and specifically its <b>Datasets and Benchmarks track</b>, the following paper is authored by C4DM members:
 
