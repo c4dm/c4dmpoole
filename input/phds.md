@@ -10,7 +10,7 @@ Our [current students are listed here](people.html). Would you like to [study wi
 * Angeliki Mourgela, "Perceptually Motivated, Intelligent Audio Mixing Approaches for Hearing Loss" (Supervisor: Josh Reiss)
 * Arjun Pankajakshan, "Sound Event Detection by Exploring Audio Sequence Modelling" (Supervisor: Emmanouil Benetos)
 * Syed RAFEE, "Unveiling the Art of Piano Performance: A Study of Pianist Identification through Statistical and Hierarchical Models" (Supervisors: George Fazekas, Geraint Wiggins)
-* Carlos LORDELO, "Deep Learning Methods for Instrument Separation and Recognition" (Supervisors: Emmanouil Benetos and Simon Dixon)
+* Carlos LORDELO, "[Deep Learning Methods for Instrument Separation and Recognition](https://qmro.qmul.ac.uk/xmlui/handle/123456789/92140)" (Supervisors: Emmanouil Benetos and Simon Dixon)
 * Edward HALL, "Modelling Perception of Large-Scale Thematic Structure in Music" (Supervisor: Marcus Pearce)
 * Ben WHITE, "Archival Engineering: Computational Art Practice in the Archive" (Supervisor: Mark Sandler)
 * Dalia Senvaityte, "Informed Source Separation for Monotimbral Musical Instruments" (Supervisor: Mark Sandler)
